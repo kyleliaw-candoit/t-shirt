@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : AI Operating System.md
 Owner       : Knowledge Librarian
-Version     : 0.1
+Version     : 0.1 (Living document)
 Status      : Living Document
 Created     : 2026-08-08
 Purpose     : Defines how AI roles collaborate, make decisions, learn, and
