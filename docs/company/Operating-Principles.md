@@ -2,8 +2,8 @@
 title: Operating Principles
 owner: Knowledge Librarian
 status: Active
-version: 0.2
-last_updated: 2026-08-06
+version: 0.3
+last_updated: 2026-08-08
 reviewed_by: CEO
 ---
 
@@ -18,7 +18,6 @@ These principles change rarely.
 Strategy, workflows, AI architecture, experiments, and day-to-day operations should all derive from these principles.
 
 ---
-
 # Principle 1 — We Sell Identity, Not Apparel
 
 Customers do not primarily buy T-shirts.
@@ -32,10 +31,11 @@ Every design should answer:
 The T-shirt is simply the medium.
 
 ---
+# Principle 2 — Organize Around Identities, Research Through Communities
 
-# Principle 2 — Organize Around Communities, Not Products
+> **The unit of commercial opportunity is the identity. The community is one of our best instruments for observing that identity.**
 
-The company should think in terms of communities rather than product categories.
+The company should think in terms of identities people may want to signal rather than product categories.
 
 Examples:
 
@@ -45,13 +45,47 @@ Examples:
 - Software engineers
 - Pickleball players
 
+Communities are especially valuable research environments because they make otherwise difficult-to-observe identity signals visible.
+
+They can reveal:
+
+- identity strength
+- language
+- humor
+- rituals
+- status
+- boundaries
+- behaviors
+- insider references
+- identity-expression patterns
+
+However, a commercially attractive identity does not need to correspond to a highly cohesive or tightly knit social community.
+
+A person may strongly identify with a taste, interest, role, culture, hobby, or affiliation while having little desire to socialize with other people who share that identity.
+
+The relevant commercial reaction may simply be:
+
+> "That's so me."
+
+or:
+
+> "That's hilarious. I need that."
+
+Community cohesion can amplify an identity through shared language, rituals, social reinforcement, cultural learning, and distribution.
+
+But community cohesion is not a prerequisite for strong identity-signaling demand.
+
+Therefore:
+
+> **Do not confuse community cohesion with identity strength or willingness to signal an identity.**
+
 The workflow becomes:
 
-Community
+Identity
 
 ↓
 
-Research
+Community Research and Other Evidence
 
 ↓
 
@@ -82,7 +116,6 @@ Product
 Marketing
 
 ---
-
 # Principle 3 — AI Exists to Strengthen the Business
 
 The company is not trying to build the world's most automated business.
@@ -103,7 +136,6 @@ Customers should never buy because our AI is sophisticated.
 Customers should buy because our products resonate.
 
 ---
-
 # Principle 4 — Optimize for Learning Velocity
 
 The objective is not maximum automation.
@@ -117,7 +149,6 @@ Automation should accelerate learning rather than replace it.
 "Fast enough" is preferred over "fully autonomous."
 
 ---
-
 # Principle 5 — Automate Only After Understanding
 
 The founder should understand a business process before automating it.
@@ -131,7 +162,6 @@ Questions to ask:
 Avoid automating away valuable learning opportunities.
 
 ---
-
 # Principle 6 — Every Experiment Begins With A Hypothesis
 
 The unit of experimentation is not the design.
@@ -149,7 +179,6 @@ Designs test hypotheses.
 As the business matures, hypotheses may become combinations of multiple assumptions rather than isolated ideas.
 
 ---
-
 # Principle 7 — Separate Brand From Creative
 
 Brand and Creative are different responsibilities.
@@ -173,12 +202,11 @@ Creative focuses on:
 Strong products require both.
 
 ---
-
 # Principle 8 — Start Small, Then Scale
 
 The company should begin with:
 
-- one community
+- one identity opportunity
 - one brand
 - one Brand Manager
 - one product workflow
@@ -188,7 +216,6 @@ Expansion should happen only after evidence supports it.
 Avoid solving problems that do not yet exist.
 
 ---
-
 # Principle 9 — Use The Best Tool For Each Job
 
 The company is tool-agnostic.
@@ -198,7 +225,6 @@ ChatGPT, Claude, Gemini, Shopify, Printful, Canva, QuickBooks, or future tools s
 No technology should be chosen because of vendor loyalty.
 
 ---
-
 # Principle 10 — Build Sophistication Only After Earning The Need
 
 Avoid premature optimization.
@@ -221,7 +247,6 @@ Later:
 Complexity should be introduced only when justified by business growth.
 
 ---
-
 # Principle 11 — Knowledge Is A Company Asset
 
 The GitHub repository is the company's institutional memory.
@@ -246,7 +271,6 @@ Superseded ideas should not be deleted.
 They should be marked as superseded with an explanation.
 
 ---
-
 # Principle 12 — Humans Make Strategy
 
 AI advises.
@@ -282,7 +306,6 @@ The Knowledge Librarian is responsible for maintaining documentation.
 The CEO is responsible for approving changes.
 
 ---
-
 # Current Company Stage
 
 Current stage:
@@ -306,7 +329,6 @@ Future stages:
 These stages should evolve naturally as the business matures.
 
 ---
-
 # Living Document
 
 This document is expected to evolve.
@@ -316,3 +338,5 @@ Principles should change only after careful discussion and explicit agreement.
 Operational details belong elsewhere.
 
 This document defines the enduring philosophy of the company.
+
+
