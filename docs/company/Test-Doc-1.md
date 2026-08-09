@@ -5,7 +5,7 @@ title: Operating Principles
 owner: Knowledge Librarian
 status: Active
 version: 0.2
-last_updated: 2026-08-06
+last_updated: 2026-08-06-1
 reviewed_by: CEO
 ---
 
