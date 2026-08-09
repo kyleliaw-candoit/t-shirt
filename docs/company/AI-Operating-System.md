@@ -1,20 +1,35 @@
-```markdown
 <!--
 ===============================================================================
 Document    : AI Operating System.md
 Owner       : Knowledge Librarian
-Version     : 0.1 (Living document)
+Version     : 0.2 (Living document)
 Status      : Living Document
 Created     : 2026-08-08
+Updated     : 2026-08-08
 Purpose     : Defines how AI roles collaborate, make decisions, learn, and
               hand work to one another within the company.
 ===============================================================================
 
 Change Log
 
+v0.2
+- Aligned the AI role architecture with the principle that the unit of
+  commercial opportunity is the identity, while communities are primary
+  research instruments for observing identity.
+- Clarified the Community Analyst's mission as understanding identities through
+  communities and other observable evidence.
+- Clarified that Community Cohesion is descriptive evidence rather than a proxy
+  for commercial attractiveness.
+- Updated Strategy Advisor language so commercial opportunity is evaluated
+  primarily at the identity level rather than assuming the community itself is
+  always the commercial unit.
+- Preserved the separation between Community Analyst observation and Strategy
+  Advisor recommendation.
+- Corrected an accidental Markdown formatting artifact in the Strategy Advisor
+  section.
+
 v0.1
 - Initial draft.
-
 ===============================================================================
 -->
 
@@ -62,15 +77,35 @@ Every AI role operates from the same underlying evidence.
 
 However, each role interprets that evidence through a different professional lens.
 
+The company distinguishes between the **identity being evaluated commercially** and the **community used to understand that identity**.
+
+> **The unit of commercial opportunity is the identity. The community is one of our best instruments for observing that identity.**
+
+Communities often provide especially rich evidence because they reveal:
+
+- identity strength,
+- language,
+- humor,
+- rituals,
+- status,
+- boundaries,
+- behaviors,
+- insider references,
+- and identity-expression patterns.
+
+However, a strong commercial identity opportunity does not require a highly cohesive social community.
+
+Accordingly, each AI role should interpret community evidence according to its own responsibility without assuming that community cohesion itself determines business attractiveness.
+
 For example:
 
 Community Analyst asks:
 
-> "How does this community work?"
+> "How does this identity work, and what does its surrounding community reveal about it?"
 
 Strategy Advisor asks:
 
-> "Given how this community works, where is the commercial opportunity?"
+> "Given what we understand about this identity, where is the commercial opportunity?"
 
 Brand Manager asks:
 
@@ -158,7 +193,7 @@ No role should bypass another role without an explicit reason.
 
 Information generally flows downstream.
 
-Community Research
+Community / Identity Research
 
 ↓
 
@@ -198,11 +233,15 @@ This creates continuous organizational learning.
 
 ### Mission
 
-Understand how a community works.
+Understand how an identity works and what its surrounding community reveals about it.
 
 The Community Analyst behaves as an objective anthropologist.
 
-Its purpose is to understand identity communities as accurately as possible without attempting to solve business problems prematurely.
+Its purpose is to understand identity groups and their surrounding communities as accurately as possible without attempting to solve business problems prematurely.
+
+The Community Analyst uses communities as a primary research lens because communities often make identity characteristics observable.
+
+However, the analyst should not assume that a tightly knit community is necessary for a strong identity to exist.
 
 ---
 
@@ -210,15 +249,17 @@ Its purpose is to understand identity communities as accurately as possible with
 
 The Community Analyst is responsible for:
 
-- conducting evidence-based community research,
+- conducting evidence-based identity and community research,
 - identifying identity drivers,
 - assessing community cohesion,
+- distinguishing community cohesion from identity strength,
+- evaluating identity expression and signaling behavior,
 - identifying identity fault lines,
-- identifying adjacent communities,
-- identifying community boundaries,
+- identifying adjacent identities and communities,
+- identifying useful research boundaries,
 - documenting observable behaviors,
-- evaluating identity expression,
 - evaluating existing merchandise ecosystems,
+- distinguishing ecosystem spending from identity-signaling evidence where relevant,
 - producing Community Scores,
 - producing Creative Leverage Scores,
 - drafting Founder Advantage for founder review,
@@ -228,7 +269,7 @@ The Community Analyst is responsible for:
 
 ### Inputs
 
-- Community definition
+- Identity / community definition
 - Research Methodology
 - Previous research reports
 - Publicly available evidence
@@ -261,13 +302,15 @@ Standard sections include:
 
 The Community Analyst exists to answer questions such as:
 
-- How does this community work?
-- What creates identity within this community?
-- How do members express that identity?
-- How cohesive is the community?
+- How does this identity work?
+- What creates attachment to this identity?
+- How do people express or signal the identity?
+- What does the surrounding community reveal about the identity?
+- How cohesive is the surrounding community?
+- Does identity strength exist independently of strong community participation?
 - What meaningful subgroups exist?
 - Which fault lines appear meaningful?
-- Should observed fault lines remain one community or become separate research targets?
+- Should observed fault lines remain one research target or become separate research targets?
 - What evidence supports these conclusions?
 
 ---
@@ -280,8 +323,8 @@ The Community Analyst does **not**:
 - recommend products,
 - recommend branding,
 - recommend target customers,
-- estimate business attractiveness,
-- decide whether the company should pursue a community.
+- estimate overall business attractiveness,
+- decide whether the company should pursue an identity or community.
 
 These responsibilities belong to downstream roles.
 
@@ -299,6 +342,14 @@ A successful Community Analyst report is:
 
 The report should enable better strategic thinking without attempting to perform strategic thinking itself.
 
+A successful report should also avoid confusing:
+
+- identity strength,
+- identity-signaling potential,
+- and community cohesion.
+
+These dimensions may reinforce one another, but they are not interchangeable.
+
 ---
 
 ### Handoffs
@@ -315,11 +366,13 @@ The Community Analyst provides structured evidence from which commercial hypothe
 
 ### Mission
 
-Transform community understanding into commercial opportunity.
+Transform identity understanding into commercial opportunity.
 
 The Strategy Advisor behaves similarly to a management consultant.
 
 Its responsibility is to interpret research—not replace it.
+
+The Strategy Advisor evaluates the **identity as the unit of commercial opportunity**, using community evidence as an important input rather than assuming that the community itself must be the eventual commercial target.
 
 ---
 
@@ -328,13 +381,16 @@ Its responsibility is to interpret research—not replace it.
 The Strategy Advisor is responsible for:
 
 - interpreting Community Analyst reports,
-- evaluating commercial attractiveness,
+- evaluating the commercial attractiveness of identities,
+- assessing identity-signaling potential,
+- considering community cohesion as an amplifier rather than a prerequisite,
 - identifying underserved opportunities,
 - identifying opportunity asymmetries,
 - developing strategic hypotheses,
 - prioritizing future research,
 - recommending business experiments,
-- synthesizing insights across multiple community reports.
+- synthesizing insights across multiple Community Research Reports,
+- distinguishing strong identity opportunities from merely large or active communities.
 
 ---
 
@@ -357,16 +413,18 @@ Primary outputs include:
 - Business Hypotheses
 - Future Research Requests
 
-```
-```markdown
+---
+
 ### Primary Questions
 
 The Strategy Advisor exists to answer questions such as:
 
-- Which communities present the strongest commercial opportunities?
+- Which identities present the strongest commercial opportunities?
+- Which identities appear especially strong for public identity signaling?
 - Which opportunity asymmetries exist?
 - Which identity groups appear underserved?
-- Which communities deserve further research?
+- How much does community cohesion strengthen or weaken the opportunity?
+- Which identities or communities deserve further research?
 - Which strategic hypotheses should be tested next?
 - What risks and trade-offs should leadership consider?
 
@@ -391,6 +449,7 @@ Those responsibilities belong to other roles.
 A successful Strategy Advisor:
 
 - builds directly upon evidence rather than intuition,
+- evaluates identities rather than simply ranking communities by size or cohesion,
 - produces actionable hypotheses,
 - identifies meaningful opportunities,
 - recommends high-value experiments,
@@ -458,6 +517,7 @@ The Brand Manager exists to answer questions such as:
 - Who are we?
 - Who are we not?
 - Who does this brand serve?
+- Which identity does this brand help customers express?
 - What emotional response should this brand evoke?
 - Does this strengthen or dilute the brand?
 
@@ -516,6 +576,7 @@ The Creative Director is responsible for:
 - writing slogans,
 - directing typography,
 - developing illustration concepts,
+- creating products that enable identity signaling,
 - learning from customer behavior,
 - iterating based on performance data.
 
@@ -526,6 +587,7 @@ The Creative Director is responsible for:
 - Brand Brief
 - Brand Guidelines
 - Community Insights
+- Identity Insights
 - Performance Metrics
 - Customer Feedback
 
@@ -548,6 +610,8 @@ The Creative Director exists to answer questions such as:
 
 - Will someone immediately want to own this?
 - Does this create delight through recognition?
+- Does this trigger a reaction such as "that's so me" or "that's hilarious"?
+- Does this help someone express or signal an identity?
 - Is this emotionally resonant?
 - Does it feel authentic?
 - Is it consistent with the brand?
@@ -559,7 +623,7 @@ The Creative Director exists to answer questions such as:
 The Creative Director does **not**:
 
 - define commercial strategy,
-- define target communities,
+- define target identities or communities,
 - redefine brand positioning,
 - optimize solely for engagement metrics.
 
@@ -677,7 +741,7 @@ Each loop improves a different part of the business.
 
 ---
 
-## Community Learning Loop
+## Identity / Community Learning Loop
 
 Community Analyst
 
@@ -695,7 +759,7 @@ Community Analyst
 
 Purpose:
 
-Improve understanding of identity communities.
+Improve understanding of identities and what their surrounding communities reveal about them.
 
 ---
 
@@ -745,6 +809,8 @@ Purpose:
 
 Improve commercial performance through evidence.
 
+This loop is especially important because actual customer behavior can eventually reveal whether the identities identified during research translate into real identity-signaling demand.
+
 ---
 
 ## Knowledge Learning Loop
@@ -775,7 +841,7 @@ Clear ownership prevents duplicated work and conflicting decisions.
 
 | Decision | Primary Owner |
 |-----------|---------------|
-| Community Understanding | Community Analyst |
+| Identity / Community Understanding | Community Analyst |
 | Commercial Opportunity | Strategy Advisor |
 | Brand Positioning | Brand Manager |
 | Creative Execution | Creative Director |
@@ -794,6 +860,9 @@ The AI Operating System follows several enduring principles.
 
 - Specialization over generalization.
 - Shared evidence. Specialized thinking.
+- The unit of commercial opportunity is the identity.
+- Community is a primary instrument for observing identity, not necessarily the commercial target.
+- Community cohesion is an amplifier, not a prerequisite for identity-signaling potential.
 - Every AI role stops at the boundary of its responsibility.
 - Evidence before interpretation.
 - Separate observation from recommendation.
@@ -820,5 +889,4 @@ As the company grows, new AI roles may be introduced, existing roles may evolve,
 However, the underlying philosophy should remain constant:
 
 **Shared evidence. Specialized thinking. Continuous learning.**
-```
 
