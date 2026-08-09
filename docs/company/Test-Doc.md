@@ -45,6 +45,8 @@ Examples:
 - Software engineers
 - Pickleball players
 
+Communities are useful because they reveal identity strength, language, humor, rituals, status, boundaries, and insider references. The unit of commercial opportunity is the identity. The community is one of our best instruments for observing that identity. Community cohesion can amplify that signal, but it is not a prerequisite for strong identity-signaling demand.
+
 The workflow becomes:
 
 Community
