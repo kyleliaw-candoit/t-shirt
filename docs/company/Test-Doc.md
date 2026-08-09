@@ -1,3 +1,5 @@
+This is a cloned copy of Operating Principles. 
+The purpose of this doc is for testing edits.
 ---
 title: Operating Principles
 owner: Knowledge Librarian
