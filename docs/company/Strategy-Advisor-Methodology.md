@@ -3,7 +3,7 @@ title: Strategy Advisor Methodology
 owner: Knowledge Librarian
 primary_user: Strategy Advisor
 status: Proposed
-version: 0.1
+version: 0.2
 last_updated: 2026-08-10
 reviewed_by: Founder
 ---
@@ -926,6 +926,18 @@ Long or multi-stage Strategy Advisor work must use explicit state checkpoints.
 Never allow a large job to silently hang.
 
 Never declare a pass complete without verifying its expected artifacts.
+
+## Blocker Escalation Rule
+
+If execution encounters a true blocker that prevents the next planned stage from proceeding:
+
+- **If resolution requires founder input, approval, or business judgment, surface the blocker to the founder immediately in chat.**
+- **If the Strategy Advisor can resolve it safely within already-approved authority, resolve it and continue without unnecessary interruption.**
+- Record the blocker and resolution in the durable project checkpoint when useful, but do not rely on GitHub alone to notify the founder of a blocker requiring founder action.
+
+A noteworthy finding that does not prevent progress is not a blocker. Log it and surface it at the next appropriate checkpoint rather than interrupting execution unnecessarily.
+
+---
 
 ## State 0 — Methodology Locked
 
