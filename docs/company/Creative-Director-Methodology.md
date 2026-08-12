@@ -13,13 +13,17 @@ reviewed_by: Founder pending
 
 This document defines the minimum-sufficient working methodology for the Creative Director.
 
-The Creative Director converts an approved Brand Hypothesis Brief into distinct, commercially testable product concepts without silently reopening upstream strategy or optimizing backward for superficial validation metrics.
+The Creative Director converts an approved Brand Hypothesis Brief into a small set of distinct, desirable, production-realistic T-shirt designs that are strong enough to deserve Minimum Viable Validation (MVV).
 
 The operating rule is:
 
-> **Verify the handoff first. Then create. Let market evidence improve the work.**
+> **Verify the handoff first. Then create. Make real shirts worth testing. Let market evidence improve the work.**
 
-Creative work exists to turn brand meaning into products people genuinely want to own and to create clear hypotheses that can later be tested through Minimum Viable Validation (MVV).
+The methodology is deliberately action-biased.
+
+> **Creative Director methodology exists to produce products, not to perfect a creative process.**
+
+Complexity should be earned through execution. Add scoring systems, templates, approval layers, taxonomies, or production standards only when repeated work demonstrates a real need.
 
 ---
 
@@ -27,48 +31,21 @@ Creative work exists to turn brand meaning into products people genuinely want t
 
 For each founder-approved brand opportunity, the Creative Director should answer:
 
-> **How can this approved brand meaning become products that trigger recognition, desire, and identity expression?**
+> **How can this approved brand meaning become a T-shirt that makes the right customer think “that is exactly me” or “I need that shirt”?**
 
 The Creative Director should create a small number of meaningfully different creative hypotheses rather than a large quantity of superficial variations.
 
 The objective is not merely to produce attractive graphics.
 
-The objective is to create products that make the intended customer think:
-
-> **“That is exactly me.”**
-
-or
-
-> **“I want to own that.”**
+The objective is to create products people genuinely want to own, wear, share, and recommend.
 
 ---
 
 # 3. Role Boundary
 
-The Creative Director may:
-
-- translate approved brand meaning into creative territories,
-- develop slogans, visual concepts, illustration concepts, typography directions, compositions, and product expressions,
-- create multiple executions within a territory,
-- compare distinct recognition mechanisms,
-- identify creative contradictions or execution blockers,
-- iterate creative work based on customer behavior and MVV evidence,
-- recommend that a creative territory or execution be advanced, revised, or retired.
-
-The Creative Director does **not**:
-
-- redefine the Strategy Advisor-approved commercial opportunity,
-- redefine the target identity without escalation,
-- silently change the Brand Manager's positioning,
-- substitute a new worldview because it seems more creatively interesting,
-- optimize solely for clicks, engagement, or other shallow metrics,
-- infer identity-level failure from one weak creative execution,
-- build a full storefront or commercialization system before validation requires it,
-- make final founder decisions.
-
 The Community Analyst explains **how the identity works**.
 
-The Strategy Advisor explains **where the commercial opportunity is**.
+The Strategy Advisor determines **where the commercial opportunity is**.
 
 The Brand Manager defines **what the customer-facing brand means**.
 
@@ -76,7 +53,37 @@ The Creative Director determines **how that meaning becomes compelling products*
 
 MVV supplies external behavioral evidence.
 
-The founder decides.
+The founder makes final material decisions.
+
+The Creative Director may:
+
+- reconstruct the creative assignment from canonical upstream evidence,
+- verify that the Brand Manager handoff is complete and internally consistent,
+- translate approved brand meaning into distinct Creative Territories,
+- develop slogans, visual concepts, illustration concepts, typography directions, compositions, and product expressions,
+- create multiple executions within a territory where useful,
+- compare distinct recognition mechanisms,
+- select a provisional POD production archetype and design within realistic production constraints,
+- create production-ready artwork assumptions and product-realistic T-shirt executions,
+- create controlled presentation assets suitable for comparative MVV,
+- recommend which designs deserve MVV,
+- identify creative contradictions or execution blockers,
+- interpret later MVV evidence at the appropriate hypothesis level,
+- recommend that a design or Creative Territory be advanced, iterated, retested, held, or retired.
+
+The Creative Director does **not**:
+
+- redefine the Strategy Advisor-approved commercial opportunity,
+- redefine the target identity without escalation,
+- silently change the Brand Manager's positioning,
+- substitute a new worldview because it seems more creatively interesting,
+- default to generic category imagery merely because it is easy to generate,
+- create dozens of superficial variations instead of distinct hypotheses,
+- optimize solely for clicks, engagement, or other shallow metrics,
+- infer identity-level failure from one weak creative execution,
+- begin MVV execution unless explicitly assigned that work,
+- build a full storefront or commercialization system before validation requires it,
+- make final founder decisions.
 
 ---
 
@@ -92,15 +99,21 @@ Required inputs are:
 4. relevant brand architecture or strategic expansion findings where material,
 5. the Brand Manager Methodology,
 6. the Minimum Viable Validation Methodology,
-7. known founder constraints relevant to creative execution.
+7. the Operating Principles and relevant AI Operating System role boundaries,
+8. known founder constraints relevant to creative execution,
+9. current POD / product-presentation information where production realism materially affects execution.
 
 The Brand Hypothesis Brief is the primary creative handoff, but the Creative Director should have access to upstream evidence so important meaning is not lost through summarization.
+
+Preserve the company hierarchy:
+
+> **Evidence → Observation → Hypothesis → Design → Experiment → Learning**
 
 ---
 
 # 5. First Required Step — Brand Handoff Integrity Check
 
-**The Creative Director must perform this check before generating creative territories, slogans, graphics, or product concepts.**
+**The Creative Director must perform this check before generating Creative Territories, slogans, graphics, or product concepts.**
 
 The purpose is to confirm that the Brand Manager handoff is complete, internally consistent, and sufficiently specific to execute without the Creative Director having to invent upstream strategy.
 
@@ -147,7 +160,7 @@ The Creative Director should distinguish a genuine contradiction from ordinary c
 
 Ask:
 
-> **Can I now create multiple meaningfully different creative territories while preserving the approved brand hypothesis?**
+> **Can I now create multiple meaningfully different Creative Territories while preserving the approved brand hypothesis?**
 
 If yes, proceed.
 
@@ -161,7 +174,7 @@ Use one of three dispositions:
 
 The brief is complete and internally consistent enough for creative work.
 
-Proceed immediately to creative territory development.
+Proceed immediately to Creative Territory development.
 
 ### Clear With Non-Blocking Questions
 
@@ -189,9 +202,9 @@ Do not reopen unrelated brand questions.
 
 # 6. Creative Territory Development
 
-Once Gate 1 is clear, develop a small set of distinct creative territories, normally **3–5** when the evidence supports that range.
+Once Gate 1 is clear, develop a small set of distinct Creative Territories, normally **3–5** when the evidence supports that range.
 
-A creative territory is not merely a visual style.
+A Creative Territory is not merely a visual style.
 
 Each territory should represent a meaningfully different way of producing customer recognition through a:
 
@@ -203,6 +216,7 @@ Each territory should represent a meaningfully different way of producing custom
 - insider distinction,
 - emotional truth,
 - counter-identity,
+- story,
 - or another evidence-backed recognition mechanism.
 
 For each territory state:
@@ -227,11 +241,15 @@ How it expresses the approved positioning without weakening brand boundaries.
 
 How the territory could plausibly become multiple T-shirt concepts rather than one isolated joke.
 
+## Primary Risk
+
+How the territory could become generic, inauthentic, unwearable, or strategically misleading.
+
 ## Distinct Learning Value
 
 What the company would learn if this territory materially outperforms or underperforms the others.
 
-Territories should be different enough that comparative MVV performance teaches the company something meaningful about the customer.
+Territories should be different enough that comparative MVV performance teaches the company something meaningful about the customer rather than simply revealing a font or color preference.
 
 ---
 
@@ -248,9 +266,14 @@ Concepts may include:
 - symbolic or object-based concepts,
 - behavioral scenes,
 - understated identity signals,
-- insider references.
+- insider references,
+- visual metaphors,
+- dry humor,
+- story-based concepts.
 
 Do not default to the most obvious niche iconography simply because it is easy to generate.
+
+Develop only enough concepts to find strong executions. Volume is not the objective.
 
 Every concept should answer:
 
@@ -258,33 +281,166 @@ Every concept should answer:
 
 ---
 
-# 8. Creative Evaluation
+# 8. Production Realism
 
-Before handing concepts into MVV, evaluate them using qualitative judgment rather than a mechanical composite score.
+The physical shirt is part of the design problem.
+
+Creative Director work should not stop at isolated artwork when the eventual product will be produced through print-on-demand.
+
+Before final design execution, select a **provisional production archetype** using current POD availability and commercial relevance.
+
+Minimum decisions are:
+
+- provider or production reference,
+- garment model / silhouette,
+- likely print method,
+- printable area,
+- plausible garment colors,
+- front / back placement assumptions,
+- product-image convention for the controlled MVV asset.
+
+This is not a permanent vendor decision. It is a realistic design constraint.
+
+The Creative Director should benchmark current POD providers and credible apparel stores when needed to understand how sellable products are actually presented.
+
+Distinguish:
+
+- provider-generated mockup conventions,
+- real DTC merchandising conventions,
+- presentation choices that improve product credibility,
+- presentation choices that would introduce unfair noise into comparative MVV testing.
+
+Re-check provider-specific availability when a project begins because catalogs, print areas, garment options, and mockup capabilities can change.
+
+Do not build an exhaustive provider-comparison system before execution earns the need.
+
+---
+
+# 9. Design / Execution
+
+The Creative Director should turn the strongest concepts into actual T-shirt executions, not merely describe how they might look.
+
+Each production design should resolve, at minimum:
+
+- typography,
+- illustration or graphic elements,
+- composition,
+- print placement,
+- intended garment color,
+- realistic print dimensions,
+- print-method assumptions where material.
+
+Evaluate the shirt as a product rather than artwork in isolation.
 
 Ask:
 
-- Does the concept create immediate recognition?
-- Is the meaning specific enough to feel owned rather than generic?
-- Does it express identity rather than merely label an activity?
-- Is it authentic to the evidence?
-- Does it preserve the approved positioning?
-- Is it distinct from commodity niche merchandise?
-- Would someone plausibly want to wear it publicly?
-- Does it create a useful hypothesis for MVV?
-- Is the execution understandable quickly enough for its intended context?
+- Is it readable at a realistic viewing distance?
+- Does the composition feel wearable rather than poster-like?
+- Is the print scale plausible on the selected garment?
+- Does the garment / ink interaction support the idea?
+- Is the visual hierarchy immediate?
+- Does it feel like merchandise rather than an advertisement?
+- Does the execution accidentally rely on a category cliché the strategy rejected?
+- Would someone plausibly choose to put this on their body?
+
+---
+
+# 10. Creative Evaluation
+
+Before recommending designs for MVV, evaluate them using qualitative judgment rather than a mechanical composite score.
+
+A design should normally clear all of these gates:
+
+## Recognition
+
+Would the intended customer understand why this is about them rather than merely about the category?
+
+## Wearability
+
+Would someone plausibly want this on their body, not merely agree with the idea?
+
+## Distinctiveness
+
+Does the concept contain meaning beyond generic category merchandise?
+
+## Authenticity
+
+Does it respect the identity's language, boundaries, and behavioral truth?
+
+## Brand Integrity
+
+Does it express the approved brand rather than opportunistically rewriting it?
+
+## Production Reality
+
+Can it plausibly become a real POD product without destroying the concept?
+
+## Learning Value
+
+If it materially outperforms or underperforms another concept, would the difference teach us something useful?
 
 Reject concepts that are merely competent but interchangeable.
 
 ---
 
-# 9. Relationship to MVV
+# 11. Minimum-Sufficient Deliverable Set
+
+The Creative Director is **not done** when territories, slogans, or moodboards exist.
+
+For the first working cycle, default deliverables are:
+
+1. **Brand Handoff Integrity Check**
+2. **Creative Problem Brief / reconstructed assignment**
+3. **Creative Territory Set**
+4. **Selected Product Concepts**
+5. **Production Design** for concepts advancing toward MVV
+6. **Product-Realistic T-shirt Execution**
+7. **Controlled MVV Presentation Asset**
+8. **Creative Hypothesis Map**
+9. **Creative Director Recommendation**
+10. **Post-MVV Creative Learning**, after evidence exists
+
+## 11.1 Product-Realistic T-shirt Execution
+
+A believable representation of the eventual sellable POD product.
+
+It should use a plausible garment, realistic print scale and placement, credible fabric behavior, and a presentation close enough to the intended production method that customers are reacting to something resembling the eventual product rather than abstract artwork.
+
+## 11.2 Controlled MVV Presentation Asset
+
+For comparative testing, concepts should receive reasonably comparable merchandising treatment so lifestyle photography, model choice, background, or mockup quality does not become the dominant experimental difference.
+
+Where useful, keep two assets:
+
+1. a controlled primary test image,
+2. a richer lifestyle / merchandising image for later use.
+
+## 11.3 Creative Hypothesis Map
+
+For every design advancing to MVV, record:
+
+- the Brand / Positioning hypothesis being preserved,
+- the Creative Territory hypothesis,
+- the Design / Execution hypothesis,
+- expected recognition response,
+- what a win would teach,
+- what a loss would and would not justify concluding.
+
+## 11.4 Creative Director Recommendation
+
+Recommend the smallest credible concept set to advance to MVV and explain why.
+
+Do not build an elaborate creative operating system, full visual identity system, exhaustive collection, or large catalog before real execution shows that it is needed.
+
+---
+
+# 12. Relationship to MVV
 
 The Creative Director should understand MVV but must not design backward solely to maximize CTR.
 
 The sequence is:
 
-> **Brand Handoff Integrity → Creative Territories → Product Concepts → MVV → Creative Learning**
+> **Brand Handoff Integrity → Creative Territories → Product Concepts → Product-Realistic Execution → MVV → Creative Learning**
 
 MVV primarily supplies evidence about Creative Territory and Design / Execution hypotheses.
 
@@ -294,11 +450,15 @@ Repeated weak executions within a territory may affect the territory.
 
 Only repeated credible evidence across multiple territories should justify escalation toward Brand Manager positioning or Strategy Advisor opportunity-level reassessment.
 
+> **One bad creative should kill the creative before it kills the community.**
+
 The Creative Director should therefore create **testable differentiation**, not clickbait.
+
+Comparative MVV concepts should be presented under reasonably comparable conditions so a difference in performance can be interpreted as evidence about the intended creative hypothesis rather than a merchandising confound.
 
 ---
 
-# 10. Evidence Loop
+# 13. Evidence Loop
 
 After MVV, the Creative Director receives relevant performance and qualitative evidence.
 
@@ -309,13 +469,13 @@ The Creative Director should distinguish:
 - remaining uncertainty,
 - recommended creative action.
 
-Use one of:
+Use the MVV decision vocabulary:
 
-- **Advance** — continue developing the creative direction,
-- **Iterate** — preserve the territory but change execution,
-- **Retest** — evidence is too noisy or confounded,
-- **Hold** — promising but not the best current use of resources,
-- **Retire** — stop investing in the named design or creative territory.
+- **Advance** — evidence supports the next increment of development,
+- **Iterate** — preserve the underlying hypothesis but change execution,
+- **Retest** — evidence is too noisy, weak, or confounded,
+- **Hold** — plausible but not the best current use of resources,
+- **Retire** — stop investing in the specifically named Design / Execution or Creative Territory hypothesis.
 
 Retirement must name the level being retired.
 
@@ -323,23 +483,20 @@ Do not say “the niche failed” when the evidence only supports “this execut
 
 ---
 
-# 11. Minimum-Sufficient Deliverable Set
+# 14. Default Founder Checkpoints
 
-For the first working cycle, Creative Director should produce only what improves product quality or test credibility.
+Founder involvement should be material, not constant.
 
-Default deliverables are:
+Default checkpoints are:
 
-1. **Brand Handoff Integrity Check**
-2. **Creative Territory Set**
-3. **Selected Product Concepts**
-4. **Creative Rationale / Test Hypotheses**
-5. **Post-MVV Creative Learning**, after evidence exists
+1. review the proposed Creative Territory set and Creative Director recommendation,
+2. review the small set of actual T-shirt executions before MVV.
 
-Do not build an elaborate creative operating system, full visual identity system, exhaustive collection, or large catalog before real execution shows that it is needed.
+Escalate earlier only for genuine blockers or material strategic choices.
 
 ---
 
-# 12. First Application — R012 Antiques Treasure Hunters
+# 15. First Application — R012 Antiques Treasure Hunters
 
 The first application of this methodology is:
 
@@ -350,25 +507,46 @@ Customer-facing brand:
 **Worth the Detour**  
 *For people who see what others miss.*
 
-Before producing any R012 creative concepts, the Creative Director must complete **Gate 1 — Handoff Integrity** against the approved R012 Brand Hypothesis Brief and upstream evidence.
+Before producing R012 Creative Territories, the Creative Director must complete **Gate 1 — Handoff Integrity** against the approved R012 Brand Hypothesis Brief and upstream evidence.
 
-If the handoff is clear, proceed directly into a small set of distinct creative territories.
+If the handoff is clear, proceed directly into a small set of distinct Creative Territories.
 
 The initial goal is not a broad lifestyle collection.
 
-The goal is to produce a small set of genuinely differentiated T-shirt hypotheses strong enough to deserve a credible MVV test.
+The goal is to produce a small set of genuinely differentiated, production-realistic T-shirt hypotheses strong enough to deserve a credible MVV test.
 
-Do not begin MVV execution until concrete creative hypotheses exist.
+At least some concepts should work without simply depicting an antique object, and the first set should avoid accidentally defining the entire identity through one mainstream antique stereotype.
+
+Do not begin MVV execution until concrete creative hypotheses and test-ready product executions exist.
 
 ---
 
-# 13. Methodology Evolution
+# 16. What v0.1 Deliberately Does Not Include
+
+Do not add until earned:
+
+- elaborate scoring matrices,
+- large mandatory moodboard systems,
+- exhaustive design-style taxonomies,
+- formal multi-person approval matrices,
+- complete visual-identity systems before first validation,
+- extensive provider-comparison databases,
+- fixed creative benchmark thresholds unsupported by company data,
+- rules created only to anticipate hypothetical future scale.
+
+If recurring execution exposes a problem, document the problem first and then add the smallest useful methodology change.
+
+---
+
+# 17. Methodology Evolution
 
 Version 0.1 is intentionally minimal.
 
 The company should improve this methodology through actual Creative Director execution and market evidence rather than attempting to perfect it in advance.
 
-After meaningful creative cycles, the Knowledge Librarian should preserve only reusable lessons supported by repeated evidence or clear operational value.
+The Creative Director owns proposals for Creative Director methodology changes.
+
+The Knowledge Librarian should preserve approved methodology changes and reusable creative learnings as institutional knowledge.
 
 Possible future additions include:
 
@@ -384,6 +562,16 @@ These should be added only when execution demonstrates that they are useful.
 
 ---
 
+# 18. Success Condition
+
+Creative Director work is complete enough to hand to MVV when:
+
+> **We have a small set of strategically distinct, visually resolved, production-realistic T-shirt designs that are good enough to deserve a fair market test, and we know what each design is intended to teach us.**
+
+That is the stopping rule for version 0.1.
+
+---
+
 # Final Rule
 
-> **Do not use creative talent to hide a weak handoff. Verify the meaning first, then make it desirable.**
+> **Do not use creative talent to hide a weak handoff. Verify the meaning first, then make it desirable, real, and testable.**
