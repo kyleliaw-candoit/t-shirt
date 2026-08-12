@@ -2,7 +2,7 @@
 title: Brand Manager Methodology
 owner: Brand Manager
 status: Proposed
-version: 0.1
+version: 0.2
 last_updated: 2026-08-12
 reviewed_by: Founder pending
 ---
@@ -121,6 +121,10 @@ The Brand Hypothesis Brief should contain:
 ## A. Brand Name
 
 A recommended customer-facing name, plus a small number of alternatives only when the decision remains genuinely unresolved.
+
+Before founder approval of a preferred name, check whether the most important corresponding internet domain is available—normally the exact-match `.com` when commercially relevant. If it is unavailable, record the conflict and check only a small number of sensible alternatives, such as a close naming variant or another strategically appropriate TLD, when that information could affect the naming decision.
+
+Domain availability is a naming input, not a reason to run an exhaustive domain search or prematurely build web infrastructure. The goal is to avoid approving a brand name and only later discovering an obvious, avoidable domain problem.
 
 Naming should be treated as a hypothesis, not a reason to delay testing indefinitely.
 
@@ -335,6 +339,19 @@ Can the position generate at least several distinct messaging / product territor
 
 Can this company speak from this position without pretending to possess cultural authority, expertise, or lived identity it does not have?
 
+### Naming / Domain Practicality Check
+
+If a preferred brand name has emerged, verify the most important internet domain before founder approval. Normally this means checking the exact-match `.com` first.
+
+Ask:
+
+- Is the preferred domain available?
+- If not, does the conflict materially weaken the name?
+- Is there one obvious acceptable alternative domain or naming variant?
+- Would changing the name improve the brand enough to justify reopening naming?
+
+Do not turn this into exhaustive domain hunting. Surface a material conflict; otherwise continue.
+
 ### Gate 2 — Differentiation
 
 If Brand Manager cannot identify a credible position beyond generic niche merchandise plus attractive graphics, **do not force the opportunity downstream**.
@@ -431,7 +448,7 @@ If the new direction appears materially stronger, surface it explicitly rather t
 
 Do **not** let naming perfection stop progress.
 
-Use the strongest viable working name for the test unless the name creates legal, cultural, comprehension, or positioning risk.
+Use the strongest viable working name for the test unless the name creates legal, cultural, comprehension, positioning, or material domain-availability risk.
 
 ---
 
