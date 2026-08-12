@@ -3,8 +3,8 @@ title: Strategy Advisor Methodology
 owner: Knowledge Librarian
 primary_user: Strategy Advisor
 status: Proposed
-version: 0.2
-last_updated: 2026-08-10
+version: 0.3
+last_updated: 2026-08-11
 reviewed_by: Founder
 ---
 
@@ -49,8 +49,9 @@ Its final work should answer:
 3. **Why does each opportunity deserve a real market test?**
 4. **In what order should we launch them?**
 5. **Should any opportunities share a coherent brand architecture, or should they remain separate brands?**
-6. **What additional research, if any, could materially change the decision?**
-7. **What should happen next to move each selected opportunity toward a market test?**
+6. **If an entry wedge works, does it open a credible path into a larger coherent brand world?**
+7. **What additional research, if any, could materially change the decision?**
+8. **What should happen next to move each selected opportunity toward a market test?**
 
 The Strategy Advisor may recommend one opportunity when evidence strongly favors it, but the default objective is a small portfolio rather than a single winner.
 
@@ -67,6 +68,7 @@ The Strategy Advisor may:
 - assess competition and marketplace evidence,
 - identify opportunity asymmetries,
 - identify promising subgroups, adjacencies, or counter-positions,
+- identify candidate underlying worldviews and expansion paths,
 - recommend additional research,
 - recommend opportunity priorities,
 - recommend portfolio composition,
@@ -206,6 +208,50 @@ The company should not deliberately choose weak opportunities merely for learnin
 Each selected opportunity must independently clear a basic commercial threshold.
 
 Portfolio diversity is a tiebreaker and learning multiplier, not a substitute for attractiveness.
+
+---
+
+## 4.8 Strategic Expansion Optionality Matters After Viability
+
+A commercially viable entry wedge can be more attractive when success would reveal a coherent path into a larger brand world.
+
+This is **strategic expansion optionality**.
+
+It asks:
+
+> **If this initial wedge works, does it give the company somewhere strategically coherent to go next?**
+
+Expansion optionality is not a seventh Pass 1 score and should not rescue a weak opportunity. The sequence is:
+
+> **First ask whether the wedge deserves a test. Then ask what success could unlock.**
+
+Among opportunities that already clear the threshold for a fair test, prefer those that also have credible strategic expansion optionality when the additional option value is meaningful and does not require weakening the initial proposition.
+
+The Strategy Advisor should examine:
+
+- **Underlying worldview** — the deeper value, behavior, tension, aesthetic, or way of seeing the world expressed through the entry wedge.
+- **Lifestyle adjacency** — other activities, rituals, places, consumption patterns, or identities that plausibly coexist in the same person's life.
+- **Brand-legible adjacency** — whether the same customer would naturally accept those adjacent expressions from one brand.
+- **Entry-wedge strength** — whether the initial identity remains specific, understandable, and commercially testable without requiring customers to understand the broader theory.
+- **Expansion depth** — whether multiple coherent collections, identity expressions, or adjacent categories could follow if the wedge earns traction.
+- **Boundary clarity** — which psychologically related activities should still remain outside the brand because customer overlap, aesthetics, cultural context, or public identity signals differ too much.
+
+The Advisor must distinguish three types of adjacency:
+
+1. **Psychological adjacency** — identities share an underlying mechanism or worldview.
+2. **Lifestyle adjacency** — the activities plausibly coexist in the same person's real life.
+3. **Brand adjacency** — customers would find it credible and natural for one brand to speak to both.
+
+Psychological adjacency alone is insufficient for a master brand.
+
+A cross-identity mechanism such as discovery, care, mastery, or counter-performance may therefore serve both as:
+
+- an **opportunity-generation lens**, and
+- a **candidate underlying brand worldview**.
+
+It should become customer-facing brand architecture only through a sufficiently coherent lifestyle and brand-adjacent cluster.
+
+Expansion remains a hypothesis until market behavior earns it.
 
 ---
 
@@ -594,6 +640,12 @@ Giftability can broaden the commercial audience beyond direct identity holders.
 
 Which other identities naturally coexist in the same person's self-concept because they share worldview, emotional territory, or values — not merely because the activities are superficially related?
 
+For viable opportunities, extend this question into strategic expansion optionality:
+
+- Which adjacencies are merely psychologically similar?
+- Which plausibly coexist in the same person's lifestyle?
+- Which would feel credible under the same customer-facing brand?
+
 ---
 
 # 9. Pass 2 Output — Identity Opportunity Map
@@ -613,7 +665,7 @@ Create a cross-portfolio synthesis identifying:
 
 A cross-identity insight may become more strategically attractive than the original research label.
 
-For example, research on a narrow activity identity may reveal a broader worldview such as non-performance outdoors, anti-hustle participation, care-based identity, or another deeper mechanism.
+For example, research on a narrow activity identity may reveal a broader worldview such as non-performance outdoors, anti-hustle participation, care-based identity, discovery / discernment, or another deeper mechanism.
 
 Such findings may justify focused additional research before launch.
 
@@ -625,13 +677,13 @@ Such findings may justify focused additional research before launch.
 
 Ask:
 
-> **Could multiple identities naturally be served by one coherent brand without feeling forced?**
+> **Could an entry wedge naturally grow into a coherent brand world without feeling forced?**
 
-The default answer should be **no** unless the shared identity can be articulated clearly.
+The default answer should be **no** unless the shared identity can be articulated clearly and the adjacent activities are customer-legible.
 
-The company should not bundle unrelated hobbies under an artificial umbrella.
+The company should not bundle unrelated hobbies under an artificial umbrella merely because Strategy identifies a shared psychological mechanism.
 
-A brand may begin with one narrow wedge and later expand if the underlying identity remains coherent.
+A brand may begin with one narrow wedge and later expand if the underlying worldview, customer lifestyle, and brand expression remain coherent.
 
 ---
 
@@ -651,17 +703,23 @@ The answer cannot merely list activities.
 
 Why would the same person psychologically recognize the brand across multiple identities?
 
-### 3. Customer-Legible Connection
+### 3. Lifestyle Adjacency
+
+Would these activities, rituals, places, or consumption patterns plausibly coexist in the same customer's actual life?
+
+A clever psychological connection is not enough.
+
+### 4. Customer-Legible Brand Connection
 
 Would customers naturally understand why product B came from the same brand as product A?
 
-### 4. Brand Boundary
+### 5. Brand Boundary
 
-Which adjacent identity would **not** belong?
+Which psychologically related identity would **not** belong?
 
 If the boundary cannot be explained, the umbrella is probably too broad.
 
-### 5. Entry Wedge
+### 6. Entry Wedge
 
 Which identity offers the strongest initial combination of:
 
@@ -671,11 +729,17 @@ Which identity offers the strongest initial combination of:
 - commercial validation,
 - testability?
 
-### 6. Credible Expansion Path
+### 7. Credible Expansion Path
 
-What identities, products, or adjacent communities could follow if the entry wedge succeeds?
+What identities, behaviors, products, places, rituals, or adjacent communities could follow if the entry wedge succeeds?
 
 Expansion remains a hypothesis until customer evidence supports it.
+
+### 8. Expansion Failure Test
+
+What evidence would tell us the customer is buying only the narrow activity rather than the deeper worldview?
+
+This prevents the company from assuming a master-brand thesis merely because the entry wedge sells.
 
 ---
 
@@ -683,9 +747,13 @@ Expansion remains a hypothesis until customer evidence supports it.
 
 Pass 3 should not require proving a complete long-term brand architecture before the first sale.
 
-Its practical question is:
+Its practical questions are:
 
 > **Does this initial opportunity have plausible strategic room around it?**
+
+and
+
+> **Can we launch narrowly enough to test the wedge while preserving the option to learn whether the deeper worldview is real?**
 
 A strong standalone identity with uncertain future expansion can still be an excellent market test.
 
@@ -782,6 +850,19 @@ Why the opportunity deserves a real market test.
 
 Where the company should attempt to differentiate.
 
+## Strategic Expansion Optionality
+
+For opportunities that clear viability, state:
+
+- candidate underlying worldview,
+- strongest lifestyle-adjacent territories,
+- customer-legible expansion path,
+- important brand boundaries,
+- whether optionality is High / Medium / Low,
+- what market evidence would be required before expansion.
+
+This assessment should use both researched and clearly labeled unresearched adjacency hypotheses.
+
 ## Brand Architecture Implication
 
 State whether the opportunity should likely:
@@ -812,11 +893,21 @@ Examples:
 
 # 14. Portfolio Selection Criteria
 
-The final 2–3 opportunities should be selected using both:
+The final 2–3 opportunities should be selected using:
 
 ## Individual Commercial Attractiveness
 
 Each opportunity must independently deserve a test.
+
+This remains the threshold requirement.
+
+## Strategic Expansion Optionality
+
+Among opportunities that clear the viability threshold, consider whether success would unlock a larger coherent brand world.
+
+Prefer credible optionality when comparing otherwise strong candidates, but do not choose a materially weaker test merely because its long-term story is elegant.
+
+Expansion optionality should improve the value of success; it must not be used to rationalize weak current demand, weak differentiation, or weak testability.
 
 ## Portfolio Learning Value
 
@@ -824,12 +915,13 @@ Among viable opportunities, consider whether the combined portfolio tests meanin
 
 Do not select three opportunities merely because they have the highest numerical scores.
 
-Do not select a weaker opportunity solely because it is different.
+Do not select a weaker opportunity solely because it is different or theoretically expandable.
 
 The portfolio should balance:
 
 - commercial upside,
 - execution feasibility,
+- strategic expansion optionality,
 - strategic diversity,
 - learning value.
 
@@ -860,6 +952,7 @@ The intended long-term model is:
 After credible market tests:
 
 - increase depth in opportunities showing traction,
+- test whether winning entry wedges support the hypothesized deeper worldview and adjacent brand territory,
 - maintain promising but still uncertain opportunities when warranted,
 - deprioritize or retire opportunities that fail sufficiently credible tests,
 - introduce new untested opportunities into the portfolio,
@@ -869,7 +962,9 @@ The first test should not automatically kill an identity after weak sales if the
 
 Poor creative, insufficient traffic, pricing problems, channel mismatch, or execution failure can produce false negatives.
 
-Future experimentation methodology should define fair survival / kill criteria.
+Likewise, a successful narrow product does not automatically validate the full master-brand expansion thesis.
+
+Future experimentation methodology should define fair survival / kill criteria and, where relevant, adjacency-validation criteria.
 
 The strategic principle remains:
 
@@ -893,27 +988,31 @@ Recommended order and reasoning.
 
 The specific strategic hypothesis behind each selected opportunity.
 
-## 4. Portfolio Logic
+## 4. Strategic Expansion Optionality
 
-Why this combination of opportunities offers both commercial potential and useful learning.
+For each serious candidate, identify the candidate deeper worldview, coherent adjacencies, boundaries, and the option value created if the entry wedge succeeds.
 
-## 5. Brand Architecture Findings
+## 5. Portfolio Logic
+
+Why this combination of opportunities offers commercial potential, strategic option value, and useful learning.
+
+## 6. Brand Architecture Findings
 
 Any credible clusters, entry wedges, or expansion paths discovered across the portfolio.
 
-## 6. Alternatives / Reserve Opportunities
+## 7. Alternatives / Reserve Opportunities
 
 Promising opportunities not selected for the immediate wave.
 
-## 7. Explicit Deprioritizations
+## 8. Explicit Deprioritizations
 
 Important high-scoring or apparently attractive identities deliberately not pursued, with reasons.
 
-## 8. Research Requests
+## 9. Research Requests
 
 Only strategically consequential unanswered questions.
 
-## 9. Next Actions
+## 10. Next Actions
 
 The handoff required to move selected opportunities toward real-world tests.
 
@@ -944,7 +1043,7 @@ A noteworthy finding that does not prevent progress is not a blocker. Log it and
 Done when:
 
 - founder approves the working Strategy Advisor methodology,
-- evaluation template is fixed for v0.1,
+- evaluation template is fixed for the current version,
 - no additional framework design is required before execution.
 
 ---
@@ -953,7 +1052,7 @@ Done when:
 
 Confirm:
 
-- all 20 final Community Research Reports are present,
+- all expected final Community Research Reports are present,
 - Founder Advantage scores are final,
 - reports are readable,
 - no obvious expected artifact is missing.
@@ -968,24 +1067,17 @@ Do not begin full evaluation until count and scope are verified.
 
 Evaluate all identities using the same commercial viability template.
 
-Use small batches rather than one silent 20-report job.
-
-Recommended initial batching:
-
-- Batch A: R001–R005
-- Batch B: R006–R010
-- Batch C: R011–R015
-- Batch D: R016–R020
+Use small batches rather than one silent portfolio job.
 
 After each batch:
 
-- verify all five assessments exist,
+- verify all expected assessments exist,
 - record completion state,
 - surface unexpected findings,
 - identify research-escalation candidates,
 - continue unless a discovery materially undermines the framework.
 
-**Done when:** 20/20 identities have commercial assessments.
+**Done when:** all scoped identities have commercial assessments.
 
 ---
 
@@ -1022,9 +1114,11 @@ Test plausible brand clusters and opportunity architecture.
 
 **Done when each proposed cluster has:**
 
-- deeper shared identity,
+- deeper shared identity or worldview,
 - rationale,
-- customer-legible connection,
+- psychological adjacency assessment,
+- lifestyle adjacency assessment,
+- customer-legible brand connection,
 - boundary,
 - entry wedge,
 - credible expansion path.
@@ -1035,7 +1129,7 @@ Weak or forced clusters should be rejected rather than repaired artificially.
 
 ## State 6 — Opportunity Portfolio Recommendation Complete
 
-Produce the final portfolio-level recommendation.
+Produce the final portfolio-level recommendation, including strategic expansion optionality for serious candidates.
 
 **Done when the founder has enough information to choose and initiate the next wave of commercial experiments.**
 
@@ -1059,7 +1153,7 @@ Recover explicitly from the last verified checkpoint.
 
 # 20. What Not to Build Yet
 
-For v0.1, avoid:
+Avoid:
 
 - elaborate mathematical weighting optimization,
 - TAM models for every identity,
@@ -1069,7 +1163,8 @@ For v0.1, avoid:
 - elaborate brand-portfolio matrices,
 - automated strategy pipelines,
 - dozens of strategic dimensions,
-- revenue forecasts without customer data.
+- revenue forecasts without customer data,
+- speculative multi-year brand architecture built before an entry wedge earns traction.
 
 These may become useful later if repeated execution earns the need.
 
@@ -1103,9 +1198,15 @@ Cross-Identity Synthesis
 
 ↓
 
+Strategic Expansion Optionality
+
+**“If this wedge works, what coherent brand world could it unlock?”**
+
+↓
+
 Brand Architecture Test
 
-**“Can multiple opportunities naturally belong within one identity territory?”**
+**“Which psychologically related identities are also lifestyle-adjacent and customer-legible under one brand?”**
 
 ↓
 
@@ -1139,6 +1240,10 @@ Scale / Maintain / Retire
 
 ↓
 
+Validate or Reject Expansion Hypotheses
+
+↓
+
 Introduce New Opportunities
 
 ↓
@@ -1149,10 +1254,10 @@ Repeat
 
 # 22. Success Criterion
 
-The Strategy Advisor methodology succeeds when it produces a small portfolio of defensible, differentiated commercial hypotheses worth testing — and does so quickly enough that real market behavior remains the primary source of truth.
+The Strategy Advisor methodology succeeds when it produces a small portfolio of defensible, differentiated commercial hypotheses worth testing — while also recognizing when a strong entry wedge could unlock a larger coherent brand world — and does so quickly enough that real market behavior remains the primary source of truth.
 
-It does **not** succeed merely because it produces a sophisticated ranking.
+It does **not** succeed merely because it produces a sophisticated ranking or an elegant long-term brand theory.
 
 The company's operating model is:
 
-> **Research broadly. Test intelligently. Let winners earn depth. Replace losers. Keep learning.**
+> **Research broadly. Test intelligently. Let winners earn depth. Let successful wedges earn expansion. Replace losers. Keep learning.**
