@@ -60,6 +60,16 @@ Expected SHA-256:
 
 A3 repository asset has been verified byte-for-byte against the founder-approved source.
 
+### Concept C2
+
+Canonical path:
+
+`docs/creative/assets/R012/R012-C2-LOCKED.png`
+
+Status: `APPROVED — ARCHIVE PENDING`
+
+The founder-approved source is the centered Option C refined render approved on 2026-08-13. Source SHA-256 and repository byte verification are pending until the exact PNG is archived at the canonical path.
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
