@@ -24,8 +24,18 @@ Expected SHA-256:
 
 `2f71304db29fc974d27ce39506ab50c73e4fd2f96a5fb53f17966d3720c64c7f`
 
+### Concept C1
+
+Canonical path:
+
+`docs/creative/assets/R012/R012-C1-LOCKED.png`
+
+Expected SHA-256:
+
+`2327a60cfafbf0e7bb4ca3c0e294b8fc15103dfbdba74915bb0fda1ef5e5b974`
+
+C1 repository asset has been verified byte-for-byte against the founder-approved source.
+
 ## Merge requirement
 
-Do not merge the archive-completion PR until both PNG files exist at the paths above and their SHA-256 hashes match the expected values.
-
-The local approved source files were re-verified on 2026-08-12 and matched both expected hashes exactly.
+Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.

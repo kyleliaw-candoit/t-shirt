@@ -44,15 +44,13 @@ The visual reference asset is authoritative for composition. If prose in this re
 
 ### Locked visual reference
 
-Intended repository path:
+Repository path:
 
 `docs/creative/assets/R012/R012-B1-LOCKED.png`
 
 SHA-256 of founder-approved source render:
 
 `30f38a01a52f167c8151dbea9bfe44bf0f053a34452958d32dd4b0121b1bece0`
-
-Until the binary is added to the repository, retain the exact file named `R012-B1-LOCKED.png` as the source visual.
 
 ---
 
@@ -82,7 +80,7 @@ Until the binary is added to the repository, retain the exact file named `R012-B
 
 ### Locked visual reference
 
-Intended repository path:
+Repository path:
 
 `docs/creative/assets/R012/R012-B2-LOCKED.png`
 
@@ -90,7 +88,44 @@ SHA-256 of founder-approved source render:
 
 `2f71304db29fc974d27ce39506ab50c73e4fd2f96a5fb53f17966d3720c64c7f`
 
-Until the binary is added to the repository, retain the exact file named `R012-B2-LOCKED.png` as the source visual.
+---
+
+## Concept C1 — The Find Has a Story
+
+**Status:** `LOCKED`
+
+**Working name:** Found Not New
+
+**Creative Territory:** C — The Find Has a Story
+
+**Core recognition:** found objects carry character, history, and discovery value precisely because they are not new; the backstory is part of the appeal.
+
+### Locked visual decisions
+
+- Unisex first-MVV execution; the graphic may lean gracefully feminine without becoming gender-exclusive.
+- Warm off-white / ivory garment remains the controlled MVV garment color.
+- Antique dealer / price tag is the dominant hero object.
+- Tag is elongated, naturally worn, and rendered as an attractive found object rather than generic clip art.
+- Copy: `Found not new. That’s the point.`
+- Copy uses expressive, organic hand-lettering integrated into the tag rather than formal brand-wordmark typography.
+- Delicate botanical engraving is integrated behind and around the tag so the composition reads as one designed object rather than separate decoration.
+- Botanical treatment should evoke ornament and detail often encountered on antique objects, not generic floral merch.
+- Palette is restrained: dark olive/charcoal linework, kraft/tan tag, muted sage botanical detail, and small faded-rust accents.
+- Slight paper wear and patina are acceptable; avoid heavy grunge or faux-vintage overload.
+- Preserve generous negative space and a boutique, wearable T-shirt feel.
+- Front design is the primary MVV execution. Any back-neck brand mark shown in the presentation remains optional and is not required for the controlled first test.
+
+### Locked visual reference
+
+Repository path:
+
+`docs/creative/assets/R012/R012-C1-LOCKED.png`
+
+SHA-256 of founder-approved source image:
+
+`2327a60cfafbf0e7bb4ca3c0e294b8fc15103dfbdba74915bb0fda1ef5e5b974`
+
+Repository asset verified byte-for-byte against the founder-approved source before lock.
 
 ---
 
@@ -112,7 +147,8 @@ Sequence:
 
 1. develop one concept,
 2. founder reviews it,
-3. if approved, mark it `LOCKED` and archive the exact visual,
-4. only then move to another design.
+3. archive and verify the exact approved visual,
+4. mark it `LOCKED`,
+5. only then move to another design.
 
 This prevents later batch edits from accidentally changing already-approved work.
