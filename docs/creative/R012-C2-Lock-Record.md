@@ -1,7 +1,7 @@
 ---
 title: R012 C2 Lock Record
 owner: Creative Director
-status: APPROVED — ARCHIVE PENDING
+status: LOCKED
 last_updated: 2026-08-13
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -13,7 +13,7 @@ brand: Worth the Detour
 
 **Core recognition:** the object's story includes the hunt context itself; the antique-mall booth ticket makes the design more specific to people who browse, hunt, and find in antique malls.
 
-## Founder-approved visual decisions
+## Locked visual decisions
 
 - Unisex first-MVV execution on the controlled warm off-white / ivory garment.
 - Center-chest composition; do not revert to the earlier off-center left-chest placement.
@@ -30,14 +30,20 @@ brand: Worth the Detour
 - Patina belongs to the depicted objects; avoid generic grunge.
 - Front print only for the controlled first-MVV execution.
 
-## Approved visual reference
+## Locked visual reference
 
 Canonical repository path:
 
 `docs/creative/assets/R012/R012-C2-LOCKED.png`
 
-The exact founder-approved source is the centered Option C refined render approved on 2026-08-13.
+SHA-256 of founder-approved source image:
 
-**Archive state:** exact PNG and source SHA-256 pending.
+`ae73d43650bfab43296e0ce7116fee317e3e7ff8e15347a514c7aaaccd35c118`
 
-Per the Creative Director Design Lock Procedure, this concept must remain `APPROVED — ARCHIVE PENDING` until the exact approved PNG exists at the canonical repository path and its fingerprint is verified. After verification, move this record into the canonical locked-design registry and change C2 to `LOCKED`.
+Git blob SHA-1:
+
+`0cedf16edc46d2ac0c3e3a98f06b82867f192d24`
+
+Repository asset verified byte-for-byte against the founder-approved centered Option C refined source before lock.
+
+The canonical locked-design registry is the primary cross-concept lock record; this file preserves the C2-specific approval trail.
