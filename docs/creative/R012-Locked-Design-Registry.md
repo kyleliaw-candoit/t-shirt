@@ -92,7 +92,7 @@ SHA-256 of founder-approved source render:
 
 ## Concept C1 — The Find Has a Story
 
-**Status:** `APPROVED — ARCHIVE PENDING`
+**Status:** `LOCKED`
 
 **Working name:** Found Not New
 
@@ -100,7 +100,7 @@ SHA-256 of founder-approved source render:
 
 **Core recognition:** found objects carry character, history, and discovery value precisely because they are not new; the backstory is part of the appeal.
 
-### Founder-approved visual decisions
+### Locked visual decisions
 
 - Unisex first-MVV execution; the graphic may lean gracefully feminine without becoming gender-exclusive.
 - Warm off-white / ivory garment remains the controlled MVV garment color.
@@ -115,9 +115,9 @@ SHA-256 of founder-approved source render:
 - Preserve generous negative space and a boutique, wearable T-shirt feel.
 - Front design is the primary MVV execution. Any back-neck brand mark shown in the presentation remains optional and is not required for the controlled first test.
 
-### Approved visual reference pending archive
+### Locked visual reference
 
-Canonical repository path:
+Repository path:
 
 `docs/creative/assets/R012/R012-C1-LOCKED.png`
 
@@ -125,7 +125,7 @@ SHA-256 of founder-approved source image:
 
 `2327a60cfafbf0e7bb4ca3c0e294b8fc15103dfbdba74915bb0fda1ef5e5b974`
 
-Per the Creative Director Design Lock Procedure, change status to `LOCKED` only after the exact approved PNG exists at the canonical repository path and its SHA-256 is verified against the value above.
+Repository asset verified byte-for-byte against the founder-approved source before lock.
 
 ---
 
