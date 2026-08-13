@@ -66,9 +66,11 @@ Canonical path:
 
 `docs/creative/assets/R012/R012-C2-LOCKED.png`
 
-Status: `APPROVED — ARCHIVE PENDING`
+Expected SHA-256:
 
-The founder-approved source is the centered Option C refined render approved on 2026-08-13. Source SHA-256 and repository byte verification are pending until the exact PNG is archived at the canonical path.
+`ae73d43650bfab43296e0ce7116fee317e3e7ff8e15347a514c7aaaccd35c118`
+
+C2 repository asset has been verified byte-for-byte against the founder-approved centered Option C refined source.
 
 ## Merge requirement
 
