@@ -46,6 +46,8 @@ Expected SHA-256:
 
 `3cebc54383a7f92250afc6199ce388fa432e92c55a4857d4aa804ff0b928cc3e`
 
+A1 repository asset has been verified byte-for-byte against the founder-approved source.
+
 ### Concept A3
 
 Canonical path:
@@ -56,8 +58,8 @@ Expected SHA-256:
 
 `bfd8f5c3a99cfa2e9ec3ce11c4ccabec9c5ea72d011eb6ebae03da4c0d842bbb`
 
+A3 repository asset has been verified byte-for-byte against the founder-approved source.
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
-
-A1 and A3 remain archive-pending until the exact approved PNGs are uploaded and verified.
