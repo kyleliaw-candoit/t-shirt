@@ -60,6 +60,18 @@ Expected SHA-256:
 
 A3 repository asset has been verified byte-for-byte against the founder-approved source.
 
+### Concept C2
+
+Canonical path:
+
+`docs/creative/assets/R012/R012-C2-LOCKED.png`
+
+Expected SHA-256:
+
+`ae73d43650bfab43296e0ce7116fee317e3e7ff8e15347a514c7aaaccd35c118`
+
+C2 repository asset has been verified byte-for-byte against the founder-approved centered Option C refined source.
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
