@@ -131,7 +131,7 @@ Repository asset verified byte-for-byte against the founder-approved source befo
 
 ## Concept A1 — The Hunter’s Eye
 
-**Status:** `APPROVED — ARCHIVE PENDING`
+**Status:** `LOCKED`
 
 **Working name:** Good Antiques Don’t Shout
 
@@ -139,7 +139,7 @@ Repository asset verified byte-for-byte against the founder-approved source befo
 
 **Core recognition:** experienced treasure hunters notice quiet quality that does not announce itself; discernment is part of the identity.
 
-### Founder-approved visual decisions
+### Locked visual decisions
 
 - Unisex first-MVV execution on the controlled warm off-white / ivory garment.
 - Classic antique wooden chair with muted dark-green upholstery is the hero object and a clear antique cue.
@@ -152,9 +152,9 @@ Repository asset verified byte-for-byte against the founder-approved source befo
 - Illustration should feel detailed enough to reward looking, but still read immediately as an attractive T-shirt graphic rather than a poster.
 - Front print only for the controlled MVV execution; optional back-neck marks shown on presentation boards are not part of the primary test asset.
 
-### Approved visual reference pending archive
+### Locked visual reference
 
-Canonical repository path:
+Repository path:
 
 `docs/creative/assets/R012/R012-A1-LOCKED.png`
 
@@ -162,13 +162,13 @@ SHA-256 of founder-approved source image:
 
 `3cebc54383a7f92250afc6199ce388fa432e92c55a4857d4aa804ff0b928cc3e`
 
-Per the Creative Director Design Lock Procedure, change status to `LOCKED` only after the exact approved PNG exists at the canonical repository path and its hash is verified.
+Repository asset verified byte-for-byte against the founder-approved source before lock.
 
 ---
 
 ## Concept A3 — The Hunter’s Eye
 
-**Status:** `APPROVED — ARCHIVE PENDING`
+**Status:** `LOCKED`
 
 **Working name:** The Good Ones Don’t Shout
 
@@ -176,7 +176,7 @@ Per the Creative Director Design Lock Procedure, change status to `LOCKED` only 
 
 **Core recognition:** the treasure hunter’s eye recognizes understated design quality in pieces that others may overlook.
 
-### Founder-approved visual decisions
+### Locked visual decisions
 
 - Unisex first-MVV execution on the controlled warm off-white / ivory garment.
 - Modest Danish mid-century modern chair is the hero object; avoid iconic showpiece lounge chairs that contradict the “don’t shout” idea.
@@ -189,9 +189,9 @@ Per the Creative Director Design Lock Procedure, change status to `LOCKED` only 
 - Overall feel is understated, refined, and quietly confident rather than design-showoff or luxury-status coded.
 - Front print only for the controlled MVV execution; optional back-neck marks shown on presentation boards are not part of the primary test asset.
 
-### Approved visual reference pending archive
+### Locked visual reference
 
-Canonical repository path:
+Repository path:
 
 `docs/creative/assets/R012/R012-A3-LOCKED.png`
 
@@ -199,7 +199,7 @@ SHA-256 of founder-approved source image:
 
 `bfd8f5c3a99cfa2e9ec3ce11c4ccabec9c5ea72d011eb6ebae03da4c0d842bbb`
 
-Per the Creative Director Design Lock Procedure, change status to `LOCKED` only after the exact approved PNG exists at the canonical repository path and its hash is verified.
+Repository asset verified byte-for-byte against the founder-approved source before lock.
 
 ---
 
