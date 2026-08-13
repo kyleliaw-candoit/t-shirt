@@ -34,8 +34,8 @@ Expected SHA-256:
 
 `2327a60cfafbf0e7bb4ca3c0e294b8fc15103dfbdba74915bb0fda1ef5e5b974`
 
+C1 repository asset has been verified byte-for-byte against the founder-approved source.
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
-
-For C1, the founder-approved source image was fingerprinted on 2026-08-12. The registry should remain `APPROVED — ARCHIVE PENDING` until `R012-C1-LOCKED.png` is uploaded and verified.
