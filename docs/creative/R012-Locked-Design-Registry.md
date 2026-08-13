@@ -2,7 +2,7 @@
 title: R012 Locked Design Registry
 owner: Creative Director
 status: Working Draft — Founder Review
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
 ---
@@ -126,6 +126,80 @@ SHA-256 of founder-approved source image:
 `2327a60cfafbf0e7bb4ca3c0e294b8fc15103dfbdba74915bb0fda1ef5e5b974`
 
 Repository asset verified byte-for-byte against the founder-approved source before lock.
+
+---
+
+## Concept A1 — The Hunter’s Eye
+
+**Status:** `APPROVED — ARCHIVE PENDING`
+
+**Working name:** Good Antiques Don’t Shout
+
+**Creative Territory:** A — The Hunter’s Eye
+
+**Core recognition:** experienced treasure hunters notice quiet quality that does not announce itself; discernment is part of the identity.
+
+### Founder-approved visual decisions
+
+- Unisex first-MVV execution on the controlled warm off-white / ivory garment.
+- Classic antique wooden chair with muted dark-green upholstery is the hero object and a clear antique cue.
+- Chair and copy are deliberately modest in scale, leaving generous negative space.
+- Copy: `GOOD ANTIQUES DON’T SHOUT.`
+- Typography uses the clean condensed uppercase treatment approved during refinement; do not revert to the older serif / decorative treatment.
+- Hand-drawn radiating marks create focus around the chair without making the composition loud.
+- No horizontal ornament line beneath the copy.
+- Palette remains restrained: dark charcoal/olive ink, muted green upholstery, walnut wood, and warm tobacco wear.
+- Illustration should feel detailed enough to reward looking, but still read immediately as an attractive T-shirt graphic rather than a poster.
+- Front print only for the controlled MVV execution; optional back-neck marks shown on presentation boards are not part of the primary test asset.
+
+### Approved visual reference pending archive
+
+Canonical repository path:
+
+`docs/creative/assets/R012/R012-A1-LOCKED.png`
+
+SHA-256 of founder-approved source image:
+
+`3cebc54383a7f92250afc6199ce388fa432e92c55a4857d4aa804ff0b928cc3e`
+
+Per the Creative Director Design Lock Procedure, change status to `LOCKED` only after the exact approved PNG exists at the canonical repository path and its hash is verified.
+
+---
+
+## Concept A3 — The Hunter’s Eye
+
+**Status:** `APPROVED — ARCHIVE PENDING`
+
+**Working name:** The Good Ones Don’t Shout
+
+**Creative Territory:** A — The Hunter’s Eye
+
+**Core recognition:** the treasure hunter’s eye recognizes understated design quality in pieces that others may overlook.
+
+### Founder-approved visual decisions
+
+- Unisex first-MVV execution on the controlled warm off-white / ivory garment.
+- Modest Danish mid-century modern chair is the hero object; avoid iconic showpiece lounge chairs that contradict the “don’t shout” idea.
+- Chair graphic is intentionally smaller than earlier iterations and positioned higher on the chest so the chair, radiating marks, and copy read as one balanced unit.
+- Copy: `THE GOOD ONES DON’T SHOUT.`
+- Typography uses the clean condensed uppercase treatment approved during refinement.
+- Hand-drawn radiating marks focus attention without making the chair itself feel loud.
+- No horizontal ornament line beneath the copy.
+- Palette remains restrained: dark charcoal/olive, walnut wood, natural woven seat, and warm muted wear tones.
+- Overall feel is understated, refined, and quietly confident rather than design-showoff or luxury-status coded.
+- Front print only for the controlled MVV execution; optional back-neck marks shown on presentation boards are not part of the primary test asset.
+
+### Approved visual reference pending archive
+
+Canonical repository path:
+
+`docs/creative/assets/R012/R012-A3-LOCKED.png`
+
+SHA-256 of founder-approved source image:
+
+`bfd8f5c3a99cfa2e9ec3ce11c4ccabec9c5ea72d011eb6ebae03da4c0d842bbb`
+
+Per the Creative Director Design Lock Procedure, change status to `LOCKED` only after the exact approved PNG exists at the canonical repository path and its hash is verified.
 
 ---
 
