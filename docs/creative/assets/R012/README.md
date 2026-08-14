@@ -116,6 +116,30 @@ Verified Git blob SHA-1:
 
 Status: `LOCKED`
 
+### Fashion-first Design 1C — Find. Discover. Keep.
+
+Canonical source path:
+
+`docs/creative/assets/R012/R012-Fashion-1C-LOCKED-SOURCE.png`
+
+Expected SHA-256:
+
+`2543aca71eed9ae8a8031eecc6862923e9a7fb59025a2bdd780a06fe0a0a37cb`
+
+Status: `APPROVED — ARCHIVE PENDING`
+
+### Fashion-first Design 1D — Treasure Hunter
+
+Canonical source path:
+
+`docs/creative/assets/R012/R012-Fashion-1D-LOCKED-SOURCE.png`
+
+Expected SHA-256:
+
+`143d624789775439287b7184dcdad5325e2f1018c5127d182aaa7f2cfd23e2f8`
+
+Status: `APPROVED — ARCHIVE PENDING`
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
