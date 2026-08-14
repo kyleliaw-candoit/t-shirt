@@ -94,7 +94,11 @@ Expected SHA-256:
 
 `217617bd9ba79250c81e93ac5fa22ab4c500db38eed1d415d8f6c4ed8fccb744`
 
-Status: `APPROVED — ARCHIVE PENDING`
+Verified Git blob SHA-1:
+
+`13b77574d2dfe6e0e3bc62da46956bd4571f1adb`
+
+Status: `LOCKED`
 
 ### Yeah, it'll Fit — softer variant
 
@@ -106,7 +110,11 @@ Expected SHA-256:
 
 `231a4504fdd7db95e48f9ab290a161ae58799384b8a614d5677ab6ca447084f0`
 
-Status: `APPROVED — ARCHIVE PENDING`
+Verified Git blob SHA-1:
+
+`9c9159f7494125a465d3185e92b8eb5a5544e0c4`
+
+Status: `LOCKED`
 
 ## Merge requirement
 
