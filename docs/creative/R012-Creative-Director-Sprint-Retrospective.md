@@ -97,9 +97,15 @@ The working test remains:
 
 > **What can I remove without weakening the recognition?**
 
-## 2.4 Scale is emotional, not merely technical
+## 2.4 Scale is emotional, audience-shaping, and can carry gender expression
 
 One of the clearest practical learnings was that scale changes who a shirt feels designed for and how confident it feels.
+
+The founder’s working theory, based on observation of men’s T-shirts, is that very large chest graphics are less common in mainstream menswear and therefore can reduce acceptability for some male shoppers. During this sprint, shrinking the overall graphic footprint on gender-neutral or slightly male-leaning designs repeatedly made the shirts feel more restrained, confident, and wearable.
+
+Working heuristic:
+
+> **For gender-neutral or male-leaning designs, default toward a more restrained graphic footprint unless the concept specifically earns a large fashion statement.**
 
 Observed pattern from founder feedback:
 
@@ -108,7 +114,7 @@ Observed pattern from founder feedback:
 - medium scale worked well for approachable identity designs;
 - oversized scale should be earned by spectacle or strong fashion intent.
 
-This is not a rigid gender rule. It is a useful design hypothesis to keep testing.
+This is not a universal gender rule or a claim about all menswear. It is a design hypothesis based on founder observation and internal execution, and should be tested through MVV and future market evidence.
 
 ## 2.5 Gender expression can be adjusted through more than subject matter
 
@@ -345,16 +351,17 @@ The Creative Director should generate freely but reject aggressively.
 6. **Typography can be the artwork.**
 7. **Main visual can do fashion work while small copy does category work.**
 8. **Scale is emotional and audience-shaping.**
-9. **Negative space communicates confidence.**
-10. **Remove before adding.**
-11. **Do not polish the spirit out of the winning concept.**
-12. **Scroll-stop strength is a legitimate design objective.**
-13. **Some designs earn the click; other designs earn the customer.**
-14. **A strong assortment needs range, not visual sameness.**
-15. **Curatorial consistency matters more than forcing every product into one visual template.**
-16. **Generate broadly, present narrowly, refine sequentially.**
-17. **Lock exact founder-approved visuals before moving on.**
-18. **Market response should now replace further speculative design as the primary teacher.**
+9. **For gender-neutral or male-leaning designs, default toward restrained graphic size unless a large statement is intentional and earned.** Treat this as a testable menswear heuristic, not a universal rule.
+10. **Negative space communicates confidence.**
+11. **Remove before adding.**
+12. **Do not polish the spirit out of the winning concept.**
+13. **Scroll-stop strength is a legitimate design objective.**
+14. **Some designs earn the click; other designs earn the customer.**
+15. **A strong assortment needs range, not visual sameness.**
+16. **Curatorial consistency matters more than forcing every product into one visual template.**
+17. **Generate broadly, present narrowly, refine sequentially.**
+18. **Lock exact founder-approved visuals before moving on.**
+19. **Market response should now replace further speculative design as the primary teacher.**
 
 ---
 
