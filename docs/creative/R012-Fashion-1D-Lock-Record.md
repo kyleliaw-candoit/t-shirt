@@ -1,7 +1,7 @@
 ---
 title: R012 Fashion-First Design 1D Lock Record
 owner: Creative Director
-status: APPROVED — ARCHIVE PENDING
+status: LOCKED
 last_updated: 2026-08-13
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -41,12 +41,14 @@ Canonical repository path:
 
 `docs/creative/assets/R012/R012-Fashion-1D-LOCKED-SOURCE.png`
 
-Expected SHA-256:
+Verified SHA-256:
 
 `143d624789775439287b7184dcdad5325e2f1018c5127d182aaa7f2cfd23e2f8`
 
+Verified Git blob SHA-1:
+
+`587aa028a9be6964bbd27c1ff7ab8f2913ccb1ce`
+
 ## Archive state
 
-The founder has approved this design for lock. The exact PNG still needs to exist at the canonical repository path and be verified byte-for-byte before the status can change from `APPROVED — ARCHIVE PENDING` to `LOCKED`.
-
-Do not regenerate, reinterpret, or refine the artwork during archival.
+`LOCKED` — the repository PNG matches the exact founder-approved source byte-for-byte. Do not regenerate, reinterpret, or refine this visual without treating the change as a new version or sibling design.
