@@ -84,6 +84,30 @@ Expected SHA-256:
 
 C3B repository asset has been verified byte-for-byte against the founder-approved bright-color source.
 
+### Yeah, it'll Fit — restrained variant
+
+Canonical path:
+
+`docs/creative/assets/R012/R012-YIF-M-LOCKED.png`
+
+Expected SHA-256:
+
+`217617bd9ba79250c81e93ac5fa22ab4c500db38eed1d415d8f6c4ed8fccb744`
+
+Status: `APPROVED — ARCHIVE PENDING`
+
+### Yeah, it'll Fit — softer variant
+
+Canonical path:
+
+`docs/creative/assets/R012/R012-YIF-F-LOCKED.png`
+
+Expected SHA-256:
+
+`231a4504fdd7db95e48f9ab290a161ae58799384b8a614d5677ab6ca447084f0`
+
+Status: `APPROVED — ARCHIVE PENDING`
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 matches the expected value.
