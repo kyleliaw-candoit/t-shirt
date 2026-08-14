@@ -35,8 +35,10 @@ Canonical repository path:
 
 Expected SHA-256:
 
-`8e0194a49e6b2aa683c947c3813092f7dc69a920d22cc3e7a8c8f18f4835dcfe`
+`473751adcec28c6d2c0858f70b7499be274d1567d5a46bc8f4c22bbbc0b21f00`
+
+The canonical source is a lossless, no-resampling crop of the approved right panel from the 7A.1 / 7A.2 comparison board.
 
 ## Archive state
 
-Founder approved. Exact crop from the approved 7A.1 / 7A.2 comparison board must be archived and byte-verified before status changes to `LOCKED`. No redesign or regeneration is permitted during archival.
+Founder approved. Canonical PNG still needs to be uploaded to the repository branch and byte-verified before status changes to `LOCKED`. No redesign or regeneration is permitted during archival.
