@@ -1,7 +1,7 @@
 ---
 title: R012 Type-Led Design 3 Lock Record
 owner: Creative Director
-status: APPROVED — ARCHIVE PENDING
+status: LOCKED
 last_updated: 2026-08-14
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -35,12 +35,16 @@ Canonical repository path:
 
 `docs/creative/assets/R012/R012-Type-Led-3-LOCKED-SOURCE.png`
 
-Expected SHA-256:
+Verified SHA-256:
 
 `4bf88b41c18cece42657bed28d8f0c46fce0faf710afa03033f58d2941162dbe`
 
+Verified Git blob SHA-1:
+
+`fa2bc58db58a916b6a39bd530b78961870156de8`
+
 ## Archive state
 
-Founder approved. The exact approved PNG must be archived at the canonical path and byte-verified before status changes to `LOCKED`.
+The exact founder-approved PNG exists at the canonical path and has been byte-verified. Status: `LOCKED`.
 
-Do not regenerate, reinterpret, resize, or refine during archival.
+Do not regenerate, reinterpret, resize, or refine this locked version. Any future change requires a new version or sibling design.
