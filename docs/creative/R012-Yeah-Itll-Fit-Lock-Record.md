@@ -1,7 +1,7 @@
 ---
 title: R012 Yeah, it'll Fit Lock Record
 owner: Creative Director
-status: APPROVED — ARCHIVE PENDING
+status: LOCKED
 last_updated: 2026-08-13
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -41,7 +41,7 @@ Founder-approved source SHA-256:
 
 `217617bd9ba79250c81e93ac5fa22ab4c500db38eed1d415d8f6c4ed8fccb744`
 
-Local Git blob fingerprint:
+Verified Git blob SHA-1:
 
 `13b77574d2dfe6e0e3bc62da46956bd4571f1adb`
 
@@ -57,12 +57,10 @@ Founder-approved source SHA-256:
 
 `231a4504fdd7db95e48f9ab290a161ae58799384b8a614d5677ab6ca447084f0`
 
-Local Git blob fingerprint:
+Verified Git blob SHA-1:
 
 `9c9159f7494125a465d3185e92b8eb5a5544e0c4`
 
 ## Archive state
 
-Both exact founder-approved PNGs still need to be uploaded to their canonical repository paths and verified byte-for-byte. Until then, this concept remains `APPROVED — ARCHIVE PENDING` rather than fully `LOCKED`.
-
-After both repository files match the fingerprints above, update this record and the asset index to `LOCKED`, then add the concept to the canonical R012 locked-design registry.
+Both repository PNGs have been verified byte-for-byte against the exact founder-approved source files. This concept and both execution variants are `LOCKED`.
