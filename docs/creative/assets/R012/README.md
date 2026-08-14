@@ -122,11 +122,15 @@ Canonical source path:
 
 `docs/creative/assets/R012/R012-Fashion-1C-LOCKED-SOURCE.png`
 
-Expected SHA-256:
+Verified SHA-256:
 
 `2543aca71eed9ae8a8031eecc6862923e9a7fb59025a2bdd780a06fe0a0a37cb`
 
-Status: `APPROVED — ARCHIVE PENDING`
+Verified Git blob SHA-1:
+
+`5a33eefa8e71c12fbba6f35867480b118e26d12c`
+
+Status: `LOCKED`
 
 ### Fashion-first Design 1D — Treasure Hunter
 
@@ -134,11 +138,15 @@ Canonical source path:
 
 `docs/creative/assets/R012/R012-Fashion-1D-LOCKED-SOURCE.png`
 
-Expected SHA-256:
+Verified SHA-256:
 
 `143d624789775439287b7184dcdad5325e2f1018c5127d182aaa7f2cfd23e2f8`
 
-Status: `APPROVED — ARCHIVE PENDING`
+Verified Git blob SHA-1:
+
+`587aa028a9be6964bbd27c1ff7ab8f2913ccb1ce`
+
+Status: `LOCKED`
 
 ## Merge requirement
 
