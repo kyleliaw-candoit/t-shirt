@@ -68,6 +68,18 @@ SHA-256: `473751adcec28c6d2c0858f70b7499be274d1567d5a46bc8f4c22bbbc0b21f00`
 Git blob: `b947f12017005ac474c7fd67f3e147f3ee54f88d`  
 Status: `LOCKED`
 
+### Type-Led Design 3 — The Thrill of the Find — Utility Compressed
+`docs/creative/assets/R012/R012-Type-Led-3-LOCKED-SOURCE.png`  
+SHA-256: `4bf88b41c18cece42657bed28d8f0c46fce0faf710afa03033f58d2941162dbe`  
+Git blob: `fa2bc58db58a916b6a39bd530b78961870156de8`  
+Status: `LOCKED`
+
+### Type-Led Design 4 — Thrill of the Find — Free Handwritten
+`docs/creative/assets/R012/R012-Type-Led-4-LOCKED-SOURCE.png`  
+SHA-256: `6cb6448dfdb2b0f35ae45c5b9488f5903f4f926cd70216e34afdd1636e2f9871`  
+Git blob: `1e1d8d672b30a7b7cc6d89d4052d742e8586fcb8`  
+Status: `LOCKED`
+
 ## Merge requirement
 
 Do not merge a design-lock PR until every newly approved PNG exists at its canonical path and its SHA-256 / Git blob verification matches the approved source.
