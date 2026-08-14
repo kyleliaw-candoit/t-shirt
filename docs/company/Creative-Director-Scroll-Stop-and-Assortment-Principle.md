@@ -30,6 +30,12 @@ Scroll-stop strength asks:
 
 > **Can this shirt interrupt casual scrolling on a small phone screen quickly enough to earn a closer look?**
 
+The desired first reaction is often as simple as:
+
+> **“Damn, that’s a good shirt.”**
+
+That reaction can be commercially valuable even before the viewer understands the niche meaning, insider reference, or brand story.
+
 A strong scroll-stop design may rely on:
 
 - a bold silhouette,
@@ -106,7 +112,7 @@ Ask:
 1. Is there an immediate focal point?
 2. Can the dominant shape, object, or words be recognized quickly?
 3. Is the contrast sufficient on a small screen?
-4. Does the design look desirable before the viewer understands all of the copy?
+4. Does the design create a fast “damn, that’s a good shirt” reaction before the viewer understands all of the copy?
 5. Is the composition distinctive beside neighboring carousel cards?
 6. Does it create enough curiosity to earn a tap or store visit?
 
