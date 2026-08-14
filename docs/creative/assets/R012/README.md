@@ -70,13 +70,15 @@ Status: `LOCKED`
 
 ### Type-Led Design 3 — The Thrill of the Find — Utility Compressed
 `docs/creative/assets/R012/R012-Type-Led-3-LOCKED-SOURCE.png`  
-Expected SHA-256: `4bf88b41c18cece42657bed28d8f0c46fce0faf710afa03033f58d2941162dbe`  
-Status: `APPROVED — ARCHIVE PENDING`
+SHA-256: `4bf88b41c18cece42657bed28d8f0c46fce0faf710afa03033f58d2941162dbe`  
+Git blob: `fa2bc58db58a916b6a39bd530b78961870156de8`  
+Status: `LOCKED`
 
 ### Type-Led Design 4 — Thrill of the Find — Free Handwritten
 `docs/creative/assets/R012/R012-Type-Led-4-LOCKED-SOURCE.png`  
-Expected SHA-256: `6cb6448dfdb2b0f35ae45c5b9488f5903f4f926cd70216e34afdd1636e2f9871`  
-Status: `APPROVED — ARCHIVE PENDING`
+SHA-256: `6cb6448dfdb2b0f35ae45c5b9488f5903f4f926cd70216e34afdd1636e2f9871`  
+Git blob: `1e1d8d672b30a7b7cc6d89d4052d742e8586fcb8`  
+Status: `LOCKED`
 
 ## Merge requirement
 
