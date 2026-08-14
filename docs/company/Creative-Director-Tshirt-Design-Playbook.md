@@ -3,7 +3,7 @@ title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
 version: 0.1
-last_updated: 2026-08-13
+last_updated: 2026-08-14
 ---
 
 # Creative Director T-shirt Design Playbook
@@ -204,6 +204,16 @@ Often communicates:
 
 Choose scale because it supports the idea and desired emotional tone.
 
+### Working menswear heuristic: restraint for gender-neutral / male-leaning designs
+
+Founder observation suggests that very large front graphics are less common across mainstream men’s T-shirts than smaller or medium graphic footprints. In internal execution, shrinking the full graphic unit on gender-neutral or slightly male-leaning designs also increased the sense of restraint, confidence, and everyday wearability.
+
+Therefore, as a default starting point:
+
+> **For gender-neutral or male-leaning designs, begin with a restrained graphic footprint unless the concept deliberately calls for a large fashion statement.**
+
+This is a working heuristic, not a universal rule. Large graphics can still work in menswear when spectacle, subculture, streetwear, illustration, or fashion intent earns the scale. MVV and future sales evidence should be used to validate, refine, or overturn this principle.
+
 ---
 
 ## 5. Typography Has a Job
@@ -387,11 +397,12 @@ Before founder review, answer:
 4. What rewards the viewer at 3 feet?
 5. What job is the typography doing?
 6. Why is the graphic this size?
-7. Which color owns the design?
-8. What is textured or aged, and why?
-9. Does the artwork feel designed for the garment?
-10. Would the shirt still be desirable if the concept mattered slightly less?
-11. What can be removed?
+7. If the design is gender-neutral or male-leaning, has the graphic footprint been kept appropriately restrained unless a larger statement is intentional?
+8. Which color owns the design?
+9. What is textured or aged, and why?
+10. Does the artwork feel designed for the garment?
+11. Would the shirt still be desirable if the concept mattered slightly less?
+12. What can be removed?
 
 Use judgment, not a numerical score.
 
