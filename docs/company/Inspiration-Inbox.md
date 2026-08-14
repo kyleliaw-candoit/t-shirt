@@ -365,6 +365,81 @@ This question should remain a strategic hypothesis-generation tool rather than b
 
 ---
 
+## I003 — Two-Layer Creative System
+
+**Status:** Inbox
+
+**Category:** Creative / Operating Model
+
+**Source:**  
+Founder discussion after the first hands-on Creative Director execution round, 2026-08-14.
+
+### Observation
+
+The current Creative Director can generate useful strategy, concepts, and acceptable design execution, but early hands-on work has not yet demonstrated consistently exceptional T-shirt design execution.
+
+The founder's strongest advantages are systems thinking, data analysis, and creative concept judgment rather than hands-on graphic design. The company may therefore benefit from separating **creative direction and selection** from **design execution** instead of expecting one AI role to excel equally at both.
+
+### Why It Caught Our Attention
+
+A possible future architecture is a two-layer creative system:
+
+1. **Creative Director layer** — owns brand translation, creative territories, concept generation, briefs, curation, critique, iteration strategy, and learning from MVV.
+2. **Design execution layer** — one or more specialized AI models, design tools, human designers, or a hybrid system focused on producing high-quality visual executions from strong concepts and briefs.
+
+This structure could play to the company's intended advantage:
+
+> **Build a better system for generating, selecting, testing, and scaling winners rather than relying on one person's or one model's instinct to predict the winning design upfront.**
+
+The Sloth Hiking Club case is relevant because its apparent strength is not only sharp positioning but also a repeatable creative system with many on-brand concepts and generally strong execution.
+
+### Potential Questions
+
+For Creative Director:
+
+- Which parts of the current role require true design craft versus creative strategy and judgment?
+- Can stronger references, design-language study, critique loops, or improved prompting materially raise execution quality before adding organizational complexity?
+- What information should a design-execution specialist receive in a production-ready brief?
+- How should the Creative Director evaluate and rank multiple executions of the same concept?
+
+For Strategy Advisor / Operating Model:
+
+- At what point does mediocre visual execution become a meaningful bottleneck to MVV credibility?
+- Would specialized execution materially improve learning velocity or simply add complexity?
+- Should the execution layer be AI, software-assisted, human, or hybrid?
+- How many creative rounds should be run before concluding the current one-role model is structurally insufficient?
+
+For Founder:
+
+- Which parts of creative judgment feel like genuine founder advantage?
+- Which design decisions are difficult to judge without specialist expertise?
+- Can MVV compensate for imperfect taste by allowing the market to select from a larger pool of credible concepts and executions?
+
+### Provisional Insight
+
+The company's creative advantage may ultimately come less from having a single world-class designer and more from combining:
+
+> **strong brand positioning + strong creative concepts + scalable execution + disciplined market selection.**
+
+A high-volume, evidence-driven creative search process may fit the founder's strengths better than relying primarily on individual aesthetic intuition.
+
+### Decision Status
+
+**Deferred.**
+
+Do not change the Creative Director architecture yet.
+
+The founder intends to work through at least one additional hands-on Creative Director round, including attempts to improve performance through better methodology, references, design-language study, and interaction with the role.
+
+Revisit this item only after more evidence exists about whether the current limitation is:
+
+- a methodology / prompting problem,
+- a model capability problem,
+- a design-tool problem,
+- or a structural need for a separate execution specialist.
+
+---
+
 # 10. Future Entries
 
 New entries should generally follow this lightweight structure:
