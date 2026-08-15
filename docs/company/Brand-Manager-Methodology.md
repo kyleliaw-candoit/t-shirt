@@ -2,8 +2,8 @@
 title: Brand Manager Methodology
 owner: Brand Manager
 status: Proposed
-version: 0.2
-last_updated: 2026-08-12
+version: 0.3
+last_updated: 2026-08-14
 reviewed_by: Founder pending
 ---
 
@@ -122,9 +122,25 @@ The Brand Hypothesis Brief should contain:
 
 A recommended customer-facing name, plus a small number of alternatives only when the decision remains genuinely unresolved.
 
-Before founder approval of a preferred name, check whether the most important corresponding internet domain is available—normally the exact-match `.com` when commercially relevant. If it is unavailable, record the conflict and check only a small number of sensible alternatives, such as a close naming variant or another strategically appropriate TLD, when that information could affect the naming decision.
+Do not run clearance research on every brainstormed name. First narrow strategically to the serious finalists, normally **2–4** names. Before founder approval of a preferred name, run a **minimum viable name-clearance check** on those finalists covering:
 
-Domain availability is a naming input, not a reason to run an exhaustive domain search or prematurely build web infrastructure. The goal is to avoid approving a brand name and only later discovering an obvious, avoidable domain problem.
+- exact-name and close-variant web searches,
+- obvious existing commercial or brand use,
+- major social-platform and marketplace collisions where relevant,
+- the most important corresponding internet domain, normally the exact-match `.com` when commercially relevant,
+- obvious U.S. trademark conflicts or confusingly similar marks, especially in apparel and retail-related categories.
+
+If the preferred domain is unavailable, record the conflict and check only a small number of sensible alternatives, such as a close naming variant or another strategically appropriate TLD, when that information could affect the naming decision.
+
+Classify each serious finalist as:
+
+1. **Clear enough to explore** — no obvious blocker found in the lightweight check,
+2. **Caution** — meaningful crowding, collision, or ambiguity exists but may be manageable,
+3. **Potential blocker — deeper review required** — an apparent commercial-use or trademark conflict could materially affect use of the name.
+
+This is a practical screening step, **not formal legal clearance or legal advice**. A name that survives the check may still require deeper trademark review before meaningful commercialization.
+
+Domain availability, commercial collisions, and obvious trademark risk are naming inputs, not reasons to run exhaustive searches or prematurely build web infrastructure. The goal is to avoid approving a brand name and only later discovering an obvious, avoidable conflict.
 
 Naming should be treated as a hypothesis, not a reason to delay testing indefinitely.
 
@@ -339,18 +355,22 @@ Can the position generate at least several distinct messaging / product territor
 
 Can this company speak from this position without pretending to possess cultural authority, expertise, or lived identity it does not have?
 
-### Naming / Domain Practicality Check
+### Minimum Viable Name-Clearance Check
 
-If a preferred brand name has emerged, verify the most important internet domain before founder approval. Normally this means checking the exact-match `.com` first.
+If serious brand-name finalists have emerged, perform the lightweight clearance routine before founder approval rather than waiting until after the naming decision.
 
-Ask:
+For each serious finalist, ask:
 
-- Is the preferred domain available?
-- If not, does the conflict materially weaken the name?
-- Is there one obvious acceptable alternative domain or naming variant?
-- Would changing the name improve the brand enough to justify reopening naming?
+- Does an exact-name or close-variant search reveal an established business or brand using the name in a meaningfully overlapping way?
+- Do major social platforms or marketplaces reveal collisions that could create customer confusion or make the name feel commercially crowded?
+- Is the most important domain available, normally the exact-match `.com` when commercially relevant?
+- Does a lightweight U.S. trademark search reveal an obvious exact or confusingly similar conflict, especially in apparel or retail-related categories?
+- Is the issue merely descriptive crowding, or is it a plausible source-identification / brand-confusion problem?
+- Does any discovered conflict materially weaken the name enough to change the ranking?
 
-Do not turn this into exhaustive domain hunting. Surface a material conflict; otherwise continue.
+Record a disposition of **Clear enough to explore**, **Caution**, or **Potential blocker — deeper review required**.
+
+Do not turn this into exhaustive trademark research, domain hunting, or legal analysis. Surface material conflicts and continue when no obvious blocker appears. If a name becomes the intended commercial brand, deeper trademark review may be appropriate before meaningful commercialization.
 
 ### Gate 2 — Differentiation
 
@@ -448,7 +468,9 @@ If the new direction appears materially stronger, surface it explicitly rather t
 
 Do **not** let naming perfection stop progress.
 
-Use the strongest viable working name for the test unless the name creates legal, cultural, comprehension, positioning, or material domain-availability risk.
+Use the strongest viable working name for the test unless the name creates legal, cultural, comprehension, positioning, material domain-availability, or meaningful commercial-collision risk.
+
+A **Potential blocker — deeper review required** disposition should be surfaced before founder approval rather than silently treated as acceptable naming uncertainty.
 
 ---
 
