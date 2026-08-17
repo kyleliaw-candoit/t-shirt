@@ -1,7 +1,7 @@
 ---
 title: R012 Locked Design Registry — Fashion-First 1C / 1D / 7A.1 / 7A.2
 owner: Creative Director
-status: WORKING_REGISTRY
+status: LOCKED
 last_updated: 2026-08-17
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -27,7 +27,7 @@ This file records the founder-approved fashion-first additions and their archive
 
 ## Fashion-1D-GN — Gender-Neutral Execution
 
-**Status:** `APPROVED_PENDING_ARCHIVE_VERIFICATION`
+**Status:** `LOCKED`
 
 **design_id:** `Fashion-1D-GN`
 
@@ -35,15 +35,15 @@ This file records the founder-approved fashion-first additions and their archive
 
 **Canonical lock record:** `docs/creative/R012-Fashion-1D-Lock-Record.md`
 
-**Intended canonical visual source:** `docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
+**Canonical visual source:** `docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
 
-**Expected SHA-256:** `ca31b1176694dd5407771b0cf544c15639736580a39b79de133f7413c42f376f`
+**Verified SHA-256:** `ca31b1176694dd5407771b0cf544c15639736580a39b79de133f7413c42f376f`
 
-Upload the approved PNG to the intended canonical path above, then verify the repository copy before changing status to `LOCKED`.
+**Verified Git blob SHA-1:** `c529619cdc2469b0a68adc962e630fffa7556e51`
 
 ## Fashion-1D-F — Female-Leaning Execution
 
-**Status:** `APPROVED_PENDING_ARCHIVE_VERIFICATION`
+**Status:** `LOCKED`
 
 **design_id:** `Fashion-1D-F`
 
@@ -51,11 +51,11 @@ Upload the approved PNG to the intended canonical path above, then verify the re
 
 **Canonical lock record:** `docs/creative/R012-Fashion-1D-Lock-Record.md`
 
-**Intended canonical visual source:** `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
+**Canonical visual source:** `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
 
-**Expected SHA-256:** `0a9b9f2bdf977917328f66bb319095b0f7f212414af7f8b72fe8324b6a056024`
+**Verified SHA-256:** `0a9b9f2bdf977917328f66bb319095b0f7f212414af7f8b72fe8324b6a056024`
 
-Upload the approved PNG to the intended canonical path above, then verify the repository copy before changing status to `LOCKED`.
+**Verified Git blob SHA-1:** `90d0f24822a27e31003b7c70469ae4a647636865`
 
 ## Legacy Fashion-1D comparison/source board
 
@@ -99,4 +99,4 @@ It is retained as an archive reference and should not be overwritten by either s
 
 ## Finalization state
 
-All pre-existing fashion-first locked designs remain locked. `Fashion-1D-GN` and `Fashion-1D-F` are founder-approved standalone products but remain pending archive verification until the two approved PNGs are uploaded to their intended canonical paths and byte-verified.
+All listed fashion-first executions are archived and `LOCKED`. The two standalone Fashion-1D products have been byte-verified against the exact founder-approved source files.
