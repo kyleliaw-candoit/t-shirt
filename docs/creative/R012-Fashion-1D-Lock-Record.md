@@ -1,7 +1,7 @@
 ---
 title: R012 Fashion-First Design 1D Lock Record
 owner: Creative Director
-status: APPROVED_PENDING_ARCHIVE_VERIFICATION
+status: LOCKED
 last_updated: 2026-08-17
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
@@ -9,9 +9,9 @@ brand: Worth the Detour
 
 # R012 — Fashion-First Design 1D
 
-Fashion-1D now consists of **two founder-approved T-shirt executions** that are treated as separate products for MVV #1.
+Fashion-1D consists of **two founder-approved T-shirt executions** that are treated as separate products for MVV #1.
 
-The previous comparison/source board remains a historical archive reference, but the two individual product files below are the intended canonical assets once uploaded and byte-verified.
+The previous comparison/source board remains a historical archive reference. The two standalone PNGs below are the canonical product assets and have been byte-verified against the founder-approved files.
 
 ## Fashion-1D-GN — Gender-Neutral Execution
 
@@ -33,17 +33,19 @@ The previous comparison/source board remains a historical archive reference, but
 - Charcoal / near-black plus rust-orange palette.
 - Front print only.
 
-### Intended canonical source visual
-
-Upload the approved PNG to exactly:
+### Canonical source visual
 
 `docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
 
-Expected SHA-256 of the founder-approved upload file:
+**Verified SHA-256:**
 
 `ca31b1176694dd5407771b0cf544c15639736580a39b79de133f7413c42f376f`
 
-**Archive state:** founder-approved; pending GitHub upload and byte verification.
+**Verified Git blob SHA-1:**
+
+`c529619cdc2469b0a68adc962e630fffa7556e51`
+
+**Archive state:** `LOCKED` — repository blob matches the exact founder-approved file.
 
 ---
 
@@ -69,19 +71,25 @@ Expected SHA-256 of the founder-approved upload file:
 - Front print only.
 - The stray sleeve from the neighboring comparison-board shirt has been removed from the approved standalone image.
 
-### Intended canonical source visual
-
-Upload the approved PNG to exactly:
+### Canonical source visual
 
 `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
 
-Expected SHA-256 of the founder-approved upload file:
+**Verified SHA-256:**
 
 `0a9b9f2bdf977917328f66bb319095b0f7f212414af7f8b72fe8324b6a056024`
 
-**Archive state:** founder-approved; pending GitHub upload and byte verification.
+**Verified Git blob SHA-1:**
+
+`90d0f24822a27e31003b7c70469ae4a647636865`
+
+**Archive state:** `LOCKED` — repository blob matches the exact founder-approved file.
 
 ---
+
+## Verification method
+
+For each standalone PNG, the repository-reported file size and Git blob SHA-1 were compared with the founder-approved local file. The Git blob SHA-1 was independently calculated from the exact approved bytes using Git's `blob <size>\0<content>` object format. Both standalone repository blobs match their approved source files exactly.
 
 ## Legacy comparison-board source
 
@@ -89,12 +97,12 @@ The previously archived Fashion-1D comparison/source board remains at:
 
 `docs/creative/assets/R012/R012-Fashion-1D-LOCKED-SOURCE.png`
 
-Historical verified SHA-256:
+**Historical verified SHA-256:**
 
 `143d624789775439287b7184dcdad5325e2f1018c5127d182aaa7f2cfd23e2f8`
 
-Historical verified Git blob SHA-1:
+**Historical verified Git blob SHA-1:**
 
 `587aa028a9be6964bbd27c1ff7ab8f2913ccb1ce`
 
-Do not delete or overwrite the historical board as part of this split. Once the two standalone PNGs are uploaded and their SHA-256 values match the expected fingerprints above, update this record to `LOCKED` and record each new Git blob SHA-1.
+Do not delete or overwrite the historical board. Any future visual change to either standalone Fashion-1D execution requires a new version or sibling design.
