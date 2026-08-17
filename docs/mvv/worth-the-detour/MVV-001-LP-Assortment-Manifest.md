@@ -30,7 +30,7 @@ These IDs replace the temporary manifest-only `Fashion-1D-A` / `Fashion-1D-B` pl
 
 ## Current assortment
 
-| Tentative order | `design_id` | Product / working name | Canonical / intended source asset | Primary R012 recognition mechanism |
+| Tentative order | `design_id` | Product / working name | Canonical locked source asset | Primary R012 recognition mechanism |
 |---:|---|---|---|---|
 | 1 | `B2` | No, Really. Five Minutes. | `docs/creative/assets/R012/R012-B2-LOCKED.png` | Hunt behavior / insider humor — the reflexive antique-stop detour and knowingly unrealistic “five minutes” promise. |
 | 2 | `A1` | Good Antiques Don’t Shout | `docs/creative/assets/R012/R012-A1-LOCKED.png` | Hunter’s eye / antiques discernment — recognizing quiet quality that does not announce itself. |
@@ -46,23 +46,41 @@ These IDs replace the temporary manifest-only `Fashion-1D-A` / `Fashion-1D-B` pl
 
 ## Fashion-1D archive state
 
-`Fashion-1D-GN` and `Fashion-1D-F` are founder-approved as separate LP products. Their standalone PNGs are not considered repository-locked until they are uploaded and byte-verified.
+`Fashion-1D-GN` and `Fashion-1D-F` are founder-approved, separately archived, byte-verified, and `LOCKED`.
 
-Upload to exactly:
+### Fashion-1D-GN
 
-- `docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
-- `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
+Canonical asset:
 
-Expected SHA-256 values:
+`docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
 
-- `Fashion-1D-GN`: `ca31b1176694dd5407771b0cf544c15639736580a39b79de133f7413c42f376f`
-- `Fashion-1D-F`: `0a9b9f2bdf977917328f66bb319095b0f7f212414af7f8b72fe8324b6a056024`
+Verified SHA-256:
+
+`ca31b1176694dd5407771b0cf544c15639736580a39b79de133f7413c42f376f`
+
+Verified Git blob SHA-1:
+
+`c529619cdc2469b0a68adc962e630fffa7556e51`
+
+### Fashion-1D-F
+
+Canonical asset:
+
+`docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
+
+Verified SHA-256:
+
+`0a9b9f2bdf977917328f66bb319095b0f7f212414af7f8b72fe8324b6a056024`
+
+Verified Git blob SHA-1:
+
+`90d0f24822a27e31003b7c70469ae4a647636865`
 
 The historical Fashion-1D comparison/source board remains archived at:
 
 `docs/creative/assets/R012/R012-Fashion-1D-LOCKED-SOURCE.png`
 
-Do not overwrite or delete that board during the split.
+Do not overwrite or delete that board.
 
 ## Explicit MVV #1 holdouts
 
