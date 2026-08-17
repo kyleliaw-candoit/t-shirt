@@ -4,7 +4,7 @@ brand: Worth the Detour
 experiment_id: mvv-r012-001
 status: Proposed
 version: 0.1
-last_updated: 2026-08-14
+last_updated: 2026-08-17
 governing_methodology: docs/company/Minimum-Viable-Validation-Methodology.md
 ---
 
@@ -82,6 +82,33 @@ brand_id = worth-the-detour
 
 `creative_territory_id`, `creative_id`, `design_id`, and `variant_id` must use the same stable identifiers as the canonical Creative Director / MVV source records. The landing-page implementation must not invent a second identifier system.
 
+### 4.1 R012 `design_id` convention
+
+For MVV #1, the existing canonical Creative Director identifiers **are the `design_id` values**. Do not create a parallel remapping such as `D001`, `D002`, or `D007` for designs that already have established identifiers.
+
+Examples of valid canonical `design_id` values include:
+
+```text
+B1
+B2
+A1
+C2
+C3B
+YIF-M
+Fashion-1C
+Fashion-1D
+Fashion-7A1
+Fashion-7A2
+Type-Led-3
+Type-Led-4
+```
+
+This list is illustrative of the current locked R012 records, not a requirement that every listed design appear in the final MVV #1 landing-page assortment.
+
+Where a founder-approved locked execution already has its own canonical identifier, such as `YIF-M`, use that exact identifier as `design_id`. Do not decompose it into a newly invented parent `design_id` plus `variant_id` unless the canonical Creative Director record is explicitly revised to define that structure.
+
+`variant_id` remains available for a distinct presentation or execution variant when such a variant is separately defined by the canonical source records; it must not be used merely to reconstruct an existing canonical design identifier.
+
 If an identifier is not applicable to a particular event, it may be null or omitted according to the implementation convention, but its meaning must not be repurposed.
 
 ---
@@ -116,7 +143,7 @@ Do not rely on Meta campaign or ad naming alone to identify a creative or design
 https://worth-the-detour.com/
 ?experiment_id=mvv-r012-001
 &creative_id=CR003
-&design_id=D007
+&design_id=B1
 &utm_source=meta
 &utm_medium=paid-social
 &utm_campaign=mvv-r012-001
@@ -598,6 +625,7 @@ Before MVV #1 is considered instrumented, verify all of the following.
 - [ ] `experiment_id = mvv-r012-001` persists across the session.
 - [ ] `brand_id = worth-the-detour` persists across the session.
 - [ ] canonical creative / design IDs persist from incoming traffic to downstream events.
+- [ ] existing canonical Creative Director identifiers are used directly as `design_id`; no parallel `D###` remapping is introduced.
 - [ ] Meta IDs remain separate from company-controlled IDs.
 - [ ] UTM values persist across the session where supplied.
 - [ ] a unique `event_id` is generated for each event.
