@@ -3,8 +3,8 @@ title: MVV-001 Landing-Page Assortment Manifest
 brand: Worth the Detour
 experiment_id: mvv-r012-001
 owner: Creative Director
-status: Proposed
-last_updated: 2026-08-17
+status: Working
+last_updated: 2026-08-18
 ---
 
 # MVV-001 — Landing-Page Assortment Manifest
@@ -15,7 +15,7 @@ Record the founder-approved Worth the Detour MVV #1 landing-page product assortm
 
 This is a **product-validation assortment**, not the future Meta acquisition-creative set. A shirt does not need to independently decode the entire R012 category when viewed on the landing page; category meaning is carried by the page framing and the assortment as a whole.
 
-The assortment currently contains **11 products**. The current product order is **tentative and not locked**.
+The executable MVV #1 landing-page assortment currently contains **10 products**. The current product order is **tentative and not locked**.
 
 ## Identifier rule
 
@@ -28,7 +28,7 @@ Fashion-1D consists of two separate founder-approved products and therefore uses
 
 These IDs replace the temporary manifest-only `Fashion-1D-A` / `Fashion-1D-B` placeholders.
 
-## Current assortment
+## Current executable assortment
 
 | Tentative order | `design_id` | Product / working name | Canonical locked source asset | Primary R012 recognition mechanism |
 |---:|---|---|---|---|
@@ -39,14 +39,32 @@ These IDs replace the temporary manifest-only `Fashion-1D-A` / `Fashion-1D-B` pl
 | 5 | `YIF-F` | Yeah, it’ll Fit — softer / female-leaning execution | `docs/creative/assets/R012/R012-YIF-F-LOCKED.png` | Hunt behavior / insider humor — same authentic logistics joke expressed through a different gender/style treatment. |
 | 6 | `C2` | Found Not New — Booth 42 | `docs/creative/assets/R012/R012-C2-LOCKED.png` | Story of the find / antique-mall artifact — found-object value plus specific booth-hunting context. |
 | 7 | `C3B` | The Thrill Curve — Discount Dots + SOLD | `docs/creative/assets/R012/R012-C3B-LOCKED.png` | Hunt emotion / insider ritual — excitement from discount progression followed by the heartbreak of `SOLD`. |
-| 8 | `Fashion-1D-GN` | Find. Discover. Keep. — Binoculars, Fashion-1D Gender-Neutral | `docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png` | Direct treasure-hunter identity / fashion-first recognition through the binocular search motif and hunt language. |
-| 9 | `Fashion-1D-F` | Treasure Hunter — Retro Script, Female-Leaning | `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png` | Direct treasure-hunter identity / fashion-first recognition through explicit `Treasure Hunter` language. |
-| 10 | `Type-Led-3` | The Thrill of the Find — Utility Compressed | `docs/creative/assets/R012/R012-Type-Led-3-LOCKED-SOURCE.png` | Thrill of discovery / type-led identity, with explicit `ANTIQUES ARE WORTH THE DETOUR` category support. |
-| 11 | `Type-Led-4` | Thrill of the Find — Free Handwritten | `docs/creative/assets/R012/R012-Type-Led-4-LOCKED-SOURCE.png` | Thrill of discovery / expressive type-led identity, with explicit `ANTIQUES ARE WORTH THE DETOUR` category support. |
+| 8 | `Fashion-1D-F` | Treasure Hunter — Retro Script, Female-Leaning | `docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png` | Direct treasure-hunter identity / fashion-first recognition through explicit `Treasure Hunter` language. |
+| 9 | `Type-Led-3` | The Thrill of the Find — Utility Compressed | `docs/creative/assets/R012/R012-Type-Led-3-LOCKED-SOURCE.png` | Thrill of discovery / type-led identity, with explicit `ANTIQUES ARE WORTH THE DETOUR` category support. |
+| 10 | `Type-Led-4` | Thrill of the Find — Free Handwritten | `docs/creative/assets/R012/R012-Type-Led-4-LOCKED-SOURCE.png` | Thrill of discovery / expressive type-led identity, with explicit `ANTIQUES ARE WORTH THE DETOUR` category support. |
+
+## MVV #1 execution exclusion — `Fashion-1D-GN`
+
+`Fashion-1D-GN` was originally included in the 11-product landing-page assortment, but it is **excluded from the executable MVV #1 landing page** because the current image-generation workflow could not produce a customer-facing LP product image that reliably passed the canonical LP Product Image Standard.
+
+Multiple attempts encountered design-specific generation problems, including difficulty preserving the required customer-facing presentation and, in earlier attempts, reliable artwork / garment-material fidelity. The final automated attempt repeatedly produced review/specification-board content instead of a clean LP product image. Continuing to iterate would create disproportionate delay relative to the learning value of one additional product in this MVV.
+
+This is an **execution/tooling exclusion, not a product or creative rejection**:
+
+- the locked `Fashion-1D-GN` T-shirt design remains founder-approved and canonically archived;
+- no negative inference about customer demand, product quality, or the underlying binocular concept should be drawn from its exclusion;
+- the design may be revisited in a later test when a reliable LP merchandising image can be produced by a different workflow or tool;
+- all AI roles should treat the MVV #1 landing-page assortment as **10 executable products**, not 11.
+
+The locked source remains:
+
+`docs/creative/assets/R012/R012-Fashion-1D-GN-LOCKED-SOURCE.png`
+
+Decision recorded: **2026-08-18**.
 
 ## Fashion-1D archive state
 
-`Fashion-1D-GN` and `Fashion-1D-F` are founder-approved, separately archived, byte-verified, and `LOCKED`.
+`Fashion-1D-GN` and `Fashion-1D-F` are founder-approved, separately archived, byte-verified, and `LOCKED`. The MVV #1 execution exclusion above changes only whether `Fashion-1D-GN` appears on the current landing page; it does not change the locked design's archive status.
 
 ### Fashion-1D-GN
 
@@ -88,10 +106,10 @@ The following locked products are intentionally not in the first landing-page as
 
 - `B1` — overlaps substantially with B2; B2 is the selected detour-sign product for MVV #1.
 - `C1` — C2 carries the same core idea with stronger antique-mall specificity.
-- `Fashion-1C` — omitted in favor of the separate Fashion-1D gender-neutral execution.
+- `Fashion-1C` — omitted in favor of the Fashion-1D direction.
 - `Fashion-7A1` and `Fashion-7A2` — aesthetically useful but comparatively weak on brand message; lower priority before the brand itself passes MVV.
 
-These are **holdouts, not rejected designs**.
+These are **holdouts, not rejected designs**. `Fashion-1D-GN` is documented separately above because its omission is an execution/tooling exception rather than an assortment-selection holdout.
 
 ## Presentation note
 
@@ -99,10 +117,12 @@ A3 should not be judged as a standalone category-decoding advertisement. On the 
 
 ## Handoff status
 
-This manifest completes the Creative Director subtask:
+The Creative Director product-image subtask is complete for the executable MVV #1 assortment:
 
-> Record each included `design_id`, exact locked source asset, and primary R012 recognition mechanism.
+> Produce or approve one standardized primary LP product image for each included design.
+
+Ten products have approved LP primary images. `Fashion-1D-GN` is explicitly excluded from MVV #1 under the execution exception above so it does not remain an unresolved dependency or blocker.
 
 Next Creative Director subtask:
 
-> Produce or approve one standardized primary LP product image for each included design.
+> Produce detail / inspection assets only for designs that need closer reading or visual inspection.
