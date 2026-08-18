@@ -216,21 +216,21 @@ YIF-M is therefore fully archived as a standardized primary LP product image for
 
 **design_id:** `YIF-F`
 
-**Status:** `FOUNDER_APPROVED_PENDING_REPOSITORY_ARCHIVE`
+**Status:** `LOCKED / ARCHIVED`
 
 **Locked T-shirt design source:**
 
 `docs/creative/assets/R012/R012-YIF-F-LOCKED.png`
 
-**Intended canonical LP primary image path:**
+**Canonical LP primary image path:**
 
 `docs/mvv/worth-the-detour/assets/lp-products/R012-YIF-F-LP-PRIMARY.png`
 
-**Founder-approved LP image SHA-256:**
+**Verified SHA-256:**
 
 `4855139537718fe6f89b5cb6ca5ddcfaf135e19e552451d32afaecc9c905e984`
 
-**Expected Git blob SHA-1:**
+**Verified Git blob SHA-1:**
 
 `3789730700750993537bd44aebab853e5b9ec08e`
 
@@ -246,6 +246,8 @@ YIF-M is therefore fully archived as a standardized primary LP product image for
 - styling remains broadly fair and comparable to the rest of the assortment;
 - image is a merchandising derivative only and does not supersede the locked YIF-F source.
 
-### Archive completion requirement
+### Archive verification
 
-Upload the founder-approved PNG byte-for-byte to the intended canonical path above and verify it against both recorded hashes before changing this entry to `LOCKED / ARCHIVED`.
+The repository PNG was verified against the founder-approved local file. The SHA-256 and Git blob SHA-1 exactly match the approved bytes recorded before upload.
+
+YIF-F is therefore fully archived as a standardized primary LP product image for MVV #1.
