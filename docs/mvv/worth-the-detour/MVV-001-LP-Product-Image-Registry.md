@@ -186,7 +186,7 @@ A3 is therefore fully archived as a standardized primary LP product image for MV
 
 **Verified SHA-256:**
 
-`8ca6332671b6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
+`8ca6332671c6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
 
 **Verified Git blob SHA-1:**
 
