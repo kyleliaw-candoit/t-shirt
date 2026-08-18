@@ -251,3 +251,86 @@ YIF-M is therefore fully archived as a standardized primary LP product image for
 The repository PNG was verified against the founder-approved local file. The SHA-256 and Git blob SHA-1 exactly match the approved bytes recorded before upload.
 
 YIF-F is therefore fully archived as a standardized primary LP product image for MVV #1.
+
+---
+
+## C2 — Found Not New — Booth 42
+
+**design_id:** `C2`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-C2-LOCKED.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-C2-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`670ec5c811c2956196e18c4ef19f28aad6f3c81f9a899b44e442eb5165bf5662`
+
+**Verified Git blob SHA-1:**
+
+`0c4ba10f66e8eebe87c567bcbe78b1198e2c8cb5`
+
+**Founder approval:** 2026-08-18
+
+### Approved presentation treatment
+
+- mobile-first portrait composition;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- locked vintage tag and Booth 42 ticket composition, wording, colors, relative scale, placement, and overlap remain materially faithful to the locked C2 source;
+- presentation remains gender-neutral;
+- antique-shop environment is softly defocused and visually subordinate so the printed design remains the first read;
+- image is a merchandising derivative only and does not supersede the locked C2 source.
+
+### Archive verification
+
+The repository PNG was verified against the founder-approved local file. The repository-reported Git blob SHA-1 exactly matches the independently calculated Git blob SHA-1 for the approved bytes; the recorded SHA-256 is the approved local file fingerprint.
+
+C2 is therefore fully archived as a standardized primary LP product image for MVV #1.
+
+---
+
+## C3B — The Thrill Curve — Discount Dots + SOLD
+
+**design_id:** `C3B`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-C3B-LOCKED.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-C3B-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`f2d89940644d45eb11986024b81528c69b4505abf9243b937dc3377957afeb2a`
+
+**Verified Git blob SHA-1:**
+
+`ca542ff124771be967194c71ba417de0d8aa3ca7`
+
+**Founder approval:** 2026-08-18
+
+### Approved presentation treatment
+
+- mobile-first portrait composition;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- locked green 10% OFF, yellow 25% OFF, orange 50% OFF, red SOLD sequence and corresponding emotional faces remain materially faithful to the locked C3B source;
+- relative print scale, order, spacing, and chest placement remain materially faithful;
+- presentation remains gender-neutral;
+- antique-shop background is intentionally softened and subordinate so the colorful discount/SOLD sequence wins the first visual read on mobile;
+- image is a merchandising derivative only and does not supersede the locked C3B source.
+
+### Archive verification
+
+The repository PNG was verified against the founder-approved local file. The repository-reported Git blob SHA-1 exactly matches the independently calculated Git blob SHA-1 for the approved bytes; the recorded SHA-256 is the approved local file fingerprint.
+
+C3B is therefore fully archived as a standardized primary LP product image for MVV #1.
