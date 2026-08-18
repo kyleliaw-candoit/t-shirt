@@ -50,6 +50,21 @@ The garment should read like the intended production blank rather than a stylize
 
 Avoid generated surface treatments that make the shirt appear embossed, jacquard, woven, quilted, unusually fuzzy, glossy, paper-like, or otherwise materially different from the intended cotton jersey. Natural cotton texture, stitching, wrinkles, and soft tonal variation are acceptable when they remain believable for the production garment.
 
+## Background and focal-hierarchy requirements
+
+Background context may establish the Worth the Detour world, but it must remain **visually subordinate to the garment and printed design**.
+
+For primary LP product images, especially on mobile:
+
+- use shallow depth of field or equivalent soft defocus when the background contains recognizable objects or environmental detail;
+- keep background contrast, sharpness, texture, and visual clutter materially lower than the shirt;
+- avoid multiple crisp props, signs, frames, furniture edges, high-contrast objects, or readable background text competing with the design;
+- background objects may be recognizable as atmosphere, but should not invite inspection before the garment does;
+- do not rely on a busy antique-shop scene merely because it feels on-brand; product inspection takes priority over environmental storytelling;
+- if the viewer's eye is pulled away from the shirt or print, simplify, darken, soften, crop, or further defocus the background before approval.
+
+The intended hierarchy is: **printed design first, garment second, merchandising context third**.
+
 ## Allowed merchandising styling
 
 Presentation may be adjusted when the underlying product remains truthful. Appropriate examples include:
@@ -96,7 +111,8 @@ Before approving any standardized LP product image, the Creative Director should
 - Are the artwork proportions, wording, typography, illustration, colors, and composition materially faithful to the locked source?
 - Are any styling changes presentation-only rather than product changes?
 - Is the design easy to inspect and not obscured?
-- Is the background/context subordinate enough that the product remains the visual hero, especially on mobile?
+- Is the background sufficiently soft, low-detail, and subordinate that the shirt and print win the first visual read on mobile?
+- Does the image avoid crisp or readable background elements that compete with the product?
 - Is the image presentation quality broadly fair relative to the other products?
 - Would a visitor who liked this image receive substantially the product they thought they were evaluating?
 
