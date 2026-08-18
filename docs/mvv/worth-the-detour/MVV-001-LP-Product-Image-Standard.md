@@ -4,7 +4,7 @@ brand: Worth the Detour
 experiment_id: mvv-r012-001
 owner: Creative Director
 status: Proposed
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
 # MVV-001 — Landing-Page Product Image Standard
@@ -65,6 +65,19 @@ For primary LP product images, especially on mobile:
 
 The intended hierarchy is: **printed design first, garment second, merchandising context third**.
 
+## Audience-aligned merchandising presentation
+
+The merchandising presentation should support the intended audience expression of the locked product without changing the product itself.
+
+- If a locked design is intentionally **female-oriented**, use presentation cues that feel naturally compatible with that expression — for example styling, drape, surrounding context, props, lighting, or overall visual tone may lean more feminine.
+- If a locked design is intentionally **male-oriented**, the presentation may use correspondingly masculine cues when they help the product feel naturally merchandised for that audience.
+- If a design is **gender-neutral / unisex in expression**, keep the presentation broadly gender-neutral rather than imposing a gendered styling direction that is not present in the product.
+- Audience-aligned styling must remain restrained and product-led. Do not use exaggerated stereotypes, costume-like styling, or a dense collection of gender-coded props that overwhelms the shirt.
+- Gender / audience expression is a merchandising variable only. It must never change the intended garment blank, fit, print, artwork, print scale, placement, or any other locked product fact.
+- Assortment-level fairness still applies: a gender-targeted product should not receive materially more elaborate, premium, or attention-grabbing photography than gender-neutral products merely because its styling direction differs.
+
+The goal is for the presentation to feel **appropriate to the product's intended customer expression while remaining truthful, comparable, and subordinate to the product itself**.
+
 ## Allowed merchandising styling
 
 Presentation may be adjusted when the underlying product remains truthful. Appropriate examples include:
@@ -110,6 +123,7 @@ Before approving any standardized LP product image, the Creative Director should
 - When compared directly with the locked source, are the print's relative size and placement on the garment materially faithful?
 - Are the artwork proportions, wording, typography, illustration, colors, and composition materially faithful to the locked source?
 - Are any styling changes presentation-only rather than product changes?
+- If the product has an intentional female-oriented, male-oriented, or gender-neutral expression, does the merchandising presentation support that expression appropriately without stereotyping or over-styling?
 - Is the design easy to inspect and not obscured?
 - Is the background sufficiently soft, low-detail, and subordinate that the shirt and print win the first visual read on mobile?
 - Does the image avoid crisp or readable background elements that compete with the product?
@@ -117,6 +131,16 @@ Before approving any standardized LP product image, the Creative Director should
 - Would a visitor who liked this image receive substantially the product they thought they were evaluating?
 
 If any answer is no, revise the image before approval.
+
+## Required creation-review-approval discipline
+
+For every LP primary product image, use this sequence rather than moving directly from generation to Founder approval:
+
+**Create candidate → Creative Director reviews candidate against this standard and the exact locked source → refine any material failures → repeat review if needed → Creative Director recommends approval → Founder approves → archive and verify in GitHub.**
+
+The Creative Director must explicitly perform the review step even when the first candidate looks strong. The purpose is not to force an extra generation pass; it is to ensure the candidate has been consciously checked for product truth, locked-design fidelity, garment realism, focal hierarchy, audience-aligned merchandising, and assortment fairness before approval.
+
+A candidate that passes the standard may be approved without another refinement pass. A candidate that fails any material requirement should be revised before Founder approval.
 
 ## Execution approach for MVV #1
 
