@@ -125,3 +125,87 @@ A1 applies the LP image standard refined through B2 and A1 review:
 The repository PNG was verified against the founder-approved file. The repository-reported Git blob SHA-1 exactly matches the expected Git blob SHA-1 recorded for the approved bytes.
 
 A1 is therefore fully archived as the second standardized primary LP product image for MVV #1.
+
+---
+
+## A3 — The Good Ones Don’t Shout
+
+**design_id:** `A3`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-A3-LOCKED.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-A3-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`99f1b8605fcd6c0bed9d4806bd7da7c36487e93c975c7d24586b084010a0e0f2`
+
+**Verified Git blob SHA-1:**
+
+`ea05886be41d2ed6acec2060a53a29c05170d0a5`
+
+**Founder approval:** 2026-08-17
+
+### Approved presentation treatment
+
+- mobile-first portrait composition;
+- restrained hanger presentation with rolled sleeves;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- Danish MCM chair artwork, wording, colors, print scale, and placement remain materially faithful to the locked A3 source;
+- composition preserves A3's understated, refined, quiet-confidence character;
+- antique-shop background remains softly defocused and subordinate to the product;
+- image is a merchandising derivative only and does not supersede the locked A3 source.
+
+### Archive verification
+
+The repository PNG was verified against the founder-approved file. The SHA-256 and Git blob SHA-1 exactly match the approved local bytes recorded before upload.
+
+A3 is therefore fully archived as a standardized primary LP product image for MVV #1.
+
+---
+
+## YIF-M — Yeah, It’ll Fit — restrained
+
+**design_id:** `YIF-M`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-YIF-M-LOCKED.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-YIF-M-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`8ca6332671c6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
+
+**Verified Git blob SHA-1:**
+
+`8493ce47a46d8f3e3b414a3693bd9d3967b8f9b6`
+
+**Founder approval:** 2026-08-17
+
+### Approved presentation treatment
+
+- mobile-first portrait composition;
+- restrained hanger presentation with rolled sleeves;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- locked `YEAH, it’ll fit.` typography, car/chair illustration, colors, relative print scale, and placement remain materially faithful to the locked YIF-M source;
+- garment surface reads as natural cotton jersey rather than decorative generated texture;
+- background is softened and low-detail so the louder product graphic remains the clear focal point;
+- image is a merchandising derivative only and does not supersede the locked YIF-M source.
+
+### Archive verification
+
+The repository PNG was verified against the founder-approved file. The SHA-256 and Git blob SHA-1 exactly match the approved local bytes recorded before upload.
+
+YIF-M is therefore fully archived as a standardized primary LP product image for MVV #1.
