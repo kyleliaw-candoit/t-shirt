@@ -80,3 +80,46 @@ Do not force every product into the same hanger, antique props, or exact backgro
 The repository PNG was verified against the founder-approved local file. The SHA-256 matches exactly, and the repository-reported Git blob SHA-1 matches the independently calculated Git blob SHA-1 for the approved bytes.
 
 B2 is therefore the first fully archived standardized primary LP product image for MVV #1.
+
+---
+
+## A1 — Good Antiques Don’t Shout
+
+**design_id:** `A1`
+
+**Status:** `FOUNDER_APPROVED_PENDING_REPOSITORY_ARCHIVE`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-A1-LOCKED.png`
+
+**Intended canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-A1-LP-PRIMARY.png`
+
+**Founder-approved LP image SHA-256:**
+
+`a6a9788f8fabed4a31455bc20b43e294a86df25a730fd9fdc59447ffa1cc06c8`
+
+**Expected Git blob SHA-1:**
+
+`d4456edeb908010d743a857a57f461aca1f55998`
+
+**Founder approval:** 2026-08-17
+
+### Approved presentation treatment
+
+A1 applies the LP image standard refined through B2 and A1 review:
+
+- mobile-first portrait composition;
+- front-facing hanger presentation with restrained rolled sleeves;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- locked chair illustration, wording, color relationships, print scale, and placement remain authoritative;
+- antique-shop context supports the brand world without becoming the subject;
+- background is intentionally softened and defocused so the printed design reads first, garment second, context third;
+- background objects and signage are subordinate and do not compete with the shirt on a phone screen;
+- image remains a merchandising derivative only and does not supersede the locked A1 source.
+
+### Archive completion requirement
+
+Upload the founder-approved PNG byte-for-byte to the intended canonical path above and verify it against both the SHA-256 and expected Git blob SHA-1 before changing this entry to `LOCKED / ARCHIVED`.
