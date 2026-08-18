@@ -4,7 +4,7 @@ brand: Worth the Detour
 experiment_id: mvv-r012-001
 owner: Creative Director
 status: Working
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 related_issue: 55
 ---
 
@@ -209,3 +209,45 @@ A3 is therefore fully archived as a standardized primary LP product image for MV
 The repository PNG was verified against the founder-approved file. The SHA-256 and Git blob SHA-1 exactly match the approved local bytes recorded before upload.
 
 YIF-M is therefore fully archived as a standardized primary LP product image for MVV #1.
+
+---
+
+## YIF-F — Yeah, It’ll Fit — female-oriented
+
+**design_id:** `YIF-F`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-YIF-F-LOCKED.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-YIF-F-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`4855139537718fe6f89b5cb6ca5ddcfaf135e19e552451d32afaecc9c905e984`
+
+**Verified Git blob SHA-1:**
+
+`3789730700750993537bd44aebab853e5b9ec08e`
+
+**Founder approval:** 2026-08-18
+
+### Approved presentation treatment
+
+- mobile-first portrait composition;
+- intended Comfort Colors 1717 ivory / natural garment character retained;
+- locked `YEAH, it’ll fit.` typography, pink chair / cream car illustration, sparkles, colors, relative print scale, and placement remain materially faithful to the locked YIF-F source;
+- merchandising presentation uses restrained female-oriented cues appropriate to the product rather than changing the garment or design itself;
+- background remains simplified, softly defocused, and subordinate so the design reads first, garment second, context third;
+- styling remains broadly fair and comparable to the rest of the assortment;
+- image is a merchandising derivative only and does not supersede the locked YIF-F source.
+
+### Archive verification
+
+The repository PNG was verified against the founder-approved local file. The SHA-256 and Git blob SHA-1 exactly match the approved bytes recorded before upload.
+
+YIF-F is therefore fully archived as a standardized primary LP product image for MVV #1.

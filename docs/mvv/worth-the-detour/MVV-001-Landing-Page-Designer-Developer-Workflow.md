@@ -3,8 +3,8 @@ title: MVV-001 Landing Page Designer-Developer Workflow
 brand: Worth the Detour
 experiment_id: mvv-r012-001
 status: Proposed
-version: 0.1
-last_updated: 2026-08-17
+version: 0.2
+last_updated: 2026-08-18
 related_issue: 55
 ---
 
@@ -150,7 +150,8 @@ Before Phase A coding begins, the Creative Director should provide or approve en
 
 2. **Customer-facing product assets**
    - one approved primary product image per included design;
-   - detail / inspection images only where they materially improve fair comprehension.
+   - detail / inspection images only where they materially improve fair comprehension;
+   - each primary product image must have passed the canonical `MVV-001-LP-Product-Image-Standard.md` review gate before it is treated as approved.
 
 3. **Creative Presentation Specification**
    - intended product presentation;
@@ -175,6 +176,25 @@ Before Phase A coding begins, the Creative Director should provide or approve en
    - does not need to be a full pixel-perfect Figma design for MVV #1.
 
 A visual reference is strongly preferred when prose alone would leave Codex with wide latitude over hierarchy or presentation.
+
+### Product-image creation / review gate
+
+For every LP primary product image, the Creative Director must follow the canonical product-image sequence:
+
+**Create candidate → review against the exact locked source and `MVV-001-LP-Product-Image-Standard.md` → refine material failures → recommend approval → Founder approves → archive / verify in GitHub.**
+
+The review step is mandatory even when the first candidate looks acceptable. It is acceptable for the Creative Director to conclude that no refinement is needed, but the review itself should not be skipped.
+
+The review should explicitly check, at minimum:
+
+- locked-design fidelity, including print size and placement;
+- garment / material realism;
+- focal hierarchy and background subordination;
+- appropriate audience / gender-expression merchandising where relevant;
+- fair presentation relative to the assortment;
+- mobile inspectability.
+
+An approved LP primary image is not canonical until its archive record and binary asset are represented and verified in GitHub.
 
 ---
 
@@ -310,6 +330,7 @@ The Founder explicitly approves each merge.
 The Phase A loop is complete when:
 
 - the Creative Director's required assets / specification are represented in canonical GitHub inputs;
+- every canonical LP primary product image has passed the product-image standard review gate and has been Founder-approved / archived as required;
 - Codex has implemented the approved experience without material undocumented reinterpretation;
 - the rendered page has been reviewed by the Creative Director;
 - material creative / implementation issues are resolved;
