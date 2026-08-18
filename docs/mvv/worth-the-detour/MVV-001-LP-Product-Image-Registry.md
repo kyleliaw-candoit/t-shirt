@@ -132,21 +132,21 @@ A1 is therefore fully archived as the second standardized primary LP product ima
 
 **design_id:** `A3`
 
-**Status:** `FOUNDER_APPROVED_PENDING_REPOSITORY_ARCHIVE`
+**Status:** `LOCKED / ARCHIVED`
 
 **Locked T-shirt design source:**
 
 `docs/creative/assets/R012/R012-A3-LOCKED.png`
 
-**Intended canonical LP primary image path:**
+**Canonical LP primary image path:**
 
 `docs/mvv/worth-the-detour/assets/lp-products/R012-A3-LP-PRIMARY.png`
 
-**Founder-approved LP image SHA-256:**
+**Verified SHA-256:**
 
 `99f1b8605fcd6c0bed9d4806bd7da7c36487e93c975c7d24586b084010a0e0f2`
 
-**Expected Git blob SHA-1:**
+**Verified Git blob SHA-1:**
 
 `ea05886be41d2ed6acec2060a53a29c05170d0a5`
 
@@ -162,9 +162,11 @@ A1 is therefore fully archived as the second standardized primary LP product ima
 - antique-shop background remains softly defocused and subordinate to the product;
 - image is a merchandising derivative only and does not supersede the locked A3 source.
 
-### Archive completion requirement
+### Archive verification
 
-Upload the founder-approved PNG byte-for-byte to the intended canonical path above and verify it against both recorded hashes before changing this entry to `LOCKED / ARCHIVED`.
+The repository PNG was verified against the founder-approved file. The SHA-256 and Git blob SHA-1 exactly match the approved local bytes recorded before upload.
+
+A3 is therefore fully archived as a standardized primary LP product image for MVV #1.
 
 ---
 
@@ -172,21 +174,21 @@ Upload the founder-approved PNG byte-for-byte to the intended canonical path abo
 
 **design_id:** `YIF-M`
 
-**Status:** `FOUNDER_APPROVED_PENDING_REPOSITORY_ARCHIVE`
+**Status:** `LOCKED / ARCHIVED`
 
 **Locked T-shirt design source:**
 
 `docs/creative/assets/R012/R012-YIF-M-LOCKED.png`
 
-**Intended canonical LP primary image path:**
+**Canonical LP primary image path:**
 
 `docs/mvv/worth-the-detour/assets/lp-products/R012-YIF-M-LP-PRIMARY.png`
 
-**Founder-approved LP image SHA-256:**
+**Verified SHA-256:**
 
 `8ca6332671c6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
 
-**Expected Git blob SHA-1:**
+**Verified Git blob SHA-1:**
 
 `8493ce47a46d8f3e3b414a3693bd9d3967b8f9b6`
 
@@ -202,6 +204,8 @@ Upload the founder-approved PNG byte-for-byte to the intended canonical path abo
 - background is softened and low-detail so the louder product graphic remains the clear focal point;
 - image is a merchandising derivative only and does not supersede the locked YIF-M source.
 
-### Archive completion requirement
+### Archive verification
 
-Upload the founder-approved PNG byte-for-byte to the intended canonical path above and verify it against both recorded hashes before changing this entry to `LOCKED / ARCHIVED`.
+The repository PNG was verified against the founder-approved file. The SHA-256 and Git blob SHA-1 exactly match the approved local bytes recorded before upload.
+
+YIF-M is therefore fully archived as a standardized primary LP product image for MVV #1.
