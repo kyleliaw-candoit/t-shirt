@@ -87,21 +87,21 @@ B2 is therefore the first fully archived standardized primary LP product image f
 
 **design_id:** `A1`
 
-**Status:** `FOUNDER_APPROVED_PENDING_REPOSITORY_ARCHIVE`
+**Status:** `LOCKED / ARCHIVED`
 
 **Locked T-shirt design source:**
 
 `docs/creative/assets/R012/R012-A1-LOCKED.png`
 
-**Intended canonical LP primary image path:**
+**Canonical LP primary image path:**
 
 `docs/mvv/worth-the-detour/assets/lp-products/R012-A1-LP-PRIMARY.png`
 
-**Founder-approved LP image SHA-256:**
+**Verified SHA-256:**
 
 `a6a9788f8fabed4a31455bc20b43e294a86df25a730fd9fdc59447ffa1cc06c8`
 
-**Expected Git blob SHA-1:**
+**Verified Git blob SHA-1:**
 
 `d4456edeb908010d743a857a57f461aca1f55998`
 
@@ -120,6 +120,8 @@ A1 applies the LP image standard refined through B2 and A1 review:
 - background objects and signage are subordinate and do not compete with the shirt on a phone screen;
 - image remains a merchandising derivative only and does not supersede the locked A1 source.
 
-### Archive completion requirement
+### Archive verification
 
-Upload the founder-approved PNG byte-for-byte to the intended canonical path above and verify it against both the SHA-256 and expected Git blob SHA-1 before changing this entry to `LOCKED / ARCHIVED`.
+The repository PNG was verified against the founder-approved file. The repository-reported Git blob SHA-1 exactly matches the expected Git blob SHA-1 recorded for the approved bytes.
+
+A1 is therefore fully archived as the second standardized primary LP product image for MVV #1.
