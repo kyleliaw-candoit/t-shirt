@@ -86,6 +86,7 @@ Presentation may be adjusted when the underlying product remains truthful. Appro
 - tying or lightly tucking a shirt when appropriate to the intended styling;
 - arranging natural fabric folds;
 - changing crop, framing, orientation, or background;
+- when using a wooden hanger, the top hook does not need to remain visible in-frame; showing the wooden hanger body is sufficient to communicate the merchandising cue and allows the shirt to fill more of a mobile-first image rather than being pushed downward and reduced in apparent size;
 - using restrained props or accessories beside the garment;
 - cleaning up stray objects or neighboring garments from a source image;
 - normalizing lighting and presentation so the assortment feels like one coherent mock store.

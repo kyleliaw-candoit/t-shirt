@@ -334,3 +334,48 @@ C2 is therefore fully archived as a standardized primary LP product image for MV
 The repository PNG was verified against the founder-approved local file. The repository-reported Git blob SHA-1 exactly matches the independently calculated Git blob SHA-1 for the approved bytes; the recorded SHA-256 is the approved local file fingerprint.
 
 C3B is therefore fully archived as a standardized primary LP product image for MVV #1.
+
+---
+
+## Fashion-1D-F — Treasure Hunter — Retro Script, Female-Leaning
+
+**design_id:** `Fashion-1D-F`
+
+**Status:** `LOCKED / ARCHIVED`
+
+**Locked T-shirt design source:**
+
+`docs/creative/assets/R012/R012-Fashion-1D-F-LOCKED-SOURCE.png`
+
+**Canonical LP primary image path:**
+
+`docs/mvv/worth-the-detour/assets/lp-products/R012-Fashion-1D-F-LP-PRIMARY.png`
+
+**Verified SHA-256:**
+
+`73bebd0de7dfaf0fe90d842a270dbbbe3a8c09d5e13e6181ce58be779d990b28`
+
+**Verified Git blob SHA-1:**
+
+`9167f9cc1d98c426fb66088e1094ba4ce4b67749`
+
+**Founder approval:** 2026-08-18
+
+### Approved presentation treatment
+
+- mobile-first portrait composition using the same general vertical format as the approved LP assortment;
+- tighter crop deliberately lets the T-shirt fill more of the frame for easier product inspection on a small phone screen while retaining a small amount of merchandising context;
+- wooden hanger presentation is retained, but the top hook is not required in-frame; the visible wooden hanger body communicates the cue without pushing the garment downward or making it unnecessarily smaller;
+- restrained lower-right side knot provides an intentional female-oriented merchandising cue without changing the underlying garment or product design;
+- intended Comfort Colors 1717 ivory / warm-neutral, heavyweight, garment-dyed, relaxed product character is retained;
+- locked `Treasure Hunter` retro script, rust-orange rays, antique-key illustration, `FIND. DISCOVER. KEEP.`, `WD`, colors, overall composition, relative print scale, and chest placement remain materially faithful to the locked Fashion-1D-F source;
+- lighting is warm, bright, and positive rather than overly dark or moody;
+- antique / vintage context is intentionally restrained and softly defocused so the printed design remains the first read, garment second, context third;
+- faint environmental lettering may remain if sufficiently blurred and low-contrast that it does not materially compete with the shirt;
+- image is a merchandising derivative only and does not supersede the locked Fashion-1D-F source.
+
+### Archive verification
+
+The repository PNG was verified against the Founder-approved local file. The repository-reported Git blob SHA-1 exactly matches the expected Git blob SHA-1 for the approved bytes, and the canonical asset path omits workflow descriptors such as `cropped`.
+
+Fashion-1D-F is therefore fully archived as a standardized primary LP product image for MVV #1.
