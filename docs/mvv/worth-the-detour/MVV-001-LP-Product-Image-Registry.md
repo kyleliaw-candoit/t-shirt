@@ -186,7 +186,7 @@ A3 is therefore fully archived as a standardized primary LP product image for MV
 
 **Verified SHA-256:**
 
-`8ca6332671c6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
+`8ca6332671b6c77bb8970cacd6dc8ca8a50a35627a5e138318fe17f13333d942`
 
 **Verified Git blob SHA-1:**
 
@@ -341,7 +341,7 @@ C3B is therefore fully archived as a standardized primary LP product image for M
 
 **design_id:** `Fashion-1D-F`
 
-**Status:** `FOUNDER APPROVED / AWAITING ARCHIVE VERIFICATION`
+**Status:** `LOCKED / ARCHIVED`
 
 **Locked T-shirt design source:**
 
@@ -351,11 +351,11 @@ C3B is therefore fully archived as a standardized primary LP product image for M
 
 `docs/mvv/worth-the-detour/assets/lp-products/R012-Fashion-1D-F-LP-PRIMARY.png`
 
-**Founder-approved local SHA-256:**
+**Verified SHA-256:**
 
 `73bebd0de7dfaf0fe90d842a270dbbbe3a8c09d5e13e6181ce58be779d990b28`
 
-**Expected Git blob SHA-1 for approved bytes:**
+**Verified Git blob SHA-1:**
 
 `9167f9cc1d98c426fb66088e1094ba4ce4b67749`
 
@@ -376,4 +376,6 @@ C3B is therefore fully archived as a standardized primary LP product image for M
 
 ### Archive verification
 
-Founder approved the final cropped PNG on 2026-08-18. The approved local bytes have been fingerprinted above. Repository archive verification remains pending until the PNG is uploaded to the canonical LP product directory on this PR branch and its repository blob is checked against the expected hashes.
+The repository PNG was verified against the Founder-approved local file. The repository-reported Git blob SHA-1 exactly matches the expected Git blob SHA-1 for the approved bytes, and the canonical asset path omits workflow descriptors such as `cropped`.
+
+Fashion-1D-F is therefore fully archived as a standardized primary LP product image for MVV #1.
