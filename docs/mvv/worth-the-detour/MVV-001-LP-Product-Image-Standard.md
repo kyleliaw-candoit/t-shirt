@@ -50,6 +50,12 @@ The garment should read like the intended production blank rather than a stylize
 
 Avoid generated surface treatments that make the shirt appear embossed, jacquard, woven, quilted, unusually fuzzy, glossy, paper-like, or otherwise materially different from the intended cotton jersey. Natural cotton texture, stitching, wrinkles, and soft tonal variation are acceptable when they remain believable for the production garment.
 
+## Garment silhouette and proportion fidelity
+
+LP images must preserve the **actual production blank's overall proportions and fit**, not merely its color and fabric character. Use the current Printful product specification and size/fit reference for the intended blank when judging or generating garment shape.
+
+For the current Comfort Colors 1717 baseline, presentation should read as the relaxed, structured, heavyweight unisex silhouette documented by Printful. Do not allow generated mockups to drift into an elongated, narrow fashion-tee shape, an unusually cropped or fitted silhouette, or any other body-length / body-width / sleeve proportion that materially changes how the production garment would appear. Natural drape and lower-hem gathering may alter the apparent outline slightly, but the underlying shirt proportions should remain credible for the actual blank.
+
 ## Background and focal-hierarchy requirements
 
 Background context may establish the Worth the Detour world, but it must remain **visually subordinate to the garment and printed design**.
@@ -120,6 +126,7 @@ Before approving any standardized LP product image, the Creative Director should
 
 - Does this still look like the intended Printful garment, fabric, and fit?
 - Does the garment surface/material read naturally for the intended production blank rather than as a decorative generated texture?
+- Are the garment's overall body length, body width, sleeve proportions, and silhouette credible for the actual production blank rather than a generic generated T-shirt shape?
 - Is the locked T-shirt design preserved faithfully?
 - When compared directly with the locked source, are the print's relative size and placement on the garment materially faithful?
 - Are the artwork proportions, wording, typography, illustration, colors, and composition materially faithful to the locked source?
