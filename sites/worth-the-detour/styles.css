@@ -33,7 +33,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   width: min(100% - 2rem, 72rem);
   margin-inline: auto;
 }
-.hero__inner { padding: clamp(3.5rem, 9vw, 7rem) 0 clamp(3rem, 7vw, 5.5rem); }
+.hero__inner { padding: clamp(2rem, 5vw, 3.5rem) 0 clamp(1.75rem, 4vw, 3rem); }
 .brand, .eyebrow {
   margin: 0 0 1rem;
   color: var(--accent);
@@ -46,14 +46,14 @@ button:focus-visible, a:focus-visible, input:focus-visible {
 .hero h1 {
   max-width: 13ch;
   margin: 0;
-  font-size: clamp(2.6rem, 8vw, 5.5rem);
+  font-size: clamp(2.35rem, 6vw, 4.25rem);
   font-weight: 500;
   letter-spacing: -.035em;
   line-height: .98;
 }
 .hero__description {
   max-width: 39rem;
-  margin: 1.5rem 0 2rem;
+  margin: 1rem 0 1.25rem;
   color: var(--muted);
   font-size: clamp(1.05rem, 2.5vw, 1.3rem);
 }
@@ -68,8 +68,8 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   text-underline-offset: .3em;
 }
 
-.collection { padding-block: clamp(3.5rem, 7vw, 6.5rem); }
-.collection__header { margin-bottom: 2.25rem; }
+.collection { padding: clamp(2.25rem, 4vw, 3.5rem) 0 clamp(3.5rem, 7vw, 6.5rem); }
+.collection__header { margin-bottom: 1.5rem; }
 .collection__header h2 {
   margin: 0;
   font-size: clamp(2.2rem, 5vw, 3.8rem);
