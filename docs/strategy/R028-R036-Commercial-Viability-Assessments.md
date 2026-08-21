@@ -1,7 +1,7 @@
 ---
 title: R028-R036 Commercial Viability Assessments — Batch C
 owner: Strategy Advisor
-status: Provisional — Founder Advantage pending
+status: Draft Complete
 methodology: Strategy Advisor Methodology v0.3 + T-Shirt Value Stack Addendum v0.1
 last_updated: 2026-08-21
 scope: R028 Home Baristas / Home Espresso Hobbyists; R032 Railfans; R033 Chiliheads; R034 Amateur Astronomers; R036 Fountain Pen & Stationery Enthusiasts
@@ -12,302 +12,144 @@ tracks: Issue #76
 
 ## Execution Note
 
-This is Strategy Advisor Pass 1 for the third five identities in the R021–R040 wave. Founder Advantage remains pending and is not fabricated. Marketplace analysis is representative and stops once demand validation, crowding, and plausible whitespace are clear.
+Founder Advantage uses the founder's self-rated 1–10 input translated to the established 1–5 Strategy scale: 1–2→1, 3–4→2, 5–6→3, 7–8→4, 9–10→5. Marketplace evidence is representative and directional rather than audited.
 
----
+## Batch Summary
 
-# Batch Summary
-
-| ID | Identity | Identity-to-Purchase | Market Evidence | Competitive Opportunity | Creative / Product Depth | Founder Advantage | Testability / MVP Fit | Competition Diagnosis | Provisional Disposition |
-|---|---|---:|---:|---:|---|---:|---|---|
-| R028 | Home Baristas / Home Espresso Hobbyists | 4 | 4 | 4 | 5 | Pending | 5 | Validated / open inside crowded coffee market | **Advance** |
-| R032 | Railfans | 5 | 5 | 3 | 5 | Pending | 4 | Validated / crowded, affiliation-heavy | **Advance, but narrow/reframe** |
-| R033 | Chiliheads | 4 | 4 | 3 | 5 | Pending | 5 | Validated / moderately crowded | **Advance** |
-| R034 | Amateur Astronomers | 4 | 4 | 3 | 5 | Pending | 4 | Validated / crowded broad-space market | **Advance, but narrow/reframe** |
-| R036 | Fountain Pen & Stationery Enthusiasts | 3 | 3 | 4 | 5 | Pending | 4 | Validated / relatively open at sub-identity level | **Advance, but narrow/reframe** |
+| ID | Identity | Identity-to-Purchase | Market Evidence | Competitive Opportunity | Creative / Product Depth | Founder Execution Advantage | Testability / MVP Fit | Competition Diagnosis | Strategic Disposition |
+|---|---|---:|---:|---:|---:|---:|---:|---|---|
+| R028 | Home Baristas / Home Espresso Hobbyists | 4 | 4 | 4 | 5 | 2 | 5 | Validated / open inside crowded coffee market | **Advance** |
+| R032 | Railfans | 5 | 5 | 3 | 5 | 2 | 4 | Validated / crowded, affiliation-heavy | **Advance, but narrow/reframe** |
+| R033 | Chiliheads | 4 | 4 | 3 | 5 | 1 | 5 | Validated / moderately crowded | **Advance, but narrow/reframe** |
+| R034 | Amateur Astronomers | 4 | 4 | 3 | 5 | 1 | 4 | Validated / crowded broad-space market | **Watch / later** |
+| R036 | Fountain Pen & Stationery Enthusiasts | 3 | 3 | 4 | 5 | 1 | 4 | Validated / relatively open at sub-identity level | **Watch / later** |
 
 ## Batch-Level Read
 
-R028 Home Baristas is the cleanest strategic candidate in this batch. Generic coffee apparel is enormous and commoditized, but the **home espresso workflow identity** is meaningfully narrower and appears less fully served. It also has excellent T-shirt participation fit without requiring technical apparel.
+**R028 Home Baristas / Home Espresso Hobbyists** is the cleanest candidate in this batch. Generic coffee apparel is commoditized, but the narrower home-espresso workflow identity is less fully served, and the founder's 4/10 familiarity reduces execution risk somewhat.
 
-R033 Chiliheads is similarly interesting because the strongest territory extends beyond generic “I like spicy food” into flavor, growing, fermentation, collecting, and maker support. Its challenge is avoiding macho pain-only positioning and broad foodie dilution.
+**R032 Railfans** has the strongest raw identity and merchandise structure, but the most powerful signals often belong to specific railroad, locomotive, route, museum, or heritage affiliations. That validates demand while creating trademark/licensing constraints.
 
-R032 Railfans has the strongest raw identity and merchandise structure, but specific railroad affiliation is often the strongest signal. That creates both a commercial advantage and a major trademark/licensing constraint for an independent entrant.
+**R033 Chiliheads** remains attractive when framed around flavor, growing, fermenting, collecting, and maker culture rather than macho heat tolerance. Founder Advantage is only 1/10, so insider review is mandatory.
 
-R034 Amateur Astronomers is much stronger than generic “space lover” identity, but the marketplace is saturated with astronomy, NASA-like, solar-system, telescope, celestial, and stargazer imagery. The opportunity has to be observing behavior rather than cosmic decoration.
-
-R036 Fountain Pen & Stationery Enthusiasts is the most fragmented and least directly proven T-shirt opportunity. The tool itself is already a powerful peer signal. That makes a narrower fountain-pen behavioral test more compelling than a broad stationery brand hypothesis.
+**R034 Amateur Astronomers** and **R036 Fountain Pen & Stationery Enthusiasts** remain strong identities but weaker relative portfolio choices. Astronomy sits inside a huge generic space/celestial market; fountain-pen people often have higher-utility identity objects than printed apparel. Low Founder Advantage compounds both issues.
 
 ---
 
 # R028 — Home Baristas / Home Espresso Hobbyists
 
-## Commercial Thesis
+- **Identity-to-Purchase — 4/5:** strong workflow/equipment identity; apparel is plausible but equipment remains a stronger signal.
+- **Market Evidence — 4/5:** large surrounding barista/espresso market with a narrower home-barista layer.
+- **Competitive Opportunity — 4/5:** generic coffee is crowded; process-native domestic espresso identity is more open.
+- **Creative / Product Depth — 5/5:** dialing in, WDT, puck prep, dose/yield, channeling, grinders, milk texture, cleaning, gear-versus-skill tensions.
+- **Founder Execution Advantage — 2/5:** founder self-rating 4/10.
+- **Testability / MVP Fit — 5/5.**
 
-Home espresso is a strong practiced identity organized around ritual, sensory calibration, troubleshooting, and technical control. Generic coffee/barista apparel is heavily crowded, but much of that supply targets coffee lovers or professional café workers rather than the distinctive domestic identity of dialing in espresso at home.
+### T-Shirt Value Stack
+Identity gate **Strong**. Participation Utility **High**. Morning ritual, hosting, aesthetics, and giftability all add value.
 
-## Best Opportunity Territory
+**Primary opportunity:** home espresso competence and ritual, not generic coffee addiction.
 
-**The home espresso ritual: dial in, taste, adjust, repeat — and the domestic absurdity of taking one small drink extremely seriously.**
+**Primary risk:** customers prefer spending on machines, grinders, beans, cups, and roaster gear.
 
-## Six-Dimension Assessment
+**Critical unknown:** can home-barista identity convert into independent apparel purchase at a useful rate?
 
-- **Identity-to-Purchase Strength — 4/5:** strong self-recognition through workflow and equipment, with visible home-barista merchandise, but equipment/station aesthetics may signal the identity more strongly than apparel.
-- **Market Evidence — 4/5:** the surrounding barista/espresso apparel market is very large, while home-barista-specific products exist but are less mature and easier to separate conceptually from generic coffee fandom.
-- **Competitive Opportunity — 4/5:** generic coffee slogans, café occupation shirts, and espresso graphics are crowded; process-native home workflow appears materially more open.
-- **Creative / Product Depth — 5/5:** dialing in, channeling, WDT, dose/yield, grinder debates, puck prep, cleaning, milk texture, bean changes, “god shots,” and gear-versus-skill tensions provide exceptional depth.
-- **Founder Execution Advantage — Pending.**
-- **Testability / MVP Fit — 5/5:** digitally targetable, easy POD execution, immediate recognition, and clean distinction between generic coffee and home-espresso behavior.
-
-## Competition Diagnosis
-
-**Validated / open inside a crowded coffee market**
-
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Strong.
-- **Participation Utility / Apparel Fit:** High. Ordinary tees naturally fit the full home workflow, classes, tastings, roastery visits, and enthusiast events.
-- **Other meaningful layers:** morning ritual/emotional value; aesthetic compatibility with coffee-station culture; hosting/social value; giftability.
-- **Commercial interpretation:** participation utility and ritual frequency materially improve wardrobe relevance, while the narrower identity may avoid some generic coffee commoditization.
-
-## Primary Opportunity
-
-Own **home espresso competence and daily ritual**, not generic coffee addiction or professional barista identity.
-
-## Primary Risk
-
-The audience prefers equipment, beans, cups, or branded roaster gear as its identity purchases, making independent T-shirts secondary.
-
-## Critical Unknown
-
-Is home-barista identity strong enough to convert from equipment/process enthusiasm into independent apparel purchase at a useful rate?
-
-## MVP Testability
-
-**High**
-
-## Provisional Strategic Disposition
-
-**Advance**
+**Strategic disposition: Advance.**
 
 ---
 
 # R032 — Railfans
 
-## Commercial Thesis
+- **Identity-to-Purchase — 5/5:** extensive apparel, museum, route, locomotive, and event signaling.
+- **Market Evidence — 5/5:** mature societies, preservation lines, shows, travel, media, and merchandise.
+- **Competitive Opportunity — 3/5:** behavior territory exists, but specific affiliations dominate and many are protected.
+- **Creative / Product Depth — 5/5:** waiting, consists, route knowledge, photography, missed movements, operations, preservation, heritage.
+- **Founder Execution Advantage — 2/5:** founder self-rating 3/10.
+- **Testability / MVP Fit — 4/5.**
 
-Railfans have unusually durable identity, deep knowledge, intergenerational continuity, events/museums, travel, and strong apparel behavior. The market is commercially proven but heavily organized around specific railroads, locomotives, routes, heritage lines, and logos, which both validates demand and limits easy IP-safe entry territory.
+### T-Shirt Value Stack
+Identity gate **Strong**. Participation Utility **Medium to High**. Affiliation, nostalgia, place memory, and commemoration are exceptionally strong.
 
-## Best Opportunity Territory
+**Primary opportunity:** railfan behavior and practiced attention independent of protected railroad branding.
 
-**The practiced attention of railfanning: waiting, recognizing, documenting, chasing, route knowledge, missed trains, and seeing operational significance where others see “a train.”**
+**Primary risk:** specific-affiliation merchandise is more powerful than generic railfan identity.
 
-## Six-Dimension Assessment
+**Critical unknown:** can non-infringing behavior-native railfan identity compete with specific railroad merchandise?
 
-- **Identity-to-Purchase Strength — 5/5:** railroad/museum/event shirts, hats, patches, route and locomotive affiliation are deeply embedded in the culture.
-- **Market Evidence — 5/5:** mature historical societies, museums, preservation lines, shows, media, travel, and independent shirt supply strongly validate purchase behavior.
-- **Competitive Opportunity — 3/5:** generic railfan identity has room, but much demand clusters around specific protected names, logos, locomotives, routes, and heritage affiliations; generic train imagery is also polluted by children’s merchandise.
-- **Creative / Product Depth — 5/5:** waiting, sightings, consists, route knowledge, photography, missed movements, heritage units, fallen flags, operational language, and preservation create exceptional depth.
-- **Founder Execution Advantage — Pending.**
-- **Testability / MVP Fit — 4/5:** reachable enthusiast audience and strong POD fit, but regional/participation segmentation and trademark constraints make execution less simple than the raw identity suggests.
-
-## Competition Diagnosis
-
-**Validated / crowded, affiliation-heavy**
-
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Strong.
-- **Participation Utility / Apparel Fit:** Medium to High. Tees fit museums, shows, excursions, travel, clubs, conventions, and fair-weather trackside activity; weather/work settings add layers.
-- **Other meaningful layers:** affiliation and commemorative value are extremely high; nostalgia/emotional value; social recognition; travel/place memory.
-- **Commercial interpretation:** secondary value is strong, but specific affiliation may matter more than a generic railfan brand.
-
-## Primary Opportunity
-
-Own **railfan attention and behavior independent of protected railroad branding**, or select legally usable/localized territory with care.
-
-## Primary Risk
-
-The most commercially powerful signals belong to railroad companies, museums, routes, or locomotive marks that an independent entrant cannot freely appropriate.
-
-## Critical Unknown
-
-Can non-infringing behavior-native railfan identity compete with the much stronger specific-affiliation merchandise customers already buy?
-
-## MVP Testability
-
-**High / Medium**
-
-## Provisional Strategic Disposition
-
-**Advance, but narrow/reframe**
+**Strategic disposition: Advance, but narrow/reframe.**
 
 ---
 
 # R033 — Chiliheads
 
-## Commercial Thesis
+- **Identity-to-Purchase — 4/5:** producer/event shirts, pepper graphics, challenge memorabilia, and self-labeling validate signaling.
+- **Market Evidence — 4/5:** durable hot-sauce, pepper, festival, maker, seed, and enthusiast ecosystems.
+- **Competitive Opportunity — 3/5:** generic flames, bottles, pain jokes, and foodie gifting are common; flavor/grower/maker competence is less commoditized.
+- **Creative / Product Depth — 5/5:** cultivars, fermentation, harvest, tolerance, sauce flights, collecting, seed exchange, flavor-versus-heat tension.
+- **Founder Execution Advantage — 1/5:** founder self-rating 1/10.
+- **Testability / MVP Fit — 5/5.**
 
-Chiliheads form a recognizable identity around flavor, heat, cultivation, sauce-making, collecting, and shared sensory experience. Generic hot-sauce and spicy-food apparel is established, but the identity has richer behavioral territory than the dominant “I put hot sauce on everything” and pain/bravado layer.
+### T-Shirt Value Stack
+Identity gate **Strong**. Participation Utility **High**. Social, gift, sensory-humor, festival, and visual-food value are strong multipliers.
 
-## Best Opportunity Territory
+**Primary opportunity:** chilihead discernment and shared sensory culture, not macho heat bravado.
 
-**Flavor plus intensity: people who know peppers, sauces, growing, ferments, and heat well enough to care about more than proving toughness.**
+**Primary risk:** creative defaults to generic spicy-food humor.
 
-## Six-Dimension Assessment
+**Critical unknown:** can behavior-specific chilihead recognition outperform producer-specific loyalty and generic hot-sauce gifting?
 
-- **Identity-to-Purchase Strength — 4/5:** producer/event shirts, challenge memorabilia, pepper graphics, sauce collections, and self-labeling validate signaling, though some participants affiliate more strongly with specific sauce brands.
-- **Market Evidence — 4/5:** hot-sauce shirts and spicy-food products are clearly established; festivals, expos, makers, seeds, and sauce ecosystems reinforce a durable enthusiast layer.
-- **Competitive Opportunity — 3/5:** generic flames, hot-sauce bottles, “I put hot sauce on my hot sauce,” pain jokes, and foodie gifting are common; flavor/grower/maker competence remains less commoditized.
-- **Creative / Product Depth — 5/5:** cultivars, fermentation, harvest, tolerance, sauce flights, flavor-versus-heat tension, collecting, seed exchange, and shared burn provide abundant material.
-- **Founder Execution Advantage — Pending.**
-- **Testability / MVP Fit — 5/5:** strong digital reach, clear propositions, frequent consumption behavior, and straightforward POD.
-
-## Competition Diagnosis
-
-**Validated / moderately crowded**
-
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Strong.
-- **Participation Utility / Apparel Fit:** High. Tees fit eating, gardening, sauce-making, festivals, tastings, expos, and social events; safety gear is additive for superhot processing.
-- **Other meaningful layers:** social/conversational high; giftability high; event commemoration; sensory/emotional humor; visual food aesthetics.
-- **Commercial interpretation:** a strong multi-layer case, provided identity is not reduced to macho heat tolerance.
-
-## Primary Opportunity
-
-Own **chilihead discernment and shared sensory culture**, especially flavor, growing, making, collecting, and knowing one’s limits.
-
-## Primary Risk
-
-Creative defaults to generic spicy-food humor or extreme-eating bravado and loses the broader enthusiast identity.
-
-## Critical Unknown
-
-Can behavior-specific chilihead recognition outperform producer-specific loyalty and generic hot-sauce gifting?
-
-## MVP Testability
-
-**High**
-
-## Provisional Strategic Disposition
-
-**Advance**
+**Strategic disposition: Advance, but narrow/reframe.**
 
 ---
 
 # R034 — Amateur Astronomers
 
-## Commercial Thesis
+- **Identity-to-Purchase — 4/5:** club/event shirts validate signaling, but equipment, astrophotography, and observing credentials often carry stronger status.
+- **Market Evidence — 4/5:** broad astronomy/space apparel is very large and proven.
+- **Competitive Opportunity — 3/5:** practicing-observer behavior is more open, but generic space/telescope/celestial imagery is saturated.
+- **Creative / Product Depth — 5/5:** Bortle, seeing, transparency, dew, red-light etiquette, star hopping, polar alignment, clouds, sleep schedules, visual-versus-imaging tensions.
+- **Founder Execution Advantage — 1/5:** founder self-rating 1/10.
+- **Testability / MVP Fit — 4/5.**
 
-Amateur astronomers have a strong, durable practice identity built around observation, conditions, equipment, patience, outreach, and awe. The broad astronomy/space shirt market is enormous and crowded, but much of it targets generic science, celestial aesthetics, NASA/mission fandom, astrology-adjacent imagery, or casual stargazing rather than actual observing behavior.
+### T-Shirt Value Stack
+Identity gate **Strong** when scoped to practicing amateurs. Participation Utility **Medium**. Awe, education, outreach, and event value are more important than direct field utility.
 
-## Best Opportunity Territory
+**Primary opportunity:** actual observer life and clear-sky behavior.
 
-**The life organized around clear skies: weather checking, dark adaptation, red-light etiquette, dew, late nights, setup rituals, observing lists, and the emotional payoff of seeing something directly.**
+**Primary risk:** becoming indistinguishable from generic space/celestial merchandise.
 
-## Six-Dimension Assessment
+**Critical unknown:** can observer-specific recognition create enough incremental purchase intent to overcome saturation?
 
-- **Identity-to-Purchase Strength — 4/5:** club/event shirts and astronomy merchandise validate signaling, but telescopes, astrophotography, certificates, and equipment often carry stronger competence status.
-- **Market Evidence — 4/5:** current Etsy astronomy searches show thousands of products and telescope-specific searches show hundreds, with many high-review listings.
-- **Competitive Opportunity — 3/5:** generic space, solar-system, telescope, celestial, science, and stargazer graphics are heavily supplied; actual observer behavior is more open.
-- **Creative / Product Depth — 5/5:** Bortle, seeing, transparency, clouds, dew, red lights, star hopping, polar alignment, aperture fever, outreach, sleep schedules, and visual-versus-imaging tensions create deep insider recognition.
-- **Founder Execution Advantage — Pending.**
-- **Testability / MVP Fit — 4/5:** targetable and POD-friendly, but generic space audiences can contaminate paid tests unless acquisition/landing language clearly targets practicing amateurs.
-
-## Competition Diagnosis
-
-**Validated / crowded broad-space market**
-
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Strong for practicing amateur astronomers; weaker if broadened to space lovers.
-- **Participation Utility / Apparel Fit:** Medium. Tees fit meetings, outreach, daytime setup, travel, conferences, and warm evenings; serious night observing often requires heavy layers.
-- **Other meaningful layers:** awe/emotional value very high; educational/social value; event/club commemoration; cosmic aesthetics.
-- **Commercial interpretation:** emotional and social value matter more than direct night-observing utility.
-
-## Primary Opportunity
-
-Own **actual observer life and clear-sky behavior**, not generic cosmic imagery.
-
-## Primary Risk
-
-The brand is indistinguishable from the huge “space nerd / celestial / NASA-like” apparel universe.
-
-## Critical Unknown
-
-Can observer-specific recognition create a commercially meaningful niche inside the much larger generic astronomy/space market?
-
-## MVP Testability
-
-**High / Medium**
-
-## Provisional Strategic Disposition
-
-**Advance, but narrow/reframe**
+**Strategic disposition: Watch / later.**
 
 ---
 
 # R036 — Fountain Pen & Stationery Enthusiasts
 
-## Commercial Thesis
+- **Identity-to-Purchase — 3/5:** strong identity, but pens, ink, notebooks, cases, and bags are higher-utility identity objects.
+- **Market Evidence — 3/5:** real but comparatively small direct shirt market.
+- **Competitive Opportunity — 4/5:** behavioral whitespace exists, especially at the fountain-pen sub-identity level.
+- **Creative / Product Depth — 5/5:** nibs, filling systems, ink behavior, stains, paper failures, cleaning, NPD/NID, currently-inked rotations, collector/user tensions.
+- **Founder Execution Advantage — 1/5:** founder self-rating 1/10.
+- **Testability / MVP Fit — 4/5.**
 
-Fountain-pen and stationery identities have strong tactile rituals, technical language, collector behavior, and aesthetic meaning, but the umbrella is fragmented and the objects themselves are already powerful identity signals. The strongest commercial hypothesis is likely a narrow fountain-pen user identity rather than broad “stationery people.”
+### T-Shirt Value Stack
+Identity gate **Plausible to Strong** for fountain-pen users. Participation Utility is literally high but commercially weak: a tee does not add much practical value to writing. Aesthetic, nostalgia, analog ritual, and social value are stronger, while the pen/notebook remains the native signal.
 
-## Best Opportunity Territory
+**Primary opportunity:** fountain-pen user behavior and analog-writing ritual, not broad stationery aesthetics.
 
-**People who care about writing-tool details everyone else ignores: nib feel, ink behavior, paper compatibility, currently-inked rituals, stained fingers, and the pleasure of analog writing.**
+**Primary risk:** identity is strong but the apparel purchase bridge is weak.
 
-## Six-Dimension Assessment
+**Critical unknown:** will enthusiasts buy a shirt when their preferred identity spending goes to pens, ink, paper, and cases?
 
-- **Identity-to-Purchase Strength — 3/5:** strong identity and gift/signaling behavior exist, but pens, inks, notebooks, cases, and tote bags have more direct utility and may dominate identity spending.
-- **Market Evidence — 3/5:** a real shirt market exists but is comparatively small; current Etsy fountain-pen shirt searches surface hundreds rather than thousands of directly relevant products.
-- **Competitive Opportunity — 4/5:** the smaller category and fragmented umbrella leave behavioral whitespace, especially beyond patent diagrams and generic “I love pens” declarations.
-- **Creative / Product Depth — 5/5:** nibs, filling systems, ink properties, paper failures, stains, cleaning, NPD/NID, currently-inked rotations, collector/user tensions, and analog rituals are exceptionally rich.
-- **Founder Execution Advantage — Pending.**
-- **Testability / MVP Fit — 4/5:** digitally reachable but a broad stationery target would be muddy. A narrow fountain-pen test is much cleaner.
-
-## Competition Diagnosis
-
-**Validated / relatively open at sub-identity level**
-
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Plausible to Strong at the fountain-pen sub-identity level; weaker at the broad stationery umbrella.
-- **Participation Utility / Apparel Fit:** High in the literal sense—tees fit desk work, writing, meetups, and shows—but practical apparel utility adds little unique functional benefit to writing.
-- **Other meaningful layers:** aesthetic/taste value high; nostalgia and analog ritual high; giftability; show/club commemoration; social conversation.
-- **Commercial interpretation:** this illustrates why “can wear a tee during the activity” is not enough. The shirt fits participation, but the pen/notebook itself is the more useful and legible identity object.
-
-## Primary Opportunity
-
-Test **fountain-pen user behavior and analog-writing ritual**, not generic stationery aesthetics.
-
-## Primary Risk
-
-Customers strongly identify with the hobby but prefer spending on pens, ink, paper, cases, and notebooks rather than independent apparel.
-
-## Critical Unknown
-
-Is the identity-to-purchase bridge strong enough for T-shirts when higher-utility identity objects are already central to the hobby?
-
-## MVP Testability
-
-**High / Medium**
-
-## Provisional Strategic Disposition
-
-**Advance, but narrow/reframe** — start with fountain-pen users rather than the full stationery umbrella.
+**Strategic disposition: Watch / later.**
 
 ---
 
-# Batch C Provisional Conclusion
+# Batch C Strategic Learning
 
-Pending Founder Advantage calibration, the within-batch strategic order is:
-
-1. **R028 Home Baristas / Home Espresso Hobbyists** — strong practiced identity, high participation utility, and a narrower behavioral wedge inside a crowded generic coffee market.
-2. **R033 Chiliheads** — strong value stack and rich behavior, with moderate rather than overwhelming differentiated-territory constraints.
-3. **R032 Railfans** — exceptionally strong identity and demand, but specific-affiliation/IP dependence materially complicates entry.
-4. **R034 Amateur Astronomers** — deep identity, but generic astronomy/space competition is massive and can obscure practicing-observer differentiation.
-5. **R036 Fountain Pen & Stationery Enthusiasts** — fascinating fragmented-niche candidate, but weaker direct T-shirt purchase evidence and strong substitute identity objects.
-
-This is provisional and not a final R021–R040 ranking.
+1. Narrow practiced identities can create whitespace inside huge generic categories; Home Espresso is the clearest example.
+2. Specific affiliation can be both demand proof and entry barrier; Railfans demonstrate this sharply.
+3. High participation fit still requires identity specificity; Chiliheads improves materially when framed around discernment rather than pain.
+4. Emotional value can matter more than functional participation utility; Astronomy is a strong example.
+5. Object-centric identities can have a weak apparel bridge despite rich identity; Fountain Pens is a useful boundary case.
