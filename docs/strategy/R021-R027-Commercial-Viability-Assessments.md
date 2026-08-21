@@ -1,7 +1,7 @@
 ---
 title: R021-R027 Commercial Viability Assessments — Batch A
 owner: Strategy Advisor
-status: Provisional — Founder Advantage pending
+status: Draft Complete
 methodology: Strategy Advisor Methodology v0.3 + T-Shirt Value Stack Addendum v0.1
 last_updated: 2026-08-21
 scope: R021 Potters / Ceramic Artists; R022 Mahjong Players; R024 Film Photographers; R025 Geocachers; R027 Preservation-Minded Old-House People
@@ -14,21 +14,31 @@ tracks: Issue #76
 
 This is Strategy Advisor Pass 1 for the first five identities in the R021–R040 research wave. It applies the canonical six-dimension methodology plus the qualitative T-Shirt Value Stack lens.
 
-**Founder Advantage is not scored in this draft.** All five Community Research reports leave Founder Advantage pending founder confirmation. Strategy will not invent personal familiarity, access, or lived fluency. The commercial analysis and dispositions below are therefore provisional pending that calibration.
+Founder Advantage uses the founder's 1–10 self-ratings as the source input and maps them to the existing 1–5 Strategy comparison scale consistently with prior R001–R020 assessments:
+
+- 1–2/10 → 1/5
+- 3–4/10 → 2/5
+- 5–6/10 → 3/5
+- 7–8/10 → 4/5
+- 9–10/10 → 5/5
 
 Marketplace analysis is representative and decision-oriented rather than exhaustive. Current marketplace observations were checked on 2026-08-21. Review counts, listing counts, discounts, and seller claims are directional evidence rather than audited unit sales.
+
+The commercial hierarchy remains:
+
+> **Identity signaling is the gate. Secondary T-shirt value layers are multipliers, not substitutes.**
 
 ---
 
 # Batch Summary
 
-| ID | Identity | Identity-to-Purchase | Market Evidence | Competitive Opportunity | Creative / Product Depth | Founder Advantage | Testability / MVP Fit | Competition Diagnosis | Provisional Disposition |
-|---|---|---:|---:|---:|---|---:|---|---|
-| R021 | Potters / Ceramic Artists | 5 | 5 | 2 | 5 | Pending | 5 | Validated / crowded | **Advance, but narrow/reframe** |
-| R022 | Mahjong Players | 5 | 4 | 3 | 5 | Pending | 4 | Validated / crowded, fragmented by variant | **Advance, but narrow/reframe** |
-| R024 | Film Photographers | 4 | 4 | 3 | 5 | Pending | 4 | Validated / crowded | **Advance, but narrow/reframe** |
-| R025 | Geocachers | 4 | 4 | 4 | 5 | Pending | 5 | Validated / relatively open | **Advance** |
-| R027 | Preservation-Minded Old-House People | 4 | 3 | 4 | 5 | Pending | 4 | Validated / open | **Advance** |
+| ID | Identity | Identity-to-Purchase | Market Evidence | Competitive Opportunity | Creative / Product Depth | Founder Execution Advantage | Testability / MVP Fit | Competition Diagnosis | Strategic Disposition |
+|---|---|---:|---:|---:|---:|---:|---:|---|---|
+| R021 | Potters / Ceramic Artists | 5 | 5 | 2 | 5 | 1 | 5 | Validated / crowded | **Advance, but narrow/reframe** |
+| R022 | Mahjong Players | 5 | 4 | 3 | 5 | 2 | 4 | Validated / crowded; fragmented by variant | **Advance, but narrow/reframe** |
+| R024 | Film Photographers | 4 | 4 | 3 | 5 | 1 | 4 | Validated / crowded | **Advance, but narrow/reframe** |
+| R025 | Geocachers | 4 | 4 | 4 | 5 | 1 | 5 | Validated / relatively open | **Advance** |
+| R027 | Preservation-Minded Old-House People | 4 | 3 | 4 | 5 | 2 | 4 | Validated / open | **Advance** |
 
 ## Batch-Level Read
 
@@ -42,13 +52,15 @@ The cleanest strategically interesting opportunities in this batch are **R025 Ge
 
 The new T-Shirt Value Stack lens is behaving as intended: secondary value strengthens already-real identity demand but does not erase competition. Pottery has high participation utility and still faces a crowded shirt market; Geocaching has somewhat lower universal participation utility but better whitespace and an unusually distinctive social/interactive shirt mechanism.
 
+Low Founder Advantage is a real execution constraint across Batch A, but not a veto. It should increase the need for insider review and reduce willingness to make large pre-validation bets.
+
 ---
 
 # R021 — Potters / Ceramic Artists
 
 ## Commercial Thesis
 
-Potters have strong practiced identity, direct independent apparel evidence, dense insider recognition, and a T-shirt that naturally functions as studio clothing. The broad market is already crowded with pottery puns and generic clay-lover language, so the opportunity depends on expressing the lived process rather than declaring the category.
+Potters have strong practiced identity, direct independent apparel evidence, dense insider recognition, and a T-shirt that naturally functions as studio clothing. The broad market is already crowded with pottery puns and generic clay-lover language, so the opportunity depends on expressing lived process rather than merely declaring the category.
 
 ## Best Opportunity Territory
 
@@ -58,42 +70,23 @@ Promising territory includes kiln-opening anticipation, reclaim, drying timing, 
 
 ## Six-Dimension Assessment
 
-### A. Identity-to-Purchase Strength — 5/5
-
-Community Research establishes explicit maker identity, abundant identity apparel, studio/member signaling, and strong self-recognition through process language. The shirt can be worn both as identity expression and during participation.
-
-### B. Market Evidence — 5/5
-
-Direct apparel supply is substantial. Current Etsy ceramics-shirt searches surface thousands of items, with many visible listings carrying high seller/review counts and recurring pottery-specific products. This is strong category validation even though listing volume is not audited demand.
-
-### C. Competitive Opportunity — 2/5
-
-The obvious layer is heavily commoditized. “Totally Kiln It,” “Seize the Clay,” “Pot Dealer,” pottery-therapy language, generic wheel graphics, and potter gifting recur across large numbers of listings, often with aggressive discounting.
-
-Whitespace must come from deeper process recognition and stronger design quality, not merely another clever clay pun.
-
-### D. Creative / Product Depth — 5/5
-
-Kiln cycles, firing failures, glaze chemistry, reclaim, centering, handbuilding versus throwing, studio etiquette, clay mess, seconds, and maker authorship support many distinct collections.
-
-### E. Founder Execution Advantage — Pending
-
-Founder pottery participation, studio access, technical fluency, and cultural access have not been established. This matters because shallow pottery puns are easy to write; behavior-native differentiation is harder.
-
-### F. Testability / MVP Fit — 5/5
-
-Identity is immediately legible, POD-compatible, digitally reachable, and capable of clean tests between generic category declaration and deeper studio recognition.
-
-## Competition Diagnosis
-
-**Validated / crowded**
+- **Identity-to-Purchase Strength — 5/5.** Explicit maker identity, abundant identity apparel, studio/member signaling, and strong self-recognition through process language. The shirt can be worn both as identity expression and during participation.
+- **Market Evidence — 5/5.** Current Etsy ceramics/pottery shirt searches surface thousands of items, with visible products carrying large review counts. Demand is strongly validated directionally.
+- **Competitive Opportunity — 2/5.** “Totally Kiln It,” “Pot Dealer,” therapy language, generic wheel graphics, and potter gifting recur heavily, often with aggressive discounting. Whitespace must come from deeper process recognition and stronger design.
+- **Creative / Product Depth — 5/5.** Kiln cycles, firing failures, glaze chemistry, reclaim, centering, handbuilding versus throwing, studio etiquette, seconds, and maker authorship support many distinct collections.
+- **Founder Execution Advantage — 1/5.** Founder self-rating: **1/10**. Technically shallow or culturally flattened work will be easy for practitioners to detect; insider validation is important.
+- **Testability / MVP Fit — 5/5.** Clear identity, POD compatibility, reachable audiences, and clean tests between generic category declaration and studio-native recognition.
 
 ## T-Shirt Value Stack
 
 - **Identity-signaling gate:** Strong.
-- **Participation Utility / Apparel Fit:** High. T-shirts are normal washable studio base clothing, though task-specific PPE remains necessary.
-- **Other meaningful layers:** social recognition at studios/classes/guilds; giftability; aesthetic opportunity through maker-oriented design.
-- **Commercial interpretation:** Participation utility strengthens wardrobe relevance and repeat ownership, but it does not compensate for the crowded generic-pun market.
+- **Participation Utility / Apparel Fit:** High. T-shirts are normal washable studio base clothing, though PPE remains necessary for specific tasks.
+- **Other meaningful layers:** social recognition at studios/classes/guilds; giftability; aesthetic maker value.
+- **Commercial interpretation:** Participation utility strengthens wardrobe relevance but does not compensate for the crowded generic market.
+
+## Competition Diagnosis
+
+**Validated / crowded**
 
 ## Primary Opportunity
 
@@ -101,7 +94,7 @@ Own **recognition of actual clay process and studio life**, especially uncertain
 
 ## Primary Risk
 
-Creative collapses into the already-saturated pottery-pun/gift market.
+Creative collapses into the already-saturated pottery-pun/gift market while low Founder Advantage produces outsider-level execution.
 
 ## Critical Unknown
 
@@ -111,7 +104,7 @@ Can process-native recognition plus stronger aesthetic execution materially outp
 
 **High**
 
-## Provisional Strategic Disposition
+## Strategic Disposition
 
 **Advance, but narrow/reframe**
 
@@ -121,7 +114,7 @@ Can process-native recognition plus stronger aesthetic execution materially outp
 
 ## Commercial Thesis
 
-Mahjong has strong identity, unusually high peer visibility, natural T-shirt participation fit, and visible apparel/event merchandising. The opportunity is attractive only if execution respects the fact that mahjong is multiple lived rules cultures rather than one generic tile identity.
+Mahjong has strong identity, unusually high peer visibility, natural T-shirt participation fit, and visible apparel/event merchandising. The opportunity is attractive only if execution respects that mahjong is multiple lived rules cultures rather than one generic tile identity.
 
 ## Best Opportunity Territory
 
@@ -131,40 +124,23 @@ Do not create one universal “mahjong insider” voice. Downstream work should 
 
 ## Six-Dimension Assessment
 
-### A. Identity-to-Purchase Strength — 5/5
-
-The identity is publicly signaled through club/team/event apparel, jewelry, bags, accessories, and group photos. Clothing is visible directly among other players during the activity, increasing signaling relevance.
-
-### B. Market Evidence — 4/5
-
-Independent apparel and tournament/social-club products are clearly established, and current marketplace activity shows a meaningful active shirt category. Evidence is strong enough to validate demand but less cleanly comparable than the largest mass categories because variants and culturally different buyer groups are mixed together.
-
-### C. Competitive Opportunity — 3/5
-
-Generic tile graphics, “mahjong social club,” game-night gifting, and broad mahjong apparel are already common. However, much visible supply appears generic or American-Mah-Jongg-coded, leaving plausible variant-specific behavioral territory.
-
-### D. Creative / Product Depth — 5/5
-
-Tiles, table ritual, teaching, luck/skill tension, hosting, annual-card behavior, Riichi terminology, defensive reading, family rules, “one more game,” and group dynamics create exceptional depth once a variant is chosen.
-
-### E. Founder Execution Advantage — Pending
-
-This is especially consequential. Variant fluency, family/cultural context, and access to knowledgeable players materially affect execution credibility.
-
-### F. Testability / MVP Fit — 4/5
-
-POD and audience reach are straightforward, but a broad test risks mixing incompatible variants and producing uninterpretable results. A narrow variant-specific test is much cleaner.
-
-## Competition Diagnosis
-
-**Validated / crowded, fragmented by variant**
+- **Identity-to-Purchase Strength — 5/5.** Club/team/event apparel, jewelry, bags, accessories, and group photos provide direct signaling evidence; clothing is visible during participation itself.
+- **Market Evidence — 4/5.** Current Etsy results show 1,000+ custom mahjong-shirt items, with visible products carrying hundreds to thousands of reviews. Demand is validated, though variants are mixed.
+- **Competitive Opportunity — 3/5.** Generic tile graphics, “mahjong social club,” personalized group shirts, and game-night gifting are already common. Variant-specific behavior appears more open.
+- **Creative / Product Depth — 5/5.** Tiles, table ritual, teaching, luck/skill tension, hosting, annual-card behavior, Riichi terminology, defensive reading, family rules, and group dynamics create exceptional depth once a variant is chosen.
+- **Founder Execution Advantage — 2/5.** Founder self-rating: **3/10**. Cultural and ruleset accuracy cannot rely on founder intuition alone.
+- **Testability / MVP Fit — 4/5.** A narrow variant-specific test is clean; an umbrella test risks mixing incompatible audiences and generating false conclusions.
 
 ## T-Shirt Value Stack
 
 - **Identity-signaling gate:** Strong.
 - **Participation Utility / Apparel Fit:** High. A tee can be worn throughout ordinary play, clubs, lessons, and many tournaments.
-- **Other meaningful layers:** exceptionally high social/conversational value; group/team/commemorative value; fashion/aesthetic value around tile culture; giftability.
-- **Commercial interpretation:** This is one of the strongest value stacks in the batch, but accuracy and cultural specificity are prerequisites rather than optional polish.
+- **Other meaningful layers:** exceptionally high social/conversational value; group/team/commemorative value; aesthetic/fashion value; giftability.
+- **Commercial interpretation:** One of the richest value stacks in the batch, but accuracy and cultural specificity are prerequisites.
+
+## Competition Diagnosis
+
+**Validated / crowded; fragmented by variant**
 
 ## Primary Opportunity
 
@@ -182,7 +158,7 @@ Which variant/customer culture offers the best combination of identity intensity
 
 **High / Medium**
 
-## Provisional Strategic Disposition
+## Strategic Disposition
 
 **Advance, but narrow/reframe** — mandatory variant selection before creative development.
 
@@ -200,40 +176,23 @@ Film photographers possess a durable process identity with direct apparel valida
 
 ## Six-Dimension Assessment
 
-### A. Identity-to-Purchase Strength — 4/5
-
-Film identity is publicly visible through cameras, labs, photowalks, festivals, zines, stickers, and specialist apparel. However, some of the strongest visible signals are the camera itself or photographic work, so a shirt competes with existing identity objects.
-
-### B. Market Evidence — 4/5
-
-Labs and analog retailers sell identity apparel, and independent marketplace supply is substantial. The evidence validates an apparel category without proving that generic analog shirts have unusually strong unit economics.
-
-### C. Competitive Opportunity — 3/5
-
-Vintage camera graphics, film-canister visuals, specific camera models, and “shoot film” language are common. IP/trademark constraints further reduce easy equipment-reference territory. Process and worldview offer more room than object nostalgia.
-
-### D. Creative / Product Depth — 5/5
-
-Finite exposures, lab waiting, ruined rolls, airport scanners, home development, darkroom work, film-stock preferences, GAS, format differences, mechanical failure, and analog-versus-digital tensions provide deep material.
-
-### E. Founder Execution Advantage — Pending
-
-Founder shooting frequency, camera/process knowledge, lab relationships, and credibility are unconfirmed.
-
-### F. Testability / MVP Fit — 4/5
-
-Audience targeting and POD are straightforward, but the market’s strong visual/aesthetic expectations raise execution quality requirements. Trademark-heavy camera references should be avoided.
-
-## Competition Diagnosis
-
-**Validated / crowded**
+- **Identity-to-Purchase Strength — 4/5.** Film identity is visible through cameras, labs, photowalks, festivals, zines, stickers, and specialist apparel. Some of the strongest signals are the camera or photographic work itself, so shirts are not the only identity object.
+- **Market Evidence — 4/5.** Labs, analog retailers, and active independent marketplace sellers validate an established apparel category.
+- **Competitive Opportunity — 3/5.** Vintage camera graphics, film boxes, “shoot film,” 35mm, and retro typography are common. Process/worldview territory is more open than object nostalgia.
+- **Creative / Product Depth — 5/5.** Finite exposures, waiting for scans, ruined rolls, airport scanners, home development, darkroom work, film-stock preferences, GAS, format differences, and analog/digital tensions provide deep material.
+- **Founder Execution Advantage — 1/5.** Founder self-rating: **2/10**. This is a real disadvantage in a visually sophisticated culture with strong authentic incumbents.
+- **Testability / MVP Fit — 4/5.** Audience targeting and POD are straightforward, but strong aesthetic execution is part of test credibility and trademark-heavy equipment references should be avoided.
 
 ## T-Shirt Value Stack
 
 - **Identity-signaling gate:** Strong.
-- **Participation Utility / Apparel Fit:** Medium to High. Tees fit most shooting, photowalk, lab-drop, shop, festival, and social contexts; darkroom chemical work may require PPE.
-- **Other meaningful layers:** aesthetic/fashion value is unusually important; conversational value among photographers; nostalgia/emotional value.
-- **Commercial interpretation:** Strong aesthetic execution could materially amplify identity value here. A merely generic niche graphic is unlikely to be enough.
+- **Participation Utility / Apparel Fit:** Medium to High. Tees fit shooting, photowalk, lab-drop, shop, festival, and social contexts; darkroom chemical work may require PPE.
+- **Other meaningful layers:** aesthetic/fashion value is unusually important; conversational value; nostalgia/process emotion.
+- **Commercial interpretation:** Strong aesthetic execution can amplify identity value, but generic niche graphics are unlikely to be enough.
+
+## Competition Diagnosis
+
+**Validated / crowded**
 
 ## Primary Opportunity
 
@@ -245,13 +204,13 @@ The product becomes generic retro-camera merchandise or relies on protected bran
 
 ## Critical Unknown
 
-Can a process/worldview-led film identity outperform the mature visual shorthand of vintage cameras and “shoot film” slogans?
+Can process/worldview-led film identity outperform mature visual shorthand strongly enough to overcome low Founder Advantage?
 
 ## MVP Testability
 
 **High / Medium**
 
-## Provisional Strategic Disposition
+## Strategic Disposition
 
 **Advance, but narrow/reframe**
 
@@ -269,40 +228,23 @@ Geocachers combine strong self-labeling, dense insider behavior, recurring miles
 
 ## Six-Dimension Assessment
 
-### A. Identity-to-Purchase Strength — 4/5
-
-Geocachers publicly signal through usernames, decals, event merchandise, milestone products, patches, shirts, and trackables. The identity is explicit and highly recognizable to insiders.
-
-### B. Market Evidence — 4/5
-
-Independent geocaching shirts and official/community merchandise are established, with active event and vendor ecosystems. The market appears materially smaller than pottery or mass outdoor categories, but that is compatible with the company’s fragmented-niche thesis.
-
-### C. Competitive Opportunity — 4/5
-
-Existing products cover FTF, TFTC, “one more cache,” generic GPS/search humor, and common icons. Yet the market appears less saturated than major hobby categories, and the deeper perception/discovery mechanism is broader than the common slogans.
-
-### D. Creative / Product Depth — 5/5
-
-DNFs, bad coordinates, stealth, forgotten pens, tiny containers, puzzle caches, trackable missions, cache ownership, maintenance, grids, milestones, muggles, road-trip detours, and place discovery create exceptional depth.
-
-### E. Founder Execution Advantage — Pending
-
-Founder caching history, platform fluency, cache ownership, and community access are unconfirmed.
-
-### F. Testability / MVP Fit — 5/5
-
-The audience is digitally identifiable, concepts are immediately testable, POD fit is strong, and product concepts can cleanly distinguish generic category language from deeper behavior.
-
-## Competition Diagnosis
-
-**Validated / relatively open**
+- **Identity-to-Purchase Strength — 4/5.** Usernames, decals, event merchandise, milestone products, patches, shirts, and trackables provide direct public signaling evidence.
+- **Market Evidence — 4/5.** Independent geocaching shirts and official/community merchandise are established, with active event/vendor ecosystems. Scale appears smaller than pottery or mass outdoors, which is compatible with the fragmented-niche thesis.
+- **Competitive Opportunity — 4/5.** Existing products cover FTF, TFTC, “one more cache,” generic search humor, and common icons. The deeper perception/discovery mechanism remains richer than the dominant surface market.
+- **Creative / Product Depth — 5/5.** DNFs, bad coordinates, stealth, forgotten pens, tiny containers, puzzle caches, trackables, cache ownership, maintenance, grids, milestones, and place discovery create exceptional depth.
+- **Founder Execution Advantage — 1/5.** Founder self-rating: **1/10**. Direct participant review is needed to avoid beginner-level or platform-dependent creative.
+- **Testability / MVP Fit — 5/5.** Specific audience, strong POD fit, and clean concept tests between generic category language and true insider behavior.
 
 ## T-Shirt Value Stack
 
 - **Identity-signaling gate:** Strong.
 - **Participation Utility / Apparel Fit:** Medium to High. Ordinary tees fit urban/easy caching and events; technical layers matter in difficult terrain.
-- **Other meaningful layers:** unusually strong social/interactive value via trackable shirts; commemorative/event value; conversational value; discovery/emotional value.
+- **Other meaningful layers:** unusually strong social/interactive value through trackable shirts; commemorative/event value; conversational and discovery value.
 - **Commercial interpretation:** The value stack materially strengthens an already-attractive identity without being the reason the identity works.
+
+## Competition Diagnosis
+
+**Validated / relatively open**
 
 ## Primary Opportunity
 
@@ -314,13 +256,13 @@ The niche is behaviorally strong but too small in apparel purchase frequency, or
 
 ## Critical Unknown
 
-Can deeper geocacher recognition generate enough independent apparel intent to justify a dedicated brand/test despite modest category scale?
+Can deeper geocacher recognition generate enough independent apparel intent to justify a dedicated test despite modest category scale?
 
 ## MVP Testability
 
 **High**
 
-## Provisional Strategic Disposition
+## Strategic Disposition
 
 **Advance**
 
@@ -338,75 +280,78 @@ Preservation-minded old-house people have strong worldview identity, rich inside
 
 ## Six-Dimension Assessment
 
-### A. Identity-to-Purchase Strength — 4/5
+- **Identity-to-Purchase Strength — 4/5.** Preservation memberships, plaques, house tours, project accounts, advocacy, salvage behavior, and old-house apparel provide meaningful public signaling evidence.
+- **Market Evidence — 3/5.** Direct independent apparel exists, but most ecosystem spending goes to houses, tools, materials, contractors, salvage, and media. Demand is validated directionally rather than deeply.
+- **Competitive Opportunity — 4/5.** Preservation-minded identity shirts appear much less saturated than generic renovation apparel. Existing statements often stop at “old house lover” or advocacy, leaving house-archaeology and stewardship behavior relatively open.
+- **Creative / Product Depth — 5/5.** Floor lottery, wavy glass, sash weights, plaster/lath, pocket doors, original hardware, landlord specials, previous-owner surprises, repair-versus-replace, house research, salvage, and temporary-steward language provide deep territory.
+- **Founder Execution Advantage — 2/5.** Founder self-rating: **4/10**. Modest, but the strongest Founder Advantage in Batch A and useful for judging decorative nostalgia versus genuine stewardship.
+- **Testability / MVP Fit — 4/5.** Visually rich and POD-compatible, but audience definition and targeting are less direct than large hobbies.
 
-The identity is expressed through preservation memberships, plaques, house tours, project accounts, advocacy, salvage behavior, and apparel such as old-house/preservation statements. Public signaling is meaningful but less ubiquitous than in sports or maker apparel categories.
+## T-Shirt Value Stack
 
-### B. Market Evidence — 3/5
-
-Direct independent apparel exists, but the category is visibly smaller and most ecosystem spending goes to houses, tools, materials, contractors, salvage, and media. Demand is plausible and validated directionally rather than strongly quantified.
-
-### C. Competitive Opportunity — 4/5
-
-Generic renovation apparel is separate and crowded, but preservation-minded identity shirts appear much less saturated. Existing statements often stop at “old house lover” or preservation advocacy, leaving behavior and stewardship psychology relatively open.
-
-### D. Creative / Product Depth — 5/5
-
-Floor lottery, wavy glass, sash weights, plaster/lath, pocket doors, original hardware, landlord specials, previous-owner surprises, repair-versus-replace, house research, salvage, endless projects, and temporary-steward language provide deep territory.
-
-### E. Founder Execution Advantage — Pending
-
-Founder old-house ownership/restoration experience, preservation knowledge, and access are unconfirmed.
-
-### F. Testability / MVP Fit — 4/5
-
-POD is straightforward and the worldview is legible, but targeting may be less clean than hobby-platform identities. A test should avoid conflating preservation-minded customers with generic DIY renovators or farmhouse décor audiences.
+- **Identity-signaling gate:** Strong.
+- **Participation Utility / Apparel Fit:** Medium to High. Old tees function as low-hazard project wear, while PPE/workwear overrides them for hazards; tours, salvage trips, workshops, and volunteer events create clean peer-facing occasions.
+- **Other meaningful layers:** strong emotional/stewardship value; social recognition; advocacy; commemorative/project value; aesthetic heritage value.
+- **Commercial interpretation:** Secondary layers reinforce a distinctive worldview rather than rescuing weak identity.
 
 ## Competition Diagnosis
 
 **Validated / open**
 
-## T-Shirt Value Stack
-
-- **Identity-signaling gate:** Strong to Plausible, with unusually strong worldview content.
-- **Participation Utility / Apparel Fit:** Medium. Old tees fit many low-hazard DIY tasks; serious restoration work may require PPE/workwear.
-- **Other meaningful layers:** emotional/stewardship value is very high; advocacy/social recognition; aesthetic compatibility with heritage/vintage design; project/crew commemorative value.
-- **Commercial interpretation:** Emotional and worldview value are more important multipliers than pure participation utility here.
-
 ## Primary Opportunity
 
-Own **the old-house steward’s eye: repair, evidence, character, and responsibility across time.**
+Build around **the old-house steward’s eye: noticing, preserving, and repairing character that other people would replace or erase.**
 
 ## Primary Risk
 
-The identity is strongly felt but too tied to expensive property ownership/project spending to generate frequent independent apparel purchases.
+The audience may love old houses intensely but express the identity through the house, restoration content, and preservation causes rather than buying enough independent apparel.
 
 ## Critical Unknown
 
-Can preservation-minded worldview identity create enough apparel intent beyond cause shirts and generic old-house gifting?
+Does stewardship / house-archaeology identity convert into apparel purchases strongly enough to justify acquisition spend?
 
 ## MVP Testability
 
 **High / Medium**
 
-## Provisional Strategic Disposition
+## Strategic Disposition
 
 **Advance**
 
-### Cross-Portfolio Note for Later Pass 2
+---
 
-R027 has a meaningful but not automatically brand-compatible relationship with R012 Antiques Treasure Hunters. Both reward trained perception of value, evidence, patina, and history where others see age or inconvenience. R027 adds stewardship and repair obligation; R012 emphasizes hunt/discovery and acquisition. This should be revisited only during the R001–R040 cross-identity pass rather than assumed to be one brand now.
+# Batch A Strategic Learning
+
+## 1. Participation Utility behaves as a multiplier, not a rescue mechanism
+
+Pottery, film photography, geocaching, and old-house work all provide natural participation settings for T-shirts, but commercial attractiveness still diverges based on competition and identity specificity. This supports keeping Participation Utility qualitative rather than creating a seventh score.
+
+## 2. Peer visibility may be more valuable than practical wear alone
+
+Mahjong and geocaching stand out because participants can wear identity apparel **in front of people who understand the signal while participating**. This combines practical apparel fit with social recognition.
+
+## 3. Strong maker identity does not guarantee open apparel territory
+
+Pottery demonstrates that deep identity plus excellent participation fit can still produce a crowded merchandise category. Differentiation remains essential.
+
+## 4. Underdeveloped apparel can be opportunity or warning
+
+Old-house identity has less direct apparel validation than pottery or film photography. That creates whitespace, but also the question of whether the audience actually wants shirts. A market test is the right resolver.
+
+## 5. Low Founder Advantage should change execution, not automatically kill opportunity
+
+Four of five Batch A identities have Founder Advantage at 1–3/10. This lowers confidence in unsupervised creative judgment but should not remove structurally attractive niches such as Geocachers. The response is tighter insider validation and lower initial commitment.
 
 ---
 
-# Batch A Provisional Conclusion
+# Batch A Priority Read
 
-Pending Founder Advantage calibration, the strongest clean test candidates from this five are:
+For later portfolio calibration, the provisional order within Batch A is:
 
-1. **R025 Geocachers** — best combination of strong identity, creative depth, relative whitespace, and testability.
-2. **R027 Preservation-Minded Old-House People** — more uncertain demand but unusually differentiated worldview and open territory.
-3. **R021 Potters / Ceramic Artists** — strong market and participation fit, but crowded; requires deeper execution.
-4. **R022 Mahjong Players** — potentially excellent, but must be narrowed by variant/culture before a fair test.
-5. **R024 Film Photographers** — strong identity and aesthetics, but mature generic visual territory raises differentiation burden.
+1. **R025 — Geocachers** — strongest combination of identity depth, open territory, participation/social value, and testability.
+2. **R027 — Preservation-Minded Old-House People** — strong worldview and whitespace; weaker direct apparel validation creates both opportunity and uncertainty.
+3. **R022 — Mahjong Players** — potentially exceptional value stack, but must be narrowed by variant and cultural execution capability.
+4. **R021 — Potters / Ceramic Artists** — excellent identity and product depth, but crowded generic market and very low Founder Advantage.
+5. **R024 — Film Photographers** — rich identity and fashion fit, but mature visual competition and low Founder Advantage raise the entrant bar.
 
-This order is provisional and should not be treated as final R021–R040 ranking before the remaining three batches and Founder Advantage calibration are complete.
+This is a **within-batch provisional read**, not the final R001–R040 portfolio ranking.
