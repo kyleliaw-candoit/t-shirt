@@ -1,7 +1,26 @@
 # Phase B Cloudflare Pages + D1 setup
 
-The site remains a no-build Cloudflare Pages project rooted at this directory. Pages Functions expose
+The site is a Cloudflare Pages project rooted at this directory. Pages Functions expose
 `POST /api/events` and `POST /api/leads`; both require a D1 binding named `DB`.
+
+## Required Pages configuration
+
+Use these settings at each environment's authorized rollout stage:
+
+| Setting | Required value |
+|---|---|
+| Root directory | `sites/worth-the-detour` |
+| Build command | `sh build-static-assets.sh` |
+| Build output directory | `dist` |
+| Functions directory | `functions` at the Pages project root |
+| Production branch | `main` |
+| Compatibility date | `2026-08-15` |
+| Compatibility flags | none |
+
+The Cloudflare dashboard build command and output directory changes have **not** yet been made. Change the
+Preview and Production settings only at their respective authorized rollout stages. Keep `functions/` at the
+project root; do not copy it into `dist/`, so Pages continues to compile the `/api/events` and `/api/leads`
+file-based routes.
 
 ## Database inventory and Pages bindings
 
@@ -17,9 +36,8 @@ In the Cloudflare Pages project **worth-the-detour**, configure the D1 binding s
 - Preview: `DB` → `worth-the-detour-mvv-preview`
 - Production: `DB` → `worth-the-detour-mvv-production`
 
-Do not bind the production database to Preview. Keep the existing Pages settings: root
-`sites/worth-the-detour`, blank build command, output `.`, production branch `main`, compatibility date
-`2026-08-15`, no flags, Default placement, and Fail open.
+Do not bind the production database to Preview. Neither remote migration has been run. The Production
+migration requires explicit Founder approval.
 
 ## Inspect and apply versioned migrations
 
@@ -43,12 +61,15 @@ either remote migration sequence until its authorized rollout step.
 
 ## Local development and tests
 
-Apply the versioned migration to a local D1 database, then serve the Pages project with the `DB` binding:
+From the Pages project root, build the allowlisted public directory, apply the versioned migration only to a
+local instance of the Preview D1 database, then serve `dist/` from that same root so `functions/` remains
+discoverable:
 
 ```sh
+sh build-static-assets.sh
 npx wrangler d1 migrations list worth-the-detour-mvv-preview --local
 npx wrangler d1 migrations apply worth-the-detour-mvv-preview --local
-npx wrangler pages dev . --d1 DB=worth-the-detour-mvv-preview --compatibility-date=2026-08-15
+npx wrangler pages dev dist --d1 DB=worth-the-detour-mvv-preview --compatibility-date=2026-08-15
 npm test
 ```
 
