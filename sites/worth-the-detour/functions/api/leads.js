@@ -11,10 +11,11 @@ export async function onRequestPost(context) {
     const leadStatement = context.env.DB.prepare(`INSERT OR IGNORE INTO leads (
       lead_id, lead_event_id, email, design_id, submitted_at, server_received_at, experiment_id, brand_id, session_id,
       anonymous_visitor_id, cta_id, form_id, attribution_json
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+    ) SELECT ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+      WHERE NOT EXISTS (SELECT 1 FROM events WHERE event_id = ?)`)
       .bind(lead.lead_id, lead.event_id, lead.email, lead.design_id, lead.event_timestamp, receivedAt, lead.experiment_id,
         lead.brand_id, lead.session_id, lead.anonymous_visitor_id, lead.cta_id, lead.form_id,
-        JSON.stringify(attribution));
+        JSON.stringify(attribution), lead.event_id);
     const results = await context.env.DB.batch([
       leadStatement,
       eventStatement(context.env.DB, lead, receivedAt, lead.lead_id),

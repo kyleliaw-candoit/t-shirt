@@ -17,6 +17,9 @@ class MemoryD1 {
     const isLead = statement.sql.includes('INTO leads');
     const store = isLead ? this.leads : this.events;
     const id = statement.values[0];
+    if (isLead && statement.sql.includes('WHERE NOT EXISTS') && this.events.has(statement.values[13])) {
+      return { meta: { changes: 0 } };
+    }
     if (!isLead && statement.values[17]) {
       const lead = this.leads.get(statement.values[17]);
       if (!lead || lead[1] !== statement.values[19]) return { meta: { changes: 0 } };
@@ -177,6 +180,33 @@ test('rejects a reused lead_id whose accepted submission content differs', async
   assert.equal(response.status, 409);
   assert.equal([...db.leads.values()][0][2], 'first@example.com');
   assert.equal(db.events.size, 1);
+});
+
+test('rejects a lead whose event_id already belongs to another event', async () => {
+  const db = new MemoryD1();
+  const eventId = 'evt_cross_endpoint_collision';
+  const eventResponse = await postEvent({
+    request: request('/api/events', { ...common({ event_id: eventId }), event_name: 'landing_view' }),
+    env: { DB: db },
+  });
+  assert.equal(eventResponse.status, 202);
+
+  const response = await postLead({
+    request: request('/api/leads', {
+      ...common({ event_id: eventId }),
+      lead_id: 'lead_cross_endpoint_collision',
+      email: 'person@example.com',
+      design_id: 'B2',
+      cta_id: 'design-interest',
+      form_id: 'availability-interest',
+    }),
+    env: { DB: db },
+  });
+  assert.equal(response.status, 409);
+  assert.deepEqual(await response.json(), { ok: false, error: 'submission_conflict' });
+  assert.equal(db.leads.size, 0);
+  assert.equal(db.events.size, 1);
+  assert.equal([...db.events.values()][0][1], 'landing_view');
 });
 
 test('returns failure when DB is unavailable', async () => {
