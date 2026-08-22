@@ -9,7 +9,9 @@ const ATTRIBUTION_FIELDS = [
 const SESSION_KEY = 'wtd_mvv_session';
 const VISITOR_KEY = 'wtd_mvv_visitor';
 const VIEWS_KEY = 'wtd_mvv_design_views';
-const pageStartedAt = Date.now();
+const SESSION_STARTED_KEY = 'wtd_mvv_session_started_at';
+const MAX_SCROLL_KEY = 'wtd_mvv_max_scroll_depth';
+const FIRST_ENGAGEMENT_KEY = 'wtd_mvv_first_engagement_ms';
 
 function identifier(prefix) {
   return `${prefix}_${crypto.randomUUID()}`;
@@ -25,6 +27,11 @@ function storedIdentifier(storage, key, prefix) {
 }
 
 const sessionId = storedIdentifier(sessionStorage, SESSION_KEY, 'ses');
+let sessionStartedAt = Number(sessionStorage.getItem(SESSION_STARTED_KEY));
+if (!Number.isFinite(sessionStartedAt) || sessionStartedAt <= 0) {
+  sessionStartedAt = Date.now();
+  sessionStorage.setItem(SESSION_STARTED_KEY, String(sessionStartedAt));
+}
 let anonymousVisitorId;
 try {
   anonymousVisitorId = storedIdentifier(localStorage, VISITOR_KEY, 'av');
@@ -42,9 +49,11 @@ for (const field of ATTRIBUTION_FIELDS) {
 sessionStorage.setItem('wtd_mvv_attribution', JSON.stringify(storedAttribution));
 
 const viewedDesigns = new Set(JSON.parse(sessionStorage.getItem(VIEWS_KEY) || '[]'));
-let firstMeaningfulEngagementMs = null;
-let maxScrollDepth = 0;
+const storedFirstEngagement = sessionStorage.getItem(FIRST_ENGAGEMENT_KEY);
+let firstMeaningfulEngagementMs = storedFirstEngagement === null ? null : Number(storedFirstEngagement);
+let maxScrollDepth = Number(sessionStorage.getItem(MAX_SCROLL_KEY)) || 0;
 let exitSent = false;
+let pendingLeadSubmission = null;
 
 function deviceType() {
   if (innerWidth < 768) return 'mobile';
@@ -85,7 +94,10 @@ async function sendEvent(eventName, properties = {}) {
 }
 
 function markMeaningfulEngagement() {
-  if (firstMeaningfulEngagementMs === null) firstMeaningfulEngagementMs = Date.now() - pageStartedAt;
+  if (firstMeaningfulEngagementMs === null) {
+    firstMeaningfulEngagementMs = Math.max(0, Date.now() - sessionStartedAt);
+    sessionStorage.setItem(FIRST_ENGAGEMENT_KEY, String(firstMeaningfulEngagementMs));
+  }
 }
 
 const imageDialog = document.querySelector('.image-dialog');
@@ -159,12 +171,32 @@ interestForm.addEventListener('submit', async (event) => {
   emailInput.removeAttribute('aria-invalid');
   interestForm.setAttribute('aria-busy', 'true');
   submitButton.disabled = true;
-  const leadEvent = envelope('lead_submit', {
-    design_id: interestForm.dataset.designId,
-    cta_id: 'design-interest',
-    form_id: 'availability-interest',
-  });
-  const lead = { ...leadEvent, lead_id: identifier('lead'), email: emailInput.value };
+  const normalizedEmail = emailInput.value.trim().toLowerCase();
+  const designId = interestForm.dataset.designId;
+  if (!pendingLeadSubmission
+      || pendingLeadSubmission.normalizedEmail !== normalizedEmail
+      || pendingLeadSubmission.designId !== designId) {
+    const leadEvent = envelope('lead_submit', {
+      design_id: designId,
+      cta_id: 'design-interest',
+      form_id: 'availability-interest',
+    });
+    pendingLeadSubmission = {
+      normalizedEmail,
+      designId,
+      leadId: identifier('lead'),
+      eventId: leadEvent.event_id,
+      eventTimestamp: leadEvent.event_timestamp,
+      leadEvent,
+    };
+  }
+  const lead = {
+    ...pendingLeadSubmission.leadEvent,
+    event_id: pendingLeadSubmission.eventId,
+    event_timestamp: pendingLeadSubmission.eventTimestamp,
+    lead_id: pendingLeadSubmission.leadId,
+    email: normalizedEmail,
+  };
   delete lead.event_name;
 
   try {
@@ -174,6 +206,7 @@ interestForm.addEventListener('submit', async (event) => {
       body: JSON.stringify(lead),
     });
     if (!response.ok) throw new Error('lead_delivery_failed');
+    pendingLeadSubmission = null;
     interestForm.hidden = true;
     successMessage.hidden = false;
     successMessage.focus();
@@ -221,7 +254,11 @@ document.querySelectorAll('.product').forEach((product, index) => {
 function updateScrollDepth() {
   const available = document.documentElement.scrollHeight - innerHeight;
   const depth = available <= 0 ? 100 : Math.round(((scrollY + innerHeight) / document.documentElement.scrollHeight) * 100);
-  maxScrollDepth = Math.max(maxScrollDepth, Math.min(100, depth));
+  const observedDepth = Math.min(100, depth);
+  if (observedDepth > maxScrollDepth) {
+    maxScrollDepth = observedDepth;
+    sessionStorage.setItem(MAX_SCROLL_KEY, String(maxScrollDepth));
+  }
 }
 addEventListener('scroll', updateScrollDepth, { passive: true });
 updateScrollDepth();
@@ -230,7 +267,7 @@ function sendExit() {
   if (exitSent) return;
   exitSent = true;
   const payload = envelope('page_exit', {
-    session_duration_ms: Date.now() - pageStartedAt,
+    session_duration_ms: Math.max(0, Date.now() - sessionStartedAt),
     max_scroll_depth: maxScrollDepth,
     designs_viewed_count: viewedDesigns.size,
     first_meaningful_engagement_ms: firstMeaningfulEngagementMs,

@@ -30,7 +30,7 @@ class Element {
   close() { this.open = false; }
 }
 
-function harness({ width = 1440, leadResponse, sessionStorage = new Storage(), localStorage = new Storage(), search } = {}) {
+function harness({ width = 1440, leadResponse, sessionStorage = new Storage(), localStorage = new Storage(), search, now = 1_000 } = {}) {
   const globalListeners = new Map();
   const timers = new Map();
   const requests = [];
@@ -95,8 +95,12 @@ function harness({ width = 1440, leadResponse, sessionStorage = new Storage(), l
   }
   const observer = {};
   const defaultResponse = { ok: true };
+  class FakeDate extends Date {
+    constructor(...args) { super(...(args.length ? args : [now])); }
+    static now() { return now; }
+  }
   const context = {
-    Blob, URL, URLSearchParams, console, document,
+    Blob, URL, URLSearchParams, console, document, Date: FakeDate,
     location: {
       search: search ?? '?creative_id=CR_TEST_A&utm_source=meta&meta_ad_id=META_AD_1',
       origin: 'https://worth-the-detour.com', pathname: '/',
@@ -120,6 +124,7 @@ function harness({ width = 1440, leadResponse, sessionStorage = new Storage(), l
   return {
     context, document, products, form, email, emailError, success, imageDialog, interestDialog,
     requests, observer, timers, globalListeners,
+    setNow(value) { now = value; },
     runTimers() { for (const [id, callback] of [...timers]) { timers.delete(id); callback(); } },
   };
 }
@@ -173,6 +178,85 @@ test('keeps the form open and reports a server/network failure', async () => {
   assert.equal(page.success.hidden, true);
   assert.equal(page.emailError.hidden, false);
   assert.equal(page.emailError.textContent, 'We could not save your email. Please try again.');
+});
+
+test('reuses a pending lead identity after an ambiguous failure', async () => {
+  let attempts = 0;
+  const page = harness({
+    now: Date.parse('2026-08-22T12:00:00.000Z'),
+    leadResponse: async () => {
+      attempts += 1;
+      if (attempts === 1) throw new Error('response_lost');
+      return { ok: true };
+    },
+  });
+  await settle();
+  page.products[0].interestButton.dispatch('click');
+  page.email.value = '  Person@Example.COM ';
+  await page.form.dispatch('submit');
+  page.email.value = 'person@example.com';
+  await page.form.dispatch('submit');
+  const [first, retry] = page.requests.filter(({ url }) => url === '/api/leads').map(({ body }) => body);
+  assert.equal(retry.lead_id, first.lead_id);
+  assert.equal(retry.event_id, first.event_id);
+  assert.equal(retry.event_timestamp, first.event_timestamp);
+  assert.equal(page.success.hidden, false);
+});
+
+test('replaces pending identity for changed input without leaking email to analytics', async () => {
+  const page = harness({ leadResponse: async () => { throw new Error('offline'); } });
+  await settle();
+  page.products[0].interestButton.dispatch('click');
+  page.email.value = 'first@example.com';
+  await page.form.dispatch('submit');
+  page.email.value = 'second@example.com';
+  await page.form.dispatch('submit');
+  page.products[1].interestButton.dispatch('click');
+  page.email.value = 'second@example.com';
+  await page.form.dispatch('submit');
+  const leads = page.requests.filter(({ url }) => url === '/api/leads').map(({ body }) => body);
+  assert.notEqual(leads[1].lead_id, leads[0].lead_id);
+  assert.notEqual(leads[1].event_id, leads[0].event_id);
+  assert.notEqual(leads[2].lead_id, leads[1].lead_id);
+  assert.notEqual(leads[2].event_id, leads[1].event_id);
+  const analytics = page.requests.filter(({ url }) => url === '/api/events');
+  assert.ok(analytics.every(({ body }) => !JSON.stringify(body).includes('first@example.com')));
+  assert.ok(analytics.every(({ body }) => !JSON.stringify(body).includes('second@example.com')));
+  assert.ok(!JSON.stringify([...page.context.sessionStorage.values.values()]).includes('@example.com'));
+  assert.ok(!JSON.stringify([...page.context.localStorage.values.values()]).includes('@example.com'));
+});
+
+test('keeps page_exit summaries cumulative across page loads in one session', async () => {
+  const sessionStorage = new Storage();
+  const localStorage = new Storage();
+  const first = harness({ sessionStorage, localStorage, now: 1_000 });
+  await settle();
+  first.setNow(1_200);
+  first.products[0].interestButton.dispatch('click');
+  first.context.scrollY = 3_000;
+  first.globalListeners.get('scroll')();
+  first.observer.instance.callback([{ target: first.products[0].product, intersectionRatio: 0.5 }]);
+  first.runTimers();
+  first.setNow(2_000);
+  first.globalListeners.get('pagehide')();
+  const firstExit = JSON.parse(await first.requests.find(({ beacon }) => beacon).beacon.text());
+
+  const second = harness({ sessionStorage, localStorage, now: 3_000 });
+  await settle();
+  second.products[0].interestButton.dispatch('click');
+  second.observer.instance.callback([{ target: second.products[1].product, intersectionRatio: 0.5 }]);
+  second.runTimers();
+  second.setNow(4_000);
+  second.globalListeners.get('pagehide')();
+  const secondExit = JSON.parse(await second.requests.find(({ beacon }) => beacon).beacon.text());
+
+  assert.equal(secondExit.session_id, firstExit.session_id);
+  assert.equal(sessionStorage.getItem('wtd_mvv_session_started_at'), '1000');
+  assert.ok(secondExit.session_duration_ms > firstExit.session_duration_ms);
+  assert.ok(secondExit.max_scroll_depth >= firstExit.max_scroll_depth);
+  assert.equal(secondExit.first_meaningful_engagement_ms, firstExit.first_meaningful_engagement_ms);
+  assert.equal(firstExit.designs_viewed_count, 1);
+  assert.equal(secondExit.designs_viewed_count, 2);
 });
 
 test('emits one design_view only after the one-second visibility timer', async () => {
