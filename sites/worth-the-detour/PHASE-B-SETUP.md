@@ -104,3 +104,31 @@ Confirm that `creative_id` remains `CR_TEST_A`, the selected `design_id` is `Typ
 separate, the `lead_submit` event contains no email, duplicate IDs produce one row, and success is never shown
 for a failed `/api/leads` response. Repeat image enlargement, CTA/dialog, validation, successful submission,
 and close/backdrop interactions at desktop and compact-mobile widths before production rollout.
+
+## Verified Preview QA evidence (2026-08-26)
+
+The corrected-config Preview deployment at PR head `6812b15c21c3bf02da653861428e2cc18c2f32c2`
+passed the runtime and end-to-end QA gate:
+
+- Pages detected and compiled `functions/`; both `/api/events` and `/api/leads` operated against the
+  isolated Preview `DB` binding.
+- The public build contained only the 13 allowlisted customer-facing assets. Repository-only setup
+  documentation, migrations, tests, package metadata, and the build script were not published.
+- Desktop QA passed image enlargement, CTA/dialog behavior, two intentional product-specific submissions,
+  and a deliberate attribution mismatch. Acquisition remained `creative_id = CR_TEST_A` while the selected
+  lead remained `design_id = Type-Led-4`.
+- Compact-mobile QA passed at a 375-pixel viewport: immediate brand/apparel/treasure-hunting orientation,
+  visible first-product transition, no horizontal clipping, image enlargement, CTA/form behavior, successful
+  `Type-Led-4` submission, and the same attribution separation.
+- The verified `Type-Led-4` lead matched its `lead_submit` event, session, CTA, form, and attribution.
+  Exactly one unique `Type-Led-4` lead row was created by the controlled mobile test.
+- Analytics event IDs were unique, and no email-like value appeared in analytics rows. Email remained isolated
+  to the `leads` table.
+- Best-effort `page_exit` was verified by same-tab navigation on desktop and was also captured on mobile.
+  The mobile summary recorded 100% maximum scroll depth, eight designs viewed, and session-scoped engagement
+  and duration values.
+
+The controlled Preview records are identifiable by `creative_id = CR_TEST_A` and
+`utm_campaign = mvv-test`; no test/debug defaults are embedded in the deployed client. Production D1 and
+Production deployments were not used during this QA and remain separately gated.
+
