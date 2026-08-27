@@ -18,9 +18,9 @@ Use these settings at each environment's authorized rollout stage:
 | Compatibility flags | none |
 
 The project-wide Cloudflare Pages build configuration above is active and confirmed. Automatic Production
-deployments remain disabled after the completed Preview and Production D1 migration rollouts; keep them disabled
-until the separate Founder-approved Production Pages deployment gate. Keep `functions/` at the project root; do not copy it into `dist/`, so Pages
-continues to compile the `/api/events` and `/api/leads` file-based routes.
+deployments were enabled on 2026-08-27 after separate Founder approval and remain enabled for future `main`
+commits. Keep `functions/` at the project root; do not copy it into `dist/`, so Pages continues to compile the
+`/api/events` and `/api/leads` file-based routes.
 
 ## Database inventory and Pages bindings
 
@@ -68,8 +68,8 @@ npx --yes wrangler@latest d1 migrations apply worth-the-detour-mvv-production --
 
 Use Wrangler's migration commands rather than executing the migration file directly. Wrangler records applied
 migrations in `d1_migrations`, preserving a consistent migration history across Preview and Production. Both
-migration sequences are complete and report no pending migrations. Do not rerun either migration or authorize a
-Production Pages deployment merely because the Production schema now exists.
+migration sequences are complete and report no pending migrations. Do not rerun either migration; the separate
+Production Pages deployment approval and completed rollout are documented below.
 
 ## Local development and tests
 
@@ -150,10 +150,40 @@ the Production D1 migration. The guarded rollout verified:
 - The ephemeral Wrangler configuration and terminal credentials were removed, the repository remained clean,
   and the short-lived Production migration token was deleted.
 
-The Production schema is ready, but Production Pages deployment, canonical apex/`www` verification, Production
-smoke testing, and Issue #55 closure remain separately gated.
+The Production schema was ready before deployment; the separately approved Production Pages rollout and smoke
+evidence are documented below.
 
-The controlled Preview records are identifiable by `creative_id = CR_TEST_A` and
-`utm_campaign = mvv-test`; no test/debug defaults are embedded in the deployed client. Production D1 was
-subsequently migrated through the separately approved rollout above; Production deployment remains gated.
+## Verified Production deployment and smoke evidence (2026-08-27)
+
+After documentation PR #88 merged as `d8b8a902a176810c5e59fce91e822097b925824e`, the Founder separately
+approved the Production Pages rollout. The guarded rollout verified:
+
+- Automatic Production deployments were enabled while preserving the GitHub source settings, Preview behavior,
+  root `sites/worth-the-detour`, build command `sh build-static-assets.sh`, output `dist`, compatibility date
+  `2026-08-15`, no compatibility flags, and the Production `DB` binding.
+- Cloudflare retried only the skipped exact-`main` deployment. Production deployment
+  `c8cfe38c-9a59-418c-9ccb-69abf030f5e4` completed every stage successfully at commit
+  `d8b8a902a176810c5e59fce91e822097b925824e`.
+- Pages compiled Functions and published exactly the 13 allowlisted customer-facing assets. The deployment
+  attached `https://worth-the-detour.com` and `https://www.worth-the-detour.com` and retained the isolated
+  Production D1 binding `78f0c8f2-c7a5-44fd-8d6e-a29c1d6b6fbe`.
+- Browser verification confirmed that `www` redirects to apex while preserving query parameters, the landing
+  page and `Type-Led-4` image/CTA/dialog work, and `GET /api/events` reaches the Function and returns
+  `method_not_allowed`.
+- The separately approved controlled Production test created exactly one `Type-Led-4` lead and its matching
+  `lead_submit` event while preserving `creative_id = CR_CANONICAL_CHECK`. Lead/event/session, CTA, and form
+  association matched; analytics contained zero email-like values.
+- The tagged Production session recorded 12 unique events: one `landing_view`, six `design_view`, one
+  `design_engagement`, two `intent_click`, one `lead_submit`, and one `page_exit`. The exit summary
+  recorded 100% maximum scroll depth, six designs viewed, 576.760 seconds of session duration, and first
+  meaningful engagement at 55.321 seconds.
+
+The controlled Production records remain intentionally identifiable by
+`creative_id = CR_CANONICAL_CHECK` and `utm_source = deployment-smoke` so analysis can exclude them. No
+test/debug defaults are embedded in the deployed client. The Production deployment and end-to-end Phase B smoke
+gate are complete.
+
+The controlled Preview records remain identifiable by `creative_id = CR_TEST_A` and
+`utm_campaign = mvv-test`. Preview and Production D1 remain isolated, and both rollout evidence sets are
+explicitly tagged for exclusion from live MVV analysis.
 
