@@ -1,7 +1,22 @@
+---
+title: Worth the Detour Phase B Cloudflare Pages + D1 Setup
+owner: Project Lead / PM
+status: Active production record
+version: 1.0
+last_verified: 2026-08-27
+---
+
 # Phase B Cloudflare Pages + D1 setup
 
 The site is a Cloudflare Pages project rooted at this directory. Pages Functions expose
 `POST /api/events` and `POST /api/leads`; both require a D1 binding named `DB`.
+
+Related durable knowledge:
+
+- [MVV Technical Delivery Playbook](../../docs/company/MVV-Technical-Delivery-Playbook.md) — reusable cross-MVV delivery and blocker-recovery sequence.
+- [MVV-001 Phase B Retrospective](../../docs/mvv/worth-the-detour/MVV-001-Phase-B-Retrospective.md) — Worth the Detour execution lessons and methodology disposition.
+
+This file is the canonical repository record of intended and last-verified Worth the Detour configuration, resource IDs, migration state, and rollout evidence. Cloudflare remains authoritative for current operational state; reverify it read-only before any mutation.
 
 ## Required Pages configuration
 
@@ -187,3 +202,14 @@ The controlled Preview records remain identifiable by `creative_id = CR_TEST_A` 
 `utm_campaign = mvv-test`. Preview and Production D1 remain isolated, and both rollout evidence sets are
 explicitly tagged for exclusion from live MVV analysis.
 
+## Phase B closure deployment verification (2026-08-27)
+
+Founder approved final documentation-only PR #89 at exact head
+`65b8095195f92ec435034ebdcd2a02753c626786`. It merged as
+`001353e1104d5c46f6efb0746fe687a520b15605` and automatically created Production deployment
+`596a960d-d1b6-421c-9d3f-aa000450a084`.
+
+The deployment completed queue, initialization, clone, build, and deploy stages successfully at the exact merge
+commit. It compiled Pages Functions, retained the Production `DB` binding
+`78f0c8f2-c7a5-44fd-8d6e-a29c1d6b6fbe`, published exactly 13 allowlisted customer-facing assets, and attached
+the apex and `www` aliases. Issue #55 was then closed as completed.
