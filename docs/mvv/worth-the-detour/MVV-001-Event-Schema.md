@@ -2,9 +2,9 @@
 title: MVV-001 Event Schema
 brand: Worth the Detour
 experiment_id: mvv-r012-001
-status: Proposed
+status: Implemented and validated
 version: 0.1
-last_updated: 2026-08-17
+last_updated: 2026-08-27
 governing_methodology: docs/company/Minimum-Viable-Validation-Methodology.md
 ---
 
@@ -615,24 +615,24 @@ Do not implement the following unless a later experiment explicitly earns the co
 
 Before MVV #1 is considered instrumented, verify all of the following.
 
-- [ ] `landing_view` fires correctly.
-- [ ] `design_view` fires only after meaningful visibility.
-- [ ] `design_engagement` fires only for defined interactions.
-- [ ] `intent_click` fires with stable CTA identity.
-- [ ] `lead_submit` fires only after successful lead capture.
-- [ ] `page_exit` or equivalent session-summary logic supplies required diagnostic fields where technically reliable.
-- [ ] `event_schema_version = 0.1` is present on every event.
-- [ ] `experiment_id = mvv-r012-001` persists across the session.
-- [ ] `brand_id = worth-the-detour` persists across the session.
-- [ ] canonical creative / design IDs persist from incoming traffic to downstream events.
-- [ ] existing canonical Creative Director identifiers are used directly as `design_id`; no parallel `D###` remapping is introduced.
-- [ ] Meta IDs remain separate from company-controlled IDs.
-- [ ] UTM values persist across the session where supplied.
-- [ ] a unique `event_id` is generated for each event.
-- [ ] duplicate one-time events are suppressed.
-- [ ] analytics payloads contain no submitted email address or name.
-- [ ] raw landing visits can be distinguished from derived engaged sessions.
-- [ ] events can be inspected in the chosen analytics/debugging layer before paid traffic is launched.
+- [x] `landing_view` fires correctly.
+- [x] `design_view` fires only after meaningful visibility.
+- [x] `design_engagement` fires only for defined interactions.
+- [x] `intent_click` fires with stable CTA identity.
+- [x] `lead_submit` fires only after successful lead capture.
+- [x] `page_exit` or equivalent session-summary logic supplies required diagnostic fields where technically reliable.
+- [x] `event_schema_version = 0.1` is present on every event.
+- [x] `experiment_id = mvv-r012-001` persists across the session.
+- [x] `brand_id = worth-the-detour` persists across the session.
+- [x] canonical creative / design IDs persist from incoming traffic to downstream events.
+- [x] existing canonical Creative Director identifiers are used directly as `design_id`; no parallel `D###` remapping is introduced.
+- [x] Meta IDs remain separate from company-controlled IDs.
+- [x] UTM values persist across the session where supplied.
+- [x] a unique `event_id` is generated for each event.
+- [x] duplicate one-time events are suppressed.
+- [x] analytics payloads contain no submitted email address or name.
+- [x] raw landing visits can be distinguished from derived engaged sessions.
+- [x] events can be inspected in the chosen analytics/debugging layer before paid traffic is launched.
 
 ---
 
@@ -652,8 +652,16 @@ Do not silently change event semantics in code.
 
 ---
 
-# 15. Next Step
+# 15. Implementation and validation status
 
-After this schema is approved, the next layer is to establish the minimum GitHub + Cloudflare Pages page-building and deployment path.
+This schema was implemented through PR #85 and validated in isolated Preview and Production environments.
 
-No landing-page code should be written before this event schema is accepted as the instrumentation contract for MVV #1.
+The completed evidence confirmed all six canonical event names, first-touch attribution persistence, independent
+`creative_id` and `design_id`, unique event/lead identity, duplicate suppression, lead/event/session
+association, Meta-ID separation, PII isolation, desktop and compact-mobile behavior, and best-effort cumulative
+`page_exit` summaries.
+
+Implementation details and exact rollout evidence remain in
+`sites/worth-the-detour/PHASE-B-SETUP.md`. Reusable delivery guidance is in
+`docs/company/MVV-Technical-Delivery-Playbook.md`. Future semantic changes must still follow the change-control
+procedure above and increment the schema version when required.

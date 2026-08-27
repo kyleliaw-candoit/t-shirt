@@ -2,8 +2,18 @@
 
 ## README (Phase 0)
 
-> **Status:** Phase 0 Complete (Company Architecture & Research Methodology)
-> **Current Phase:** Phase 1 – Community Research
+> **Status:** Active AI-native commerce build
+> **Current workstreams:** Community/strategy research and Minimum Viable Validation
+> **Latest delivery milestone:** Worth the Detour MVV #1 Phase B completed and verified in Production on 2026-08-27
+
+---
+
+# Documentation Map
+
+- [Company operating methodologies](docs/company/)
+- [Minimum Viable Validation documentation](docs/mvv/)
+- [Worth the Detour MVV #1](docs/mvv/worth-the-detour/)
+- [Worth the Detour Phase B site setup and rollout evidence](sites/worth-the-detour/PHASE-B-SETUP.md)
 
 ---
 
