@@ -16,7 +16,7 @@ Related durable knowledge:
 - [MVV Technical Delivery Playbook](../../docs/company/MVV-Technical-Delivery-Playbook.md) — reusable cross-MVV delivery and blocker-recovery sequence.
 - [MVV-001 Phase B Retrospective](../../docs/mvv/worth-the-detour/MVV-001-Phase-B-Retrospective.md) — Worth the Detour execution lessons and methodology disposition.
 
-This file remains the source of truth for Worth the Detour-specific configuration, resource IDs, migration state, and rollout evidence.
+This file is the canonical repository record of intended and last-verified Worth the Detour configuration, resource IDs, migration state, and rollout evidence. Cloudflare remains authoritative for current operational state; reverify it read-only before any mutation.
 
 ## Required Pages configuration
 

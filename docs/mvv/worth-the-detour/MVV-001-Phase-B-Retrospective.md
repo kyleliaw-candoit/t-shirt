@@ -178,12 +178,9 @@ Run end-to-end QA against one exact executable SHA. Keep evidence-only changes o
 
 Track hashes, deployments, bindings, packaging, tagged QA, PII checks, review outcome, approvals, and cleanup as expected deliverables—not ad hoc discoveries.
 
-### 6. Add lightweight CI for tests and packaging
-
-The 17-test suite and public-allowlist check are stable enough to run automatically on relevant PRs. CI should support review, not replace Preview QA or Founder approval.
-
 ## Small automation to pilot next
 
+- Lightweight GitHub Actions CI for the existing 17-test suite and public-package allowlist, subject to separate implementation and Technical Review.
 - A reviewed migration-preflight helper/template that prints repository SHA, clean status, source/copied migration hashes, config path, target name/ID, and pending migrations.
 - Reusable read-only D1 verification queries that omit PII by construction.
 - A GitHub issue template derived from the playbook's gates and approval matrix.
@@ -234,4 +231,3 @@ Do not yet automate Production migration confirmation, Production deployment app
 - `docs/mvv/worth-the-detour/MVV-001-Acquisition-vs-Product-Validation.md`
 - `docs/mvv/worth-the-detour/MVV-001-Phase-A-Sprint-Retrospective.md`
 - `docs/company/MVV-Technical-Delivery-Playbook.md`
-

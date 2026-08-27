@@ -23,7 +23,7 @@ Keep these records separate:
 |---|---|---|
 | Company playbook | Reusable process | Gates, checklists, blocker recovery, evidence requirements |
 | MVV event schema | Experiment contract | Event names, IDs, required fields, semantics, privacy rules |
-| Site setup record | Live implementation truth | Project root, build/output paths, binding names, database IDs, migration status |
+| Site setup record | Canonical repository record | Intended and last-verified project root, build/output paths, bindings, database IDs, and migration status; reverify live platform state before mutation |
 | Project issue | Current execution state | Owner, next gate, approvals, blockers, completion checklist |
 | Pull request | Reviewable change | Diff, tests, implementation review, merge readiness |
 | MVV retrospective | Local learning | What happened, why, results, and proposed methodology changes |
@@ -271,6 +271,8 @@ Then request separate approval for one controlled lead submission. Use a unique 
 | Reviewer cannot finish | Usage/environment limitation | Preserve exact review prompt and head SHA; move to the established independent reviewer surface |
 | Branch is behind `main` | Unrelated work landed during a long rollout | Compare changed paths and mergeability; do not rebase ceremonially if divergence is unrelated and safe |
 | Issue body is stale | Progress lived only in comments/chats | Update the issue at major gates and perform a final reconciliation before closure |
+| Token UI says **Delete** instead of **Revoke** | Current dashboard terminology differs from the procedure | Verify the exact temporary-token name and use the action that permanently invalidates that token; never delete another standing credential |
+| Token verifies active but an operation is unauthorized | Account, permission, or resource scope is insufficient | Inspect the required account/resource scope and permission; do not recreate credentials blindly |
 
 ## Evidence package checklist
 

@@ -44,7 +44,7 @@
 
 - Issue #55 is the completed execution audit trail.
 - Pull requests preserve implementation changes and reviews.
-- `PHASE-B-SETUP.md` owns exact Worth the Detour infrastructure/configuration facts.
+- `PHASE-B-SETUP.md` is the canonical repository record of intended and last-verified Worth the Detour infrastructure/configuration facts; reverify live Cloudflare state read-only before any mutation.
 - Retrospectives own interpretation and operating lessons.
 - Company methodology/playbooks contain reusable guidance without WTD resource IDs.
 
