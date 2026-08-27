@@ -18,8 +18,8 @@ Use these settings at each environment's authorized rollout stage:
 | Compatibility flags | none |
 
 The project-wide Cloudflare Pages build configuration above is active and confirmed. Automatic Production
-deployments are disabled while the Preview rollout and review remain in progress; keep them disabled until the
-separate Production approval gate. Keep `functions/` at the project root; do not copy it into `dist/`, so Pages
+deployments remain disabled after the completed Preview and Production D1 migration rollouts; keep them disabled
+until the separate Founder-approved Production Pages deployment gate. Keep `functions/` at the project root; do not copy it into `dist/`, so Pages
 continues to compile the `/api/events` and `/api/leads` file-based routes.
 
 ## Database inventory and Pages bindings
@@ -29,15 +29,16 @@ Both databases are provisioned and their environment-specific Pages bindings are
 | Pages environment | Binding | D1 database | Database ID | Current status |
 |---|---|---|---|---|
 | Preview | `DB` | `worth-the-detour-mvv-preview` | `578c688c-e434-42f6-8924-e12a229ba0de` | Active; `0001_mvv_phase_b.sql` applied and verified 2026-08-26 |
-| Production | `DB` | `worth-the-detour-mvv-production` | `78f0c8f2-c7a5-44fd-8d6e-a29c1d6b6fbe` | Active and confirmed; migration not applied |
+| Production | `DB` | `worth-the-detour-mvv-production` | `78f0c8f2-c7a5-44fd-8d6e-a29c1d6b6fbe` | Active; `0001_mvv_phase_b.sql` applied and verified 2026-08-27 |
 
 In the Cloudflare Pages project **worth-the-detour**, configure the D1 binding separately in each environment:
 
 - Preview: `DB` → `worth-the-detour-mvv-preview`
 - Production: `DB` → `worth-the-detour-mvv-production`
 
-Do not bind the production database to Preview. The Preview migration was applied through Wrangler and is
-recorded in `d1_migrations`; the Production migration has not been run and requires explicit Founder approval.
+Do not bind the production database to Preview. Both environment-specific migrations were applied through
+Wrangler and are recorded independently in each database's `d1_migrations` table. Preview and Production remain
+isolated; applying the Production migration did not authorize or trigger a Production Pages deployment.
 
 ## Inspect and apply versioned migrations
 
@@ -56,8 +57,9 @@ npx --yes wrangler@latest d1 migrations apply worth-the-detour-mvv-preview --rem
 
 The post-apply migration list reported no pending migrations.
 
-Production rollout requires separate explicit Founder approval. Use a separate ephemeral configuration that
-maps `DB` only to `worth-the-detour-mvv-production` and reverify the resolved database before applying:
+Production rollout status: completed and verified on 2026-08-27 following separate explicit Founder approval.
+The rollout used a separate ephemeral configuration mapping `DB` only to
+`worth-the-detour-mvv-production` and reverified the resolved database before applying:
 
 ```sh
 npx --yes wrangler@latest d1 migrations list worth-the-detour-mvv-production --remote --config "$WTD_PRODUCTION_CONFIG"
@@ -65,8 +67,9 @@ npx --yes wrangler@latest d1 migrations apply worth-the-detour-mvv-production --
 ```
 
 Use Wrangler's migration commands rather than executing the migration file directly. Wrangler records applied
-migrations in `d1_migrations`, preserving a consistent migration history across Preview and Production. The
-Preview sequence is complete; do not run the Production sequence without explicit Founder approval.
+migrations in `d1_migrations`, preserving a consistent migration history across Preview and Production. Both
+migration sequences are complete and report no pending migrations. Do not rerun either migration or authorize a
+Production Pages deployment merely because the Production schema now exists.
 
 ## Local development and tests
 
@@ -128,7 +131,29 @@ passed the runtime and end-to-end QA gate:
   The mobile summary recorded 100% maximum scroll depth, eight designs viewed, and session-scoped engagement
   and duration values.
 
+## Verified Production migration evidence (2026-08-27)
+
+After PR #85 merged as `2902693dc327af40bee729cc8d6442ad72157e71`, the Founder separately approved
+the Production D1 migration. The guarded rollout verified:
+
+- Canonical migration: `0001_mvv_phase_b.sql`; file SHA-256
+  `8bd743a0e874ebb30db4894aff25c6b99c7f8fe5eadcdce592c7c89810cd99ec`; Git blob
+  `b94a1818a2784cf1e78d515a7d785b840d7dd2ba`.
+- Exact target: `worth-the-detour-mvv-production`
+  (`78f0c8f2-c7a5-44fd-8d6e-a29c1d6b6fbe`), matching the Production Pages `DB` binding.
+- Wrangler `4.126.0` listed only `0001_mvv_phase_b.sql` pending, applied it successfully by executing five
+  migration commands, and then reported no migrations remaining.
+- Read-only post-apply inspection confirmed `d1_migrations`, `events`, `leads`,
+  `events_name_design_idx`, and `events_session_id_idx`; the verification wrote zero rows.
+- Automatic Production deployments remained disabled. The PR #85 merge deployment record remained skipped with
+  reason `production_deployments_disabled`; no clone, build, or deploy stage ran.
+- The ephemeral Wrangler configuration and terminal credentials were removed, the repository remained clean,
+  and the short-lived Production migration token was deleted.
+
+The Production schema is ready, but Production Pages deployment, canonical apex/`www` verification, Production
+smoke testing, and Issue #55 closure remain separately gated.
+
 The controlled Preview records are identifiable by `creative_id = CR_TEST_A` and
-`utm_campaign = mvv-test`; no test/debug defaults are embedded in the deployed client. Production D1 and
-Production deployments were not used during this QA and remain separately gated.
+`utm_campaign = mvv-test`; no test/debug defaults are embedded in the deployed client. Production D1 was
+subsequently migrated through the separately approved rollout above; Production deployment remains gated.
 
