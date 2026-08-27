@@ -3,7 +3,7 @@ title: Finance Ledger
 owner: Finance Analyst
 status: Active
 version: 0.1
-last_updated: 2026-08-14
+last_updated: 2026-08-26
 ---
 
 # Finance Ledger
@@ -23,17 +23,20 @@ Amounts should be recorded in the transaction currency. Do not infer taxes, fees
 | Transaction ID | Date | Type | Amount | Currency | Vendor / Source | Category | Brand | Experiment ID | Description | Recurring? | Evidence / Note |
 |---|---|---:|---:|---|---|---|---|---|---|---|---|
 | FIN-0001 | 2026-08-14 | Expense | 10.46 | USD | Cloudflare Registrar | Domain | Worth the Detour | — | One-year registration of `worth-the-detour.com` | Yes — annual auto-renew currently enabled | Founder-provided Cloudflare purchase and domain-status screenshots; current renewal shown as $10.46/year |
+| FIN-0002 | 2026-08-26 | Expense | 106.40 | USD | OpenAI | Software | Company-wide | — | ChatGPT Pro 5x subscription upgrade | Yes — monthly auto-renew | Founder-provided ChatGPT Billing screenshot showing paid transaction on 2026-08-26 for $106.40 and auto-renewal on 2026-09-26 |
 
 ---
 
 # Running Summary
 
-As of 2026-08-14:
+As of 2026-08-26:
 
-- **Recorded expenses:** $10.46
+- **Recorded expenses:** $116.86
 - **Recorded revenue:** $0.00
-- **Net recorded cash flow:** -$10.46
-- **Known recurring annual commitment:** $10.46/year for `worth-the-detour.com`, subject to future registrar pricing / renewal decisions
+- **Net recorded cash flow:** -$116.86
+- **Known recurring commitments:**
+  - $106.40/month for ChatGPT Pro 5x, subject to future plan/pricing changes
+  - $10.46/year for `worth-the-detour.com`, subject to future registrar pricing / renewal decisions
 
 ---
 
