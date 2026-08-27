@@ -237,7 +237,7 @@ Then request separate approval for one controlled lead submission. Use a unique 
 - Update the site setup record with final migration/deployment state.
 - Update the project issue with exact PR head, merge commit, deployment ID, QA result, accepted limitations, and remaining follow-up.
 - Merge documentation through normal review.
-- Close the issue only after the final documentation deployment is verified if documentation changes automatically deploy.
+- Close the issue after the last Phase B delivery/evidence commit's deployment is verified when documentation changes automatically deploy. Later retrospective-only documentation is outside the completed rollout and should not reopen it.
 - Write a retrospective and promote only earned, reusable lessons into company methodology.
 
 ## Approval matrix
@@ -301,4 +301,3 @@ Adopt only after the manual workflow is understood:
 4. A reusable issue/PR checklist derived from this playbook.
 
 Do not automate Production migration or deployment approval away. Human authorization is a control, not toil to eliminate.
-

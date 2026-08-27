@@ -202,7 +202,7 @@ The controlled Preview records remain identifiable by `creative_id = CR_TEST_A` 
 `utm_campaign = mvv-test`. Preview and Production D1 remain isolated, and both rollout evidence sets are
 explicitly tagged for exclusion from live MVV analysis.
 
-## Final documentation deployment verification (2026-08-27)
+## Phase B closure deployment verification (2026-08-27)
 
 Founder approved final documentation-only PR #89 at exact head
 `65b8095195f92ec435034ebdcd2a02753c626786`. It merged as
