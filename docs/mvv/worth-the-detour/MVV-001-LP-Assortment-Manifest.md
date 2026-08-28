@@ -3,7 +3,7 @@ title: MVV-001 Landing-Page Assortment Manifest
 brand: Worth the Detour
 experiment_id: mvv-r012-001
 owner: Creative Director
-status: Working
+status: Complete
 last_updated: 2026-08-18
 ---
 
@@ -15,7 +15,7 @@ Record the founder-approved Worth the Detour MVV #1 landing-page product assortm
 
 This is a **product-validation assortment**, not the future Meta acquisition-creative set. A shirt does not need to independently decode the entire R012 category when viewed on the landing page; category meaning is carried by the page framing and the assortment as a whole.
 
-The executable MVV #1 landing-page assortment currently contains **10 products**. The current product order is **tentative and not locked**.
+The executable MVV #1 landing-page assortment currently contains **10 products**. The implemented product order is the **accepted MVV #1 baseline** and should remain unchanged for Issue #56 unless a material regression or genuine blocker is discovered.
 
 ## Identifier rule
 
@@ -123,6 +123,4 @@ The Creative Director product-image subtask is complete for the executable MVV #
 
 Ten products have approved LP primary images. `Fashion-1D-GN` is explicitly excluded from MVV #1 under the execution exception above so it does not remain an unresolved dependency or blocker.
 
-Next Creative Director subtask:
-
-> Produce detail / inspection assets only for designs that need closer reading or visual inspection.
+The detail / inspection asset subtask is complete. Issue #55 is closed, and this manifest is ready to serve as a canonical input to Issue #56 acquisition-candidate selection.
