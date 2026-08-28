@@ -3,7 +3,7 @@ title: Final Opportunity Portfolio Recommendation
 owner: Strategy Advisor
 status: Founder Approved
 methodology: Strategy Advisor Methodology v0.3
-last_updated: 2026-08-12
+last_updated: 2026-08-28
 scope: Final founder-approved launch priorities after Strategy Advisor review and stress-test
 ---
 
@@ -41,6 +41,12 @@ The first three represent the immediate launch portfolio. R019 should be tested 
 The company’s emerging strategic thesis is:
 
 > **AI + POD may create an advantage in finding and serving under-articulated, identity-signaling niches that are too small, fragmented, or operationally unattractive for traditional brand economics to serve deeply.**
+
+A related distribution hypothesis is:
+
+> **AI lowers the cost of researching and creating products for narrow identities; print-on-demand lowers inventory risk; and advertising networks may make those products economically discoverable by matching highly relevant designs to relevant people and contexts. First-party behavior and intent data should then evaluate what that acquired attention becomes.**
+
+This is an operating premise to test, not established evidence. Its viability depends on whether platform targeting, product relevance, conversion, and contribution margin work together economically.
 
 The thesis does not assume that every small niche is attractive.
 
