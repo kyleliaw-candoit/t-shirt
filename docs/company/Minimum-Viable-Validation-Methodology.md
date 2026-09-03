@@ -6,8 +6,8 @@ primary_users:
   - Brand Manager
   - Strategy Advisor
 status: Proposed
-version: 0.1
-last_updated: 2026-08-12
+version: 0.2
+last_updated: 2026-08-27
 reviewed_by: Founder pending
 ---
 
@@ -519,6 +519,22 @@ Specific next step and owning role.
 ## Knowledge Candidate
 
 Any finding potentially worth preserving beyond this experiment.
+
+## Technical Delivery and Knowledge Capture
+
+An instrumented MVV must plan implementation, environment isolation, database migration, deployment, QA,
+approval, and evidence capture before paid traffic begins. Use
+`docs/company/MVV-Technical-Delivery-Playbook.md` as the reusable delivery companion.
+
+After a material MVV phase completes, preserve experiment-specific facts in its project records and retrospective.
+The Knowledge Librarian should then classify lessons as:
+
+- promote to working standard;
+- pilot before standardizing;
+- keep on the scaling watchlist; or
+- do not add yet.
+
+Do not copy project resource IDs, deployment history, or tagged test values into company methodology.
 
 ---
 

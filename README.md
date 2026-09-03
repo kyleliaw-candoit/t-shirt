@@ -1,9 +1,19 @@
 # AI-Native Commerce Company ( A T-Shirt Business, Initially )
 
-## README (Phase 0)
+## Repository Overview
 
-> **Status:** Phase 0 Complete (Company Architecture & Research Methodology)
-> **Current Phase:** Phase 1 – Community Research
+> **Status:** Active AI-native commerce build
+> **Current workstreams:** Community/strategy research and Minimum Viable Validation
+> **Latest delivery milestone:** Worth the Detour MVV #1 Phase B completed and verified in Production on 2026-08-27
+
+---
+
+# Documentation Map
+
+- [Company operating methodologies](docs/company/)
+- [Minimum Viable Validation documentation](docs/mvv/)
+- [Worth the Detour MVV #1](docs/mvv/worth-the-detour/)
+- [Worth the Detour Phase B site setup and rollout evidence](sites/worth-the-detour/PHASE-B-SETUP.md)
 
 ---
 
@@ -314,14 +324,17 @@ Completed:
 
 ---
 
-## Phase 1 (Current)
+## Active Workstreams
 
-Current objectives include:
+Current work spans more than one sequential phase:
 
-* Validate the research methodology using multiple communities.
-* Compare research reports across different domains.
-* Improve the Community Analyst through execution rather than theory.
-* Begin identifying promising identity communities for future brands.
+* continue structured identity/community research and cross-identity strategy analysis;
+* translate selected opportunities into brand and creative hypotheses;
+* run Minimum Viable Validation experiments that collect credible market evidence;
+* convert completed execution into reusable operating knowledge.
+
+Worth the Detour / R012 is the first completed Production MVV technical-delivery case. Its canonical document map is
+[Worth the Detour MVV #1](docs/mvv/worth-the-detour/).
 
 ---
 
