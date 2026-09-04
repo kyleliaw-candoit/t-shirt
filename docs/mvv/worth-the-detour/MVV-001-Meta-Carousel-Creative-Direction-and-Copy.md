@@ -50,20 +50,35 @@ Interface copy does the extra decoding where a print is intentionally quiet. Ess
 
 ## Initial supplied order and final card treatment
 
-| Order / card | Product | Acquisition job | Final treatment and decoding requirement |
-|---:|---|---|---|
-| 1 / `C01` | `Type-Led-4` — The Thrill of the Find — Handwritten | Fast discovery emotion; strongest expressive scroll stop | Tight garment-led crop retaining the full script, antiques support line, collar, sleeves, and restrained shop context. Headline explicitly names antique hunting. Representative preview card. |
-| 2 / `C02` | `B2` — No, Really. Five Minutes. | Insider detour/one-more-booth humor | Keep the full sign artwork large and unobstructed. Preserve visible antique-shop cues; headline anchors the “five-minute” joke to antique stops. |
-| 3 / `C03` | `YIF-M` — Yeah, It’ll Fit — Classic | Find-logistics optimism through tiny-car/large-chair proportion | Crop tightly enough for the full car/chair relationship to read, while keeping garment identity. Headline names the oversized antique find. |
-| 4 / `C04` | `Fashion-1D-F` — Treasure Hunter | Direct identity declaration with fashion-first recognition | Preserve the approved female-leaning garment treatment and large chest read. Antique context/headline must prevent gaming or metal-detecting drift. |
-| 5 / `C05` | `Type-Led-3` — The Thrill of the Find — Utility | Compressed type-led “FIND” scroll stop | Keep the full print and support line; do not depend on the small line being readable. Headline supplies explicit antiques decoding. |
-| 6 / `C06` | `C3B` — The Thrill Curve | Discount-dot-to-SOLD hunt ritual | Retain every dot, face, color, and SOLD tag at useful scale. Headline frames it as an antique-mall feeling, not generic sale shopping. |
-| 7 / `C07` | `YIF-F` — Yeah, It’ll Fit — Soft | Same logistics truth with a softer product expression | Preserve the approved softer styling and entire comic relationship. Treat as a distinct product, not a color-test duplicate. |
-| 8 / `C08` | `A1` — Good Antiques Don’t Shout | Quiet-quality discernment with explicit category language | Closest crop that retains garment and full chair/copy unit. Do not make the intentionally restrained design artificially loud; headline reinforces “a good eye.” |
-| 9 / `C09` | `C2` — Found Not New — Booth 42 | Antique-mall artifact and story-of-the-find specificity | Keep the full tag/ticket overlap and artifact hierarchy. Headline decodes Booth 42; avoid generic resale/sustainability framing or added faux-grunge. |
-| 10 / `C10` | `A3` — The Good Ones Don’t Shout | MCM/vintage discernment and quiet confidence | Tight full-unit crop with vintage-furniture context. Explicit headline is required because the shirt does not independently say antiques. Do not infer weak product appeal from lower feed readability. |
+Founder-selected supplied order:
 
-The opening sequence moves from expressive discovery to insider behavior, logistics, direct identity, and strong type. The remaining cards broaden the world into ritual, alternate expression, discernment, booth artifacts, and MCM. This is a cold-start editorial order only; all cards remain standalone under automatic reordering.
+1. `Fashion-1D-F`
+2. `B2`
+3. `YIF-F`
+4. `A3`
+5. `C3B`
+6. `Type-Led-4`
+7. `A1`
+8. `YIF-M`
+9. `C2`
+10. `Type-Led-3`
+
+Stable card identities remain attached to their products even when supplied order changes. This prevents order edits from changing filenames, attribution identity, or historical comparisons.
+
+| Supplied order / stable card | Product | Acquisition job | Final treatment and decoding requirement |
+|---:|---|---|---|
+| 1 / `C04` | `Fashion-1D-F` — Treasure Hunter | Direct identity declaration with fashion-first recognition | Preserve the approved female-leaning garment treatment and large chest read. Antique context/headline must prevent gaming or metal-detecting drift. |
+| 2 / `C02` | `B2` — No, Really. Five Minutes. | Insider detour/one-more-booth humor | Keep the full sign artwork large and unobstructed. Preserve visible antique-shop cues; headline anchors the “five-minute” joke to antique stops. |
+| 3 / `C07` | `YIF-F` — Yeah, It’ll Fit — Soft | Find-logistics optimism in a softer product expression | Preserve the approved softer styling and entire comic relationship. Treat as a distinct product, not a color-test duplicate. |
+| 4 / `C10` | `A3` — The Good Ones Don’t Shout | MCM/vintage discernment and quiet confidence | Tight full-unit crop with vintage-furniture context. Explicit headline is required because the shirt does not independently say antiques. Do not infer weak product appeal from lower feed readability. |
+| 5 / `C06` | `C3B` — The Thrill Curve | Discount-dot-to-SOLD hunt ritual | Retain every dot, face, color, and SOLD tag at useful scale. Headline frames it as an antique-mall feeling, not generic sale shopping. |
+| 6 / `C01` | `Type-Led-4` — The Thrill of the Find — Handwritten | Fast discovery emotion; strongest expressive scroll stop | Tight garment-led crop retaining the full script, antiques support line, collar, sleeves, and restrained shop context. Headline explicitly names antique hunting. Representative preview card. |
+| 7 / `C08` | `A1` — Good Antiques Don’t Shout | Quiet-quality discernment with explicit category language | Closest crop that retains garment and full chair/copy unit. Do not make the intentionally restrained design artificially loud; headline reinforces “a good eye.” |
+| 8 / `C03` | `YIF-M` — Yeah, It’ll Fit — Classic | Find-logistics optimism through tiny-car/large-chair proportion | Crop tightly enough for the full car/chair relationship to read, while keeping garment identity. Headline names the oversized antique find. |
+| 9 / `C09` | `C2` — Found Not New — Booth 42 | Antique-mall artifact and story-of-the-find specificity | Keep the full tag/ticket overlap and artifact hierarchy. Headline decodes Booth 42; avoid generic resale/sustainability framing or added faux-grunge. |
+| 10 / `C05` | `Type-Led-3` — The Thrill of the Find — Utility | Compressed type-led “FIND” scroll stop | Keep the full print and support line; do not depend on the small line being readable. Headline supplies explicit antiques decoding. |
+
+This Founder-selected sequence is the manual cold-start order. It deliberately opens with the most explicit identity declaration, then alternates humor, discernment, ritual, and type-led discovery. It is not a product ranking and does not constrain Meta: every card remains standalone, and predicted-best-performing-card ordering should be enabled if available.
 
 ## Final Meta copy package
 
@@ -120,7 +135,7 @@ If activated later, it must receive a different `creative_id`; it cannot reuse `
 
 Selected card: **`C01` / `Type-Led-4`**.
 
-Why: it is the proposed opening card, was designed for strong phone-thumbnail impact, and stress-tests both expressive script and the small antiques-decoding line in the two approved ratios.
+Why: it was designed for strong phone-thumbnail impact and stress-tests both expressive script and the small antiques-decoding line in the two approved ratios. Its role as the representative production check is independent of its supplied position.
 
 Preview files:
 
