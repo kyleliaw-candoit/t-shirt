@@ -2,7 +2,7 @@
 title: Finance Ledger
 owner: Finance Analyst
 status: Active
-version: 0.2
+version: 0.3
 last_updated: 2026-09-03
 ---
 
@@ -24,6 +24,7 @@ Amounts should be recorded in the transaction currency. Do not infer taxes, fees
 |---|---|---:|---:|---|---|---|---|---|---|---|---|
 | FIN-0001 | 2026-08-14 | Expense | 10.46 | USD | Cloudflare Registrar | Domain | Worth the Detour | — | One-year registration of `worth-the-detour.com` | Yes — annual auto-renew currently enabled | Founder-provided Cloudflare purchase and domain-status screenshots; current renewal shown as $10.46/year |
 | FIN-0002 | 2026-08-31 | Expense | 300.00 | USD | Texas Secretary of State | Legal / Formation | Company-wide | — | Certificate of Formation for Taukay LLC | No | Founder-provided Texas Secretary of State receipt; $300.00 card payment accepted. Receipt notes that a separate 2.7% convenience fee may appear on the card statement; no such fee is recorded without confirmation. |
+| FIN-0003 | 2026-08-26 | Expense | 106.40 | USD | OpenAI | Software | Company-wide | — | ChatGPT Pro 5x subscription upgrade | Yes — monthly auto-renew | Founder-provided ChatGPT Billing screenshot showing paid transaction on 2026-08-26 for $106.40 and auto-renewal on 2026-09-26 |
 
 ---
 
@@ -31,10 +32,12 @@ Amounts should be recorded in the transaction currency. Do not infer taxes, fees
 
 As of 2026-08-31:
 
-- **Recorded expenses:** $310.46
+- **Recorded expenses:** $416.86
 - **Recorded revenue:** $0.00
-- **Net recorded cash flow:** -$310.46
-- **Known recurring annual commitment:** $10.46/year for `worth-the-detour.com`, subject to future registrar pricing / renewal decisions
+- **Net recorded cash flow:** -$416.86
+- **Known recurring commitments:**
+  - $106.40/month for ChatGPT Pro 5x, subject to future plan/pricing changes
+  - $10.46/year for `worth-the-detour.com`, subject to future registrar pricing / renewal decisions
 
 ---
 
