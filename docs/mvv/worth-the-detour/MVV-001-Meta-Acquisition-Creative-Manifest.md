@@ -5,7 +5,7 @@ experiment_id: mvv-r012-001
 owner: Creative Director
 status: Working — representative-card verification pending
 related_issue: 56
-last_updated: 2026-09-03
+last_updated: 2026-09-08
 ---
 
 # MVV-001 Meta Acquisition Creative Manifest
@@ -25,9 +25,9 @@ last_updated: 2026-09-03
 | CTA | Learn More |
 | Landing-page base | `https://worth-the-detour.com/` |
 | Card ordering | Founder-selected supplied order below; predicted-best-performing-card ordering enabled if available |
-| Attribution | Same carousel `creative_id` on every card; stable source-card and source-product identity per card; downstream landing-page `design_id` remains independent |
+| Attribution | Technical Review approved 2026-09-08; same carousel `creative_id` on every card; stable source-card and source-product identity in `utm_content`; downstream landing-page `design_id` remains independent |
 
-The Campaign Operator and Technical Reviewer own the exact URL-parameter encoding. Every final card URL must semantically carry `creative_id=WTD-MVV001-CAR-01`, its listed source card, and its listed source-product `design_id`. Do not use the source product to preselect or overwrite downstream product behavior.
+Technical Review approved the URL encoding on 2026-09-08. Every card uses `creative_id=WTD-MVV001-CAR-01` and `utm_content=<stable_card_id>~<source_product_design_id>`. Production uses `utm_source=meta`; controlled QA uses `utm_source=meta_qa`; both use `utm_medium=paid-social` and `utm_campaign=mvv-r012-001`. Do not use the source product to preselect or overwrite downstream product behavior.
 
 ## Card and asset matrix
 
@@ -47,6 +47,25 @@ Card IDs are stable product-linked identities, not position numbers. Changing th
 | 8 | `C03` | `YIF-M` | Find logistics / insider humor | When the Antique Find Has to Fit | `WTD-MVV001-CAR-01_C03_YIF-M_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C03_YIF-M_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
 | 9 | `C09` | `C2` | Booth artifact / story of the find | Found in Booth 42 | `WTD-MVV001-CAR-01_C09_C2_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C09_C2_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
 | 10 | `C05` | `Type-Led-3` | Thrill of discovery / utility type | Antiques Are Worth the Detour | `WTD-MVV001-CAR-01_C05_Type-Led-3_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C05_Type-Led-3_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
+
+## Canonical production destination URLs
+
+The complete URL is stored on its matching card so Meta reordering cannot detach the card from its acquisition identity.
+
+| Stable card | Source-product `design_id` | Production Website URL |
+|---|---|---|
+| `C04` | `Fashion-1D-F` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C04~Fashion-1D-F` |
+| `C02` | `B2` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C02~B2` |
+| `C07` | `YIF-F` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C07~YIF-F` |
+| `C10` | `A3` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C10~A3` |
+| `C06` | `C3B` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C06~C3B` |
+| `C01` | `Type-Led-4` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C01~Type-Led-4` |
+| `C08` | `A1` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C08~A1` |
+| `C03` | `YIF-M` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C03~YIF-M` |
+| `C09` | `C2` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C09~C2` |
+| `C05` | `Type-Led-3` | `https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=meta&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=C05~Type-Led-3` |
+
+For controlled QA, change only `utm_source=meta` to `utm_source=meta_qa`. If the live builder verifies its shared URL-parameters field, use that field only for `meta_campaign_id={{campaign.id}}&meta_adset_id={{adset.id}}&meta_ad_id={{ad.id}}`, without a leading `?`.
 
 All final files belong under `docs/mvv/worth-the-detour/assets/meta/MVV-001/`.
 
@@ -79,4 +98,4 @@ Do not change the nine `GATED` cards to production-ready or export their files u
 4. stable card-to-URL/source identity;
 5. predicted-best-performing-card ordering behavior.
 
-Any URL convention added after Technical Review must update this manifest without changing the established creative, card, or product identities.
+The URL convention is now Technical-Review approved. Live two-card QA must still confirm that Meta preserves each card’s URL through preview and automatic reordering before the remaining gate is released.
