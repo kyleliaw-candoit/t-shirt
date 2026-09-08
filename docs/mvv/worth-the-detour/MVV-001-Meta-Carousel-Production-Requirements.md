@@ -5,6 +5,7 @@ experiment_id: mvv-r012-001
 owner: Strategy Advisor / Campaign Lead
 status: Working — campaign plan approved; live Ads Manager verification pending
 verified_on: 2026-09-03
+attribution_reviewed_on: 2026-09-08
 platform: Meta Ads Manager
 related_issue: 56
 ---
@@ -104,7 +105,7 @@ The campaign plan and minimum format matrix are approved. The following executio
 
 - shared primary text, card-level headline, optional description, and CTA conventions — Creative Director proposes; Strategy Advisor approves campaign-level choices;
 - initial supplied card order — Creative Director;
-- exact `creative_id`, source-card, and source-product URL-parameter convention — Campaign / MVV Operator with Technical Reviewer;
+- exact `creative_id`, source-card, and source-product URL-parameter convention — approved on 2026-09-08; see Section 10;
 - whether the optional non-carousel behavioral-scene execution is production-worthy — Creative Director recommends; Strategy Advisor approves;
 - live availability of best-performing-card-first and placement media customization — Campaign / MVV Operator;
 - founder budget and launch authorization — Founder.
@@ -140,20 +141,54 @@ Before full asset export or meaningful spend, the Campaign / MVV Operator must v
 
 Use one representative card in both ratios for this check before requesting the complete export package. If the live interface conflicts with this document, stop and update the campaign-specific requirement before creative rework or meaningful spend.
 
-## 10. Attribution QA gate
+## 10. Canonical card attribution and QA gate
+
+Technical Review approved this convention on 2026-09-08. It is compatible with the deployed implementation and requires no code change, database migration, or event-schema change.
+
+### Canonical semantics
+
+| Field | Canonical value / rule |
+|---|---|
+| Carousel execution | `creative_id=WTD-MVV001-CAR-01` |
+| Source card and product | `utm_content=<stable_card_id>~<source_product_design_id>` |
+| Production source | `utm_source=meta` |
+| Controlled-QA source | `utm_source=meta_qa` |
+| Medium | `utm_medium=paid-social` |
+| Campaign | `utm_campaign=mvv-r012-001` |
+| Meta click ID | Do not construct `fbclid`; preserve it when Meta supplies it. |
+| Downstream product | Landing-page `design_id` remains independent and must come only from the product viewed or selected. |
+
+The tilde (`~`) is the sole separator inside `utm_content`. Preserve the canonical case and spelling of both identifiers. Example: `C01~Type-Led-4`.
+
+Each card's Website URL must use:
+
+```text
+https://worth-the-detour.com/?creative_id=WTD-MVV001-CAR-01&utm_source=<meta-or-meta_qa>&utm_medium=paid-social&utm_campaign=mvv-r012-001&utm_content=<stable_card_id>~<source_product_design_id>
+```
+
+If the live builder confirms that a shared URL-parameters field appends to every card without replacing its existing query string, enter only:
+
+```text
+meta_campaign_id={{campaign.id}}&meta_adset_id={{adset.id}}&meta_ad_id={{ad.id}}
+```
+
+Do not add a leading `?` or duplicate the static card parameters in the shared field. Omit `utm_term`, `variant_id`, and `creative_territory_id` unless separate canonical values are later approved.
+
+### Required live two-card QA
 
 Before meaningful spend:
 
-1. Configure a stable carousel-level `creative_id`.
-2. Configure stable card-specific source attribution using the smallest reliable mechanism supported by Meta, potentially a card-specific `utm_content` convention.
-3. Define and document a unique QA marker before clicking, such as `utm_source=meta_qa` or a dedicated QA campaign value; do not rely on manual deletion or inference later.
-4. Perform controlled clicks from at least two different cards.
-5. Verify the QA marker and correct source-card values through the canonical-host redirect, `landing_view`, downstream events, and D1 storage.
-6. Verify that downstream `design_id` remains independent when the visitor engages with a product different from the source card.
-7. Exclude records bearing the documented QA marker from live analysis.
-8. If reliable card attribution is unavailable, stop and choose the smallest technically reliable alternative before meaningful spend.
+1. Keep the campaign unpublished.
+2. Configure `C01 / Type-Led-4` and `C02 / B2` with `utm_source=meta_qa` and their canonical `utm_content` values.
+3. Test each card from the actual carousel preview in a genuinely fresh private/incognito browser session. Close the entire private session before testing the second card because attribution is first-touch, field-by-field within a browser-tab session.
+4. Confirm each landing URL retains its own `creative_id`, `utm_source`, and `utm_content`.
+5. For the `C01` session, interact with `B2` and trigger at least one `intent_click`; confirm acquisition `utm_content=C01~Type-Led-4` remains paired with downstream `design_id=B2`.
+6. Confirm two distinct session IDs, one `landing_view` for each source card, and `utm_source=meta_qa` on every associated downstream event in Production D1.
+7. If test leads are submitted, verify them separately and keep the `meta_qa` marker.
+8. Exclude only records explicitly bearing `utm_source=meta_qa` from live analysis.
+9. Stop before spend if literal dynamic-token braces appear, Meta IDs are unexpectedly absent, shared URL parameters replace card parameters, reordering detaches a card from its URL, or either card produces the wrong `utm_content`.
 
-Do not silently change the MVV event schema. Any material semantic change must follow the schema's change-control process.
+The repository proves redirect preservation, field persistence, `design_id` independence, `~` preservation, schema compatibility, and privacy limits. The live builder must still verify dynamic-token acceptance and expansion, shared-parameter behavior across individual cards, card-to-URL integrity after automatic reordering, and whether `fbclid` appears in the chosen preview or delivery path.
 
 ## 11. Pre-launch role checks
 
