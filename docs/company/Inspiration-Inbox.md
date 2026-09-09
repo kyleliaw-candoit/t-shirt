@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.1
+Version     : 0.2
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.2
+- Added I004: R012 naming territory — lived history, storied objects, and serendipitous discovery.
 
 v0.1
 - Initial draft.
@@ -437,6 +440,55 @@ Revisit this item only after more evidence exists about whether the current limi
 - a model capability problem,
 - a design-tool problem,
 - or a structural need for a separate execution specialist.
+
+---
+
+## I004 — R012 Naming Territory: Lived History, Storied Objects, and Serendipitous Discovery
+
+**Status:** Inbox — deferred until the Founder resumes brand-name development
+
+**Category:** Brand / Naming Hypothesis
+
+**Source:**  
+Founder idea captured 2026-09-09 during Worth the Detour MVV work.
+
+### Observation
+
+A possible future naming direction for the R012 antiques / treasure-hunter brand may lie in the emotional territory represented by the exploratory words **Lived**, **Lifted**, **Storied**, and **Serendipity**. These are prompts for later exploration, not approved name candidates.
+
+The underlying territory combines three related ideas:
+
+- **Unexpected discovery:** Treasure hunting is compelling because the collector or dealer does not know what they will encounter. Anticipation, chance, and serendipity are central to the experience.
+- **Lived history:** Found objects have already participated in someone's life. Their age, use, care, wear, and restoration connect them to human experience.
+- **Stories worth carrying forward:** A vintage car, teacup, reupholstered chair, or inherited object can carry a story about who owned it, where it was found, how it was acquired, or how it passed through a family.
+
+The objects are therefore not merely old or secondhand. They can be understood as lived-with objects discovered through chance and filled with stories worth telling.
+
+### Why It Caught Our Attention
+
+This territory may express the emotional reward of collecting more directly than a name centered only on the act of taking a detour. It potentially connects the thrill of discovery with the meaning accumulated by objects over time.
+
+### Potential Questions
+
+For Brand Manager, when the Founder explicitly resumes naming work:
+
+- Which part of this territory should lead: serendipitous discovery, lived history, or storytelling?
+- Can one name imply all three without becoming abstract, sentimental, or difficult to understand?
+- Are **Lived**, **Lifted**, **Storied**, or **Serendipity** useful words themselves, or mainly clues toward stronger language?
+- Does **Lifted** express a distinct idea—such as rescuing, elevating, or carrying an object forward—or was **Lived** the intended core word?
+- Can the resulting name preserve the broad-brand / narrow-entry architecture established for R012?
+
+### Provisional Insight
+
+A concise statement of the territory is:
+
+> **Unexpected discovery + lived history + stories worth carrying forward.**
+
+### Decision Status
+
+**Deferred.**
+
+Do not reopen or replace the current Worth the Detour brand name during active MVV execution. Return to this entry only when the Founder initiates a dedicated brand-name development exercise.
 
 ---
 
