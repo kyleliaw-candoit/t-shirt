@@ -5,7 +5,7 @@ experiment_id: mvv-r012-001
 owner: Creative Director
 status: Working — representative-card verification pending
 related_issue: 56
-last_updated: 2026-09-08
+last_updated: 2026-09-09
 ---
 
 # MVV-001 Meta Acquisition Creative Manifest
@@ -31,14 +31,14 @@ Technical Review approved the URL encoding on 2026-09-08. Every card uses `creat
 
 ## Card and asset matrix
 
-Status `GATED` means the treatment and filenames are final, but bulk file export must wait for live verification of the representative `C01` pair.
+Status `GATED` means the treatment and filenames are final, but bulk file export must wait for live verification of the representative `C01` and `C02` pairs.
 
 Card IDs are stable product-linked identities, not position numbers. Changing the supplied order does not rename a card, asset, or attribution identity.
 
 | Supplied order | Stable card | Source-product `design_id` | Territory | Headline | Facebook Feed 1:1 asset | Instagram Feed 4:5 asset | Status |
 |---:|---|---|---|---|---|---|---|
 | 1 | `C04` | `Fashion-1D-F` | Direct treasure-hunter identity | Treasure Hunter, Recognized | `WTD-MVV001-CAR-01_C04_Fashion-1D-F_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C04_Fashion-1D-F_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
-| 2 | `C02` | `B2` | One More Booth / detour humor | The Five-Minute Antique Stop | `WTD-MVV001-CAR-01_C02_B2_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C02_B2_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
+| 2 | `C02` | `B2` | One More Booth / detour humor | The Five-Minute Antique Stop | `WTD-MVV001-CAR-01_C02_B2_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C02_B2_IG-Feed_4x5_1080x1350.jpg` | `PREVIEW-READY` |
 | 3 | `C07` | `YIF-F` | Find logistics / softer expression | Yes, the Find Will Fit | `WTD-MVV001-CAR-01_C07_YIF-F_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C07_YIF-F_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
 | 4 | `C10` | `A3` | Hunter's Eye / MCM discernment | The Good Vintage Ones Don’t Shout | `WTD-MVV001-CAR-01_C10_A3_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C10_A3_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
 | 5 | `C06` | `C3B` | Discount/SOLD hunt ritual | Antique-Mall Hope, Then SOLD | `WTD-MVV001-CAR-01_C06_C3B_FB-Feed_1x1_1080.jpg` | `WTD-MVV001-CAR-01_C06_C3B_IG-Feed_4x5_1080x1350.jpg` | `GATED` |
@@ -75,8 +75,10 @@ All final files belong under `docs/mvv/worth-the-detour/assets/meta/MVV-001/`.
 |---|---:|---|---:|---|
 | `WTD-MVV001-CAR-01_C01_Type-Led-4_FB-Feed_1x1_1080.jpg` | 1080 × 1080 | JPEG | 309,551 bytes | `b13b3285659dd07fd6b9a434fa791d3ba01a789c57696a0a15a7ea4880b4c91e` |
 | `WTD-MVV001-CAR-01_C01_Type-Led-4_IG-Feed_4x5_1080x1350.jpg` | 1080 × 1350 | JPEG | 397,594 bytes | `42435c5defaf3278bc25c33a401e8d03b121b423cc3aa8d9072c899cc1c3e7cc` |
+| `WTD-MVV001-CAR-01_C02_B2_FB-Feed_1x1_1080.jpg` | 1080 × 1080 | JPEG | 318,323 bytes | `70fe31ee00de6c0f2f9ef36933600e90117f3a5d5964d5089ea9867aab4255ac` |
+| `WTD-MVV001-CAR-01_C02_B2_IG-Feed_4x5_1080x1350.jpg` | 1080 × 1350 | JPEG | 383,462 bytes | `ed7bf7ea8e356b2934f83081bf2d94cbe1ab108c0a011150b15b4ba148806d4b` |
 
-The 4:5 asset is a compositionally faithful placement adaptation of the approved LP image. The 1:1 asset uses a vertical crop that preserves the garment, full print, category line, and supporting antique context. Neither modifies the locked artwork.
+The C01 and C02 4:5 assets are compositionally faithful placement adaptations of their approved LP images. Their 1:1 assets use placement-safe vertical crops that preserve garment readability, the complete relevant print, and supporting antique context. No adaptation modifies or obscures locked artwork. The approved C02 interface headline remains `The Five-Minute Antique Stop`; it is not embedded into the image, consistent with C01.
 
 ## Copy references
 
@@ -90,7 +92,7 @@ No complementary non-carousel creative is approved for first-run production. The
 
 ## Gate state
 
-Do not change the nine `GATED` cards to production-ready or export their files until the Campaign Operator records successful live verification of:
+Do not change the eight remaining `GATED` cards to production-ready or export their files until the Campaign Operator completes live two-card QA using the preview-ready `C01 / Type-Led-4` and `C02 / B2` pairs and records successful verification of:
 
 1. placement-specific media assignment;
 2. crop/rendering behavior;
