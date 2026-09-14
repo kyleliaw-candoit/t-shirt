@@ -508,6 +508,8 @@ Founder idea captured 2026-09-14.
 
 Consider a repeatable paid-advertising workflow in which an **Ads Manager AI role operated through OpenAI** coordinates strategy, creative production, campaign execution, performance analysis, and iteration across advertising platforms.
 
+The intended end state is to remove the Founder from the creative portion of ad operations. The AI system should independently create the ad strategy and testing framework, commission or generate asset variants, interpret performance, and decide how the next creative round should change. The Founder should not need to supply concepts, select routine variants, or direct each iteration.
+
 Proposed cycle:
 
 1. Ads Manager AI role creates the advertising strategy and testing framework.
@@ -526,7 +528,8 @@ This could turn advertising into a structured learning loop rather than a sequen
 
 For Strategy Advisor / AI Operating Model:
 
-- Which decisions may be automated, and which require Founder approval?
+- How can the system earn creative autonomy without requiring routine Founder review or selection?
+- Which non-creative controls—such as budgets, publishing authority, brand-safety limits, and legal compliance—should remain separate from creative autonomy?
 - What minimum campaign volume would justify this added integration complexity?
 - Should the first implementation remain Meta-only before adding TikTok or Google?
 - What evidence would demonstrate that BannerBear improves throughput without reducing creative quality?
@@ -541,9 +544,11 @@ For Creative Director / Ads Manager AI:
 
 ### Provisional Insight
 
-The potential system is a closed learning loop:
+The potential system is a closed, increasingly autonomous learning loop:
 
-> **Strategy → structured asset generation → campaign execution → performance analysis → strategy adjustment → new asset generation.**
+> **AI strategy → structured asset generation → campaign execution → performance analysis → AI-directed strategy adjustment → new asset generation.**
+
+Its success condition is not merely faster asset production. It is that the Founder can step out of routine ad-creative ideation, selection, and iteration while the system continues to produce brand-safe, testable, evidence-driven creative.
 
 ### Decision Status
 
