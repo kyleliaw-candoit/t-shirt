@@ -3,13 +3,15 @@
 **Owner:** Knowledge Librarian  
 **Primary users:** Project Lead / PM, Codex, Technical Reviewer, Founder  
 **Status:** Working standard proposed from the first completed instrumented MVV  
-**Last updated:** 2026-08-27
+**Last updated:** 2026-09-15
 
 ## Purpose
 
 Use this playbook when an MVV landing page needs real lead capture, attribution, analytics, a remote database, and a guarded Production rollout.
 
 It converts the lessons from the company’s first completed instrumented MVV into a repeatable operating sequence. It is intentionally technology-specific where the company has earned a current default—GitHub, Cloudflare Pages, Pages Functions, D1, and Wrangler—but it is not a substitute for the experiment's own event schema or site-specific setup record.
+
+This is the company's current **custom Cloudflare storefront path**, earned from WTD MVV-001. It is not a universal requirement for future commerce wedges. Shopify is an approved candidate architecture whose adoption remains conditional on the [Shopify commerce feasibility spike](../mvv/shopify-feasibility-spike/README.md); see the [Shopify Commerce Architecture](./Shopify-Commerce-Architecture.md) for routing and governance. Do not rewrite this playbook into a Shopify procedure until execution produces evidence.
 
 The governing objective is:
 

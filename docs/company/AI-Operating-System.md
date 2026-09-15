@@ -2,15 +2,20 @@
 ===============================================================================
 Document    : AI Operating System.md
 Owner       : Knowledge Librarian
-Version     : 0.4 (Living document)
+Version     : 0.5 (Living document)
 Status      : Living Document
 Created     : 2026-08-08
-Updated     : 2026-08-14
+Updated     : 2026-09-15
 Purpose     : Defines how AI roles collaborate, make decisions, learn, and
               hand work to one another within the company.
 ===============================================================================
 
 Change Log
+
+v0.5
+- Linked the approved target Shopify commerce architecture, where store-specific
+  role handoffs, operator portability, and consequential-action governance are
+  defined without duplicating them in this organization-wide document.
 
 v0.4
 - Added Technical Reviewer as a cross-cutting independent review role for
@@ -271,6 +276,8 @@ Technical Reviewer
 Founder Merge / Approval Decision
 
 The Technical Reviewer is advisory and independent. It evaluates merge readiness and material risk but does not replace Founder authority.
+
+For Shopify storefront work, the company-wide role model is specialized by the [Shopify Commerce Architecture](./Shopify-Commerce-Architecture.md): Strategy, Brand, and Creative define the Store Build Packet; an implementation agent prepares the private store and unpublished theme; Creative, Brand, and Technical Reviewer inspect the rendered and technical evidence; and the Founder retains consequential publication, financial, legal, privacy, tax, and domain authority.
 
 ---
 

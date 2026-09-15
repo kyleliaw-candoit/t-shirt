@@ -4,8 +4,8 @@ owner: Finance Analyst
 reviewers:
   - Strategy Advisor
 status: Provisional planning model
-version: 0.1
-last_updated: 2026-09-14
+version: 0.2
+last_updated: 2026-09-15
 ---
 
 # Shopify and Meta Unit Economics Planning Model
@@ -18,9 +18,9 @@ The formulas and decision logic are canonical. All dollar assumptions and perfor
 
 This model is not the transaction ledger. Actual cash activity belongs in [Finance-Ledger.md](./Finance-Ledger.md).
 
-## Current strategic decision
+## Current WTD MVV-001 sequencing decision
 
-Do not activate Shopify solely for the current Tier 2 MVV landing-page test.
+Do not activate Shopify solely for the current WTD Tier 2 MVV landing-page test. The sequence below remains the historical/current WTD decision; it is not a universal rule for future wedges.
 
 1. Complete the current $20–$50 Tier 2 validation.
 2. Select a POD vendor and order samples.
@@ -30,6 +30,8 @@ Do not activate Shopify solely for the current Tier 2 MVV landing-page test.
 6. Run the ten-unit Tier 3 presale.
 7. Add Shopify when accepting real orders requires checkout.
 8. Run a purchase-optimized Meta test only after checkout and fulfillment are operational.
+
+For future commerce wedges, the Founder has approved a Shopify target architecture and a bounded feasibility spike that may allow Tier 2 intent and Tier 3 purchasing to share one customer surface. See the [Shopify Commerce Architecture](../company/Shopify-Commerce-Architecture.md) and [Shopify commerce feasibility spike](../mvv/shopify-feasibility-spike/README.md). Shopify-default adoption remains conditional on the spike's evidence.
 
 ## Definitions and formulas
 
