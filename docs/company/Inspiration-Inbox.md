@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.2
+Version     : 0.3
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.3
+- Added I005: AI-directed paid-ads workflow automation cycle.
 
 v0.2
 - Added I004: R012 naming territory — lived history, storied objects, and serendipitous discovery.
@@ -489,6 +492,69 @@ A concise statement of the territory is:
 **Deferred.**
 
 Do not reopen or replace the current Worth the Detour brand name during active MVV execution. Return to this entry only when the Founder initiates a dedicated brand-name development exercise.
+
+---
+
+## I005 — AI-Directed Paid-Ads Workflow Automation Cycle
+
+**Status:** Inbox
+
+**Category:** Advertising / AI Operating Model / Automation
+
+**Source:**  
+Founder idea captured 2026-09-14.
+
+### Observation
+
+Consider a repeatable paid-advertising workflow in which an **Ads Manager AI role operated through OpenAI** coordinates strategy, creative production, campaign execution, performance analysis, and iteration across advertising platforms.
+
+The intended end state is to remove the Founder from the creative portion of ad operations. The AI system should independently create the ad strategy and testing framework, commission or generate asset variants, interpret performance, and decide how the next creative round should change. The Founder should not need to supply concepts, select routine variants, or direct each iteration.
+
+Proposed cycle:
+
+1. Ads Manager AI role creates the advertising strategy and testing framework.
+2. BannerBear generates ad assets from approved templates and structured inputs.
+3. Assets are stored and used to create campaigns on Meta, TikTok, or Google.
+4. Campaign performance data is collected and analyzed.
+5. The Ads Manager AI role adjusts the strategy and testing plan.
+6. BannerBear generates the next asset variants.
+7. The measurement-and-iteration cycle continues.
+
+### Why It Caught Our Attention
+
+This could turn advertising into a structured learning loop rather than a sequence of manually assembled campaigns. It may improve creative throughput, preserve testing discipline, and let one AI-managed framework coordinate iteration across multiple paid channels.
+
+### Potential Questions
+
+For Strategy Advisor / AI Operating Model:
+
+- How can the system earn creative autonomy without requiring routine Founder review or selection?
+- Which non-creative controls—such as budgets, publishing authority, brand-safety limits, and legal compliance—should remain separate from creative autonomy?
+- What minimum campaign volume would justify this added integration complexity?
+- Should the first implementation remain Meta-only before adding TikTok or Google?
+- What evidence would demonstrate that BannerBear improves throughput without reducing creative quality?
+- How should budgets, stop-loss limits, publishing permissions, and audit logs be governed?
+- Which performance signals should trigger iteration, pausing, or escalation?
+
+For Creative Director / Ads Manager AI:
+
+- What structured creative brief and template inputs would BannerBear require?
+- How should generated assets be quality-checked before publication?
+- How should creative lineage connect each asset to its hypothesis, audience, campaign, and results?
+
+### Provisional Insight
+
+The potential system is a closed, increasingly autonomous learning loop:
+
+> **AI strategy → structured asset generation → campaign execution → performance analysis → AI-directed strategy adjustment → new asset generation.**
+
+Its success condition is not merely faster asset production. It is that the Founder can step out of routine ad-creative ideation, selection, and iteration while the system continues to produce brand-safe, testable, evidence-driven creative.
+
+### Decision Status
+
+**Deferred.**
+
+Capture as a possible future operating model. Do not implement or expand to multiple advertising platforms during the current MVV. Revisit after manual Meta execution reveals recurring work, sufficient campaign volume, and clear automation requirements.
 
 ---
 
