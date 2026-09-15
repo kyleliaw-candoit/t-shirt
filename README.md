@@ -11,7 +11,9 @@
 # Documentation Map
 
 - [Company operating methodologies](docs/company/)
+- [Shopify commerce architecture](docs/company/Shopify-Commerce-Architecture.md)
 - [Minimum Viable Validation documentation](docs/mvv/)
+- [Shopify commerce feasibility spike](docs/mvv/shopify-feasibility-spike/)
 - [Worth the Detour MVV #1](docs/mvv/worth-the-detour/)
 - [Worth the Detour Phase B site setup and rollout evidence](sites/worth-the-detour/PHASE-B-SETUP.md)
 

@@ -6,8 +6,8 @@ primary_users:
   - Brand Manager
   - Strategy Advisor
 status: Proposed
-version: 0.2
-last_updated: 2026-08-27
+version: 0.3
+last_updated: 2026-09-15
 reviewed_by: Founder pending
 ---
 
@@ -248,6 +248,8 @@ Knowledge should not be generalized beyond what the evidence supports.
 The default MVV sequence contains three progressively stronger tiers.
 
 Not every experiment must use every tier mechanically. The objective is to obtain enough evidence for the next decision at minimum reasonable cost.
+
+For future commerce wedges, Tier 2 intent and Tier 3 purchasing may share one Shopify customer surface rather than require separate storefront builds. Preparing products or a checkout-ready private store does not authorize real transactions: public launch, payment activation, and real fulfillment remain separate governance decisions. Shopify becomes the default only if the [Shopify commerce feasibility spike](../mvv/shopify-feasibility-spike/README.md) passes under the [Shopify Commerce Architecture](./Shopify-Commerce-Architecture.md).
 
 ---
 
