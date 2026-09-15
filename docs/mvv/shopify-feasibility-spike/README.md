@@ -28,11 +28,23 @@ Should Shopify become the default MVV storefront for future commerce wedges, wit
 
 **Hypothesis:** Shopify + Printful can reach a reviewed, private, transaction-ready two-product state while preserving company identity/measurement semantics and using materially less Founder and implementation effort than the WTD custom stack.
 
-**Pass:** Same or better customer experience and measurement integrity, materially less Founder intervention, materially shorter build-to-review time, and no material creative-control, Printful, or operational limitation that negates the savings. Shopify becomes the default architecture for the next commerce wedge.
+**Pass:** Same or better customer experience and measurement integrity; the pre-registered reductions in Founder intervention and build-to-review time are met; and no material creative-control, Printful, or operational limitation negates the savings. Shopify becomes the default architecture for the next commerce wedge.
 
 **Conditional pass:** A narrow limitation exists with a low-cost, repeatable workaround. Record the workaround and its ongoing cost before deciding whether Shopify is still the default.
 
 **Fail:** A material limitation in measurement, creative control, Printful synchronization, customer experience, or operating overhead negates the expected savings. Record the evidence and retain Cloudflare or another path as the default until the limitation is resolved.
+
+### Pre-registration gate
+
+Before any Shopify implementation begins, the Technical Lead / PM must:
+
+1. define which WTD work is sufficiently comparable to this spike;
+2. reconstruct and record the WTD baseline for Founder minutes and packet-to-first-reviewable-storefront elapsed time, including evidence sources and any uncertainty;
+3. propose the exact numeric reduction required for each measure to count as “materially less”;
+4. define measurement start/stop points and treatment of blocked or waiting time; and
+5. obtain Strategy Advisor and Founder approval of the baseline and thresholds.
+
+The spike must not begin or receive a Pass / Conditional pass / Fail disposition until this gate is complete. Thresholds may not be changed after implementation starts unless the original measurement is proven invalid; any revision must be documented, justified, and approved before results are interpreted.
 
 ## Test fixtures
 
@@ -146,14 +158,15 @@ Choose the minimum architecture that preserves analytical independence and priva
 
 | Gate | Owner | Required evidence |
 |---|---|---|
-| 1. Store Build Packet ready | Strategy + Brand + Creative + Technical Lead / PM | Canonical packet and two-product manifest reviewed |
-| 2. Cost/access preflight | Technical Lead / PM | Store/plan state, connector/API/CLI access, exact approved cost, and no-charge safeguards |
-| 3. Private implementation | Implementation agent | Private store, unpublished theme, two configured products, canonical metadata, and Printful mapping |
-| 4. Measurement proof | Implementation agent | Queryable mismatch test preserving acquisition/product independence and PII separation |
-| 5. Rendered creative review | Creative Director | Desktop and compact-mobile rendered acceptance or focused revision list |
-| 6. Brand review | Brand Manager | Category/identity comprehension and brand acceptance |
-| 7. Independent technical review | Technical Reviewer | Findings classified as Blocking, Important, or Minor; explicit readiness outcome |
-| 8. Architecture decision | Strategy Advisor + Founder | Evidence-based Pass, Conditional pass, or Fail disposition |
+| 1. Success criteria pre-registered | Technical Lead / PM + Strategy Advisor + Founder | Comparable WTD baseline, measurement boundaries, and numeric reduction thresholds approved |
+| 2. Store Build Packet ready | Strategy + Brand + Creative + Technical Lead / PM | Canonical packet and two-product manifest reviewed |
+| 3. Cost/access preflight | Technical Lead / PM | Store/plan state, connector/API/CLI access, exact approved cost, and no-charge safeguards |
+| 4. Private implementation | Implementation agent | Private store, unpublished theme, two configured products, canonical metadata, and Printful mapping |
+| 5. Measurement proof | Implementation agent | Queryable mismatch test preserving acquisition/product independence and PII separation |
+| 6. Rendered creative review | Creative Director | Desktop and compact-mobile rendered acceptance or focused revision list |
+| 7. Brand review | Brand Manager | Category/identity comprehension and brand acceptance |
+| 8. Independent technical review | Technical Reviewer | Findings classified as Blocking, Important, or Minor; explicit readiness outcome |
+| 9. Architecture decision | Strategy Advisor + Founder | Evidence-based Pass, Conditional pass, or Fail disposition against pre-registered criteria |
 
 The implementation agent may correct ordinary defects inside the approved packet. Return experiment, brand, financial, legal, privacy, or publication decisions to their owners.
 
@@ -177,6 +190,7 @@ Compare the result with WTD only where the work is reasonably analogous. Founder
 ## Evidence checklist
 
 - [ ] Exact repository base commit and execution issue recorded.
+- [ ] Comparable WTD baselines, measurement boundaries, and numeric reduction thresholds are recorded and approved before implementation.
 - [ ] Scope, cost ceiling, and access permissions approved before mutation.
 - [ ] Store confirmed private/password-protected.
 - [ ] Working theme confirmed unpublished.
