@@ -6,11 +6,12 @@ primary_users:
   - Brand Manager
   - Creative Director
   - Technical Lead / PM
+  - Operations Manager
   - Implementation Agent
   - Technical Reviewer
 status: Approved target architecture; Shopify-default adoption remains conditional on the feasibility spike
-version: 0.1
-last_updated: 2026-09-15
+version: 0.2
+last_updated: 2026-09-25
 reviewed_by: Founder
 ---
 
@@ -61,7 +62,8 @@ The company accepts practical dependency on ChatGPT when it produces substantial
 | Configuration and institutional memory | GitHub | Product manifest, company IDs, POD recipe, measurement contract, customized theme code, decisions, and verification records |
 | Commerce runtime | Shopify | Products, variants, collections, prices, store configuration, operational inventory, customers, checkout, and orders |
 | Fulfillment runtime | Printful or selected POD provider | Production catalog mapping, print files, fulfillment state, shipment, and tracking |
-| Primary operator | ChatGPT | Executes approved routine work through the Shopify integration or other authorized tools |
+| Operations ownership | Operations Manager | Owns approved routine Shopify, Printful, catalog, fulfillment, reconciliation, and operational-evidence work; Strategy Advisor carries this as an explicit interim hat until a separate role is earned |
+| Primary operating surface | ChatGPT | Executes approved routine work through the Shopify integration or other authorized tools |
 | Deterministic control / escape layer | Shopify APIs, CLI, and GitHub theme integration | Repeatable theme work, validation, reconciliation, bulk operations, and recovery |
 | Cold-standby operator | Claude or another capable agent | Resumes from GitHub when the primary operator is unavailable or unsuitable |
 | Governance authority | Founder | Consequential publication, financial, legal, privacy, tax, domain, and brand-safety decisions |
@@ -72,7 +74,7 @@ Do not place customer records, orders, operational inventory snapshots, payment 
 
 ## Canonical Store Build Packet
 
-Shopify creation begins only after Strategy, Brand, and Creative have produced a compact Store Build Packet. At minimum it should contain:
+Shopify creation begins only after Strategy, Brand, and Creative have produced a compact Store Build Packet. Operations validates that the packet can be implemented with current Shopify and POD facts; Finance validates the relevant economics. At minimum it should contain:
 
 1. experiment identity, hypothesis, decision, and commerce mode;
 2. brand requirements and category-comprehension goal;
@@ -106,7 +108,7 @@ Shopify supports custom resource IDs through metafields, so the architecture exp
 
 The target workflow is:
 
-> **Strategy / Brand / Creative specification → implementation agent → private Shopify store and unpublished theme → rendered review → revision → independent technical review → Founder-controlled consequential action**
+> **Strategy / Brand / Creative specification → Operations validation and implementation → private Shopify store, Printful state, and unpublished theme → rendered and operational review → revision → independent technical review → Founder-controlled consequential action**
 
 ### Strategy, Brand, and Creative
 
@@ -115,26 +117,35 @@ The target workflow is:
 - Creative Director owns the builder prompt/specification, evaluates generated directions, selects the starting direction, defines assortment presentation and imagery, and specifies material changes.
 - The Founder should not routinely choose typography, spacing, section arrangement, hero treatment, product-card design, or ordinary image presentation.
 
-### Implementation agent
+### Operations Manager and implementation agent
 
-Within an approved packet, the implementation agent may autonomously:
+The Operations Manager owns the business-operating state. An authorized implementation agent or Technical Lead may perform bounded technical work without becoming the owner of strategy, brand, creative, finance, or routine operations.
 
-- generate or select an initial Shopify direction;
+Within an approved packet, Operations and its implementation agent may autonomously:
+
+- validate current Shopify and POD availability, costs, variants, print constraints, and fulfillment facts;
+- generate or select an initial Shopify direction within the approved creative specification;
 - create and configure non-public products, collections, pages, and navigation;
+- map approved products and print files in Printful or the selected provider;
 - create or modify an unpublished theme;
 - add approved assets and canonical metadata;
-- run validation and create a rendered preview;
+- implement approved prices, assortment rules, product disclosures, and size/care information;
+- run validation and create rendered and operational evidence;
 - correct ordinary implementation defects;
-- reconcile the store against the canonical manifest and report exceptions.
+- reconcile Shopify and the POD provider against the canonical manifest and report exceptions.
 
 ChatGPT is the preferred operating surface when it can complete a task safely and reliably. APIs/CLI should be used where deterministic bulk behavior, theme code, automated validation, recovery, or connector limitations make them more appropriate.
 
+The Operations Manager role is defined but not yet separately staffed. Until recurring operations earn a specialist, Strategy Advisor is the interim accountable owner under an explicitly labeled **Operations** hat. Strategy and Operations outputs must remain separate, as defined in the [Operations Manager Methodology](./Operations-Manager-Methodology.md).
+
 ### Review
 
-- Creative Director reviews the real rendered storefront on representative mobile and desktop sizes.
+- Creative Director reviews the real rendered storefront and product presentation on representative mobile and desktop sizes.
 - Brand Manager reviews brand and category comprehension.
+- Operations Manager reviews catalog, POD mapping, variants, costs, disclosures, fulfillment assumptions, and reconciliation evidence.
+- Finance Analyst reviews material unit-economics inputs when they change.
 - Technical Reviewer independently checks implementation, measurement, privacy, integration behavior, failure modes, and scope.
-- The implementation agent may fix routine defects without returning ordinary presentation choices to the Founder.
+- Operations or the implementation agent may fix routine defects without returning ordinary presentation choices to the Founder.
 
 ## Governance boundary
 
@@ -197,9 +208,10 @@ Do not defer this proof until an outage. After it passes, maintain ChatGPT as th
 
 ## Adoption state and unresolved questions
 
-As of 2026-09-15:
+As of 2026-09-25:
 
 - the target architecture and governance model are Founder-approved;
+- Operations Manager is defined as the eventual commerce-operations owner but is not yet separately staffed; Strategy Advisor is the interim accountable owner;
 - Shopify has not yet passed the platform feasibility spike;
 - no Shopify store creation, connector authorization, paid plan, payment activation, or Printful charge is authorized by this document;
 - the measurement implementation remains deliberately unresolved among existing D1, Shopify Customer Events, or a minimal hybrid;

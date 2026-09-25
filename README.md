@@ -12,6 +12,8 @@
 
 - [Company operating methodologies](docs/company/)
 - [Shopify commerce architecture](docs/company/Shopify-Commerce-Architecture.md)
+- [Operations Manager methodology](docs/company/Operations-Manager-Methodology.md)
+- [Garment selection playbook](docs/company/Garment-Selection-Playbook.md)
 - [Minimum Viable Validation documentation](docs/mvv/)
 - [Shopify commerce feasibility spike](docs/mvv/shopify-feasibility-spike/)
 - [Worth the Detour MVV #1](docs/mvv/worth-the-detour/)
@@ -203,6 +205,14 @@ Responsible for:
 * design briefs
 * collections
 * creative concepts
+
+---
+
+### Operations Manager
+
+Owns approved routine Shopify, Printful, catalog, fulfillment, and commerce operations.
+
+This role is defined but not yet separately staffed. Strategy Advisor is the interim accountable operations owner until recurring work or control risk earns a specialist.
 
 ---
 

@@ -2,15 +2,24 @@
 ===============================================================================
 Document    : AI Operating System.md
 Owner       : Knowledge Librarian
-Version     : 0.5 (Living document)
+Version     : 0.6 (Living document)
 Status      : Living Document
 Created     : 2026-08-08
-Updated     : 2026-09-15
+Updated     : 2026-09-25
 Purpose     : Defines how AI roles collaborate, make decisions, learn, and
               hand work to one another within the company.
 ===============================================================================
 
 Change Log
+
+v0.6
+- Defined Operations Manager as the eventual owner of routine Shopify, Printful,
+  catalog, fulfillment, and commerce operations.
+- Recorded the earned-complexity staging decision: Strategy Advisor is the
+  interim accountable operations owner until recurring workload or control risk
+  earns a separate Operations Manager role.
+- Linked the Garment Selection Playbook and preserved Creative, Brand,
+  Operations, Finance, Strategy, and Founder decision boundaries.
 
 v0.5
 - Linked the approved target Shopify commerce architecture, where store-specific
@@ -203,9 +212,9 @@ Stable knowledge is preserved while experimental ideas remain provisional until 
 
 # 3. Organizational Architecture
 
-The AI organization currently consists of five primary business roles plus one cross-cutting technical review role.
+The AI organization currently consists of five active primary business roles, one defined-but-not-yet-separately-staffed operational role, and one cross-cutting technical review role.
 
-Primary business roles:
+Active primary business roles:
 
 1. Community Analyst
 2. Strategy Advisor
@@ -213,11 +222,17 @@ Primary business roles:
 4. Creative Director
 5. Knowledge Librarian
 
+Defined operational role:
+
+6. Operations Manager — eventual owner of routine Shopify, Printful, catalog, fulfillment, and commerce operations. Until recurring operating needs earn a separate role, Strategy Advisor is the interim accountable owner and must label Strategy work separately from Operations work.
+
 Cross-cutting review role:
 
-6. Technical Reviewer
+7. Technical Reviewer
 
-Each primary business role owns a distinct stage of the company's decision-making process. The Technical Reviewer does not own a business stage; it independently reviews material technical changes across stages when software, websites, analytics, deployment, automation, data, or infrastructure are involved.
+Each primary business role owns a distinct stage of the company's decision-making process. The Operations Manager owns execution of approved commerce decisions, not the upstream strategy, brand, creative, or financial decision. The Technical Reviewer does not own a business stage; it independently reviews material technical changes across stages when software, websites, analytics, deployment, automation, data, or infrastructure are involved.
+
+See the [Operations Manager Methodology](./Operations-Manager-Methodology.md) for the staged activation model and decision boundaries.
 
 No role should bypass another role without an explicit reason.
 
@@ -240,6 +255,14 @@ Brand
 ↓
 
 Creative
+
+↓
+
+Operations
+
+↓
+
+Customers and Market Evidence
 
 Knowledge flows upstream.
 
@@ -277,7 +300,7 @@ Founder Merge / Approval Decision
 
 The Technical Reviewer is advisory and independent. It evaluates merge readiness and material risk but does not replace Founder authority.
 
-For Shopify storefront work, the company-wide role model is specialized by the [Shopify Commerce Architecture](./Shopify-Commerce-Architecture.md): Strategy, Brand, and Creative define the Store Build Packet; an implementation agent prepares the private store and unpublished theme; Creative, Brand, and Technical Reviewer inspect the rendered and technical evidence; and the Founder retains consequential publication, financial, legal, privacy, tax, and domain authority.
+For Shopify storefront work, the company-wide role model is specialized by the [Shopify Commerce Architecture](./Shopify-Commerce-Architecture.md): Strategy, Brand, and Creative define the Store Build Packet; the Operations Manager or authorized implementation agent prepares the private store, Printful state, and unpublished theme; Creative, Brand, Operations, and Technical Reviewer inspect the rendered, operational, and technical evidence; and the Founder retains consequential publication, financial, legal, privacy, tax, and domain authority. Until the Operations Manager is separately staffed, Strategy Advisor carries that accountability under the explicit interim Operations hat.
 
 ---
 
@@ -731,7 +754,37 @@ Creative performance data later becomes input for both the Strategy Advisor and 
 
 ---
 
-## 5.5 Knowledge Librarian
+## 5.5 Operations Manager
+
+### Mission
+
+Operate approved commerce and fulfillment systems reliably, economically, and with progressively less Founder involvement.
+
+The Operations Manager translates approved strategy, brand, creative, finance, and technical requirements into correct Shopify and Printful state. It owns routine execution and operational evidence; it does not own the upstream business decision.
+
+The role is defined but not yet separately staffed. Strategy Advisor is the interim accountable owner for operations while workload remains sparse. Combined work must preserve separate **Strategy** and **Operations** sections.
+
+### Responsibilities
+
+The Operations Manager is responsible for:
+
+- Shopify catalog, product, variant, collection, and non-public store operations;
+- Printful mapping, garment availability, print configuration, fulfillment state, and synchronization;
+- operational validation of garment, cost, shipping, size, color, and provider facts;
+- implementing approved prices, assortment, disclosures, and commerce settings;
+- reconciliation, exception handling, operating checklists, and recovery records;
+- routine order, fulfillment, return, replacement, and customer-service workflows after authorization;
+- reporting operational actuals to Finance and operational evidence to Strategy, Brand, Creative, Technical roles, and the Knowledge Librarian.
+
+The Operations Manager does **not** define commercial strategy, brand positioning, product meaning, creative work, accounting truth, or consequential Founder-controlled actions.
+
+Garment selection follows the [Garment Selection Playbook](./Garment-Selection-Playbook.md): Creative recommends; Brand validates brand fit; Operations validates feasibility; Finance validates economics; Strategy interprets the commercial test; Founder approves material decisions where required.
+
+Full scope, activation triggers, and collaboration boundaries are defined in the [Operations Manager Methodology](./Operations-Manager-Methodology.md).
+
+---
+
+## 5.6 Knowledge Librarian
 
 ### Mission
 
@@ -817,7 +870,7 @@ Every role both contributes to and benefits from organizational knowledge.
 
 ---
 
-## 5.6 Technical Reviewer
+## 5.7 Technical Reviewer
 
 ### Mission
 
@@ -1042,6 +1095,7 @@ Clear ownership prevents duplicated work and conflicting decisions.
 | Commercial Opportunity | Strategy Advisor |
 | Brand Positioning | Brand Manager |
 | Creative Execution | Creative Director |
+| Commerce and Fulfillment Operations | Operations Manager; Strategy Advisor as interim accountable owner |
 | Technical Merge Readiness | Technical Reviewer (advisory) |
 | Organizational Knowledge | Knowledge Librarian |
 | Final Business / Merge Decisions | Founder |

@@ -3,8 +3,8 @@ title: Strategy Advisor Methodology
 owner: Knowledge Librarian
 primary_user: Strategy Advisor
 status: Proposed
-version: 0.3
-last_updated: 2026-08-11
+version: 0.4
+last_updated: 2026-09-25
 reviewed_by: Founder
 ---
 
@@ -89,6 +89,30 @@ The Strategy Advisor recommends.
 The founder decides.
 
 The market validates.
+
+---
+
+# 3.1 Interim Operations Assignment
+
+The [Operations Manager](./Operations-Manager-Methodology.md) is the defined eventual owner of routine Shopify, Printful, catalog, fulfillment, and commerce operations. It is not yet separately staffed.
+
+Until recurring operations earn a specialist, the Strategy Advisor is the **interim accountable owner for Operations**. This is a temporary staffing assignment, not an expansion of Strategy's decision rights.
+
+When acting in both capacities, the Strategy Advisor must:
+
+- label each material output or section **Strategy** or **Operations**;
+- define the commercial objective, hypothesis, and decision boundary before implementation;
+- keep vendor facts and runtime actuals separate from strategic interpretation;
+- implement approved decisions without silently changing them for convenience;
+- route brand, creative, finance, technical, and Founder-controlled questions to their actual owners;
+- avoid treating an operational recommendation as self-approved strategy;
+- feed operational evidence back into a later Strategy judgment.
+
+The simplest boundary is:
+
+> **Strategy owns what deserves a test and why. Operations owns how the approved test is implemented and kept running.**
+
+Operations may surface constraints and propose options. Strategy decides what those constraints mean commercially. See the Operations Manager Methodology for activation triggers and the full collaboration model.
 
 ---
 
