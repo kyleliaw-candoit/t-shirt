@@ -11,6 +11,8 @@
 # Documentation Map
 
 - [Company operating methodologies](docs/company/)
+- [TRACE bestseller creative-intelligence methodology](docs/company/TRACE-Bestseller-Creative-Intelligence-Methodology.md)
+- [TRACE-PILOT-001 evidence and debrief](docs/creative/trace/pilots/TRACE-PILOT-001.md)
 - [Shopify commerce architecture](docs/company/Shopify-Commerce-Architecture.md)
 - [Operations Manager methodology](docs/company/Operations-Manager-Methodology.md)
 - [Garment selection playbook](docs/company/Garment-Selection-Playbook.md)
