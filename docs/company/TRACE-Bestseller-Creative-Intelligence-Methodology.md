@@ -2,10 +2,10 @@
 title: TRACE Bestseller Creative Intelligence Methodology
 owner: Creative Director
 maintainer: Knowledge Librarian
-status: Proposed Working Guide — revised after TRACE-PILOT-001; retest required
+status: Approved for calibration-first use — TRACE-PILOT-002 in progress
 version: 0.3
 last_updated: 2026-09-25
-reviewed_by: Founder approved v0.2 for pilot; v0.3 awaits adoption
+reviewed_by: Founder approved v0.3 for calibration-first actual run
 ---
 
 # TRACE Bestseller Creative Intelligence Methodology
@@ -35,7 +35,7 @@ The method complements the [Creative Director Methodology](./Creative-Director-M
 
 Version 0.2 was frozen before the first calibration pilot at commit `c383e2d90619e594b38b65dbd3508638d6e845d0`. `TRACE-PILOT-001` executed against that commit, not this revision.
 
-Version 0.3 is the evidence-backed revision proposed after the pilot. It is not considered calibrated until a retest executes its changed selection and record rules.
+Version 0.3 is the evidence-backed revision approved for calibration-first use after the pilot. It is not considered calibrated until a retest executes its changed selection and record rules.
 
 Never silently rewrite the rule set that governed an earlier scan. Record:
 
