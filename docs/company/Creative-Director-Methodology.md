@@ -2,8 +2,8 @@
 title: Creative Director Methodology
 owner: Creative Director
 status: Proposed
-version: 0.1
-last_updated: 2026-08-12
+version: 0.2
+last_updated: 2026-09-25
 reviewed_by: Founder pending
 ---
 
@@ -287,7 +287,7 @@ The physical shirt is part of the design problem.
 
 Creative Director work should not stop at isolated artwork when the eventual product will be produced through print-on-demand.
 
-Before final design execution, select a **provisional production archetype** using current POD availability and commercial relevance.
+Before final design execution, select a **provisional production archetype** using current POD availability and commercial relevance. Follow the [Garment Selection Playbook](./Garment-Selection-Playbook.md): Creative Director owns the garment recommendation, Brand Manager owns the brand-fit gate, Operations validates current provider feasibility, Finance validates economics, and Strategy interprets the commercial-test implications.
 
 Minimum decisions are:
 
