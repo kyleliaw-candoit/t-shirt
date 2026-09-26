@@ -54,6 +54,8 @@ It is:
 
 Personal founder passion may be optional. Durable stewardship and authentic community access are not.
 
+This does **not** make the three dimensions equally important or imply that more devotion is always better. Demand and depth describe the opportunity. Devotion describes whether the company can execute long enough to learn. The target is **adequate, bounded devotion**: enough commitment to run a fair test, paired with enough detachment to stop when the evidence fails.
+
 ---
 
 ## 3. Source and Evidence Discipline
@@ -86,6 +88,14 @@ The video is a useful practitioner heuristic, not validated market research. The
 
 The current framework also evaluates competitive opportunity, testability, strategic expansion, portfolio learning, and real customer behavior. The 3D model should therefore be a fast diagnostic, not a replacement.
 
+The circles should not be treated as equally weighted. For this company:
+
+1. **Demand is primary** — without reachable apparel-buying demand and viable economics, persistence cannot create a market.
+2. **Depth is primary** — without several distinct, evidence-backed recognition mechanisms, the brand has little durable product or message territory.
+3. **Devotion is a bounded operating requirement** — too little may produce a weak test; too much may create escalation of commitment, confirmation bias, and refusal to pivot.
+
+> **Enough devotion to complete a fair test. Enough detachment to obey its stop rule.**
+
 The company already holds the correct rule:
 
 > **Low Founder Advantage is a real execution constraint, not an automatic veto. It should increase insider review and reduce the size of pre-validation bets.**
@@ -111,6 +121,7 @@ Founder Advantage remains a founder-owned assessment of current lived knowledge,
 - Replace the 20-million rule with evidence of reachable apparel-buying demand, channel learnability, and plausible unit economics.
 - Replace the raw 50-idea count with evidence-backed diversity across behaviors, rituals, tensions, competencies, status signals, fault lines, and subgroups.
 - Replace founder-only devotion with **Devotion Coverage**: bounded operating commitment, observable evidence, insider access, AI-supported memory and throughput, honest brand posture, and a cheap feedback loop.
+- Define devotion as a sufficient floor, not a score to maximize. Precommit the evidence and decision date that will trigger continue, revise, or pivot.
 - Treat absent competition as a warning, not proof of absent demand. Investigate substitutes, adjacent spending, reachability, and why supply may be missing.
 - Treat clicks, comments, tagging, opt-ins, and purchases as different signals rather than interchangeable validation.
 
@@ -123,6 +134,7 @@ Founder Advantage remains a founder-owned assessment of current lived knowledge,
 - Do not fabricate founder membership, expertise, customer stories, or "made by insiders" claims.
 - Do not build hundreds of products before evidence earns catalog depth.
 - Do not assume three positive dimensions guarantee profitability; the model omits acquisition cost, margin, fulfillment, retention, competition, and execution quality.
+- Do not let personal attachment rescue a niche after a credible test fails its precommitted survival criteria.
 
 ---
 
@@ -168,6 +180,19 @@ The dangerous failure mode is **synthetic depth**: AI generates many plausible i
 
 AI can reduce research fatigue, preserve memory, sustain analytical cadence, and increase creative throughput. It cannot make the founder care enough to make decisions, fund the agreed learning window, or respond responsibly when the community corrects the company.
 
+Devotion can also become a liability. A founder who identifies too strongly with a niche may rationalize weak sales, keep adding designs, move the success criteria, or treat criticism as a reason to spend more. AI can worsen this by generating endless new explanations and variants.
+
+The safeguard is not less care during execution. It is **precommitted detachment**:
+
+- define what makes the test credible before launch;
+- define the learning window, spend boundary, and minimum evidence required to continue;
+- separate correctable execution failure from a failed opportunity thesis;
+- permit at most the pre-agreed correction cycle before reassessment;
+- require an explicit continue / revise / pivot decision at the checkpoint;
+- never move the survival threshold merely because the founder loves the niche.
+
+In the founder's example, four months and 32 designs are not automatically proof of failure or success. At that point, the company should ask whether the designs, traffic, offer, and measurement created a credible test. If they did and demand remained poor, devotion should not overrule the pivot. If they did not, correct the specific test defect within a bounded retest rather than indefinitely adding designs.
+
 A useful operating principle is:
 
 > **Founder devotion may be low. Brand devotion cannot be.**
@@ -180,7 +205,7 @@ A low-Founder-Advantage opportunity is conditionally compensable only when all s
 
 | Check | Question | Required evidence |
 |---|---|---|
-| Operating commitment | Will the founder sponsor a bounded learning window, make decisions, and tolerate weak early results? | Written scope, decision rights, budget/time boundary, and stop rule. |
+| Operating commitment | Will the founder sponsor a bounded learning window, make decisions, and tolerate weak early results without moving the exit criteria? | Written scope, decision rights, budget/time boundary, success threshold, permitted correction cycle, and stop/pivot rule. |
 | Evidence observability | Does the identity leave enough attributable evidence for structured learning? | Source map spanning multiple evidence types with material gaps stated. |
 | Insider access | Can actual identity members correct the company's model? | Two or three reviewers from meaningfully different relevant segments, or an accountable insider steward. |
 | Honest brand posture | Can the brand recognize the customer without pretending to possess a false origin or authority? | Claim boundaries, voice limits, prohibited claims, and escalation rules. |
@@ -193,6 +218,7 @@ Decision rule:
 - **Low founder interest, accountable insider steward available:** potentially viable.
 - **No insider access, mostly tacit/offline evidence, or authority-dependent positioning:** research further or defer.
 - **Founder will not sustain governance:** reject even if demand and depth appear strong.
+- **Founder will not honor a precommitted exit decision:** reject or require an independent decision owner; over-devotion is an execution risk.
 - **AI is the only source of insider truth:** reject as an authenticity risk.
 
 This gate sits beside Founder Advantage. It does not rescore it.
@@ -315,11 +341,11 @@ Continue only if insider correction and market behavior both support the opportu
 |---|---|---|---|---|---|---|
 | D3D-01 | **Complete now:** preserve this three-role application note | Knowledge Librarian | Current review | This document and review PR | PR checklist and Founder review | Merged note with source, decisions, owners, triggers, and evidence requirements |
 | D3D-02 | **Preserve:** do not change Founder Advantage, current methodologies, or opportunity sequence from one video | Strategy Advisor | Current review | This document | Explicit no-change statement in PR | Founder accepts, revises, or rejects the application note |
-| D3D-03 | **Pilot later:** apply the Devotion Coverage gate to the next serious opportunity with Founder Advantage 1–4/10 | Strategy Advisor | When such a candidate enters active consideration, after the approved sequence unless Founder explicitly reprioritizes | Linked GitHub implementation issue | Issue remains open until trigger; checklist blocks Brand handoff | Written pass / research-further / defer / reject disposition across all six checks |
+| D3D-03 | **Pilot later:** apply the Devotion Coverage gate to the next serious opportunity with Founder Advantage 1–4/10 | Strategy Advisor | When such a candidate enters active consideration, after the approved sequence unless Founder explicitly reprioritizes | Linked GitHub implementation issue | Issue remains open until trigger; checklist blocks Brand handoff | Written pass / research-further / defer / reject disposition across all six checks, including a precommitted exit rule |
 | D3D-04 | **Pilot later:** build the evidence-grounded demand and depth packet | Community Analyst, performing the requested research function | D3D-03 advances a candidate | Candidate research folder/report | Required Strategy handoff artifact | Sourced demand packet, segmented depth register, gaps, and evidence-status labels |
 | D3D-05 | **Pilot later:** establish insider correction and outsider-safe brand posture | Brand Manager + Strategy Advisor | Before Brand Hypothesis Brief approval for the pilot | Candidate Brand Hypothesis Brief | Required brand gate; Founder authorizes any external outreach | Named reviewer/segment coverage, recorded corrections, authority source, voice limits, and prohibited claims |
 | D3D-06 | **Pilot later:** run a bounded concept MVV | Creative Director + existing MVV owner | D3D-04 and D3D-05 pass | Existing MVV experiment record | Normal MVV checkpoints and stop rules | Comparative behavior across distinct concepts plus insider-review outcome |
-| D3D-07 | **Review later:** decide whether AI substitution worked | Strategy Advisor + Brand Manager | First credible low-Founder-Advantage pilot concludes | Pilot retrospective linked from implementation issue | Record rework, correction burden, resonance, demand, economics, and residual authenticity risk | Continue / change / stop decision with reasons |
+| D3D-07 | **Review later:** decide whether AI substitution worked and enforce the exit decision | Strategy Advisor + Brand Manager | Precommitted checkpoint or first credible low-Founder-Advantage pilot conclusion, whichever comes first | Pilot retrospective linked from implementation issue | Record test credibility, rework, correction burden, resonance, demand, economics, residual authenticity risk, and any attempt to move the goalposts | Continue / bounded retest / pivot decision with reasons |
 | D3D-08 | **Promote only after repetition:** consider methodology changes | Knowledge Librarian + Strategy Advisor | At least two completed low-Founder-Advantage pilots show a stable pattern | Separate methodology-change PR and issue | Founder approval required | Explicit adopt / revise / reject decision supported by execution evidence |
 | D3D-09 | **Automate only after need is earned:** refresh sources and maintain the truth register | AI operating-system owner | Manual pilot reveals recurring work whose frequency and schema are stable | Future workflow issue | Measure correction rate and cycle time before/after automation | Faster or more reliable refresh without provenance loss or increased insider corrections |
 
@@ -338,6 +364,7 @@ The linked implementation issue is the durable reminder. These actions are event
 - Do not automate public-facing insider voice before human correction and escalation rules are proven.
 - Do not present AI output as evidence, customer testimony, or community consensus.
 - Do not let a polished research corpus delay real MVV once the gates are satisfied.
+- Do not confuse perseverance with evidence or permit devotion to move a precommitted stop/pivot threshold.
 
 ---
 
