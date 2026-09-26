@@ -1,0 +1,1199 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "method": "frozen v0.3",
+  "checkpoint_at": "2026-09-26T19:23:18.491Z",
+  "status": "LOCAL-SCREENING-WRITTEN-REMOTE-REGISTER-PENDING",
+  "blocker": "exec server environment_offline twice; cannot audit, commit or read the most recent local files. Do not treat remote register as updated for this batch.",
+  "local_repo": "/workspace/scratch/f83f363f38b3/trace-screening",
+  "last_local_published_commit": "7d6a709",
+  "last_remote_register_commit": "e60c601fc8ed228e9c30ae96783d84a62d62dbc8",
+  "local_pending_files": [
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q11-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q12-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q13-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q14-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q15-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D05Q16-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-D06Q01-2026-09-26.json",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-Origin-Search-Register.csv",
+    "docs/creative/trace/pilots/TRACE-PILOT-002-DTC-Candidate-Selection.md"
+  ],
+  "expected_local_totals": {
+    "decisions": 55,
+    "eligible": 6,
+    "quarantine": 45,
+    "excluded": 4,
+    "required_runs": 316,
+    "na_runs": 14,
+    "result_rows": 2970
+  },
+  "next": "Restore workspace; audit pending files and append-only register against 7d6a709; verify frozen blob e6ce1dac883877455a4e915251821f4997006bbc; commit/publish exact local batch. Complete S06 selection narrative closure (attempted command did not run). Then S07 queue1 Puff Puff Pass and S08–S12. Final global dedup/EF assignment then five SDCs and independent review. No main merge.",
+  "decisions": [
+    {
+      "key": "D05Q11",
+      "obs": "TRACE-P002-OBS-DTC-S05-11",
+      "gate": "IP-QUARANTINE",
+      "basis": "EdgyShop Etsy794892913 full Papa message and PEOPLE/script call me/oversized PAPA hierarchy recur; five lines, teal/white and no arch differ. Dekodek692932376 ribbon/stars/all-block different. Candidate4reviews."
+    },
+    {
+      "key": "D05Q12",
+      "obs": "TRACE-P002-OBS-DTC-S05-12",
+      "gate": "IP-QUARANTINE",
+      "basis": "FastCustomTees/Ella Etsy1078355484 same full beer-thinking joke and four-line oversized BEER hierarchy; orange/black wider type and question mark differ.2reviews."
+    },
+    {
+      "key": "D05Q13",
+      "obs": "TRACE-P002-OBS-DTC-S05-13",
+      "gate": "IP-QUARANTINE",
+      "basis": "SunFrog science-like-magic-real credits Geoff Brown; yellow atom/science instruments/full joke recur, icon placement/one-line footer differ.5reviews."
+    },
+    {
+      "key": "D05Q14",
+      "obs": "TRACE-P002-OBS-DTC-S05-14",
+      "gate": "IP-QUARANTINE",
+      "basis": "Zazzle235253022562106978 by nautee same three-line white serif I’m silently/correcting your/grammar. Etsy1446185811 deliberately erroneous/red corrected text different.3reviews."
+    },
+    {
+      "key": "D05Q15",
+      "obs": "TRACE-P002-OBS-DTC-S05-15",
+      "gate": "IP-QUARANTINE",
+      "basis": "KayWoot web product text and Trenz Walmart134139161 full Okayest Brother joke. No direct visual match claimed. ThunderousThreads404, TShirtPalaceCloudflare hard block reported.3reviews."
+    },
+    {
+      "key": "D05Q16",
+      "obs": "TRACE-P002-OBS-DTC-S05-17",
+      "gate": "ELIGIBLE",
+      "confidence": "MEDIUM",
+      "sales": "YES",
+      "basis": "Single distressed white I’M HIDING on all-over woodland camouflage. Etsy619317563 explicitly CrazyDogTshirts Designed by Crazy Dog same source. Urban Pipeline eBay285756006643 directly materially different: five-line YES/I’M/HIDING/FROM/YOU in rectangle digital camo on plain dark shirt, italic black letters. Poshmark6aa423f8ce5b0a42af949d46 unavailable; search describes extended Shhh I’m Hiding from stoopid people, not visually inspected. Ordinary phrase song overlap not concrete music dependence. Actual product reviews verified Kaitlyn P05/18/26 and Mandy F11/10/25. S05 closes queue16/raw17; later rows NOT-REACHED."
+    },
+    {
+      "key": "D06Q01",
+      "obs": "TRACE-P002-OBS-DTC-S06-02",
+      "gate": "ELIGIBLE",
+      "confidence": "MEDIUM",
+      "sales": "YES",
+      "basis": "AukCliff Coastal Waves: single white line left-breaking wave, long rolling lines, red sun upper-right/cloud bars, rectangular backgraphic, RISE SOAR THRIVE footer, smallAUKCLIFF/frontpuffin secondary. Product Artist made/Made by us not licensed and family design-team claim. Etsy4444799988 centered sun many blue foamywaves textured sky materiallydifferent. Shutterstock2685259287 klyaksun directly landscape bluecartoonwaves/curlicuewhitefoam/gradientcentersun/arcsky materiallydifferent. SupplementalHokkaidoEtsy4429164046unavailable. ProductLoox4reviews verifiedDanielM7/27/2026,FlorianW8/29/2025,PatriceL8/21/2025;830shopreviews ignored. S06closesqueue1/raw2."
+    }
+  ],
+  "web": [
+    {
+      "key": "D05Q11",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"My favorite people call me papa\"",
+          "time": "2026-09-26T19:03:41.967Z",
+          "rows": [
+            {
+              "title": "My Favorite People Call Me Papa - Personalized Custom T-shirt, Father's Day Gift for Dad, Grandpa, Custom Kid Name Father's Day Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4309452822/my-favorite-people-call-me-papa"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/767377026"
+            },
+            {
+              "title": "My Favorite People Call Me Papa - Papa - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/75858020-my-favorite-people-call-me-papa"
+            },
+            {
+              "title": "My Favorite People Call Me Papa - Papa Nickname - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/77468505-my-favorite-people-call-me-papa"
+            },
+            {
+              "title": "Papa Shirt - My Favorite People Call Me Papa - Father's Day Birthday Papa Gift T-shirt - Etsy",
+              "url": "https://www.etsy.com/listing/794892913/papa-shirt-my-favorite-people-call-me"
+            },
+            {
+              "title": "Men's Cotton Relaxed-Fit Short-Sleeve T-Shirt 'Papa' - TikTok Shop",
+              "url": "https://shop.tiktok.com/us/pdp/mens-cotton-t-shirt-my-favorite-people-call-me-papa-funny-gift-relaxed-fit-easy-care-perfect-for-spring-and-summer/1732421180352336421"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Waterproof Vinyl Sticker - TikTok Shop",
+              "url": "https://shop.tiktok.com/us/pdp/3pcs-papa-sticker-set-waterproof-durable-design/1732392098678412279"
+            },
+            {
+              "title": "My Favorite People Call Me Papa",
+              "url": "https://www.reddit.com/r/u_SVGPrints/comments/v93pda"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/245474883"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Shirt, Custom Kids Names Printed Shirt, Best Dad to Be Tops, Dad Birthday Gifts, New Dad Fathers Day Shirts - Etsy",
+              "url": "https://www.etsy.com/listing/4501999212/my-favorite-people-call-me-papa-shirt"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "My Favorite People Call Me Papa",
+          "time": "2026-09-26T19:03:41.945Z",
+          "rows": [
+            {
+              "title": "My Favorite People Call Me Papa - Personalized Custom T-shirt, Father's Day Gift for Dad, Grandpa, Custom Kid Name Father's Day Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4309452822/my-favorite-people-call-me-papa"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/241839556"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/331102343"
+            },
+            {
+              "title": "My Favorite People Call Me Papa - Papa - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/75858020-my-favorite-people-call-me-papa"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys - Crazy Dog Men's T Shirt Gift for Dad Dark Grey L : Target",
+              "url": "https://www.target.com/p/-/A-93547722"
+            },
+            {
+              "title": "My Favorite People Call Me Papa - My Favorite People Call Me Papa - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/86467368-my-favorite-people-call-me-papa?store_id=1328215"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee - Walmart.com",
+              "url": "https://www.walmart.com/ip/542656517"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Shirt, Papa T-shirt, Fathers Day Shirt, Gift for Papa, Personalized Father's Day Gift - Etsy",
+              "url": "https://www.etsy.com/listing/692932376/my-favorite-people-call-me-papa-shirt"
+            },
+            {
+              "title": "Papa Shirt - My Favorite People Call Me Papa - Father's Day Birthday Papa Gift T-shirt - Etsy",
+              "url": "https://www.etsy.com/listing/794892913/papa-shirt-my-favorite-people-call-me"
+            },
+            {
+              "title": "Mens My Favorite People Call Me Papa T Shirt Funny Humor Father Tee for Guys Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/740384586"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "distressed arched people script call me large papa typography",
+          "time": "2026-09-26T19:03:41.713Z",
+          "rows": [
+            {
+              "title": "My Favorite People Call Me Papa - Vintage Distressed Grandfather Father's Day Gift, Rustic Dad Apparel - Papa - Kids Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/kids-hoodie/91956055-my-favorite-people-call-me-papa-vintage-distressed"
+            },
+            {
+              "title": "Mens Clothes;Summer Tops1 PCS Retro Distressed Aesthetics Front White Cursive \"I AM THE Light Of The World\" Script (Arched Lay) + White Radiant Light Accents + White Biblical Scripture Text (John 8:12 Related) + White Decorative Floral Accents & Back White Vintage Line Art Jesus Illustration (With Radiant Light Accents) + White Large Artistic \"JESUS\" Typography (Vertical Lay) + White Cursive \"Light Of The World\" Script (Vertical Lay) Black T-Shirt, 100% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Christmas Casual Gatherings, Hunting Day Casual Ings, Street Style Hangs, Faith Fellowship & Worship Meetups, Religious & Urban Fashion Events, Friend Leisure Ings, Daily Urban Fashion Wear, Yhful Fashionable Faith Light Street Style, Excellent Gifts For Friends & Familysummer Outfits NFXO | SHEIN USA",
+              "url": "https://m.shein.com/us/Mens-Clothes%3BSummer-Tops1-PCS-Retro-Distressed-Aesthetics-Front-White-Cursive-%22I-AM-THE-Light-Of-The-World%22-Script-%28Arched-Lay%29-%2B-White-Radiant-Light-Accents-%2B-White-Biblical-Scripture-Text-%28John-8%3A12-Related%29-%2B-White-Decorative-Floral-Accents-%26-Back-White-Vintage-Line-Art-Jesus-Illustration-%28With-Radiant-Light-Accents%29-%2B-White-Large-Artistic-%22JESUS%22-Typography-%28Vertical-Lay%29-%2B-White-Cursive-%22Light-Of-The-World%22-Script-%28Vertical-Lay%29-Black-T-Shirt%2C-100%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Christmas-Casual-Gatherings%2C-Hunting-Day-Casual-Ings%2C-Street-Style-Hangs%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Religious-%26-Urban-Fashion-Events%2C-Friend-Leisure-Ings%2C-Daily-Urban-Fashion-Wear%2C-Yhful-Fashionable-Faith-Light-Street-Style%2C-Excellent-Gifts-For-Friends-%26-Familysummer-Outfits-NFXO-p-447191976.html"
+            },
+            {
+              "title": "New Summer 2026 Collection 1 PCS Retro Distressed Aesthetics Front Gradient Blue/Red/Purple Metallic Artistic Typography (JESUS Vertical, CHRIST Horizontal, \"Is\" Pink Cursive, LORD Block Letters) + Yellow Cursive \"He Paid The Price I Couldn't Afford\" Script (Arched Layout Below) T-Shirt, 100% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Christmas Casual Gatherings, Hunting Day Casual Outings, Street Style Hangouts, Faith Fellowship & Worship Meetups, Religious & Urban Fashion Events, Friend Leisure Outings, Daily Urban Fashion Wear, Youthful Fashionable Faith Christ Lord Street Style, Excellent Gifts For Friends & Family-Vintage Street Style Unisex Loose Cotton Short Sleeve Crew Neck T-Shirt | SHEIN USA",
+              "url": "https://m.shein.com/us/New-Summer-2026-Collection-1-PCS-Retro-Distressed-Aesthetics-Front-Gradient-Blue-Red-Purple-Metallic-Artistic-Typography-%28JESUS-Vertical%2C-CHRIST-Horizontal%2C-%22Is%22-Pink-Cursive%2C-LORD-Block-Letters%29-%2B-Yellow-Cursive-%22He-Paid-The-Price-I-Couldn%27t-Afford%22-Script-%28Arched-Layout-Below%29-T-Shirt%2C-100%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Christmas-Casual-Gatherings%2C-Hunting-Day-Casual-Outings%2C-Street-Style-Hangouts%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Religious-%26-Urban-Fashion-Events%2C-Friend-Leisure-Outings%2C-Daily-Urban-Fashion-Wear%2C-Youthful-Fashionable-Faith-Christ-Lord-Street-Style%2C-Excellent-Gifts-For-Friends-%26-Family-Vintage-Street-Style-Unisex-Loose-Cotton-Short-Sleeve-Crew-Neck-T-Shirt-p-456957958.html"
+            },
+            {
+              "title": "Is there anybody out there? – FontToolbox",
+              "url": "https://www.fonttoolbox.com/fonts/is-there-anybody-out-there"
+            },
+            {
+              "title": "New Summer 2026 Collection 1 PCS Retro Distressed Aesthetics Front Left Chest Small Colorful Trout Illustration + White Cursive \"Fishers Of Men\" Script & Back Large Vintage Outdoor Illustration (Trout, Mountains, Forest, Stream, Sky, Distressed/Worn Effect) + White Arched \"FOLLOW ME AND I WILL MAKE YOU\" Typography + White Cursive \"Fishers Of Men\" Script + \"MATT 4:19\" Biblical Reference Text T-Shirt, 100% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Christmas Casual Gatherings, Hunting Day & Fishing Trips, Street Style Hangouts, Faith Fellowship & Worship Meetups, Fishing & Religious Fashion Events, Friend Leisure Outings, Daily Urban Fashion Wear, Youthful Fashionable Faith Fisher Street Style, Excellent Gifts For Friends & Family-Vintage Street Style Unisex Loose Cotton Short Sleeve Crew Neck T-Shirt | SHEIN USA",
+              "url": "https://m.shein.com/us/New-Summer-2026-Collection-1-PCS-Retro-Distressed-Aesthetics-Front-Left-Chest-Small-Colorful-Trout-Illustration-%2B-White-Cursive-%22Fishers-Of-Men%22-Script-%26-Back-Large-Vintage-Outdoor-Illustration-%28Trout%2C-Mountains%2C-Forest%2C-Stream%2C-Sky%2C-Distressed-Worn-Effect%29-%2B-White-Arched-%22FOLLOW-ME-AND-I-WILL-MAKE-YOU%22-Typography-%2B-White-Cursive-%22Fishers-Of-Men%22-Script-%2B-%22MATT-4%3A19%22-Biblical-Reference-Text-T-Shirt%2C-100%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Christmas-Casual-Gatherings%2C-Hunting-Day-%26-Fishing-Trips%2C-Street-Style-Hangouts%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Fishing-%26-Religious-Fashion-Events%2C-Friend-Leisure-Outings%2C-Daily-Urban-Fashion-Wear%2C-Youthful-Fashionable-Faith-Fisher-Street-Style%2C-Excellent-Gifts-For-Friends-%26-Family-Vintage-Street-Style-Unisex-Loose-Cotton-Short-Sleeve-Crew-Neck-T-Shirt-p-456441057.html"
+            },
+            {
+              "title": "Vacation Outfits Women, 1 PCS Retro Distressed Aesthetics Front White Cursive \"I AM THE Light Of The World\" Script (Arched Lay) + White Radiant Light Accents + White Biblical Scripture Text (John 8:12 Related) + White Decorative Floral Accents & Back White Vintage Line Art Jesus Illustration (With Radiant Light Accents) + White Large Artistic \"JESUS\" Typography (Vertical Lay) + White Cursive \"Light Of The World\" Script (Vertical Lay) Black T-Shirt, 100% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Christmas Casual Gatherings, Hunting Day Casual Ings, Street Style Hangs, Faith Fellowship & Worship Meetups, Religious & Urban Fashion Events, Friend Leisure Ings, Daily Urban Fashion Wear, Yhful Fashionable Faith Light Street Style, Excellent Gifts For Friends & FamilyLoose And Comfortable Tops For Women | SHEIN USA",
+              "url": "https://m.shein.com/us/Vacation-Outfits-Women%2C-1-PCS-Retro-Distressed-Aesthetics-Front-White-Cursive-%22I-AM-THE-Light-Of-The-World%22-Script-%28Arched-Lay%29-%2B-White-Radiant-Light-Accents-%2B-White-Biblical-Scripture-Text-%28John-8%3A12-Related%29-%2B-White-Decorative-Floral-Accents-%26-Back-White-Vintage-Line-Art-Jesus-Illustration-%28With-Radiant-Light-Accents%29-%2B-White-Large-Artistic-%22JESUS%22-Typography-%28Vertical-Lay%29-%2B-White-Cursive-%22Light-Of-The-World%22-Script-%28Vertical-Lay%29-Black-T-Shirt%2C-100%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Christmas-Casual-Gatherings%2C-Hunting-Day-Casual-Ings%2C-Street-Style-Hangs%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Religious-%26-Urban-Fashion-Events%2C-Friend-Leisure-Ings%2C-Daily-Urban-Fashion-Wear%2C-Yhful-Fashionable-Faith-Light-Street-Style%2C-Excellent-Gifts-For-Friends-%26-FamilyLoose-And-Comfortable-Tops-For-Women-p-452872446.html"
+            },
+            {
+              "title": "Vintage Washed Cotton-Shirt Oversized Crew Neck Soft Breathable Streetwear Essential Basic Tee,1 Pcs1 PCS Retro Distressed Aesthetics Front White Cursive I AM Light Of World Script (Arched Layout) + White Radiant Light Accents + White Biblical Scripture Text (John 8:12 Related) + White Decorative Floral Accents & Back White Vintage Line Art Jesus Illustration (With Radiant Light Accents) + White Large Artistic JESUS Typography (Vertical Layout) + White Cursive Light Of World Script (Vertical Layout) Black-Shirt,% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Casual Gatherings, Hunting Day Casual Outings, Street Style Hangouts, Faith Fellowship & Worship Meetups, Religious & Urban Fashion Events, Friend Leisure Outings, Daily Urban Fashion Wear, Youthful Fashionable Faith Light Street Style, Excellent Gifts Friends & Family180g% Cotton Soft for Sale Australia| New Collection Online| SHEIN Australia",
+              "url": "https://m.shein.com/au/Vintage-Washed-Cotton-Shirt-Oversized-Crew-Neck-Soft-Breathable-Streetwear-Essential-Basic-Tee%2C1-Pcs1-PCS-Retro-Distressed-Aesthetics-Front-White-Cursive-I-AM-Light-Of-World-Script-%28Arched-Layout%29-%2B-White-Radiant-Light-Accents-%2B-White-Biblical-Scripture-Text-%28John-8%3A12-Related%29-%2B-White-Decorative-Floral-Accents-%26-Back-White-Vintage-Line-Art-Jesus-Illustration-%28With-Radiant-Light-Accents%29-%2B-White-Large-Artistic-JESUS-Typography-%28Vertical-Layout%29-%2B-White-Cursive-Light-Of-World-Script-%28Vertical-Layout%29-Black-Shirt%2C%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Casual-Gatherings%2C-Hunting-Day-Casual-Outings%2C-Street-Style-Hangouts%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Religious-%26-Urban-Fashion-Events%2C-Friend-Leisure-Outings%2C-Daily-Urban-Fashion-Wear%2C-Youthful-Fashionable-Faith-Light-Street-Style%2C-Excellent-Gifts-Friends-%26-Family180g%25-Cotton-Soft-p-449066451.html"
+            },
+            {
+              "title": "New Summer 2026 Collection 1 PCS Retro Distressed Aesthetics Front Left Chest Small Vintage Road Sign/Telephone Booth Style Faith Slogan Set & Back Large Vintage Road Sign/Telephone Booth Style Faith Slogan Set (With Distressed/Worn Effect) + White \"Call. . . 1-800-NEW-CREATION\" Bold Typography (With \"OPEN 24/7\" Small Text) + Red Cursive \"Our Hope\" Script + Red/Yellow \"HE GIVES NEW LIFE\" Bold Typography (Repeated Layout) + Yellow \"LORD\" & Red \"ALMIGHTY\" Bold Typography + Blue \"PERFECT SACRIFICE! ! \" Bold Typography T-Shirt, 100% Cotton Breathable Unisex Oversized Short Sleeve Tee, Spring/Summer/Fall/Winter All-Season Wear, Christmas Casual Gatherings, Hunting Day Casual Outings, Street Style Hangouts, Faith Fellowship & Worship Meetups, Road Sign & Religious Fashion Events, Friend Leisure Outings, Daily Urban Fashion Wear, Youthful Fashionable Faith Call Street Style, Excellent Gifts For Friends & Family-Vintage Street Style Unisex Loose Cotton Short Sleeve Crew Neck T-Shirt | SHEIN USA",
+              "url": "https://m.shein.com/us/New-Summer-2026-Collection-1-PCS-Retro-Distressed-Aesthetics-Front-Left-Chest-Small-Vintage-Road-Sign-Telephone-Booth-Style-Faith-Slogan-Set-%26-Back-Large-Vintage-Road-Sign-Telephone-Booth-Style-Faith-Slogan-Set-%28With-Distressed-Worn-Effect%29-%2B-White-%22Call.-.-.-1-800-NEW-CREATION%22-Bold-Typography-%28With-%22OPEN-24-7%22-Small-Text%29-%2B-Red-Cursive-%22Our-Hope%22-Script-%2B-Red-Yellow-%22HE-GIVES-NEW-LIFE%22-Bold-Typography-%28Repeated-Layout%29-%2B-Yellow-%22LORD%22-%26-Red-%22ALMIGHTY%22-Bold-Typography-%2B-Blue-%22PERFECT-SACRIFICE%21-%21-%22-Bold-Typography-T-Shirt%2C-100%25-Cotton-Breathable-Unisex-Oversized-Short-Sleeve-Tee%2C-Spring-Summer-Fall-Winter-All-Season-Wear%2C-Christmas-Casual-Gatherings%2C-Hunting-Day-Casual-Outings%2C-Street-Style-Hangouts%2C-Faith-Fellowship-%26-Worship-Meetups%2C-Road-Sign-%26-Religious-Fashion-Events%2C-Friend-Leisure-Outings%2C-Daily-Urban-Fashion-Wear%2C-Youthful-Fashionable-Faith-Call-Street-Style%2C-Excellent-Gifts-For-Friends-%26-Family-Vintage-Street-Style-Unisex-Loose-Cotton-Short-Sleeve-Crew-Neck-T-Shirt-p-456920472.html"
+            },
+            {
+              "title": "Retro Groovy Script Distressed Tapestries for Sale | TeePublic",
+              "url": "https://www.teepublic.com/tapestries/retro-groovy-script-distressed"
+            },
+            {
+              "title": "FT Grandpas Script Font Family by Fenotype | Font Bros",
+              "url": "https://www.fontbros.com/font-family/ft-grandpas-script"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D05Q12",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"I wonder if beer thinks about me too\"",
+          "time": "2026-09-26T19:06:05.926Z",
+          "rows": [
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Sign | Primitives By Kathy",
+              "url": "https://www.primitivesbykathy.com/products/box-sign-i-wonder-if-beer-thinks-about-me-110351/"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Shirt Funny Beer Lover T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/14687412737"
+            },
+            {
+              "title": "<visual_element id=\"e1\">",
+              "url": "https://alpha.creativecirclecdn.com/polkcounty/files/20240928-134837-467-EastTexan-Summer2024.pdf"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too | BrainFartz.biz",
+              "url": "https://www.brainfartz.biz/product-page/i-wonder-if-beer-thinks-about-me-too"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Beer Drinking T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/14687661605"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too - I Wonder If Beer Thinks About Me Too - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/74590779-i-wonder-if-beer-thinks-about-me-too"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Shirt Funny Beer Lover T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/14683804068"
+            },
+            {
+              "title": "Ongda Trends",
+              "url": "https://ongdatrends.com/"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too - I Wonder If Beer Thinks About Me Too - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/7174142-i-wonder-if-beer-thinks-about-me-too"
+            },
+            {
+              "title": "I wonder if beer thinks about me too - Beer - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/1908671-i-wonder-if-beer-thinks-about-me-too"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Wonder If Beer Thinks About Me",
+          "time": "2026-09-26T19:06:06.312Z",
+          "rows": [
+            {
+              "title": "Does Fort Worth Ever Cross Your Mind (song)",
+              "url": "https://en.wikipedia.org/wiki/Does_Fort_Worth_Ever_Cross_Your_Mind_%28song%29"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Beer Drinking T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/14687661605"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Drinking Beer T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/15833852327"
+            },
+            {
+              "title": "Primitives by Kathy I Wonder If Beer Thinks About Me Too... Home D√©cor Sign - Walmart.com",
+              "url": "https://www.walmart.com/ip/2259020049"
+            },
+            {
+              "title": "I Wonder if Beer Thinks About Me Too SVG Graphic by Creative Design · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/i-wonder-if-beer-thinks-about-me-too-svg/"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Drinking Beer T-Shirt - Walmart Business Supplies",
+              "url": "https://business.walmart.com/ip/I-Wonder-If-Beer-Thinks-About-Me-Too-Funny-Drinking-Beer-T-Shirt/5349992325"
+            },
+            {
+              "title": "I Wonder if Beer Thinks About Me Too Graphic by Craftoria Arts · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/i-wonder-if-beer-thinks-about-me-too/"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Drinking Beer T-Shirt - Walmart Business Supplies",
+              "url": "https://business.walmart.com/ip/I-Wonder-If-Beer-Thinks-About-Me-Too-Funny-Drinking-Beer-T-Shirt/5356125667"
+            },
+            {
+              "title": "👀",
+              "url": "https://www.reddit.com/r/Drunkmemes/comments/1qxa82i/_/"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Drinking Beer T-Shirt - Walmart Business Supplies",
+              "url": "https://business.walmart.com/ip/I-Wonder-If-Beer-Thinks-About-Me-Too-Funny-Drinking-Beer-T-Shirt/5484315676"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "distressed white typography oversized beer thinks about me too",
+          "time": "2026-09-26T19:06:05.717Z",
+          "rows": [
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Sign | Primitives By Kathy",
+              "url": "https://www.primitivesbykathy.com/products/box-sign-i-wonder-if-beer-thinks-about-me-110351/"
+            },
+            {
+              "title": "Funny Beer Shirt, I Wonder If Beer Thinks About Me Too, Day Drinking Shirts, Beer Quotes Tee, St Patricks Day Shirt, Oktoberfest Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/1078355484/funny-beer-shirt-i-wonder-if-beer-thinks"
+            },
+            {
+              "title": "Beer Drinking T-shirt, Beer Shirt, I Wonder If Beer Thinks About Me Too T-shirt, Shirt, Funny Beer Tshirt, Funny Drinking Shirt, Oktoberfest - Etsy UK",
+              "url": "https://www.etsy.com/listing/1733172088/beer-drinking-t-shirt-beer-shirt-i"
+            },
+            {
+              "title": "Give Me, a Keg, of Beer - Long Sleeve T-Shirt – m00nshot",
+              "url": "https://www.m00nshot.com/products/give-me-a-keg-of-beer-long-sleeve-t-shirt"
+            },
+            {
+              "title": "Funny Graphic Tee,Tops Has\"I WONDER IF BEER THINKS ABOUT ME TOO..\"Letter Print,Round Neck Regular Fit T-shirts, Size(S-5XL) - Walmart.com",
+              "url": "https://www.walmart.com/ip/17329619164"
+            },
+            {
+              "title": "I Wonder if Beer Thinks About Me Too Graphic by Craftoria Arts · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/i-wonder-if-beer-thinks-about-me-too/"
+            },
+            {
+              "title": "Vintage 2000s Budweiser Graphic Tee White Beer Logo... | Depop",
+              "url": "https://www.depop.com/products/rektaltbast-vintage-2000s-budweiser-graphic-tee-6dc1/?pla_feed=US"
+            },
+            {
+              "title": "I Wonder If Beer Thinks About Me Too Funny Beer Drinking T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/14687661605"
+            },
+            {
+              "title": "Primitives by Kathy I Wonder If Beer Thinks About Me Too... Home D√©cor Sign - Walmart Business Supplies",
+              "url": "https://business.walmart.com/ip/Primitives-by-Kathy-I-Wonder-If-Beer-Thinks-About-Me-Too-Home-D-cor-Sign/2259020049"
+            },
+            {
+              "title": "I Wonder if Beer Thinks About Me Too Graphic by mamunportfolio · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/i-wonder-if-beer-thinks-about-me-too-4/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D05Q13",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"Science like magic but real\"",
+          "time": "2026-09-26T19:07:57.785Z",
+          "rows": [
+            {
+              "title": "Day 1_PPT CIET.pptx",
+              "url": "https://www.ciet.ncert.gov.in/storage/app/public/files/19/Webinar%20ppt/Day%201_PPT%20CIET.pptx.pdf"
+            },
+            {
+              "title": "Science Like Magic But Real: Amazing Scientific Discoveries - Jamie Foster Science",
+              "url": "https://www.jamiefosterscience.com/science-like-magic-but-real/"
+            },
+            {
+              "title": "Science Like Magic Premium T-Shirt",
+              "url": "https://www.sunfrog.com/product/science-like-magic-real"
+            },
+            {
+              "title": "Science Its Like Magic but Real - Etsy",
+              "url": "https://www.etsy.com/market/science_its_like_magic_but_real"
+            },
+            {
+              "title": "Science Like Magic But Real - Science Like Magic But Real - Pin | TeePublic",
+              "url": "https://www.teepublic.com/pin/21720579-science-like-magic-but-real"
+            },
+            {
+              "title": "Science Like Magic but Real Graphic by Graphics House · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/science-like-magic-but-real-4/"
+            },
+            {
+              "title": "Science Its Like Magic But Real Greeting Cards for Sale | Redbubble",
+              "url": "https://www.redbubble.com/shop/science%2Bits%2Blike%2Bmagic%2Bbut%2Breal%2Bgreeting-cards"
+            },
+            {
+              "title": "Science Like Magic but Real Sticker - Etsy",
+              "url": "https://www.etsy.com/market/science_like_magic_but_real_sticker"
+            },
+            {
+              "title": "Science Like Magic But Real Science Teacher Shirt",
+              "url": "https://www.teacherabc.com/products/science-like-magic-but-real-science-teacher-shirt-16425648"
+            },
+            {
+              "title": "Science Like Magic But Real Card | Zazzle",
+              "url": "https://www.zazzle.com/science_like_magic_but_real_card-256153945304152540"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Science Like Magic But Real",
+          "time": "2026-09-26T19:07:57.902Z",
+          "rows": [
+            {
+              "title": "Using AI to 'talk to animals' might make us feel clever - but what, if anything, does it do for them?",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai"
+            },
+            {
+              "title": "Science Like Magic But Real: Amazing Scientific Discoveries - Jamie Foster Science",
+              "url": "https://www.jamiefosterscience.com/science-like-magic-but-real/"
+            },
+            {
+              "title": "This Looks Like Magic… But It’s Real Science 🤯#science#scienceexperiments#scienceforkids#coolscience - YouTube",
+              "url": "https://www.youtube.com/watch?v=QceiUVZaQ5M"
+            },
+            {
+              "title": "Real Magic | Dean Radin",
+              "url": "https://www.deanradin.com/scienceofmagic"
+            },
+            {
+              "title": "Real Magic | Dean Radin",
+              "url": "https://www.deanradin.com/real-magic"
+            },
+            {
+              "title": "Is Mentalism Real? The Science Behind the Tricks - ScienceInsights",
+              "url": "https://scienceinsights.org/is-mentalism-real-the-science-behind-the-tricks/"
+            },
+            {
+              "title": "A Convergence of Science & Real Magic – New Dawn – World's Most Unusual Magazine",
+              "url": "https://www.newdawnmagazine.com/articles/newscience-consciousness/a-convergence-of-science-real-magic"
+            },
+            {
+              "title": "What If Magic Is Real? – IONS",
+              "url": "https://noetic.org/blog/what-if-magic-is-real/"
+            },
+            {
+              "title": "Science versus Magic | Psychology Today",
+              "url": "https://www.psychologytoday.com/us/blog/the-moral-molecule/201005/science-versus-magic"
+            },
+            {
+              "title": "Alan The Amazing - Stem, Science",
+              "url": "https://heyalan.com/stem-shows"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "yellow atom science instruments microscope science like magic but real",
+          "time": "2026-09-26T19:07:57.659Z",
+          "rows": [
+            {
+              "title": "The Müller Exhibition | Eberly College of Science",
+              "url": "https://science.psu.edu/impact/muller"
+            },
+            {
+              "title": "Duke Engineers Build AI Optical Microscope for Materials Research | Duke Pratt School of Engineering Duke Pratt School of Engineering",
+              "url": "https://pratt.duke.edu/news/wang-ai-optical-microscope/"
+            },
+            {
+              "title": "Nerdfighteria Wiki - The Microscope That Can Actually See Atoms",
+              "url": "https://nerdfighteria.info/v/S-M7JjYClTY"
+            },
+            {
+              "title": "Can You See an Atom With a Microscope? - ScienceInsights",
+              "url": "https://scienceinsights.org/can-you-see-an-atom-with-a-microscope/"
+            },
+            {
+              "title": "MIT physicists snap the first images of “free-range” atoms | MIT News | Massachusetts Institute of Technology",
+              "url": "https://news.mit.edu/2025/mit-physicists-snap-first-images-free-range-atoms-0505"
+            },
+            {
+              "title": "Microscopy Method Goes Deep",
+              "url": "https://cen.acs.org/articles/92/i41/Microscopy-Method-Goes-Deep.html"
+            },
+            {
+              "title": "Atomic Models | Material Science",
+              "url": "https://testing.mri.psu.edu/atomic-models/index.html"
+            },
+            {
+              "title": "High Field Consultants",
+              "url": "https://en.wikipedia.org/wiki/High_Field_Consultants"
+            },
+            {
+              "title": "Can You See an Atom With a Microscope? - Biology Insights",
+              "url": "https://biologyinsights.com/can-you-see-an-atom-with-a-microscope/"
+            },
+            {
+              "title": "Nerdfighteria Wiki - The Microscope That Can Actually See Atoms",
+              "url": "https://nerdfighteria.info/v/S-M7JjYClTY/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D05Q14",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"I’m silently correcting your grammar\"",
+          "time": "2026-09-26T19:09:34.897Z",
+          "rows": [
+            {
+              "title": "Column: A Word, Please: ‘Little tells’ stand out in unprofessional writing",
+              "url": "https://www.latimes.com/socal/burbank-leader/opinion/tn-blr-me-aword-20180606-story.html"
+            },
+            {
+              "title": "How to become a language noticer - NATE",
+              "url": "https://www.nate.org.uk/2026/07/31/how-to-become-a-language-noticer/"
+            },
+            {
+              "title": "Around Your Town",
+              "url": "https://www.alleghenywestmagazine.com/Back_issues/2016-wa/AWM_WEST_A_ED_DEC_2016.pdf"
+            },
+            {
+              "title": "Journal of Mammalogy, XX(X):1–5, 2020",
+              "url": "https://www.mammalogy.org/uploads/ASM%20history%20of%20publications%202020.pdf"
+            },
+            {
+              "title": "Crystal Estella Goldman-Babatunde - Whole Foods Market | LinkedIn",
+              "url": "https://www.linkedin.com/in/crystal-goldman-babatunde"
+            },
+            {
+              "title": "I’m silently correcting your grammar. And your spelling errors. And you’re obvious ChatGPT overuse of EM dashes and Oxford commas (yes it’s your). I don’t mean to be judgmental, but let’s face it… | Shawna Rossi ✨ | 55 comments",
+              "url": "https://www.linkedin.com/posts/shawna-rossi_im-silently-correcting-your-grammar-and-activity-7308543058298425345-F09m"
+            },
+            {
+              "title": "I'm Silently Correcting Your Grammar Socks – Funatic",
+              "url": "https://funatic.com/products/im-silently-correcting-your-grammar"
+            },
+            {
+              "title": "Combating Ableist Language - Melanie Hooyenga",
+              "url": "https://www.melaniehoo.com/2023/08/09/combating-abliest-language/"
+            },
+            {
+              "title": "Your Punctuation | Pintester",
+              "url": "https://pintester.com/2013/07/your-punctuation/"
+            },
+            {
+              "title": "Wholesale – Funatic",
+              "url": "https://funatic.com/pages/wholesale-1"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "I'm Silently Correcting Your Grammar",
+          "time": "2026-09-26T19:09:34.649Z",
+          "rows": [
+            {
+              "title": "I Am Silently Correcting Your Grammar — Jenelle Leanne Schmidt",
+              "url": "https://www.jenelleschmidt.com/blog/i-am-silently-correcting-your-grammar"
+            },
+            {
+              "title": "Quote by Tamara Ireland Stone: “I am silently correcting your grammar.”",
+              "url": "https://www.goodreads.com/quotes/9099422-i-am-silently-correcting-your-grammar"
+            },
+            {
+              "title": "Am I Silently Correcting Your Grammar? — Easy Reader Editing",
+              "url": "https://easyreaderediting.com/blog/am-i-silently-correcting-your-grammar"
+            },
+            {
+              "title": "Focus on the “silently” – Madam Grammar",
+              "url": "https://madamgrammar.com/2017/02/14/focus-on-the-silently/"
+            },
+            {
+              "title": "PROOFREADING",
+              "url": "https://www.sandiegocounty.gov/content/dam/sdc/probation/Trainings/Class11.2ProofreadingPowerPoint.pdf"
+            },
+            {
+              "title": "Silently Correcting Your Grammar｜About",
+              "url": "https://www.silentlycorrectingyourgrammar.com/about"
+            },
+            {
+              "title": "Am I Silently Correcting Your Grammar? | by Lynda Dietz | a Few Words | Medium",
+              "url": "https://medium.com/afwp/am-i-silently-correcting-your-grammar-d51649de16fb"
+            },
+            {
+              "title": "I'm silently correcting your grammar...",
+              "url": "https://www.linkedin.com/pulse/im-silently-correcting-your-grammar-shari-berg"
+            },
+            {
+              "title": "“I Am Silently Correcting Your Grammar.” - by Susan B. Apel",
+              "url": "https://artful.substack.com/p/i-am-silently-correcting-your-grammar"
+            },
+            {
+              "title": "People tell me they feel self conscious around me because I'm silently correcting their grammar. This couldn't be farther from the truth because it's the rule breakers that make for really… | Kimberly Pace Becker | 26 comments",
+              "url": "https://www.linkedin.com/posts/kimberlypacebecker_people-tell-me-they-feel-self-conscious-around-activity-7434228576834551808-KNhD"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "white serif three lines silently correcting your grammar",
+          "time": "2026-09-26T19:09:34.731Z",
+          "rows": [
+            {
+              "title": "PROOFREADING",
+              "url": "https://www.sandiegocounty.gov/content/dam/sdc/probation/Trainings/Class11.2ProofreadingPowerPoint.pdf"
+            },
+            {
+              "title": "Grammar Teacher Shirt, Punctuation Shirt, I'm Silently Correcting Your Grammar, English Teacher Shirts, Funny Grammar Shirt, Sarcastic Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/1446185811/grammar-teacher-shirt-punctuation-shirt"
+            },
+            {
+              "title": "Free Grammar Checker | #1 AI-Powered Grammar Check",
+              "url": "https://www.grammarly.com/grammar-check"
+            },
+            {
+              "title": "'Silently Correcting Your Grammar Text Art' Poster, picture, metal print, paint by Punfly | Displate",
+              "url": "https://displate.com/displate/9291252"
+            },
+            {
+              "title": "Free Grammar Checker – AI Grammar & Punctuation Check | Clever AI Humanizer",
+              "url": "https://cleverhumanizer.ai/grammar-checker"
+            },
+            {
+              "title": "I'm Silently Correcting Your Grammar Sticker • Flork Meme Sticker • Dark Chocolate Collection • Sarcastic Stickers • Die Cut Stickers - Etsy",
+              "url": "https://www.etsy.com/listing/1756182587/im-silently-correcting-your-grammar"
+            },
+            {
+              "title": "'I'm Silently Correcting Your Grammar Funny' Poster, picture, metal print, paint by Boualem Mustafa | Displate",
+              "url": "https://displate.com/displate/8464215"
+            },
+            {
+              "title": "I’m silently correcting your grammar. T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/i_m_silently_correcting_your_grammar_t_shirt-235253022562106978"
+            },
+            {
+              "title": "I am silently correcting your grammar shirt | Zazzle",
+              "url": "https://www.zazzle.com/i_am_silently_correcting_your_grammar_shirt-235543364636821030"
+            },
+            {
+              "title": "Silently Correcting Your Grammar - Office Desk Plate - Etsy",
+              "url": "https://www.etsy.com/listing/1045458425/silently-correcting-your-grammar-office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D05Q15",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"World’s okayest brother\"",
+          "time": "2026-09-26T19:11:21.314Z",
+          "rows": [
+            {
+              "title": "IN THE MA",
+              "url": "https://www.ipo.gov.uk/t-challenge-decision-results/o04619.pdf"
+            },
+            {
+              "title": "Dr. Palágyi Tivadar*",
+              "url": "https://www.sztnh.gov.hu/sites/default/files/files/kiadv/szkv/szemle-2019-5/kulfoldi-hirek.pdf"
+            },
+            {
+              "title": "Yes.",
+              "url": "https://www.reddit.com/r/aww/comments/fmg4js"
+            },
+            {
+              "title": "FOR CHARLES, WHO WILL DIE SOMEDAY",
+              "url": "https://new-cdn-origin.stage32.com/sites/stage32.com/files/assets/screenplay/574264/70997_1774487290.pdf"
+            },
+            {
+              "title": "World’s Okayest Brother – Brother Humor Tee with Dry, Understated Desi – KayWoot",
+              "url": "https://www.kaywoot.com/products/world-s-okayest-brother-brother-humor-tee"
+            },
+            {
+              "title": "Trenz Shirt Company World's Okayest Brother T Shirt – Funny Mens Sarcastic Sibling Tee, Gag Gift for Brother, Humorous Graphic Novelty Top-maroon-xxl - Walmart.com",
+              "url": "https://www.walmart.com/ip/134139161"
+            },
+            {
+              "title": "My sister bought me this ring with our birthstones for my birthday with a super sentimental message engraved on the inside",
+              "url": "https://www.reddit.com/r/funny/comments/fbviwr"
+            },
+            {
+              "title": "Trenz Shirt Company World's Okayest Brother T Shirt – Funny Mens Sarcastic Sibling Tee, Gag Gift for Brother, Humorous Graphic Novelty Top-military-6xl - Walmart.com",
+              "url": "https://www.walmart.com/ip/129462083"
+            },
+            {
+              "title": "World’s Okayest Brother Mug, Gift for Brother, Christmas Gift for Brother, Best Brother Mug, Custom Brother Gift, Custom Photo and Text Mug - Etsy",
+              "url": "https://www.etsy.com/listing/613750818/worlds-okayest-brother-mug-gift-for"
+            },
+            {
+              "title": "Funny Brother Mug: World's Okayest Brother - Sarcastic Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4321272200/funny-brother-mug-worlds-okayest-brother"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "World's Okayest Brother",
+          "time": "2026-09-26T19:11:21.510Z",
+          "rows": [
+            {
+              "title": "My sister bought me this ring with our birthstones for my birthday with a super sentimental message engraved on the inside",
+              "url": "https://www.reddit.com/r/funny/comments/fbviwr"
+            },
+            {
+              "title": "World's Okayest Sister - Brother T Shirt - Funny Gift for Sister - Sister Gift Tshirt - Birthday Gift - Christmas Gift - Soft V Neck Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/199229637/worlds-okayest-sister-brother-t-shirt"
+            },
+            {
+              "title": "World's okayest brother - Brother - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/15889787-worlds-okayest-brother"
+            },
+            {
+              "title": "Funny Brother Mug: World's Okayest Brother - Sarcastic Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4321272200/funny-brother-mug-worlds-okayest-brother"
+            },
+            {
+              "title": "World’s Best...",
+              "url": "https://www.reddit.com/r/thingsmykidsaid/comments/j6s61k"
+            },
+            {
+              "title": "Dr. Palágyi Tivadar*",
+              "url": "https://hipo.gov.hu/sites/default/files/files/kiadv/szkv/szemle-2019-5/kulfoldi-hirek.pdf"
+            },
+            {
+              "title": "World's Okayest Brother T-shirt | MakerPlace by Michaels",
+              "url": "https://www.michaels.com/makerplace/product/world%27s-okayest-brother-tshirt-286290317249282105"
+            },
+            {
+              "title": "\"World's okayest brother\" Classic T-Shirt by Jendrik1507 | Redbubble",
+              "url": "https://www.redbubble.com/i/t-shirt/World-s-okayest-brother-by-Jendrik1507/171719005/lrcw"
+            },
+            {
+              "title": "Trenz Shirt Company World's Okayest Brother T Shirt – Funny Mens Sarcastic Sibling Tee, Gag Gift for Brother, Humorous Graphic Novelty Top-lightpink-large - Walmart.com",
+              "url": "https://www.walmart.com/ip/107683220?conditionGroupCode=1&selectedOfferId=622A5FAC2FF946868BA48F0492EEBD89&selectedSellerId=1430&wmlspartner=wlpa"
+            },
+            {
+              "title": "World’s Okayest Brother Mug, Gift for Brother, Christmas Gift for Brother, Best Brother Mug, Custom Brother Gift, Custom Photo and Text Mug - Etsy",
+              "url": "https://www.etsy.com/listing/613750818/worlds-okayest-brother-mug-gift-for"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "black condensed three lines worlds okayest brother",
+          "time": "2026-09-26T19:11:21.719Z",
+          "rows": [
+            {
+              "title": "Worlds Okayest Brother | Mens Tall T-Shirt – Thunderous Threads Co",
+              "url": "https://www.thunderousthreadsco.com/products/worlds-okayest-brother-mens-tall-t-shirt"
+            },
+            {
+              "title": "Mens Worlds Okayest Brother Shirt Funny T shirts Big Brother Sister Gift Idea",
+              "url": "https://www.kohls.com/product/prd-8326533/mens-worlds-okayest-brother-shirt-funny-t-shirts-big-brother-sister-gift-idea.jsp?color=Black"
+            },
+            {
+              "title": "WorldS Okayest Brother Graphic T-Shirt | TShirtPalace",
+              "url": "https://tshirtpalace.com/products/worlds-okayest-brother-graphic-t-shirt_wob1527330-at"
+            },
+            {
+              "title": "TotallyTorn Worlds Okayest Brother Novelty Sarcastic Funny Mens Graphic T Shirts - Walmart.com",
+              "url": "https://www.walmart.com/ip/110144510"
+            },
+            {
+              "title": "Mens Worlds Okayest Brother Shirt Funny T shirts Big Brother Sister Gift Idea",
+              "url": "https://www.kohls.com/product/prd-8326533/mens-worlds-okayest-brother-shirt-funny-t-shirts-big-brother-sister-gift-idea.jsp?color=Heather+Royal"
+            },
+            {
+              "title": "Worlds Okayest Brother, Personalised Brother Gift, Funny Brother Gift Mug, Brother Birthday Gift, Funny Gifts for Brother Friends, Gift - Etsy",
+              "url": "https://www.etsy.com/listing/1577272022/worlds-okayest-brother-personalised"
+            },
+            {
+              "title": "TotallyTorn Worlds Okayest Brother Novelty Sarcastic Funny Mens Graphic T Shirts - Walmart.com",
+              "url": "https://www.walmart.com/ip/572138486"
+            },
+            {
+              "title": "World's Okayest Brother Funny Three Star Rating Sarcastic Typography - Funny Brother - Long Sleeve T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/long-sleeve-t-shirt/98515920-worlds-okayest-brother-funny-three-star-rating-sar"
+            },
+            {
+              "title": "BRISCO BRANDS Worlds Okayest Bro Sibling Brother Mens Graphic T Shirt Tees | SHEIN USA",
+              "url": "https://us.shein.com/Worlds-Okayest-Bro-Sibling-Brother-Mens-Graphic-T-Shirt-Tees-p-38873722.html"
+            },
+            {
+              "title": "World's Okayest Sister - Women's T-Shirt – m00nshot",
+              "url": "https://www.m00nshot.com/products/worlds-okayest-sister-womens-t-shirt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D05Q16",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"I’m hiding\"",
+          "time": "2026-09-26T19:13:34.778Z",
+          "rows": [
+            {
+              "title": "McGraw-Hill's Essential English Irregular Verbs (McGraw-Hill ESL References)",
+              "url": "https://mis.piass.ac.rw/librarian/applctDoc/885_English%20Irregular%20Verbs.pdf"
+            },
+            {
+              "title": "ACS Student Activities 3rd Grade Poetry Handbook",
+              "url": "https://s3.amazonaws.com/media.cloversites.com/14/14f77237-c2c2-4c0a-bfbd-3079616e18fc/documents/Grade_3_Poetry.pdf"
+            },
+            {
+              "title": "Fill in the blanks: I’m hiding ___.",
+              "url": "https://www.reddit.com/r/blanks/comments/1v2oznz/fill_in_the_blanks_im_hiding/"
+            },
+            {
+              "title": "Hiding Out In PGH | Doug Martines",
+              "url": "https://dougmartines.bandcamp.com/track/hiding-out-in-pgh?action=download"
+            },
+            {
+              "title": "And",
+              "url": "https://westsideacademy.org/wp-content/uploads/2019/11/poetry-3rd-grade.pdf"
+            },
+            {
+              "title": "I'M Gay! ! - I'M Gay! ! Poem by Becky Ginn",
+              "url": "https://www.poemhunter.com/poem/i-m-gay-2/"
+            },
+            {
+              "title": "A",
+              "url": "https://armadeiacademy.com/wp-content/uploads/2023/01/RMCCS-1st-Grade-.pdf"
+            },
+            {
+              "title": "Microsoft Word - Third and Fourth Grade.doc",
+              "url": "https://s3.amazonaws.com/scschoolfiles/236/rf44b_fourth_grade_poetry.pdf"
+            },
+            {
+              "title": "Hiding Live Acoustic | Sunflower Summit",
+              "url": "https://sunflowersummit.bandcamp.com/track/hiding-live-acoustic"
+            },
+            {
+              "title": "Hiding in His Love | Hymnary.org",
+              "url": "https://www.hymnary.org/text/i_was_lost_in_sin_long_an_exile_from_my_"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "I'm Hiding",
+          "time": "2026-09-26T19:13:34.993Z",
+          "rows": [
+            {
+              "title": "I'm Hiding - YouTube",
+              "url": "https://www.youtube.com/watch?v=RgXCaVTrAcI"
+            },
+            {
+              "title": "I'm Hiding - song and lyrics by Korn | Spotify",
+              "url": "https://open.spotify.com/track/5cC34hP5DxvsY6oZhGuJLz"
+            },
+            {
+              "title": "I'm Hiding - song and lyrics by Danny Kaye | Spotify",
+              "url": "https://open.spotify.com/track/34mSmowkKE8bAte7pD5hEH"
+            },
+            {
+              "title": "The Word \"Hide\" in Example Sentences - Page 1",
+              "url": "https://www.manythings.org/sentences/words/hide/1.html"
+            },
+            {
+              "title": "I'm Hiding - song and lyrics by Korn | Spotify",
+              "url": "https://open.spotify.com/track/4ORSdjbbVZGWNqMZXVbhLb"
+            },
+            {
+              "title": "And",
+              "url": "https://www.prestonwoodchristian.org/uploaded/photos/Speech_Meet_Resources/Poetry-3rd-Grade-1.pdf"
+            },
+            {
+              "title": "‎I'm Hiding - Song by Korn - Apple Music",
+              "url": "https://music.apple.com/us/song/271793172"
+            },
+            {
+              "title": "And",
+              "url": "https://annapolischristianacademy.com/wp-content/uploads/Poetry-3rd-Grade.pdf"
+            },
+            {
+              "title": "HIDING | definition in the Cambridge English Dictionary",
+              "url": "https://dictionary.cambridge.org/us/dictionary/english/hiding"
+            },
+            {
+              "title": "i’m hiding🤩 - video template by CapCut",
+              "url": "https://www.capcut.com/template-detail/i-m-hiding/7282643421699804418"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "camouflage shirt white distressed I’m hiding",
+          "time": "2026-09-26T19:13:34.655Z",
+          "rows": [
+            {
+              "title": "I'm Hiding Camo Men's Hunting Shirt, Funny Hunter Gift - Etsy Canada",
+              "url": "https://www.etsy.com/listing/619317563/im-hiding-camo-mens-hunting-shirt-funny"
+            },
+            {
+              "title": "Distressed White US Flag Black Camo T-Shirt",
+              "url": "https://harrysarmysurplus.net/products/distressed-white-us-flag-black-camo-t-shirt"
+            },
+            {
+              "title": "Mens Im Hiding Camo T Shirt Funny Sarcastic Military Hunting Novelty Dad Joke - Crazy Dog Men's T Shirt With Sarcastic Sayings Camo S : Target",
+              "url": "https://www.target.com/p/-/A-93770775"
+            },
+            {
+              "title": "Mama Distressed Camo Shirt - Trendy Checkered Graphic Tee - Camouflage T-Shirt for Mom Ivory Shirt Adult Small - Walmart.com",
+              "url": "https://www.walmart.com/ip/19966512227"
+            },
+            {
+              "title": "Retro Camo Western T-Shirt For Country Concerts And Daily Wear, Camouflage Shirt, Distressed Cowboy Quote Apparel Made In The USA | SHEIN USA",
+              "url": "https://us.shein.com/Retro-Camo-Western-T-Shirt-For-Country-Concerts-And-Daily-Wear%2C-Camouflage-Shirt%2C-Distressed-Cowboy-Quote-Apparel-Made-In-The-USA-p-567458698.html"
+            },
+            {
+              "title": "Darlin Retro Camo Country Distressed Cowboy Quote, Camouflage Shirt, Western Concert Shirt, Southern Tee Gift,Rodeo Outfits For Women Going Out Tops W | SHEIN USA",
+              "url": "https://us.shein.com/Darlin-Retro-Camo-Country-Distressed-Cowboy-Quote%2C-Camouflage-Shirt%2C-Western-Concert-Shirt%2C-Southern-Tee-Gift%2CRodeo-Outfits-For-Women-Going-Out-Tops-W-p-548038812.html"
+            },
+            {
+              "title": "Alstyle Apparel & Activewear | Shirts | Alstyle Camo Graphic Tshirt Mens Large Hiding From The Voices Funny Ringer Tee | Poshmark",
+              "url": "https://poshmark.com/listing/Alstyle-Camo-Graphic-TShirt-Mens-Large-Hiding-From-The-Voices-Funny-Ringer-Tee-6a92d3b609df51afde198059"
+            },
+            {
+              "title": "Distressed Camo Layered Tee — Premium Streetwear | VAJAVU – VAJAVU",
+              "url": "https://vajavu.com/products/distressed-camo-layered-tee"
+            },
+            {
+              "title": "Mens Im Hiding Camo T Shirt Funny Sarcastic Military Hunting Novelty Dad Joke Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/197920545"
+            },
+            {
+              "title": "Mens Im Hiding Camo T Shirt Funny Sarcastic Military Hunting Novelty Dad Joke Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/276147740"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D06Q01",
+      "runs": [
+        {
+          "id": "W1",
+          "q": "\"Rise soar thrive\"",
+          "time": "2026-09-26T19:18:11.921Z",
+          "rows": [
+            {
+              "title": "Pinnacle Peer Services — Rise. Soar. Thrive.",
+              "url": "https://pinnaclepeerservices.com/"
+            },
+            {
+              "title": "Trail Emblem Back Print Hoodie | AukCliff – AukCliff®",
+              "url": "https://aukcliff.com/products/trail-emblem-hoodie"
+            },
+            {
+              "title": "A. A. ADDICO - DuPont Circle Pharmacy | LinkedIn",
+              "url": "https://www.linkedin.com/in/a-a-addico-a153b8aa"
+            },
+            {
+              "title": "SOAR Home page",
+              "url": "https://www.getsoaring.com/"
+            },
+            {
+              "title": "MSLDP 25.2 Cohort Mark II - Tony",
+              "url": "https://static1.squarespace.com/static/66bd1da251482915e63a3a63/t/689bc7ccd8e3750620c0ae18/1755039692813/MSLDP%2B25.2%2BCohort%2BMark%2BII%2B-%2BTony%2B.pdf"
+            },
+            {
+              "title": "WinTrove.com is for sale",
+              "url": "https://brandentrance.com/name/WinTrove.com?qid=517a53f35591adb8eb6cdf53a8ba0285"
+            },
+            {
+              "title": "THRIVE Care Navigator | Denver Health",
+              "url": "https://dh-prod.viewsite.link/for-professionals/clinical-specialties/behavioral-health/thrive-care-navigator"
+            },
+            {
+              "title": "University Communications & Marketing – EMSS - Georgia Southern University",
+              "url": "https://www.georgiasouthern.edu/offices/communications-marketing"
+            },
+            {
+              "title": "Katrina Gainey, LCSW",
+              "url": "https://phoenixrisingcg.com/katrina-gainey%2C-lcsw"
+            },
+            {
+              "title": "S.O.A.R. Hospitality and Travel YLC, Inc.",
+              "url": "https://www.letssoarnj.org/"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Coastal Waves",
+          "time": "2026-09-26T19:18:12.354Z",
+          "rows": [
+            {
+              "title": "The California Surf Spot With Epic Waves-and Rusty Metal Spikes",
+              "url": "https://www.wsj.com/us-news/the-california-surf-spot-with-epic-wavesand-rusty-metal-spikes-f1159b30"
+            },
+            {
+              "title": "What causes ocean waves? - NOAA Ocean Exploration",
+              "url": "https://oceanexplorer.noaa.gov/ocean-fact/waves/"
+            },
+            {
+              "title": "Coastal Processes—Waves (U.S. National Park Service)",
+              "url": "https://home.nps.gov/articles/coastal-processes-waves.htm"
+            },
+            {
+              "title": "Coastal Waters Forecasts With Wave Detail",
+              "url": "https://www.weather.gov/marine/WaveDetail"
+            },
+            {
+              "title": "Coastal Waves - Minecraft Mods - CurseForge",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/coastal-waves"
+            },
+            {
+              "title": "Waves - Currents: NOAA's National Ocean Service Education",
+              "url": "https://oceanservice.noaa.gov/education/tutorial_currents/03coastal1.html?referer=www.cuteslator.com"
+            },
+            {
+              "title": "How frequent are tides?",
+              "url": "https://oceanservice.noaa.gov/facts/tidefrequency.html"
+            },
+            {
+              "title": "Coastal Processes—Erosion (U.S. National Park Service)",
+              "url": "https://www.nps.gov/articles/coastal-processes-erosion.htm"
+            },
+            {
+              "title": "Why does the ocean have waves?",
+              "url": "https://oceanservice.noaa.gov/facts/wavesinocean.html?sm_guid=nzkzotgxfdy0ndkynjuwfc0xfgj5cm5lyw5kqgdtywlslmnvbxw3mzy2mdyxfhwwfdb8mji4otg4ndqxfdewodb8mhwwfhw3odg3mzj8ma20xfgj5cm5lyw5kqgdtywlslmnvbxw3mzy2mdyxfhwwfdb8mji4otg4ndqxfdewodb8mhwwfhw3odg3mzj8ma2"
+            },
+            {
+              "title": "Coastal Processes—Near-Shore Currents (U.S. National Park Service)",
+              "url": "https://www.nps.gov/articles/coastal-processes-currents.htm"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "white line art ocean wave red sun rectangular clouds",
+          "time": "2026-09-26T19:18:12.183Z",
+          "rows": [
+            {
+              "title": "ORIGINAL- 4\" X 6\" Sun & Waves Line Drawing Illustration W/ Wood Frame - Etsy",
+              "url": "https://www.etsy.com/listing/936277214/original-4-x-6-sun-waves-line-drawing"
+            },
+            {
+              "title": "Watching waves | Home Fine Art Print | KreativkDesigns Artist shop",
+              "url": "https://www.threadless.com/shop/%40kreativkollektiv/design/watching-waves"
+            },
+            {
+              "title": "Japanese wave wallpaper mural | Dramatic Red Sun and Clouds — Carve Wallpaper",
+              "url": "https://www.carvewallpaper.com/collections/japanese-mural-wallpaper/products/japanese-wave-wallpaper-mural-red-sun-and-white-clouds-behind"
+            },
+            {
+              "title": "Japanese Ocean Waves Wall Art | Red Sun Print – SAMILA HOME",
+              "url": "https://samilahome.com/products/japanese-style-ocean-waves-wall-art-red-sun-print-illustrative-art"
+            },
+            {
+              "title": "Download Stylized Ocean Waves with Red Sun Patterns Online - Creative Fabrica",
+              "url": "https://www.creativefabrica.com/prod/stylized-ocean-waves-with-red-sun-patterns-IBVB5n3mq/"
+            },
+            {
+              "title": "Japanese Wave Sun Postcard Printable, Red Sun Ocean Art Card, Minimalist Japanese Design, 4x6 Printable, Instant Download, Hokusai Style - Etsy",
+              "url": "https://www.etsy.com/listing/4494778820/japanese-wave-sun-postcard-printable-red"
+            },
+            {
+              "title": "Japanese Woodblock Canvas Print, Red Sun Over Ocean Waves Wall Art, Ready to Hang - Etsy",
+              "url": "https://www.etsy.com/listing/4409756490/japanese-woodblock-canvas-print-red-sun"
+            },
+            {
+              "title": "Red Paper Boat Line Art Print, Stormy Ocean Waves Nautical Illustration (digital Download) - Etsy",
+              "url": "https://www.etsy.com/listing/4517203773/red-paper-boat-line-art-print-stormy"
+            },
+            {
+              "title": "Wave Wall Art – Japanese Line Red Sun Ocean Minimal Japandi Design, Digital Download - Etsy",
+              "url": "https://www.etsy.com/listing/4444799988/wave-wall-art-japanese-line-red-sun"
+            },
+            {
+              "title": "Ocean Asia Inspired Line Wave Patterns Stock Vector (Royalty Free) 2685259287 | Shutterstock",
+              "url": "https://www.shutterstock.com/image-vector/ocean-asia-inspired-line-wave-patterns-2685259287"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "supplements": [
+    {
+      "key": "d05q16supp",
+      "q": "\"I’m hiding\" camouflage t shirt",
+      "time": "2026-09-26T19:14:35.900Z",
+      "rows": [
+        {
+          "title": "Urban Pipeline Boys Size L “Yes, I’m Hiding from You” Camouflage Graphic T-shirt | eBay",
+          "url": "https://www.ebay.com/itm/285756006643"
+        },
+        {
+          "title": "American Vintage | Shirts | Y2k Camo Ringer Tee | Poshmark",
+          "url": "https://poshmark.com/listing/Y2K-Camo-Ringer-Tee-6aa423f8ce5b0a42af949d46"
+        },
+        {
+          "title": "Im Hiding T-Shirts for Sale | TeePublic",
+          "url": "https://www.teepublic.com/t-shirts/im-hiding"
+        },
+        {
+          "title": "Urban Pipeline Boys Brown Tops, Shirts & T-Shirts for Boys for sale | eBay",
+          "url": "https://www.ebay.com/b/Urban-Pipeline-Boys-Brown-Tops-Shirts-T-Shirts-for-Boys/260966/bn_109304507"
+        },
+        {
+          "title": "Urban Pipeline Boys Brown Tops, Shirts & T-Shirts for Boys for sale | eBay",
+          "url": "https://www.ebay.ca/b/Urban-Pipeline-Boys-Brown-Tops-Shirts-T-Shirts-for-Boys/260966/bn_109304507"
+        },
+        {
+          "title": "Stop Looking at Me I’m Hiding - Stop Looking At Me Im Hiding - T-Shirt | TeePublic",
+          "url": "https://www.teepublic.com/t-shirt/83375919-stop-looking-at-me-i-m-hiding"
+        },
+        {
+          "title": "Stop Looking At Me I’m Hiding T-Shirt | Funny Shy Humor Tee | Introvert Mood Shirt - Stop Looking At Me Im Hiding - Bag | TeePublic",
+          "url": "https://www.teepublic.com/bag/83612175-stop-looking-at-me-i-m-hiding-t-shirt-funny-shy-hu"
+        },
+        {
+          "title": "PRAISE FOR JERRY Jay CARROLL",
+          "url": "https://booklife.com/download-excerpt/binary-data/PROJECT/excerpt/000/025/25137-1.pdf"
+        },
+        {
+          "title": "Vintage Skateboard T Shirt XL | eBay",
+          "url": "https://www.ebay.com/itm/206176078236"
+        },
+        {
+          "title": "All Who Wander Shirt | Not All Who Wander are Lost I'm Hiding From Stupid People Shirt | CubeBik",
+          "url": "https://www.cubebik.com/shop/all-who-wander-shirt-not-all-who-wander-are-lost-im-hiding-from-stupid-people-t-shirt-v-neck-shirt-funny-hiking-camping-lover-gift/"
+        }
+      ]
+    },
+    {
+      "key": "d06q01supp",
+      "q": "\"wave\" \"red sun\" \"line art\" t-shirt",
+      "time": "2026-09-26T19:19:23.711Z",
+      "rows": [
+        {
+          "title": "Hokkaido Wave T-shirt – Japanese Wave Art Minimalist Black Graphic Tee - Etsy",
+          "url": "https://www.etsy.com/listing/4429164046/hokkaido-wave-t-shirt-japanese-wave-art"
+        },
+        {
+          "title": "Liam Warr | Official Merch Store",
+          "url": "https://liamwarr.dashery.com/"
+        },
+        {
+          "title": "T-Shirts | Liam Warr",
+          "url": "https://liamwarr.dashery.com/t-shirts"
+        },
+        {
+          "title": "Bold Minimalist Summer Sunset and Ocean Wave Art with Red Sun and Contemporary Japanese Line Art for Women's women T-women's Shirt | SHEIN USA",
+          "url": "https://us.shein.com/Bold-Minimalist-Summer-Sunset-And-Ocean-Wave-Art-With-Red-Sun-And-Contemporary-Japanese-Line-Art-For-Women-s-Women-T-Women-s-Shirt-p-53596225.html"
+        },
+        {
+          "title": "Abstract-wave-line T-Shirts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/abstract-wave-line%2Bt-shirts"
+        },
+        {
+          "title": "Japanese Wave Print — Red Sun Black Line Art Minimalist Poster - Etsy",
+          "url": "https://www.etsy.com/listing/4494080797/japanese-wave-print-red-sun-black-line"
+        },
+        {
+          "title": "Sun-wave T-Shirts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/sun-wave%2Bt-shirts"
+        },
+        {
+          "title": "Vintage Joan Miro Art T-Shirt 90s The Red Sun Men Size L White | eBay",
+          "url": "https://www.ebay.com/itm/336244158295"
+        },
+        {
+          "title": "Retro Sun Wave Tee - Etsy - Page 5",
+          "url": "https://www.etsy.com/market/retro_sun_wave_tee?page=5"
+        },
+        {
+          "title": "Wave Wall Art – Japanese Line Red Sun Ocean Minimal Japandi Design, Digital Download - Etsy",
+          "url": "https://www.etsy.com/listing/4444799988/wave-wall-art-japanese-line-red-sun"
+        }
+      ]
+    }
+  ]
+}
