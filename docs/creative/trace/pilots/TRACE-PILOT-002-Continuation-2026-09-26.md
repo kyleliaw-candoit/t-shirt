@@ -103,3 +103,19 @@ Three DTC stores now close with one eligible family each: Boredwalk Support Your
 Controlling register totals: 29 candidate decisions (3 ELIGIBLE, 22 IP-QUARANTINE, 4 IP-EXCLUDED); 160 completed required searches plus 14 no-text N/A runs; 1,521 organic result records. Etsy remains closed with zero selected families; Amazon remains blocked. DTC S04–S12 remain unfinished. No expression-family IDs or SDCs assigned before final platform selection closure.
 
 Append-only register-prefix, run-ID uniqueness and per-run result-count checks pass. Frozen methodology remains unchanged. Next: S04 Solid Threads queue 1; continue store order through closure, then first five SDCs and independent calibration review if at least five families remain eligible.
+
+## DTC S04 in-progress checkpoint — 2026-09-26T18:30Z
+
+Solid Threads queue 1–8 now have controlling IP-QUARANTINE decisions: F Bombs, Bad Ass, Take It Slow, What's Crackin, Whiskey Helps, Jesus Is My Lift Ticket, Boozehound Brewing Co., and Photosynthesis Is Fun. Each supplement records six mandatory searches and concrete comparison evidence. Shared ordinary phrases, religious subjects, and animal themes alone are not decision bases. Different illustrations are distinguished from exact artwork recurrence; resale attribution remains unresolved where not documented.
+
+Register totals: 37 decisions (3 ELIGIBLE, 30 IP-QUARANTINE, 4 IP-EXCLUDED); 208 completed required searches, 14 no-text N/A runs, and 1,980 result records. Explicit native exhaustion is recorded for short result sets. Append-only prefix, unique run IDs, result counts and whitespace checks pass. Frozen method blob remains e6ce1dac883877455a4e915251821f4997006bbc.
+
+S04 is not closed. Resume at queue 9, raw rank 11, Slow Down. Then continue its captured queue to first eligible family or exhaustion, followed by S05–S12. No EF IDs, SDCs or final sample-sufficiency outcome yet.
+
+## S04 closure and S05 queue 1–5 checkpoint — 2026-09-26T18:46Z
+
+S04 now closes with Slow Down at raw rank 11 / queue 9, ELIGIBLE with MEDIUM research provenance and item-specific nonzero-sales corroboration. Its supplement distinguishes generic phrase/coastal motifs from the unobserved specific integrated O/palm/rainbow wordmark recurrence. Later S04 candidates are not reached.
+
+S05 Crazy Dog queue 1–5 close IP-QUARANTINE after all six searches each and direct representative comparisons: Ninja Disguise Flip, Arm Is In A Cast, Horrible Idea What Time, Fitness Taco, and Body Like This Who Needs Hair. Distinct drawings/layouts are recorded; no exact-copy or infringement claims made. Item-review headers are kept separate from generic store testimonials. No downstream support assigned.
+
+Controlling register: 43 decisions (4 ELIGIBLE, 35 IP-QUARANTINE, 4 IP-EXCLUDED), 244 completed required searches plus 14 N/A slots, 2,314 organic results. Append-only prefix, run uniqueness and per-run result count checks pass. S05 remains open at queue 6, Of Course I Talk To Myself, I Need Expert Advice. Continue S05 to first eligible/exhaustion, then S06–S12 before EF assignment and five-card creation. Methodology remains frozen.

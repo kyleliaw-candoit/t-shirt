@@ -1,0 +1,402 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D04Q07",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Booze Hound\" \"Brewing Co\"",
+      "time": "2026-09-26T18:25:08.854Z",
+      "rows": [
+        {
+          "title": "The Booze Hound - Chicago, IL - Venue Photos - Untappd",
+          "url": "https://untappd.com/v/the-booze-hound/4987642/photos",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://oregonnews.uoregon.edu/lccn/2024240314/2014-09-25/ed-1/seq-24.pdf",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Buy Australian Online | Delivered in 30 Mins | Booze Hound",
+          "url": "https://boozehound.com.au/shop/beer-and-cider/australian",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Brewing Co Tapestries for Sale | TeePublic",
+          "url": "https://www.teepublic.com/tapestries/brewing-co",
+          "match": "UNCERTAIN",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Booze Hound | Online Wine Store | shop",
+          "url": "https://boozehound.com.au/shop/beer-and-cider/australian/%26pageNo%3D2%26sortBy%3D%26q%3D",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Full Time IPA by Beau's All Natural Brewing co, a Review - Toronto Booze Hound",
+          "url": "https://torontoboozehound.com/full-time-ipa-beaus-natural-brewing-co-review/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Brewing Co Shorts for Sale | TeePublic",
+          "url": "https://www.teepublic.com/shorts/brewing-co",
+          "match": "UNCERTAIN",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "SHORT ORDER",
+          "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/92/21/00048/07-05-2012.pdf",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Brewing Co Pillows for Sale | TeePublic",
+          "url": "https://www.teepublic.com/throw-pillows/brewing-co",
+          "match": "UNCERTAIN",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "News — Friends Of Schurz",
+          "url": "https://www.friendsofschurz.org/news",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Boozehound Brewing Co",
+      "time": "2026-09-26T18:25:08.596Z",
+      "rows": [
+        {
+          "title": "Introducing Boozehound Barrel Aged Old Fashioned Ale! • Modist Brewing",
+          "url": "https://modistbrewing.com/introducing-boozehound-barrel-aged-old-fashioned-ale/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "BoozeHound Brewers - United States - Beers List | Untappd",
+          "url": "https://untappd.com/BoozeHoundBrewers/beer",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Boozehound | Modist Brewing Co. | BeerAdvocate",
+          "url": "https://www.beeradvocate.com/beer/profile/43654/417582/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Modist Brewing Boozehound: A Deep Dive into Minnesota’s Iconic Barrel-Aged Imperial Stout | Glass & Note",
+          "url": "https://glassandnote.com/spirits/modist-brewing-boozehound",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Boozehound Brewing Co T-Shirt // Navy (M) - Solid Threads - Touch of Modern",
+          "url": "https://supplier.touchofmodern.com/sales/solid-threads/boozehound-brewing-co-t-shirt-navy-7f1a19bd-3e45-4eca-9296-628e80a0c111",
+          "match": "YES",
+          "note": "Explicit Solid Threads reseller attribution; not independent creator evidence."
+        },
+        {
+          "title": "FAQs – Beer Hound Brewery",
+          "url": "https://beerhoundbrewerycom.wordpress.com/faqs/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Rye I Oughta IPA - BoozeHound Brewers - Untappd",
+          "url": "https://untappd.com/b/boozehound-brewers-rye-i-oughta-ipa/1000533",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Boozehound Brown | Hideout Brewing Company | BeerAdvocate",
+          "url": "https://www.beeradvocate.com/beer/profile/11341/115172/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "The Booze Hound - Chicago, IL - Untappd",
+          "url": "https://untappd.com/v/the-booze-hound/4987642",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Hound Song Brewing Co. – Colorado County's Original Craft Brewery",
+          "url": "https://houndsongbrewing.com/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "bloodhound dog head circular brewery emblem booze hound",
+      "time": "2026-09-26T18:25:08.749Z",
+      "rows": [
+        {
+          "title": "2017PRESIDENT’S MESSAGEA",
+          "url": "https://www.americanbloodhoundclub.org/wp-content/uploads/2015/01/ABCNLMay2017V22I3e.pdf",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Hi Everyone,If you haven’t already, please make sure to get your national plans booked.  The hotel has opened",
+          "url": "https://www.americanbloodhoundclub.org/wp-content/uploads/2015/01/ABCNLJuly2015V20I3e.pdf",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://www.sjlgraphics.art/portfolio",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Basset Hound Beer Bar Sign, in Dog Beers, Funny Handmade Metal Tin, Home Bar Dog Decor, Man Cave Wall Art, Gift for Dad Plaque, Mom Sign - Etsy",
+          "url": "https://www.etsy.com/listing/1864743614/basset-hound-beer-bar-sign-in-dog-beers",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "I'M A BEER HOUND, BH, A LOVE AFFAIR WITH BEER Trademark of Starr, Paul - Registration Number 4199079 - Serial Number 85125534 :: Justia Trademarks",
+          "url": "https://trademarks.justia.com/851/25/i-m-a-beer-hound-bh-a-love-affair-with-85125534.html",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "The complete book of the dog",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_complete_book_of_the_dog_%28IA_completebookofdo00leig%29.pdf",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Shop Boozehound Brewing Graphic T-shirts | Vintage Drinking Apparel - Solid Threads",
+          "url": "https://solidthreads.com/collections/boozehound-brewing-vintage-drinking-graphic-tees",
+          "match": "YES",
+          "note": "Same-source design family."
+        },
+        {
+          "title": "The Hound Illustrated Logo - Event Illustrations by Jo Bird",
+          "url": "https://www.jo-bird.co.uk/portfolio-items/the-hound-illustrated-logo/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Black and white vector logo featuring a stylized snarling dog head in a circle, with the text 'BOOZE HOUNDS' below. on Craiyon",
+          "url": "https://www.craiyon.com/en/image/nErUEF5QTrScfHA4bUYemw",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        },
+        {
+          "title": "Pints debut at Baying Hound Aleworks in Rockville - The Washington Post",
+          "url": "https://www.washingtonpost.com/news/going-out-guide/wp/2014/03/28/pints-debut-at-baying-hound-aleworks-in-rockville/",
+          "match": "NO",
+          "note": "Other dog, brewery or same-name context; candidate artwork not established from search entry."
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Booze Hound\" \"Brewing Co\"",
+      "time": "2026-09-26T18:25:32.977Z",
+      "url": "https://solidthreads.com/search?q=%22Booze%20Hound%22%20%22Brewing%20Co%22",
+      "engine": "Solid Threads native browser",
+      "status": "EXHAUSTED-LT10",
+      "notes": "Explicit native counts 0/11/21. Titles abbreviated as slugs; first ten where available.",
+      "rows": []
+    },
+    {
+      "id": "N2",
+      "q": "Boozehound Brewing Co",
+      "time": "2026-09-26T18:25:48.145Z",
+      "url": "https://solidthreads.com/search?q=Boozehound%20Brewing%20Co",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "Explicit native counts 0/11/21. Titles abbreviated as slugs; first ten where available.",
+      "rows": [
+        {
+          "title": "boozehound brewing co t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co organic cotton t shirt vintage drinking tee",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-organic-cotton-t-shirt-vintage-drinking-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co vintage wash pullover hoodie vintage drinking fleece",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-vintage-wash-pullover-hoodie-vintage-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing graphic baseball tee funny drinking raglan t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-graphic-baseball-tee-funny-drinking-raglan-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co midweight pullover hoodie vintage drinking fleece",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-midweight-pullover-hoodie-vintage-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co vintage staple graphic tee",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-vintage-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing company graphic v neck tee funny drinking t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-company-graphic-v-neck-tee-funny-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing company graphic tank top funny drinking sleeveless shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-company-graphic-tank-top-funny-drinking-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co long sleeve graphic tee retro drinking t shirt 1",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-long-sleeve-graphic-tee-retro-drinking-t-shirt-1",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "unisex boozehound vintage inspired pullover hoodie with cool retro dog brewery graphic",
+          "url": "https://solidthreads.com/products/unisex-boozehound-vintage-inspired-pullover-hoodie-with-cool-retro-dog-brewery-graphic",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "bloodhound dog head circular brewery emblem booze hound",
+      "time": "2026-09-26T18:26:02.162Z",
+      "url": "https://solidthreads.com/search?q=bloodhound%20dog%20head%20circular%20brewery%20emblem%20booze%20hound",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "Explicit native counts 0/11/21. Titles abbreviated as slugs; first ten where available.",
+      "rows": [
+        {
+          "title": "boozehound brewing co t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing company graphic tank top funny drinking sleeveless shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-company-graphic-tank-top-funny-drinking-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co vintage staple graphic tee",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-vintage-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co organic cotton t shirt vintage drinking tee",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-organic-cotton-t-shirt-vintage-drinking-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing company graphic v neck tee funny drinking t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-company-graphic-v-neck-tee-funny-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing graphic baseball tee funny drinking raglan t shirt",
+          "url": "https://solidthreads.com/products/boozehound-brewing-graphic-baseball-tee-funny-drinking-raglan-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co long sleeve graphic tee retro drinking t shirt 1",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-long-sleeve-graphic-tee-retro-drinking-t-shirt-1",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co midweight pullover hoodie vintage drinking fleece",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-midweight-pullover-hoodie-vintage-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "boozehound brewing co vintage wash pullover hoodie vintage drinking fleece",
+          "url": "https://solidthreads.com/products/boozehound-brewing-co-vintage-wash-pullover-hoodie-vintage-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "beer run graphic t shirt funny mug race tee",
+          "url": "https://solidthreads.com/products/beer-run-graphic-t-shirt-funny-mug-race-tee",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Different same-source beer design."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://solidthreads.com/products/boozehound-brewing-co-t-shirt",
+    "observed_at": "2026-09-26T18:25Z",
+    "visual": "Distressed circular gold/orange emblem, BOOZE HOUND arched above left-facing bloodhound head, BREWING CO. below, small script either side and grain/hop decoration below dog.",
+    "nonzero_sales_corroboration": "YES",
+    "sales_basis": "16 exact-item reviews; Jon Shop verified May 25 2024 and Jon L verified May 24 2024. Header 52 ignored.",
+    "exposure_confounder": "Native image explicitly shows Mac wearing it on Always Sunny. This is exposure, not automatically franchise content.",
+    "supplemental_query": "\"Boozehound Brewing\" shirt",
+    "comparisons": {
+      "zazzle.com/boozehound_brewing_co_t_shirt-256537292532636208": "Directly viewed Drew_Viva listing repeats same circular emblem, gold/orange palette, dog portrait and surrounding wording/ornament. No relationship to Solid Threads established.",
+      "touchofmodern": "Explicitly branded Solid Threads reseller; same commercial source, not unrelated recurrence."
+    }
+  },
+  "decision": {
+    "obs": "TRACE-P002-OBS-DTC-S04-09",
+    "disposition": "IP-QUARANTINE",
+    "confidence": "UNRESOLVED",
+    "basis": "Six mandatory searches complete, exact native wording explicitly exhausted at zero. Supplemental apparel search and direct Zazzle Drew_Viva inspection confirm materially matching dog-head brewery emblem and lettering. Source/creator chain across sellers unresolved. Same-name breweries alone are not basis; attributed Solid Threads reseller excluded from independent recurrence.",
+    "recurrence": "YES",
+    "limitations": "No infringement or publication priority finding. Continue same-store Q8 raw rank 10 Photosynthesis Is Fun."
+  }
+}

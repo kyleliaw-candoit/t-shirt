@@ -1,0 +1,472 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D04Q05",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Whiskey Helps\"",
+      "time": "2026-09-26T18:20:06.323Z",
+      "rows": [
+        {
+          "title": "‎Whiskey Helps - Song by Jake Slay - Apple Music",
+          "url": "https://music.apple.com/us/song/1716843480",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Whiskey Helps - Podcast - Apple Podcasts",
+          "url": "https://podcasts.apple.com/us/podcast/whiskey-helps/id1252858261",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Whiskey Helps | Podcast on Spotify",
+          "url": "https://open.spotify.com/show/1FhSoTQtQBlfauaSkxe24c",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "‎Whiskey Helps the Sun Go Down - Single - Album by Looch Lewis & The Press Gangsters - Apple Music",
+          "url": "https://music.apple.com/us/album/whiskey-helps-the-sun-go-down-single/1683260907",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Mildred Halzey",
+          "url": "https://digitalcollections.northern.edu/digital/api/collection/oralhistories/id/512/download",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Ohio State Racing Commission",
+          "url": "https://dam.assets.ohio.gov/image/upload/v1730731593/racing.ohio.gov/Breeders%20Awards%20-%20TB/Broodmare%20Awards/rptBroodMareAward_-_2024-11-01T145416.553.pdf",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Upcoming Events",
+          "url": "https://nnca.org/wp-content/uploads/2023/11/NWNNCA-26.1-2021-Fall.pdf",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Ohio State Racing Commission",
+          "url": "https://dam.assets.ohio.gov/image/upload/v1737128822/racing.ohio.gov/Breeders%20Awards%20-%20TB/Broodmare%20Awards/rptBroodMareAward_-_2025-01-13T100918.078.pdf",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Whiskey Helps | Trey Pendley Lyrics, Meaning & Videos",
+          "url": "https://sonichits.com/video/Trey_Pendley/Whiskey_Helps",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Ohio State Racing Commission",
+          "url": "https://dam.assets.ohio.gov/image/upload/v1710422918/racing.ohio.gov/Broodmare%20Awards/year_end_Broodmare_awards_2022.pdf",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Whiskey Helps",
+      "time": "2026-09-26T18:20:06.611Z",
+      "rows": [
+        {
+          "title": "Whiskey: Are There Health Benefits? Pros and Cons, Nutrition, and More",
+          "url": "https://www.webmd.com/diet/whiskey-good-for-you",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Why Whiskey Won't Help Ease Your Cold Symptoms",
+          "url": "https://www.verywellhealth.com/does-whiskey-help-a-cold-11684222",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "About Standard Drink Sizes | Alcohol Use | CDC",
+          "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/index.html",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Will Whiskey Help a Cold? Myths and Facts for Cold Remedies",
+          "url": "https://www.healthline.com/health/cold-and-flu/will-whiskey-help-with-a-cold",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Whiskey for a Cold: The Truth About What Actually Helps",
+          "url": "https://strategies.beer/spirits-liquor/whiskey-cold-truth-actually-helps/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Is a Shot of Whiskey Actually Good for You? - ScienceInsights",
+          "url": "https://scienceinsights.org/is-a-shot-of-whiskey-actually-good-for-you/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Is Whiskey Good for Your Health? - eMediHealth",
+          "url": "https://www.emedihealth.com/nutrition/whiskey-and-health",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "‎Whiskey Helps - Song by Jake Slay - Apple Music",
+          "url": "https://music.apple.com/us/song/1716843480",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Can Liquor Help A Cold? What Evidence Shows - Acibadem Hospitals Group",
+          "url": "https://acibademinternational.com/health-library/can-liquor-help-a-cold-here-is-what-the-evidence-says/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Can Alcohol Dehydrate You? How and Why",
+          "url": "https://health.clevelandclinic.org/does-alcohol-dehydrate-you",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "whiskey helps two line slanted script lettering",
+      "time": "2026-09-26T18:20:06.448Z",
+      "rows": [
+        {
+          "title": "Letters & lettering; a treatise with 200 examples",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Letters_%26_lettering%3B_a_treatise_with_200_examples_%28IA_letterslettering00browiala%29.pdf",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Stylenoir Script - slanted",
+          "url": "https://www.slanted.de/stylenoir-script/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Learn the Basics of Script Lettering | Domestika",
+          "url": "https://www.domestika.org/en/blog/4488-learn-the-basics-of-script-lettering",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Feedback appreciated! This is a branding project I’m working on for an infused whiskey company. It’s meant to be an alternative to the traditional style whiskey brand. I’m struggling with the lettering. Not sure if it just needs to be thicker. Any feedback would be great! Thanks",
+          "url": "https://www.reddit.com/r/WillPatersonDesign/comments/10fpia9",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "What are guidelines and how to make them?",
+          "url": "https://www.bombaylettering.com/post/what-are-guidelines-and-how-to-make-them",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Proportional Lettering: 5 Guideline Tips – Fountain Pen Revolution",
+          "url": "https://fprevolutionusa.com/blogs/news/proportional-lettering-guidelines",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "SLF Melody – Slanted Single Line Script for Foil Quill & Engraving – Single Line Fonts",
+          "url": "https://www.singlelinefonts.com/products/single-line-font-melody",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Fine Line Lettering Tattoo: She's Chic Without Trying · Naive Flora Tattoo",
+          "url": "https://www.naivefloratattoo.com/fine-line-lettering-tattoo-bangkok/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Slanted Boat Lettering | CustomVinylLettering.net",
+          "url": "https://customvinyllettering.net/boat/names/slanted-boat-lettering/",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        },
+        {
+          "title": "Mixed Drink Duo",
+          "url": "https://fontbundles.net/on-the-spot-studio/276879-mixed-drink-duo",
+          "match": "NO",
+          "note": "Unrelated wording or lettering context; no candidate graphic established. Song/podcast names alone do not establish candidate dependency."
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Whiskey Helps\"",
+      "time": "2026-09-26T18:20:27.773Z",
+      "url": "https://solidthreads.com/search?q=%22Whiskey%20Helps%22",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 20/52/190. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps vintage wash pullover hoodie cool drinking fleece",
+          "url": "https://solidthreads.com/products/whiskey-helps-vintage-wash-pullover-hoodie-cool-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps midweight pullover hoodie cool drinking fleece",
+          "url": "https://solidthreads.com/products/whiskey-helps-midweight-pullover-hoodie-cool-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps cool staple graphic tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-cool-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps long sleeve graphic tee vintage drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-long-sleeve-graphic-tee-vintage-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps graphic v neck tee funny drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-v-neck-tee-funny-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "womens whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/womens-whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps organic cotton t shirt cool drinking tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-organic-cotton-t-shirt-cool-drinking-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "irish whiskey helps graphic tank top funny irish sleeveless shirt",
+          "url": "https://solidthreads.com/products/irish-whiskey-helps-graphic-tank-top-funny-irish-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Same-source wording variant adds Irish."
+        },
+        {
+          "title": "irish whiskey helps graphic v neck tee funny irish t shirt",
+          "url": "https://solidthreads.com/products/irish-whiskey-helps-graphic-v-neck-tee-funny-irish-t-shirt",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Same-source wording variant adds Irish."
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "Whiskey Helps",
+      "time": "2026-09-26T18:20:42.284Z",
+      "url": "https://solidthreads.com/search?q=Whiskey%20Helps",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 20/52/190. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps cool staple graphic tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-cool-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps graphic v neck tee funny drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-v-neck-tee-funny-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps vintage wash pullover hoodie cool drinking fleece",
+          "url": "https://solidthreads.com/products/whiskey-helps-vintage-wash-pullover-hoodie-cool-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps midweight pullover hoodie cool drinking fleece",
+          "url": "https://solidthreads.com/products/whiskey-helps-midweight-pullover-hoodie-cool-drinking-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps organic cotton t shirt cool drinking tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-organic-cotton-t-shirt-cool-drinking-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps long sleeve graphic tee vintage drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-long-sleeve-graphic-tee-vintage-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps graphic tank top funny drinking sleeveless shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-tank-top-funny-drinking-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "womens whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/womens-whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps graphic baseball tee vintage drinking raglan t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-baseball-tee-vintage-drinking-raglan-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "whiskey helps two line slanted script lettering",
+      "time": "2026-09-26T18:20:52.957Z",
+      "url": "https://solidthreads.com/search?q=whiskey%20helps%20two%20line%20slanted%20script%20lettering",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 20/52/190. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "irish whiskey helps vintage inspired tee shirt with cool st paddys graphic",
+          "url": "https://solidthreads.com/products/irish-whiskey-helps-vintage-inspired-tee-shirt-with-cool-st-paddys-graphic",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Same-source wording variant adds Irish."
+        },
+        {
+          "title": "whiskey helps graphic v neck tee funny drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-v-neck-tee-funny-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "womens whiskey helps t shirt",
+          "url": "https://solidthreads.com/products/womens-whiskey-helps-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps cool staple graphic tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-cool-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps long sleeve graphic tee vintage drinking t shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-long-sleeve-graphic-tee-vintage-drinking-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "whiskey helps graphic tank top funny drinking sleeveless shirt",
+          "url": "https://solidthreads.com/products/whiskey-helps-graphic-tank-top-funny-drinking-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "irish whiskey helps funny staple graphic tee",
+          "url": "https://solidthreads.com/products/irish-whiskey-helps-funny-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Same-source wording variant adds Irish."
+        },
+        {
+          "title": "whiskey helps organic cotton t shirt cool drinking tee",
+          "url": "https://solidthreads.com/products/whiskey-helps-organic-cotton-t-shirt-cool-drinking-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source candidate garment variant."
+        },
+        {
+          "title": "irish whiskey helps graphic v neck tee funny irish t shirt",
+          "url": "https://solidthreads.com/products/irish-whiskey-helps-graphic-v-neck-tee-funny-irish-t-shirt",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Same-source wording variant adds Irish."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://solidthreads.com/products/whiskey-helps-t-shirt",
+    "observed_at": "2026-09-26T18:19Z",
+    "visual": "Two ascending lines of black brush-script Whiskey / Helps, long descender y and capital H, no pictorial subject. Tiny Solid mark by lower word.",
+    "nonzero_sales_corroboration": "YES",
+    "sales_basis": "11 item reviews; exact-product verified buyer Timothy H January 23 2026 and Suzanne K March 8 2024. Top 107 label ignored.",
+    "supplemental_query": "\"whiskey helps\" shirt",
+    "comparisons": {
+      "m00nshot.com/products/whiskey-helps-unisex-t-shirt": "Direct visual: two rising lines Whiskey / Helps in yellow rounded brush script. Letter strokes differ, but same wording, two-line composition and script treatment recur; creator chain unresolved.",
+      "gruntstyle.com/products/whiskey-helps-black": "Seller uses Whiskey Helps trademark notation; records are a provenance signal, not a trademark validity or infringement finding."
+    }
+  },
+  "decision": {
+    "obs": "TRACE-P002-OBS-DTC-S04-07",
+    "disposition": "IP-QUARANTINE",
+    "confidence": "UNRESOLVED",
+    "basis": "Six mandatory searches complete. Supplemental apparel query identifies m00nshot design directly confirmed as same two-word/two-line ascending brush-script composition with different individual strokes. Wording plus composition/treatment recurrence has no traceable creator relationship. Generic phrase or unrelated song names alone are not the basis; source authorship claim does not resolve this recurrence.",
+    "recurrence": "YES",
+    "limitations": "No exact-copy, legal rights or priority finding. Continue same-store Q6 Jesus Is My Lift Ticket raw rank 8."
+  }
+}

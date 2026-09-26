@@ -166,3 +166,9 @@ Later S02 candidates are not reached. Continue S03 INTO THE AM at Lunar Canyon, 
 INTO THE AM closes with Lunar Canyon, `TRACE-P002-OBS-DTC-S03-01`: `ELIGIBLE`, provenance `MEDIUM`, nonzero sales `YES`. Four required no-text searches are complete. The source attributes designs to its illustrator team; the nearest visual comparator is materially distinct. Brand-identical mirror pages receive no independent credit or assumed affiliation.
 
 The native 14,903-review widget mixes other products and is excluded from item counts, superseding reliance on the raw named-product aggregate. The exact Shop product review section supplies 24 ratings and dated customer entries; conflicting top-page placeholders are not used. Raw rank 8 remains a duplicate; later S03 candidates are not reached. Continue S04 Solid Threads, F Bombs Signature T-Shirt.
+
+## Controlling S04 final selection — 2026-09-26T18:35Z
+
+Solid Threads closes with Slow Down, `TRACE-P002-OBS-DTC-S04-11`, queue 9 / raw rank 11: `ELIGIBLE`, provenance `MEDIUM`, nonzero sales `YES`. Queue 1–8 close IP-QUARANTINE; their D04Q01–08 supplements document specific unresolved recurrence. D04Q09 documents all six mandatory first-ten searches, contextual apparel checks and limitations of unavailable comparison pages.
+
+Slow Down's ordinary phrase is not treated as an entertainment quotation. No concrete match to its angular white two-line wordmark, dividing rule and palm/rainbow/beach integrated within O was observed. Frozen seller original-design claim supports MEDIUM research provenance, not legal clearance. Nine item-specific reviews and verified dated entries establish purchase corroboration; header 52-review label is excluded. Later S04 candidates are not reached. Continue S05 Crazy Dog queue 1, Ask Me About My Ninja Disguise Flip. No EF IDs or SDCs assigned yet.

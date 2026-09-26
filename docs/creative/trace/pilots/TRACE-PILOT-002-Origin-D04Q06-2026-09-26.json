@@ -1,0 +1,472 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D04Q06",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Jesus is my lift ticket\"",
+      "time": "2026-09-26T18:22:16.726Z",
+      "rows": [
+        {
+          "title": "Jesus is My Lift Ticket Vintage Graphic Tee | Funny Skiing T-shirt - Solid Threads",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-t-shirt",
+          "match": "YES",
+          "note": "Same-source candidate family."
+        },
+        {
+          "title": "Jesus is My Lift Ticket Graphic Long Sleeve Tee | Fun Skiing T-shirt - Solid Threads",
+          "url": "https://solidthreads.com/products/jesus-lift-ticket-long-sleeve-graphic-tee-vintage-skiing-t-shirt",
+          "match": "YES",
+          "note": "Same-source candidate family."
+        },
+        {
+          "title": "Jesus is My Lift Ticket Vintage Graphic Tee | Funny Skiing T-shirt - Solid Threads",
+          "url": "https://solidthreads.com/collections/best-sellers/products/jesus-is-my-lift-ticket-t-shirt",
+          "match": "YES",
+          "note": "Same-source candidate family."
+        },
+        {
+          "title": "Tees – Page 3 – Disciple Shirts",
+          "url": "https://discipleshirts.com/collections/tees?page=3",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Order 'Jesus Is My Lift Ticket - Jesus' Men's Hoodie online | Spreadshirt",
+          "url": "https://www.spreadshirt.com/shop/design/jesus%2Bis%2Bmy%2Blift%2Bticket%2Bjesus%2Bmens%2Bhoodie-D642014097fe3593d53bb7bac?sellable=wQ2Xj4NLYefj7lpLQGvm-111-22",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Troy Tops – Timeless Trends Tverbergs",
+          "url": "https://timelesstrendsbythetverbergs.com/collections/troy-tops",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Is My Lift Ticket Funny Christian Saying Two-Tone Coffee Mug | Zazzle",
+          "url": "https://www.zazzle.com/jesus_is_my_lift_ticket_funny_christian_saying_two_tone_coffee_mug-256269037959188363",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Is My Lift Ticket Funny Organic T-shirt | Cool Skiing Tee - Solid Threads",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-organic-cotton-t-shirt-funny-skiing-tee",
+          "match": "YES",
+          "note": "Same-source candidate family."
+        },
+        {
+          "title": "Skiing T Shirt",
+          "url": "https://www.walmart.com/c/kp/skiing-t-shirt",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "2018 Winter Olympics Shirts",
+          "url": "https://www.walmart.com/c/kp/2018-winter-olympics-shirts",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Jesus Is My Lift Ticket",
+      "time": "2026-09-26T18:22:16.572Z",
+      "rows": [
+        {
+          "title": "since You so loved me, You sent your one and only Son to live for me, to die for me, and to rise again for me. And I believe for the first time in my life, that's my ticket in. That knowing Jesus is my ticket in. And God, I want to follow You all the days of my life. I forsake the things in my past and I want to run towards You.",
+          "url": "https://cdn.subsplash.com/documents/TGDD68/_source/ae8795b7-8e9d-43cc-ad32-55d9d7323787/document.pdf",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "‎Jesus Is Your Ticket To Heaven - Song by Ronnie Milsap - Apple Music",
+          "url": "https://music.apple.com/us/song/1450321008",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "In the temple as Jesus died, the priest was just getting ready for the evening sacrifice of",
+          "url": "https://children.ncadventist.org/wp-content/uploads/2021/08/Lesson-9-Jesus-is-My-Ticket-to-Heaven.pdf",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "‎Jesus Is Your Ticket to Heaven - Song by Triumphant Quartet - Apple Music",
+          "url": "https://music.apple.com/us/song/406435091",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "J-Town is my lift ticket",
+          "url": "https://www.reddit.com/r/TheDollop/comments/1rbtbhl/jtown_is_my_lift_ticket/",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Is My Lift Ticket Unisex Blue Adult Tee Shirt In XL | eBay",
+          "url": "https://www.ebay.com/itm/397717842589",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Is My Lift Ticket T-Shirts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/jesus%2Bis%2Bmy%2Blift%2Bticket%2Bt-shirts",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Lift T-Shirts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/jesus%2Blift%2Bt-shirts",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Is Your Ticket to Heaven by Triumphant Quartet | Invubu",
+          "url": "https://www.invubu.com/music/show/song/Triumphant-Quartet/Jesus-Is-Your-Ticket-to-Heaven.html",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Lifts Merch & Gifts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/jesus%2Blifts",
+          "match": "UNCERTAIN",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "Jesus skiing crossed skis mountains striped sunset",
+      "time": "2026-09-26T18:22:16.471Z",
+      "rows": [
+        {
+          "title": "Cross of Jesus Christ on top of a mountain with... - Stock Photo [135820783] - PIXTA",
+          "url": "https://www.pixtastock.com/photo/135820783",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Cross in the Mountains",
+          "url": "https://en.wikipedia.org/wiki/Cross_in_the_Mountains",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Cross Of Jesus Christ At Sunset On The Mountain Cross Of Jesus Christ At Sunset Banque D'Images et Photos Libres De Droits. Image 316349034",
+          "url": "https://fr.123rf.com/photo_316349034_cross-of-jesus-christ-at-sunset-on-the-mountain-cross-of-jesus-christ-at-sunset.html",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus cross on the mountain at sunset 65874150 Stock Photo at Vecteezy",
+          "url": "https://www.vecteezy.com/photo/65874150-jesus-cross-on-the-mountain-at-sunset",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Sandia Peak Ski Area",
+          "url": "https://en.wikipedia.org/wiki/Sandia_Peak_Ski_Area",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "364,451 Crosses Mountain Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+          "url": "https://www.shutterstock.com/search/crosses-mountain?page=2",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "Jesus Christ snowboarding over mountains at sunset on Craiyon",
+          "url": "https://www.craiyon.com/image/HPiiirV1T7W3I1N9TZLCjA",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "19,406 Cross Mountain Stock Vectors and Vector Art | Shutterstock",
+          "url": "https://www.shutterstock.com/search/cross-mountain?image_type=vector",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "361,172 Mountains With Cross Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+          "url": "https://www.shutterstock.com/search/mountains-with-cross",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        },
+        {
+          "title": "A cross on top of a mountain at sunset. Sunset mountains… — PICRYL - Public Domain Media Search Engine",
+          "url": "https://garystockbridge617.getarchive.net/media/sunset-mountains-summit-cross-travel-vacation-b43daa",
+          "match": "NO",
+          "note": "Entry inspected for origin; religious subject and unrelated songs alone are not disqualifying. Candidate expression not confirmed from entry."
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Jesus is my lift ticket\"",
+      "time": "2026-09-26T18:22:32.672Z",
+      "url": "https://solidthreads.com/search?q=%22Jesus%20is%20my%20lift%20ticket%22",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 12/29/76. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "womens jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/womens-jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "unisex jesus is my lift ticket graphic pullover hoodie funny skiing sweatshirt",
+          "url": "https://solidthreads.com/products/unisex-jesus-is-my-lift-ticket-graphic-pullover-hoodie-funny-skiing-sweatshirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic v neck tee funny skiing t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-v-neck-tee-funny-skiing-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket midweight pullover hoodie funny skiing fleece",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-midweight-pullover-hoodie-funny-skiing-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic tank top funny skiing sleeveless shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-tank-top-funny-skiing-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "kids jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/kids-jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket funny staple graphic tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-funny-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket organic cotton t shirt funny skiing tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-organic-cotton-t-shirt-funny-skiing-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket vintage wash pullover hoodie funny skiing fleece",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-vintage-wash-pullover-hoodie-funny-skiing-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "Jesus Is My Lift Ticket",
+      "time": "2026-09-26T18:22:50.046Z",
+      "url": "https://solidthreads.com/search?q=Jesus%20Is%20My%20Lift%20Ticket",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 12/29/76. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "womens jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/womens-jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic v neck tee funny skiing t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-v-neck-tee-funny-skiing-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic tank top funny skiing sleeveless shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-tank-top-funny-skiing-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "unisex jesus is my lift ticket graphic pullover hoodie funny skiing sweatshirt",
+          "url": "https://solidthreads.com/products/unisex-jesus-is-my-lift-ticket-graphic-pullover-hoodie-funny-skiing-sweatshirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket midweight pullover hoodie funny skiing fleece",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-midweight-pullover-hoodie-funny-skiing-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "kids jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/kids-jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket organic cotton t shirt funny skiing tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-organic-cotton-t-shirt-funny-skiing-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket funny staple graphic tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-funny-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus lift ticket long sleeve graphic tee vintage skiing t shirt",
+          "url": "https://solidthreads.com/products/jesus-lift-ticket-long-sleeve-graphic-tee-vintage-skiing-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "Jesus skiing crossed skis mountains striped sunset",
+      "time": "2026-09-26T18:23:06.719Z",
+      "url": "https://solidthreads.com/search?q=Jesus%20skiing%20crossed%20skis%20mountains%20striped%20sunset",
+      "engine": "Solid Threads native browser",
+      "status": "COMPLETE-10",
+      "notes": "First ten displayed results; totals 12/29/76. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "jesus is my lift ticket t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "unisex jesus is my lift ticket graphic pullover hoodie funny skiing sweatshirt",
+          "url": "https://solidthreads.com/products/unisex-jesus-is-my-lift-ticket-graphic-pullover-hoodie-funny-skiing-sweatshirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket midweight pullover hoodie funny skiing fleece",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-midweight-pullover-hoodie-funny-skiing-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket vintage wash pullover hoodie funny skiing fleece",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-vintage-wash-pullover-hoodie-funny-skiing-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic v neck tee funny skiing t shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-v-neck-tee-funny-skiing-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket organic cotton t shirt funny skiing tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-organic-cotton-t-shirt-funny-skiing-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus lift ticket long sleeve graphic tee vintage skiing t shirt",
+          "url": "https://solidthreads.com/products/jesus-lift-ticket-long-sleeve-graphic-tee-vintage-skiing-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket funny staple graphic tee",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-funny-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "jesus is my lift ticket graphic tank top funny skiing sleeveless shirt",
+          "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-graphic-tank-top-funny-skiing-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source family garment variant."
+        },
+        {
+          "title": "sunset vintage inspired tee shirt with cool mountain forest graphic",
+          "url": "https://solidthreads.com/products/sunset-vintage-inspired-tee-shirt-with-cool-mountain-forest-graphic",
+          "seller": "Solid Threads",
+          "match": "NO",
+          "note": "Different same-source mountains design."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://solidthreads.com/products/jesus-is-my-lift-ticket-t-shirt",
+    "observed_at": "2026-09-26T18:22Z",
+    "visual": "Robed bearded Jesus skiing toward viewer, crossed skis/poles, mountain peaks and firs behind, red striped sun; large red JESUS and lower IS MY LIFT TICKET separated by blue horizontal stripes.",
+    "nonzero_sales_corroboration": "YES",
+    "sales_basis": "25 exact-item reviews, Shop verified Samantha June 29 2025 and verified Christopher S December 30 2024. Header 83 ignored.",
+    "supplemental_query": "\"Jesus is my lift ticket\" \"shirt\" skiing",
+    "comparisons": {
+      "teeslanding.com/jesus-is-my-lift-ticket-t-shirt/": "Directly viewed: same wording and Jesus skiing forward with poles, peaks and firs, sun/halo behind head, red heading and lower tagline. JESUS moved above picture, circular frame and drawing details differ. Specific scene and punchline recurrence untraced.",
+      "discipleshirts.com/collections/tees?page=3": "Opened collection now shows other assortment, candidate no longer on this page. Search entry remains historical evidence, no exact artwork claim."
+    }
+  },
+  "decision": {
+    "obs": "TRACE-P002-OBS-DTC-S04-08",
+    "disposition": "IP-QUARANTINE",
+    "confidence": "UNRESOLVED",
+    "basis": "Six mandatory searches complete. Supplemental apparel search yields TeesLanding directly confirmed same Jesus skiing scene, mountain/fir background and Jesus is my lift ticket punchline. Layout/drawing differs but specific wording, subject/action and punchline recur without traceable creator relationship. General religious subject is not automatic exclusion.",
+    "recurrence": "YES",
+    "limitations": "No exact-copy or infringement finding. Continue same-store Q7 raw rank 9 Boozehound Brewing Co."
+  }
+}

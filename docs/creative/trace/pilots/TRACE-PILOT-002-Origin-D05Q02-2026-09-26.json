@@ -1,0 +1,440 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D05Q02",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Can't work today my arm is in a cast\"",
+      "time": "2026-09-26T18:37:29.630Z",
+      "rows": [
+        {
+          "title": "can't work today my arm is in a cast - Cant Work Today My Arm Is In A Cast - T-Shirt | TeePublic",
+          "url": "https://www.teepublic.com/t-shirt/96795108-cant-work-today-my-arm-is-in-a-cast",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In A Cast T-Shirt - Walmart.com",
+          "url": "https://www.walmart.com/ip/19948167235",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In A Cast - Black - Funny Fly Fishing T-shirt – JOE'S Fishing Shirts",
+          "url": "https://joesfishingshirts.com/products/short-sleeve-unisex-t-shirt-1",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "moux-store",
+          "url": "https://moux-store.creator-spring.com/",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In a Cast Fishing Shirt - Walmart.com",
+          "url": "https://www.walmart.com/ip/5015049700",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In a Cast | Jg's Merch",
+          "url": "https://jgmerch-shop.fourthwall.com/products/cant-work-today-my-arm-is-in-a-cast",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In a Cast Funny Fishing T-Shirt - Walmart.com",
+          "url": "https://www.walmart.com/ip/3761312754",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In a Cast Funny Fishing T-Shirt - Walmart.com",
+          "url": "https://www.walmart.com/ip/3282439945",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In a Cast Funny Fishing T-Shirt - Walmart.com",
+          "url": "https://www.walmart.com/ip/2289787221",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm Is In A Cast Trucker Hat - Fathom Thread",
+          "url": "https://fathomthread.com/products/cant-work-today-my-arm-is-in-a-cast-trucker-hat",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Can't Work Today My Arm Is In A Cast",
+      "time": "2026-09-26T18:37:29.448Z",
+      "rows": [
+        {
+          "title": "How to Workout When Your Arm Is in a Cast/brace: David Lintner, MD: Sports Medicine Physicians",
+          "url": "https://www.drlintner.com/blog/how-to-workout-when-your-arm-is-in-a-castbrace",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Care of Casts and Splints - OrthoInfo - AAOS",
+          "url": "https://www.orthoinfo.org/recovery/care-of-casts-and-splints/",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Casts: Types & Care",
+          "url": "https://my.clevelandclinic.org/health/treatments/25191-casts",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Broken Arm (Fractured Arm): Symptoms, Treatment & Recovery",
+          "url": "https://my.clevelandclinic.org/health/diseases/broken-arm-fractured-arm",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Can I Drive with a Cast on My Arm? Laws and Liability - LegalClarity",
+          "url": "https://legalclarity.org/can-i-drive-with-a-cast-on-my-arm/",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Broken arm or wrist",
+          "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Cast Care | Veterans Affairs",
+          "url": "https://www.veteranshealthlibrary.va.gov/encyclopedia/3%2C82324",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Forearm Fracture without Reduction | Veterans Affairs",
+          "url": "https://www.veteranshealthlibrary.va.gov/teststreatments/BoneJointMuscle/82%2C116468en",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "A Patient’s guide to Instructions for patients in an arm cast :: Royal National Orthopaedic Hospital",
+          "url": "https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/patients-guide-instructions-patients-arm-cast",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        },
+        {
+          "title": "Closed reduction of a fractured bone - aftercare: MedlinePlus Medical Encyclopedia",
+          "url": "https://medlineplus.gov/ency/patientinstructions/000522.htm",
+          "match": "NO",
+          "note": "Literal cast-care content unrelated to candidate expression."
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "fisherman casting from boat silhouette yellow circle my arm is in a cast",
+      "time": "2026-09-26T18:37:29.208Z",
+      "rows": [
+        {
+          "title": "Funny Fishing T-shirt, Fisherman Gift, Arm Cast Graphic Tee - Etsy UK",
+          "url": "https://www.etsy.com/listing/612119701/funny-fishing-t-shirt-fisherman-gift-arm",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Can't Work Today My Arm is in Cast Png, Sublimation Design, Funny Fishing Png, Retro Png, T-shirt Design, Instant Digital Download Png, DTF - Etsy Australia",
+          "url": "https://www.etsy.com/fi-en/listing/1898062765/cant-work-today-my-arm-is-in-cast-png",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Man Standing on Boat Throwing Fishing Net to the Sea · Free Stock Photo",
+          "url": "https://www.pexels.com/photo/man-standing-on-boat-throwing-fishing-net-to-the-sea-12826119/",
+          "match": "NO",
+          "note": "Different photographic casting scene, not candidate silhouette graphic."
+        },
+        {
+          "title": "Funny Fishing T-shirt: Injured Arm Fisherman Gift - Etsy",
+          "url": "https://www.etsy.com/listing/1398726377/funny-fishing-t-shirt-injured-arm",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Funny Fishing Mug, My Arm is in A Cast, Father's Day Gift - Etsy Ireland",
+          "url": "https://www.etsy.com/listing/697763274/funny-fishing-mug-my-arm-is-in-a-cast",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Fisherman Casting Rod into Sea · Free Stock Photo",
+          "url": "https://www.pexels.com/photo/fisherman-casting-rod-into-sea-15295285/",
+          "match": "NO",
+          "note": "Different photographic casting scene, not candidate silhouette graphic."
+        },
+        {
+          "title": "Can't Work Today.. My Arm is in a Cast Fishing T-shirt for Men Funny Fishing Shirt for Husband Fishing Tshirt Dad Funny Fishing Tee Grandpa - Etsy",
+          "url": "https://www.etsy.com/listing/1506586306/cant-work-today-my-arm-is-in-a-cast",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Silhouette of Fisherman Casting Net at Sunrise · Free Stock Photo",
+          "url": "https://www.pexels.com/photo/silhouette-of-fisherman-casting-net-at-sunrise-36353263/",
+          "match": "NO",
+          "note": "Different photographic casting scene, not candidate silhouette graphic."
+        },
+        {
+          "title": "6,222 Casting Fishing Stock Vectors and Vector Art | Shutterstock",
+          "url": "https://www.shutterstock.com/search/casting-fishing?image_type=vector&page=2",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        },
+        {
+          "title": "Funny Fishing T-shirt, Fisherman Gift for Dad - Etsy Israel",
+          "url": "https://www.etsy.com/il-en/listing/1846045876/funny-fishing-t-shirt-fisherman-gift-for?content_source=b32904a644f7363ba9cd82df84ae4eaaa3e33c8d%253A1846045876&ls=r",
+          "match": "UNCERTAIN",
+          "note": "Specific fishing pun or design recurrence in entry; relationship unresolved unless representative comparison documents it."
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Can't work today my arm is in a cast\"",
+      "time": "2026-09-26T18:37:51.565Z",
+      "url": "https://www.crazydogtshirts.com/search?q=%22Can't%20work%20today%20my%20arm%20is%20in%20a%20cast%22&options%5Bprefix%5D=last",
+      "engine": "Crazy Dog native browser",
+      "status": "EXHAUSTED-LT10",
+      "notes": "Explicit native counts 8/19/7; first ten organic results where available. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "mens cant work today arm is in a cast tshirt funny fathers day fishing tee for guys",
+          "url": "https://www.crazydogtshirts.com/products/mens-cant-work-today-arm-is-in-a-cast-tshirt-funny-fathers-day-fishing-tee-for-guys",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 5",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-5",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 1",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-1",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast mens tank top",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-mens-tank-top",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 2",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-2",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "mens i cant work today my arm is in a cast socks",
+          "url": "https://www.crazydogtshirts.com/products/mens-i-cant-work-today-my-arm-is-in-a-cast-socks",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 4",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-4",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 3",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-3",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "Can't Work Today My Arm Is In A Cast",
+      "time": "2026-09-26T18:38:03.279Z",
+      "url": "https://www.crazydogtshirts.com/search?q=Can't%20Work%20Today%20My%20Arm%20Is%20In%20A%20Cast&options%5Bprefix%5D=last",
+      "engine": "Crazy Dog native browser",
+      "status": "COMPLETE-10",
+      "notes": "Explicit native counts 8/19/7; first ten organic results where available. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "mens cant work today arm is in a cast tshirt funny fathers day fishing tee for guys",
+          "url": "https://www.crazydogtshirts.com/products/mens-cant-work-today-arm-is-in-a-cast-tshirt-funny-fathers-day-fishing-tee-for-guys",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 1",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-1",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 5",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-5",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast mens tank top",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-mens-tank-top",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 3",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-3",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "mens i cant work today my arm is in a cast socks",
+          "url": "https://www.crazydogtshirts.com/products/mens-i-cant-work-today-my-arm-is-in-a-cast-socks",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 2",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-2",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 4",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-4",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "i cant work today my arm is in a cast",
+          "url": "https://www.crazydogtshirts.com/products/i-cant-work-today-my-arm-is-in-a-cast",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast tea towel tea towel",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-tea-towel-tea-towel",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "fisherman casting from boat silhouette yellow circle my arm is in a cast",
+      "time": "2026-09-26T18:38:14.077Z",
+      "url": "https://www.crazydogtshirts.com/search?q=fisherman%20casting%20from%20boat%20silhouette%20yellow%20circle%20my%20arm%20is%20in%20a%20cast&options%5Bprefix%5D=last",
+      "engine": "Crazy Dog native browser",
+      "status": "EXHAUSTED-LT10",
+      "notes": "Explicit native counts 8/19/7; first ten organic results where available. Titles abbreviated as slugs.",
+      "rows": [
+        {
+          "title": "mens cant work today arm is in a cast tshirt funny fathers day fishing tee for guys",
+          "url": "https://www.crazydogtshirts.com/products/mens-cant-work-today-arm-is-in-a-cast-tshirt-funny-fathers-day-fishing-tee-for-guys",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 1",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-1",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 5",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-5",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast 2",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-2",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast mens tank top",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-mens-tank-top",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "cant work today my arm is in a cast tea towel tea towel",
+          "url": "https://www.crazydogtshirts.com/products/cant-work-today-my-arm-is-in-a-cast-tea-towel-tea-towel",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        },
+        {
+          "title": "mens i cant work today my arm is in a cast socks",
+          "url": "https://www.crazydogtshirts.com/products/mens-i-cant-work-today-my-arm-is-in-a-cast-socks",
+          "seller": "Crazy Dog T-Shirts",
+          "match": "YES",
+          "note": "Same-source wording family across garment/accessory variants."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://www.crazydogtshirts.com/products/mens-cant-work-today-arm-is-in-a-cast-tshirt-funny-fathers-day-fishing-tee-for-guys",
+    "observed_at": "2026-09-26T18:37Z",
+    "visual": "Yellow arched CAN'T WORK TODAY above distressed yellow sun circle with fisherman standing on boat, rod cast left; script My arm is in / A cast below.",
+    "nonzero_sales_corroboration": "YES",
+    "sales_basis": "Current exact product header 11 reviews; no shop testimonial used.",
+    "comparisons": {
+      "joesfishingshirts.com/products/short-sleeve-unisex-t-shirt-1": "Direct comparison: hand holding fishing rod/reel in an oval ring of same Can't work today / My arm is in a cast wording. Different drawing/layout but same specific literalized fishing-cast pun without creator linkage.",
+      "etsy.com/listing/1398726377": "Direct page unavailable; search entry retained, no direct artwork inspection claimed."
+    },
+    "matches": {
+      "joesfishingshirts.com/products/short-sleeve-unisex-t-shirt-1": "YES",
+      "etsy.com/listing/1398726377": "UNCERTAIN"
+    }
+  },
+  "decision": {
+    "obs": "TRACE-P002-OBS-DTC-S05-02",
+    "disposition": "IP-QUARANTINE",
+    "confidence": "UNRESOLVED",
+    "basis": "Six mandatory searches complete; native exact/composition explicitly exhausted at eight/seven. Joes Fishing Shirts directly confirms same distinctive two-part excuse and fishing-cast punchline, with different hand/reel drawing versus fisherman/boat silhouette. No traceable creator relationship. Unavailable Etsy listing is not falsely treated as direct comparison. Generic fishing topic alone is not basis.",
+    "recurrence": "YES",
+    "limitations": "No exact-copy, infringement or publication-priority finding. Continue same-store queue 3 That Sounds Like A Horrible Idea. What Time?"
+  }
+}

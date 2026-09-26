@@ -1,0 +1,472 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D04Q03",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Take it slow\"",
+      "time": "2026-09-26T18:11:17.240Z",
+      "rows": [
+        {
+          "title": "Take It Slow - YouTube",
+          "url": "https://www.youtube.com/watch?v=iigHz-uxboE",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "take it slow or take it slowly?",
+          "url": "https://textranch.com/c/take-it-slow-or-take-it-slowly/",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "How to Take It Slow in a Relationship: A Real Pace Guide | Intimate Relationships",
+          "url": "https://www.intimaterelationships.org/blog/how-to-take-it-slow-in-a-relationship",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Conner Smith - Take It Slow (Official Music Video) - YouTube",
+          "url": "https://www.youtube.com/watch?v=_arg6vdbhiE",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Idiom: take it slow (English)",
+          "url": "https://lyricstranslate.com/en/idiom/take-it-slow",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "take it slow - Alannah McCready: Song Lyrics, Music Videos & Concerts",
+          "url": "https://www.shazam.com/en-us/song/1621335519/take-it-slow",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "‎Take It Slow - Song by Bobby Brown - Apple Music",
+          "url": "https://music.apple.com/us/song/1506276451",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Take It Slow - O'Ryan: Song Lyrics, Music Videos & Concerts",
+          "url": "https://www.shazam.com/en-us/song/1450681922/take-it-slow",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "‎Take It Slow - Song with Lyrics by Peter Rendon - Apple Music",
+          "url": "https://music.apple.com/us/song/1861083093",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "‎Take it Slow - Song by Bobby Brown - Apple Music",
+          "url": "https://music.apple.com/us/song/1440773831",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Take It Slow",
+      "time": "2026-09-26T18:11:17.022Z",
+      "rows": [
+        {
+          "title": "Take It Slow - YouTube",
+          "url": "https://www.youtube.com/watch?v=iigHz-uxboE",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Conner Smith - Take It Slow (Official Music Video) - YouTube",
+          "url": "https://www.youtube.com/watch?v=_arg6vdbhiE",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "take it slow or take it slowly?",
+          "url": "https://textranch.com/c/take-it-slow-or-take-it-slowly/",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "How to Take It Slow in a Relationship: A Real Pace Guide | Intimate Relationships",
+          "url": "https://www.intimaterelationships.org/blog/how-to-take-it-slow-in-a-relationship",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "take things slow or take things slowly?",
+          "url": "https://textranch.com/c/take-things-slow-or-take-things-slowly/",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Examples of Take it slow in English | SpanishDictionary.com",
+          "url": "https://www.spanishdict.com/examples/take%20it%20slow?lang=en",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Take It Slow If You Want Your Relationship to Last | Psychology Today",
+          "url": "https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/201208/take-it-slow-if-you-want-your-relationship-to-last",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "‎Take It Slow - Song with Lyrics by Peter Rendon - Apple Music",
+          "url": "https://music.apple.com/us/song/1861083093",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "Idiom: take it slow (English)",
+          "url": "https://lyricstranslate.com/en/idiom/take-it-slow",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        },
+        {
+          "title": "What It Means to \"Take Things Slow\" in a Relationship",
+          "url": "https://www.brides.com/what-does-it-mean-to-take-things-slow-3976709",
+          "match": "NO",
+          "note": "Ordinary idiom use or unrelated song title; not evidence of candidate entertainment dependency."
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "turtle helmet shaped shell take it slow",
+      "time": "2026-09-26T18:11:16.843Z",
+      "rows": [
+        {
+          "title": "A Turtle Taught Millions of People to Cut Up Six-Pack Rings. Does It Still Matter?",
+          "url": "https://www.foodandwine.com/cut-six-pack-rings-12129233",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take It Slow - Turtle - Hat | TeePublic",
+          "url": "https://www.teepublic.com/hat/76400846-take-it-slow",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take It Slow Turtle Progress Patient Calm Relaxed - Turtle - Hat | TeePublic",
+          "url": "https://www.teepublic.com/hat/94397982-take-it-slow-turtle-progress-patient-calm-relaxed",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take it slow | Men's T-Shirt Classic | Trabu - Whimsical Bold Graphic t-shirt and Art Sho",
+          "url": "https://www.threadless.com/shop/%40trabu/design/take-it-slow",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take It Slow – Retro Turtle Funny - Funny Turtle - Hat | TeePublic",
+          "url": "https://www.teepublic.com/hat/76356585-take-it-slow-retro-turtle-funny",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Slow Down Your Life Turtle - Turtle - Hat | TeePublic",
+          "url": "https://www.teepublic.com/hat/96483043-slow-down-your-life-turtle",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take It Slow Enjoy Hats for Sale | TeePublic",
+          "url": "https://www.teepublic.com/hats/take-it-slow-enjoy",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Joint Pain Tart Paper Sticker Sheet | Faultedlines – faultedlines",
+          "url": "https://faultedlines.com/products/joint-pain-sticker-sheet-tart",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Take it slow — Turtle T-Shirt · Snarkpaws",
+          "url": "https://snarkpaws.com/products/take-it-slow-turtle",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        },
+        {
+          "title": "Shellshocked I: Turtles vs. The World | Smithsonian Institution",
+          "url": "https://www.si.edu/sidedoor/shellshocked-i-turtles-vs-world?edan_fq%5B0%5D=-data_source%3A%22Cooper+Hewitt%2C+Smithsonian+Design+Museum%22&edan_fq%5B1%5D=-data_source%3A%22NMNH+-+Education+%26+Outreach%22&edan_fq%5B2%5D=-data_source%3A%22Smithsonian+American+Art+Museum%22&edan_fq%5B3%5D=object_type%3A%22Paintings%22",
+          "match": "UNCERTAIN",
+          "note": "Turtle/slow-living theme overlap; precise artwork not established from search alone."
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Take it slow\"",
+      "time": "2026-09-26T18:11:45.412Z",
+      "url": "https://solidthreads.com/search?q=%22Take%20it%20slow%22",
+      "engine": "Solid Threads native browser",
+      "notes": "Native totals 16, 291, 37 respectively; first ten reviewed. Signature is fit/fabric descriptor omitted from title.",
+      "rows": [
+        {
+          "title": "take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "womens take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/womens-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic v neck tee funny turtle t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-v-neck-tee-funny-turtle-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow long sleeve graphic tee cool turtle t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-long-sleeve-graphic-tee-cool-turtle-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic tank top funny turtle sleeveless shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-tank-top-funny-turtle-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow organic cotton t shirt vintage turtle tee",
+          "url": "https://solidthreads.com/products/take-it-slow-organic-cotton-t-shirt-vintage-turtle-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow midweight pullover hoodie vintage turtle fleece",
+          "url": "https://solidthreads.com/products/take-it-slow-midweight-pullover-hoodie-vintage-turtle-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "unisex take it slow vintage pullover hoodie with cool retro turtle graphic",
+          "url": "https://solidthreads.com/products/unisex-take-it-slow-vintage-pullover-hoodie-with-cool-retro-turtle-graphic",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow vintage staple graphic tee",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "kids take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/kids-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "Take It Slow",
+      "time": "2026-09-26T18:11:57.970Z",
+      "url": "https://solidthreads.com/search?q=Take%20It%20Slow",
+      "engine": "Solid Threads native browser",
+      "notes": "Native totals 16, 291, 37 respectively; first ten reviewed. Signature is fit/fabric descriptor omitted from title.",
+      "rows": [
+        {
+          "title": "take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "womens take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/womens-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic v neck tee funny turtle t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-v-neck-tee-funny-turtle-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic tank top funny turtle sleeveless shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-tank-top-funny-turtle-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow long sleeve graphic tee cool turtle t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-long-sleeve-graphic-tee-cool-turtle-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow midweight pullover hoodie vintage turtle fleece",
+          "url": "https://solidthreads.com/products/take-it-slow-midweight-pullover-hoodie-vintage-turtle-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "unisex take it slow vintage pullover hoodie with cool retro turtle graphic",
+          "url": "https://solidthreads.com/products/unisex-take-it-slow-vintage-pullover-hoodie-with-cool-retro-turtle-graphic",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow organic cotton t shirt vintage turtle tee",
+          "url": "https://solidthreads.com/products/take-it-slow-organic-cotton-t-shirt-vintage-turtle-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow vintage staple graphic tee",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow vintage wash pullover hoodie vintage turtle fleece",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-wash-pullover-hoodie-vintage-turtle-fleece",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "turtle helmet shaped shell take it slow",
+      "time": "2026-09-26T18:12:38.265Z",
+      "url": "https://solidthreads.com/search?q=turtle%20helmet%20shaped%20shell%20take%20it%20slow",
+      "engine": "Solid Threads native browser",
+      "notes": "Native totals 16, 291, 37 respectively; first ten reviewed. Signature is fit/fabric descriptor omitted from title.",
+      "rows": [
+        {
+          "title": "take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "womens take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/womens-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic tank top funny turtle sleeveless shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-tank-top-funny-turtle-sleeveless-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "kids take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/kids-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow graphic v neck tee funny turtle t shirt",
+          "url": "https://solidthreads.com/products/take-it-slow-graphic-v-neck-tee-funny-turtle-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow organic cotton t shirt vintage turtle tee",
+          "url": "https://solidthreads.com/products/take-it-slow-organic-cotton-t-shirt-vintage-turtle-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "take it slow vintage staple graphic tee",
+          "url": "https://solidthreads.com/products/take-it-slow-vintage-staple-graphic-tee",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "baby take it slow vintage graphic tee animal turtle mindfulness t shirt",
+          "url": "https://solidthreads.com/products/baby-take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "baby take it slow retro extra soft one piece cool turtle romper",
+          "url": "https://solidthreads.com/products/baby-take-it-slow-retro-extra-soft-one-piece-cool-turtle-romper",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        },
+        {
+          "title": "unisex take it slow vintage pullover hoodie with cool retro turtle graphic",
+          "url": "https://solidthreads.com/products/unisex-take-it-slow-vintage-pullover-hoodie-with-cool-retro-turtle-graphic",
+          "seller": "Solid Threads",
+          "match": "YES",
+          "note": "Same-source turtle design family garment variant."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://solidthreads.com/products/take-it-slow-vintage-graphic-tee-animal-turtle-mindfulness-t-shirt",
+    "observed_at": "2026-09-26T18:11Z",
+    "visual": "Simple white right-facing turtle with tall helmet-shaped shell, small Take it slow wording within lower-left shell, short walking legs and slight smile.",
+    "nonzero_sales_corroboration": "YES",
+    "sales_basis": "26 item reviews with exact Take It Slow product links; verified buyer October 2 2025. Top 52-review label not used.",
+    "comparisons": {
+      "snarkpaws.com/products/take-it-slow-turtle": "Directly viewed: left-facing illustrated walking turtle, words take it slow in two lines inside its tall rounded shell. Drawing and perspective differ but same phrase integrated into turtle shell and embodied slow-living expression. Creator relationship/priority not established.",
+      "@trabu": "Watermelon shell and colored drawing described in entry; materially different shell substitution, not exact candidate illustration."
+    },
+    "matches": {
+      "snarkpaws.com/products/take-it-slow-turtle": "YES",
+      "@trabu": "NO"
+    }
+  },
+  "decision": {
+    "obs": "TRACE-P002-OBS-DTC-S04-04",
+    "disposition": "IP-QUARANTINE",
+    "confidence": "UNRESOLVED",
+    "basis": "Six mandatory searches complete. Direct Snarkpaws comparison confirms Take it slow wording placed inside a walking turtle shell across unrelated sellers. Drawing direction and detail differ, but this specific integrated composition/wording recurs without traceable origin. Generic slow-living sentiment, turtle species, and unrelated song titles alone are not the basis. Source authorship claim does not resolve recurrence.",
+    "recurrence": "YES",
+    "limitations": "No exact artwork identity, infringement or publication priority finding. Continue same-store queue 4 at raw rank 6."
+  }
+}
