@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.4
+Version     : 0.5
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,10 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.5
+- Added processed I006 for the AI-native 3D Niche Test and Devotion Coverage pilot.
+- Corrected I002 so the Sloth Hiking Club case study is the primary processed output and the later video review is supplemental.
 
 v0.4
 - Marked I002 Sloth Hiking Club as processed and linked the cross-functional customer-trust micro-moments review.
@@ -303,7 +307,10 @@ This remains a hypothesis rather than an established company principle.
 **Source:**  
 https://slothhikingclub.com/
 
-**Processed output:**  
+**Primary processed output:**  
+[Sloth Hiking Club Case Study](../case-studies/Sloth-Hiking-Club-Case-Study.md)
+
+**Supplemental review:**  
 [Customer Trust Micro-Moments — Cross-Functional Video Review](../strategy/Customer-Trust-Micro-Moments-Video-Review.md)
 
 ### Observation
@@ -561,6 +568,36 @@ Its success condition is not merely faster asset production. It is that the Foun
 **Deferred.**
 
 Capture as a possible future operating model. Do not implement or expand to multiple advertising platforms during the current MVV. Revisit after manual Meta execution reveals recurring work, sufficient campaign volume, and clear automation requirements.
+
+---
+
+## I006 — AI-Native 3D Niche Test / Devotion Coverage
+
+**Status:** Processed — 2026-09-26
+
+**Category:** Strategy / Research / AI Operating Model
+
+**Source:**  
+https://www.youtube.com/watch?v=Sr0Y9CxKRGw
+
+**Processed output:**  
+[AI-Native 3D Niche Test — Cross-Functional Video Review](../strategy/AI-Native-3D-Niche-Test-Video-Review.md)
+
+### Observation
+
+Meg Heckman's 3D Niche Test proposes devotion, demand, and depth as the three conditions behind durable print-on-demand niches. The framework raises an AI-native question: whether the company can operate a niche with strong demand and depth when the founder has low personal devotion.
+
+Founder review added an important counter-risk: demand and depth are more important than maximizing devotion. Adequate devotion helps the company run a fair test, but over-devotion can create confirmation bias and prevent a rational pivot after credible weak results.
+
+### Why It Caught Our Attention
+
+The company already treats low Founder Advantage as a constraint rather than a veto. AI can reduce the gap through research stamina, evidence synthesis, persistent memory, and creative throughput. It cannot create demand, genuine lived authority, community trust, or founder operating commitment.
+
+### Decision Status
+
+**Processed.**
+
+Use the 3D model only as a fast screen. Preserve Founder Advantage and current opportunity priorities. Pilot a separate Devotion Coverage gate on the next serious low-Founder-Advantage opportunity, with insider correction, honest claim boundaries, and a precommitted exit rule. Do not promote the gate into methodology until repeated execution evidence supports it.
 
 ---
 
