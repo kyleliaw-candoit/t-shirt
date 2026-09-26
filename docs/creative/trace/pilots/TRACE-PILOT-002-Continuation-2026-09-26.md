@@ -37,3 +37,38 @@ Next Etsy badge candidate is queue 5, listing `4302187056`, Artistic Cats by Ala
 Next DTC candidate is S01 queue 3, `TRACE-P002-OBS-DTC-S01-03`, Men's Have The Day You Deserve T-Shirt. Fresh detail inspection began: $35, retro palette and suspicious star character described on the page. Item-review attribution and required origin runs remain unfinished. Preliminary lookup attempts are not credited as required origin searches. Continue S01 in numerical queue order, then S02–S12, without reopening or reranking raw collections.
 
 After final Gate 0 and selection closure, assign eligible canonical family IDs and create exactly five SDCs in the frozen lane order. Then obtain the required independent rubric review; do not create SDC 6 or cluster before that outcome. No backfill, promotion, methodology revision or merge to main is authorized by this checkpoint.
+
+## Second continuation — 2026-09-26, 13:44–13:58 UTC
+
+This section supersedes the earlier continuation pointer; earlier observations and register bytes are preserved. Work resumed from published `50a8377cb7671f79f7803283de626c1254320849` in an isolated worktree because the prior checkout contained an unrelated storefront-test edit. That edit was not included or modified.
+
+Five additional candidates completed all applicable origin searches:
+
+| Queue | Observation | Final disposition | Controlling basis |
+|---|---|---|---|
+| DTC S01 Q03 | TRACE-P002-OBS-DTC-S01-03 | IP-QUARANTINE | Have The Day You Deserve wording/punchline recurs on unrelated apparel; source unresolved. Candidate has 141 item-visible reviews with verified entries repeating its exact title, so nonzero-sales corroboration is YES. Exact external artwork identity is not asserted. |
+| Etsy badge 5 | TRACE-P002-OBS-ETSY-09-MR-02 | IP-EXCLUDED | Direct image shows nine named famous-painter cat adaptations. Fame-dependent inspired goods fail frozen 2.2, irrespective of possible licensing. |
+| Etsy badge 6 | TRACE-P002-OBS-ETSY-11-MR-12 | IP-QUARANTINE | BeelieveHive native composition result 4 materially repeats the grinning cat, paired oval eyes, rectangular-tooth grin, orange border and radial rays. Earlier compared results have different faces and are not exact-match evidence. |
+| Etsy badge 7 | TRACE-P002-OBS-ETSY-12-TR-12 | IP-EXCLUDED | Ella's Fellas concert/fan-club wording is tied to Ella Langley; direct candidate image and ABC Audio reporting support musician-fandom dependency. |
+| Etsy badge 8 | TRACE-P002-OBS-ETSY-03-MR-09 | IP-QUARANTINE | Getting Meowied plus veiled, sunglasses-wearing cat bride holding a drink recurs. Direct EllenPlnts comparison has a martini and different drawing; material expression recurrence, not exact artwork identity. |
+
+Factual supplements: `TRACE-PILOT-002-Origin-D01Q03-2026-09-26.json` and `TRACE-PILOT-002-Origin-B05-2026-09-26.json` through `TRACE-PILOT-002-Origin-B08-2026-09-26.json`. Native titles are abbreviated for compact evidence storage; stable listing/product URLs and seller identities are preserved. Search URLs in supplements may use equivalent percent-encoding; B08's observed spelling-correction URL is retained exactly.
+
+Current controlling totals: **11 decisions: 3 IP-EXCLUDED, 8 IP-QUARANTINE; 60 completed applicable searches; 6 no-text N/A records; 588 organic-result rows.** Of the 60 searches, 57 have ten results; two Boredwalk exact queries explicitly returned nine each, and the Artistic Cats exact-name query explicitly returned zero. No final eligible family or SDC exists. Selection remains open; the pools are not exhausted.
+
+### New access and execution friction
+
+- Boredwalk Q03 native exact-wording search explicitly showed nine results. Its other two native searches reached ten. Visible verified item reviews dated September 7, August 25 and August 16, 2026 corroborate item-level nonzero sales.
+- The Walmart shooting-star comparator returned a page-not-found screen. TeePublic's comparator presented a Cloudflare human-verification challenge. No CAPTCHA was attempted, no browser route around the challenge was tried, and no direct artwork comparison was credited. Later TeePublic entries were read only as returned web-search evidence. These were optional comparator destinations, not blocked required search runs.
+- Etsy B05 exact quoted artist names returned an explicit no-results message; recently viewed recommendations received no organic-result credit.
+- Etsy B08 title search automatically changed `bride` to `bridge`. Its first returned frame is noncontrolling. The visible **Search instead** link restored the original query; the corrected URL and final ten-result order control. Extra scrolling was needed to load all ten organic results. No query substitution received completion credit.
+- B08 web results exposed conflicting third-party trademark summaries. No current registration status or legal conclusion is asserted. Those records are not the eligibility basis; the material expression comparison independently supports quarantine.
+- ABC Audio reporting by Andrea Dresdale, published August 17, 2026, identifies Ella's Fellas as Ella Langley's male fan community: https://www.magic1021.com/news/fans-still-choosin-ella-langley-including-drake/TB7HQ3H2RIZW3AXP7R6XMDMW2A/ . This supports B07's fame dependency, not a finding about who owns the shirt artwork. A supplemental system1 lookup was inconclusive and received no required-run credit.
+
+### Verified continuation pointer
+
+Next Etsy badge candidate: **queue 9**, `TRACE-P002-OBS-ETSY-06-TR-07`, JAWS at Walnut Beach, listing `4532612141`. Badge queues 9–17 and all five review-depth candidates remain pending.
+
+Next DTC candidate: **S01 queue 4**, `TRACE-P002-OBS-DTC-S01-04`, Men's Support Your Local Library T-Shirt. Continue subsequent S01 queue ranks before S02–S12; never reopen or rerank the raw collections.
+
+Validation passed: original register bytes remain an exact prefix; run IDs are unique; per-run result counts match declarations; decision-to-run counts agree; frozen methodology blob remains `e6ce1dac883877455a4e915251821f4997006bbc`. The raw queues, global-dedup checkpoint and no-backfill/no-promotion controls remain unchanged. This is a progress checkpoint, not a five-card review or an insufficient-sample conclusion.
