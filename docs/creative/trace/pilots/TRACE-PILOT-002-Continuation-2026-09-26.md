@@ -72,3 +72,16 @@ Next Etsy badge candidate: **queue 9**, `TRACE-P002-OBS-ETSY-06-TR-07`, JAWS at 
 Next DTC candidate: **S01 queue 4**, `TRACE-P002-OBS-DTC-S01-04`, Men's Support Your Local Library T-Shirt. Continue subsequent S01 queue ranks before S02–S12; never reopen or rerank the raw collections.
 
 Validation passed: original register bytes remain an exact prefix; run IDs are unique; per-run result counts match declarations; decision-to-run counts agree; frozen methodology blob remains `e6ce1dac883877455a4e915251821f4997006bbc`. The raw queues, global-dedup checkpoint and no-backfill/no-promotion controls remain unchanged. This is a progress checkpoint, not a five-card review or an insufficient-sample conclusion.
+# Badge-lane completion checkpoint — 2026-09-26T17:27Z
+
+This checkpoint supersedes the next-action pointers in the earlier continuation sections below. Work continues within the existing authorization; this is not a request for permission or a calibration stop.
+
+Etsy badge ranks 9–17 completed their controlling post-dedup origin searches. JAWS at Walnut Beach is `IP-EXCLUDED` for film dependence. ART typography, Lake Ontario, Respect Your Mother rhinestone, refusal cat, butterfly chart, Medusa delight, encouragement flowers, and Halloween collage are `IP-QUARANTINE`. Each supplement records a direct candidate inspection and material comparator, including differences rather than asserting identical artwork when only expression/composition recurs.
+
+The badge lane is exhausted: 17 decisions, 4 excluded, 13 quarantined, 0 eligible. No backfill, quota transfer, EF assignment, or SDC credit. Overall: 20 decisions (4 excluded, 16 quarantined), 112 applicable completed searches, 8 no-text N/A records, 1,078 organic result rows. Of applicable runs, 106 have ten results and 6 are explicit shorter/zero exhaustion records.
+
+Resolved friction: Etsy automatically rewrote several Vintage title queries; the visible original-query links restored all items before controlling capture. It also automatically applied an Exclude digital downloads filter for the rhinestone title/composition; removed before final capture. Lake Ontario composition and butterfly species wording explicitly returned no original-query results and offered substituted wording; those substituted frames receive no result credit. JAWS exact open-web wording explicitly returned zero. No failed query was represented as ten reviewed results. TeePublic was not revisited in Browser after the previously documented challenge.
+
+Validation: earlier register bytes preserved exactly; run IDs unique; per-run organic counts reconcile to result rows; each decision's completed search count reconciles; frozen methodology blob remains `e6ce1dac883877455a4e915251821f4997006bbc`; diff whitespace check passed.
+
+Next: Etsy review-depth rank 1 Cat Guitarist (`TRACE-P002-OBS-ETSY-06-TR-02`), then its remaining four candidates. DTC remains at S01 queue rank 4 Support Your Local Library (`TRACE-P002-OBS-DTC-S01-04`); S02–S12 await controlling closure. Amazon remains blocked without retry. Fewer than five eligible families so far is not an insufficient-sample outcome while these pools remain unfinished.

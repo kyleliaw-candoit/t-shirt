@@ -181,3 +181,9 @@ A sixth non-badged family did not meet all frozen requirements. In particular, h
 - **Provenance is the controlling open gate:** 22 queued families still require all mandatory origin searches. Nothing in this artifact is ready for decoding or downstream creative credit.
 
 No methodology amendment is recommended from the raw Etsy stage alone. The provenance closeout and five-card checkpoint must determine whether this friction is merely operational or changes an eligibility, ordering, identity, lineage, or downstream-support decision.
+
+## Controlling badge-lane closure — 2026-09-26
+
+The historical pre-origin statements and table above remain unchanged as captured. The append-only Origin Search Register now controls all 17 badge-candidate final decisions: 4 `IP-EXCLUDED`, 13 `IP-QUARANTINE`, 0 `ELIGIBLE`. The frozen badge queue is exhausted and contributes zero selections. No quota transfers, replacement observations, EF IDs, or SDCs were created.
+
+The review-depth lane remains open with its original five candidates. Its next candidate is `TRACE-P002-OBS-ETSY-06-TR-02` (missionthread Cat Guitarist). Final Etsy platform selection is not yet closed, and global decoding remains blocked by unfinished platform selection.
