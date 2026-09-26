@@ -119,3 +119,11 @@ S04 now closes with Slow Down at raw rank 11 / queue 9, ELIGIBLE with MEDIUM res
 S05 Crazy Dog queue 1–5 close IP-QUARANTINE after all six searches each and direct representative comparisons: Ninja Disguise Flip, Arm Is In A Cast, Horrible Idea What Time, Fitness Taco, and Body Like This Who Needs Hair. Distinct drawings/layouts are recorded; no exact-copy or infringement claims made. Item-review headers are kept separate from generic store testimonials. No downstream support assigned.
 
 Controlling register: 43 decisions (4 ELIGIBLE, 35 IP-QUARANTINE, 4 IP-EXCLUDED), 244 completed required searches plus 14 N/A slots, 2,314 organic results. Append-only prefix, run uniqueness and per-run result count checks pass. S05 remains open at queue 6, Of Course I Talk To Myself, I Need Expert Advice. Continue S05 to first eligible/exhaustion, then S06–S12 before EF assignment and five-card creation. Methodology remains frozen.
+
+## S05 queue 6–10 checkpoint — 2026-09-26T19:02Z
+
+Crazy Dog queue 6–10 now close IP-QUARANTINE: Expert Advice, Awesome Like My Daughter, Hide and Seek Champion, Coffee and Maybe 3 People, and Greatest Farter Father. All six mandatory searches per candidate are preserved. Detailed supplements separate full-joke recurrence, specific typography/composition recurrence, and mere generic phrase/theme matches. Hide and Seek has no verified item-level sales signal; zero reviews is not zero sales.
+
+Controlling totals: 48 decisions (4 ELIGIBLE, 40 IP-QUARANTINE, 4 IP-EXCLUDED), 274 completed required searches plus 14 N/A slots, 2,581 organic result records. Native short/empty frames are retained without replacement. Redbubble browser human verification and Spreadshirt client block prevented visual comparison for Coffee; accessible web product text supports named seller and full wording/punchline only, with no exact-artwork claim. Etsy comparison was unavailable. TeePublic was not revisited in Browser.
+
+Append-only prefix, unique run IDs and per-run result counts passed. Frozen method remains unchanged. S05 remains open at queue 11, My Favorite People Call Me Papa. Continue through first eligible/exhaustion and S06–S12 closure before final EF assignment, exactly five SDCs and independent review. This is a persistence checkpoint, not calibration completion.
