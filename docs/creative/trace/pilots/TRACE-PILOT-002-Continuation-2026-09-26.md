@@ -85,3 +85,13 @@ Resolved friction: Etsy automatically rewrote several Vintage title queries; the
 Validation: earlier register bytes preserved exactly; run IDs unique; per-run organic counts reconcile to result rows; each decision's completed search count reconciles; frozen methodology blob remains `e6ce1dac883877455a4e915251821f4997006bbc`; diff whitespace check passed.
 
 Next: Etsy review-depth rank 1 Cat Guitarist (`TRACE-P002-OBS-ETSY-06-TR-02`), then its remaining four candidates. DTC remains at S01 queue rank 4 Support Your Local Library (`TRACE-P002-OBS-DTC-S01-04`); S02–S12 await controlling closure. Amazon remains blocked without retry. Fewer than five eligible families so far is not an insufficient-sample outcome while these pools remain unfinished.
+
+## Etsy platform closure checkpoint — 2026-09-26T17:45Z
+
+This checkpoint supersedes earlier progress counts. All 22 Etsy candidates are closed; 4 excluded and 18 quarantined, zero eligible. R01–R05 added 26 completed searches, four no-text N/A slots, and 260 reviewed results. The global register now holds 25 decisions (4 excluded, 21 quarantined), 138 completed applicable searches, 12 N/A slots, and 1,338 result rows. There are still no EF IDs or SDCs.
+
+R01's directly compared guitarist images differed; its controlling basis is the unresolved source of the distinctive photographic illustration, not generic subject recurrence. R02 retains specific multi-subject composition recurrence; R03 and R04 retain wording/punchline recurrence with differing drawings. R05 names guest artist Paul Williams, but the attribution alone does not resolve recurring wording and composition. All are research-control decisions, not infringement findings.
+
+The R01 over-cleaned title was corrected before decision; only the corrected run is counted. R02 web output contained internal horizontal rules, so result-header boundaries were used to preserve actual first-ten order. No frozen methodology change or new observation cohort was introduced.
+
+Next action is DTC S01 queue rank 4, Support Your Local Library, followed by that store's deterministic continuation until one eligible family or exhaustion. Then continue stores S02–S12 in order. Do not declare the pilot STOP-INSUFFICIENT before closing applicable selection queues.

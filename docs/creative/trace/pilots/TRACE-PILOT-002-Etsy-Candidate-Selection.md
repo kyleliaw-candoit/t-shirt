@@ -187,3 +187,9 @@ No methodology amendment is recommended from the raw Etsy stage alone. The prove
 The historical pre-origin statements and table above remain unchanged as captured. The append-only Origin Search Register now controls all 17 badge-candidate final decisions: 4 `IP-EXCLUDED`, 13 `IP-QUARANTINE`, 0 `ELIGIBLE`. The frozen badge queue is exhausted and contributes zero selections. No quota transfers, replacement observations, EF IDs, or SDCs were created.
 
 The review-depth lane remains open with its original five candidates. Its next candidate is `TRACE-P002-OBS-ETSY-06-TR-02` (missionthread Cat Guitarist). Final Etsy platform selection is not yet closed, and global decoding remains blocked by unfinished platform selection.
+
+## Controlling final Etsy selection closure — 2026-09-26T17:45Z
+
+All 22 preregistered Etsy candidates have now completed mandatory origin searches and final Gate 0. The review-depth lane is exhausted: 5 `IP-QUARANTINE`, 0 `ELIGIBLE`. Combined with the badge closure above, Etsy contributes 4 `IP-EXCLUDED`, 18 `IP-QUARANTINE`, and zero selected families across both lanes. The historical queue remains immutable; the Origin Search Register and R01–R05 supplements control the five additional decisions.
+
+No quota is transferred or replenished. No Etsy EF ID or SDC is created. Final Etsy platform selection is closed with a shortfall of six in each target lane. Global selection remains open because DTC store queues are unfinished. Continue DTC S01 at queue rank 4, Support Your Local Library.
