@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.3
+Version     : 0.4
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.4
+- Marked I002 Sloth Hiking Club as processed and linked the cross-functional customer-trust micro-moments review.
 
 v0.3
 - Added I005: AI-directed paid-ads workflow automation cycle.
@@ -293,12 +296,15 @@ This remains a hypothesis rather than an established company principle.
 
 ## I002 — Sloth Hiking Club
 
-**Status:** Inbox
+**Status:** Processed — 2026-09-26
 
 **Category:** Brand / Strategy Case Study
 
 **Source:**  
 https://slothhikingclub.com/
+
+**Processed output:**  
+[Customer Trust Micro-Moments — Cross-Functional Video Review](../strategy/Customer-Trust-Micro-Moments-Video-Review.md)
 
 ### Observation
 

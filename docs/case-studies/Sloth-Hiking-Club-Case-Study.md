@@ -4,6 +4,9 @@ owner: Knowledge Librarian
 status: Draft
 case_study_date: 2026-08-14
 perspectives: [Strategy Advisor, Brand Manager, Creative Director]
+last_updated: 2026-09-26
+related:
+  - ../strategy/Customer-Trust-Micro-Moments-Video-Review.md
 ---
 
 # Sloth Hiking Club Case Study
@@ -348,6 +351,16 @@ But our early-stage version should be more controlled:
 
 ---
 
+# 2026-09-26 Trust Micro-Moments Video Review
+
+Meg Heckman's July 2026 video, [*How to Build a Cult like E-commerce Brand with Zero Followers*](https://www.youtube.com/watch?v=gSkDBLWLfM8), adds first-party detail about Sloth Hiking Club's customer-lifecycle trust system: identity-level products, public ad-comment participation, human welcome email, customer-life storytelling, customer co-creation, permissioned customer features, and dependable publishing rhythm.
+
+The creator reports approximately $1.7 million in 18-month sales, 84,000 "fans," 250 live designs, and two unprofitable opening months. These are creator-reported and unaudited claims. They update but do not replace the earlier dated evidence in this case study.
+
+The Strategy Advisor, Brand Manager, and Creative Director jointly reviewed the video. Their stage-gated recommendations, guardrails, R019 no-priority-change decision, and TRACE v0.3 no-change decision are recorded in [Customer Trust Micro-Moments — Cross-Functional Video Review](../strategy/Customer-Trust-Micro-Moments-Video-Review.md).
+
+---
+
 # Sources Reviewed
 
 - https://slothhikingclub.com/
@@ -357,3 +370,4 @@ But our early-stage version should be more controlled:
 - https://slothhikingclub.com/products/travel-on-foot-t-shirt
 - Shop.app Sloth Hiking Club product/review listings
 - Public interviews / summaries featuring operator Chris Heckman and Sloth Hiking Club performance
+- https://www.youtube.com/watch?v=gSkDBLWLfM8 — creator video reviewed 2026-09-26
