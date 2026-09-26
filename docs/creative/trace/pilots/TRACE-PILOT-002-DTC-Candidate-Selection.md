@@ -144,3 +144,25 @@ Next, process the 12 queue heads in the frozen store order. For each one, run al
 - S10's returned H1 was `COLLECTION: ALL` even though the frozen broad apparel slug was used; the rendered grid remained apparel-only and the requested native sort was active.
 
 No methodology amendment is recommended from DTC raw capture alone. The mandatory origin stage and cross-platform family deduplication remain the controlling tests.
+
+## Controlling S01 final selection — 2026-09-26T17:50Z
+
+S01 Boredwalk closes with its fourth queued candidate, `TRACE-P002-OBS-DTC-S01-04`, Support Your Local Library: `ELIGIBLE`, provenance `MEDIUM`, item-attributable nonzero sales `YES` (132 reviews, verified exact-product entries). The first three queued candidates remain quarantined. The Origin Search Register and D01Q04 supplement control the evidence and limitations.
+
+The civic phrase alone is not treated as a distinctive quotation or copy-family signal. Reviewed alternatives use materially different layouts; Boredwalk claims in-house design authorship. No candidate-specific disputed artwork or protected-adaptation signal was observed in the bounded check. This is research eligibility, not ownership or legal clearance.
+
+Under the frozen one-family-per-store limit, S01 ranks 5–22 are not reached. No EF ID or SDC is assigned before global selection closes. Continue S02 Wicked Clothes, queue rank 1, Feel Alive.
+
+## Controlling S02 final selection — 2026-09-26T17:55Z
+
+Wicked Clothes closes with queue rank 2, `TRACE-P002-OBS-DTC-S02-02`, Live Fast, Eat Trash: `ELIGIBLE`, provenance `MEDIUM`, nonzero sales `YES`. Exact candidate artwork was visually matched to Vincent Trinidad's Threadless design, and the linked artist catalog identifies the same illustrator credited by Wicked Clothes. Cross-seller recurrence is recorded but creator-traced; other outlets receive no independent-family credit. This is not a finding that all recurring sellers have permission.
+
+Queue rank 1, Feel Alive, is `IP-QUARANTINE`; its CATSNEEZE credit alone did not resolve the specific recurring skeleton/plant composition. Its raw nonzero-sales YES is superseded by UNVERIFIED because the 200+ marker is adjacent to an artist group and the reviews are shop-wide. For selected rank 2, the separate item-specific 150+ bought in past month marker supplies corroboration; the 2K+ artist count and 7,386 shop reviews are not used.
+
+Later S02 candidates are not reached. Continue S03 INTO THE AM at Lunar Canyon, retaining its original observation and raw rank. No EF/SDC assignment yet.
+
+## Controlling S03 final selection — 2026-09-26T18:03Z
+
+INTO THE AM closes with Lunar Canyon, `TRACE-P002-OBS-DTC-S03-01`: `ELIGIBLE`, provenance `MEDIUM`, nonzero sales `YES`. Four required no-text searches are complete. The source attributes designs to its illustrator team; the nearest visual comparator is materially distinct. Brand-identical mirror pages receive no independent credit or assumed affiliation.
+
+The native 14,903-review widget mixes other products and is excluded from item counts, superseding reliance on the raw named-product aggregate. The exact Shop product review section supplies 24 ratings and dated customer entries; conflicting top-page placeholders are not used. Raw rank 8 remains a duplicate; later S03 candidates are not reached. Continue S04 Solid Threads, F Bombs Signature T-Shirt.

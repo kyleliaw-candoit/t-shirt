@@ -95,3 +95,11 @@ R01's directly compared guitarist images differed; its controlling basis is the 
 The R01 over-cleaned title was corrected before decision; only the corrected run is counted. R02 web output contained internal horizontal rules, so result-header boundaries were used to preserve actual first-ten order. No frozen methodology change or new observation cohort was introduced.
 
 Next action is DTC S01 queue rank 4, Support Your Local Library, followed by that store's deterministic continuation until one eligible family or exhaustion. Then continue stores S02–S12 in order. Do not declare the pilot STOP-INSUFFICIENT before closing applicable selection queues.
+
+## DTC S01–S03 closure checkpoint — 2026-09-26T18:03Z
+
+Three DTC stores now close with one eligible family each: Boredwalk Support Your Local Library (queue 4), Wicked Clothes Live Fast, Eat Trash (queue 2), and INTO THE AM Lunar Canyon (queue 1). Each has MEDIUM research provenance and item-specific nonzero-sales corroboration; supplements explain the basis and excluded shop/group totals. Feel Alive closes as IP-QUARANTINE.
+
+Controlling register totals: 29 candidate decisions (3 ELIGIBLE, 22 IP-QUARANTINE, 4 IP-EXCLUDED); 160 completed required searches plus 14 no-text N/A runs; 1,521 organic result records. Etsy remains closed with zero selected families; Amazon remains blocked. DTC S04–S12 remain unfinished. No expression-family IDs or SDCs assigned before final platform selection closure.
+
+Append-only register-prefix, run-ID uniqueness and per-run result-count checks pass. Frozen methodology remains unchanged. Next: S04 Solid Threads queue 1; continue store order through closure, then first five SDCs and independent calibration review if at least five families remain eligible.
