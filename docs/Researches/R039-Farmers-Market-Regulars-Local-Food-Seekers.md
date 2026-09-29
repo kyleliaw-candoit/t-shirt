@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Farmers-Market Regulars / Local-Food Seekers  
 **Recommended working label:** Farmers-Market Regulars (local-food values as an overlapping identity)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

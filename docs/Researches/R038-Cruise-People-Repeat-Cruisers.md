@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Cruise People / Repeat Cruisers  
 **Recommended working label:** Repeat Cruisers / Cruise People  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

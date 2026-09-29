@@ -1,9 +1,10 @@
 ---
 title: AI-Native 3D Niche Test — Cross-Functional Video Review
 owner: Knowledge Librarian
-status: Role Recommendations — Founder Review Pending
-version: 0.1
+status: Approved Application Note
+version: 0.2
 review_date: 2026-09-26
+updated: 2026-09-29
 source: https://www.youtube.com/watch?v=Sr0Y9CxKRGw
 source_title: How to Find a Disgustingly Profitable Niche
 source_creator: Meg Heckman
@@ -23,7 +24,7 @@ related:
 
 This document records independent Strategy Advisor, Research Analyst, and Brand Manager reviews of Meg Heckman's video, *How to Find a Disgustingly Profitable Niche*, and translates its useful ideas into stage-appropriate actions for the company.
 
-The requested Research Analyst perspective is treated here as a research function. Execution should continue through the canonical Community Analyst role unless repeated work earns a separate permanent role.
+The Research Analyst perspective is now the canonical research role. The Founder decision on 2026-09-29 renamed and expanded the existing research function; it did not create an additional parallel role.
 
 This is an application note, not a methodology revision. It does not change Founder Advantage scores, approved opportunity priorities, or current tests.
 
@@ -240,7 +241,7 @@ Preserve the approved order:
 
 Do not insert chess into the portfolio from this exercise.
 
-### 8.2 Research Analyst / Community Analyst Function
+### 8.2 Research Analyst
 
 For a selected low-Founder-Advantage pilot:
 
@@ -344,7 +345,7 @@ Durable implementation tracker: [GitHub Issue #117 — Pilot AI-native Devotion 
 | D3D-01 | **Complete now:** preserve this three-role application note | Knowledge Librarian | Current review | This document and review PR | PR checklist and Founder review | Merged note with source, decisions, owners, triggers, and evidence requirements |
 | D3D-02 | **Preserve:** do not change Founder Advantage, current methodologies, or opportunity sequence from one video | Strategy Advisor | Current review | This document | Explicit no-change statement in PR | Founder accepts, revises, or rejects the application note |
 | D3D-03 | **Pilot later:** apply the Devotion Coverage gate to the next serious opportunity with Founder Advantage 1–4/10 | Strategy Advisor | When such a candidate enters active consideration, after the approved sequence unless Founder explicitly reprioritizes | [GitHub Issue #117](https://github.com/kyleliaw-candoit/t-shirt/issues/117) | Issue remains open until trigger; checklist blocks Brand handoff | Written pass / research-further / defer / reject disposition across all six checks, including a precommitted exit rule |
-| D3D-04 | **Pilot later:** build the evidence-grounded demand and depth packet | Community Analyst, performing the requested research function | D3D-03 advances a candidate | Candidate research folder/report | Required Strategy handoff artifact | Sourced demand packet, segmented depth register, gaps, and evidence-status labels |
+| D3D-04 | **Pilot later:** build the evidence-grounded demand and depth packet | Research Analyst, performing the requested research function | D3D-03 advances a candidate | Candidate research folder/report | Required Strategy handoff artifact | Sourced demand packet, segmented depth register, gaps, and evidence-status labels |
 | D3D-05 | **Pilot later:** establish insider correction and outsider-safe brand posture | Brand Manager + Strategy Advisor | Before Brand Hypothesis Brief approval for the pilot | Candidate Brand Hypothesis Brief | Required brand gate; Founder authorizes any external outreach | Named reviewer/segment coverage, recorded corrections, authority source, voice limits, and prohibited claims |
 | D3D-06 | **Pilot later:** run a bounded concept MVV | Creative Director + existing MVV owner | D3D-04 and D3D-05 pass | Existing MVV experiment record | Normal MVV checkpoints and stop rules | Comparative behavior across distinct concepts plus insider-review outcome |
 | D3D-07 | **Review later:** decide whether AI substitution worked and enforce the exit decision | Strategy Advisor + Brand Manager | Precommitted checkpoint or first credible low-Founder-Advantage pilot conclusion, whichever comes first | Pilot retrospective linked from [GitHub Issue #117](https://github.com/kyleliaw-candoit/t-shirt/issues/117) | Record test credibility, rework, correction burden, resonance, demand, economics, residual authenticity risk, and any attempt to move the goalposts | Continue / bounded retest / pivot decision with reasons |
@@ -360,7 +361,7 @@ The linked implementation issue is the durable reminder. These actions are event
 - Do not revise Research, Strategy, Brand, MVV, TRACE, or AI Operating System methodology from this video alone.
 - Do not change existing Founder Advantage scores.
 - Do not make chess a portfolio priority without its own research and Strategy decision.
-- Do not create a permanent Research Analyst role; use the existing Community Analyst method unless repeated execution earns specialization.
+- Do not create a second parallel research role. The Research Analyst is the renamed and expanded successor to the existing research function; Strategy retains commercial interpretation and decisions.
 - Do not scrape private groups or violate platform/community rules.
 - Do not copy marketplace slogans, viral phrases, memes, distinctive customer wording, creator catchphrases, or successful visual systems.
 - Do not automate public-facing insider voice before human correction and escalation rules are proven.

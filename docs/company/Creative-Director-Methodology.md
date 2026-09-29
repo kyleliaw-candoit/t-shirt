@@ -43,7 +43,7 @@ The objective is to create products people genuinely want to own, wear, share, a
 
 # 3. Role Boundary
 
-The Community Analyst explains **how the identity works**.
+The Research Analyst explains **how the identity works**.
 
 The Strategy Advisor determines **where the commercial opportunity is**.
 

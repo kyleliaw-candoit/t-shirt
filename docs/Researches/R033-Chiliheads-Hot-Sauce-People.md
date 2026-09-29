@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Chiliheads / Hot-Sauce People  
 **Recommended working label:** Chiliheads (with eater, grower, maker, and collector subgroups)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

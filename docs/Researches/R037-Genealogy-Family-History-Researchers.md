@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Genealogy / Family-History Researchers  
 **Recommended working label:** Genealogists / Family-History Researchers  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

@@ -107,4 +107,4 @@ The calibrated serious-candidate set entering Pass 2 is:
 
 Tier B identities remain available as reserves and future portfolio replacements rather than being discarded.
 
-No blocking additional Community Analyst research is required before Pass 2.
+No blocking additional Research Analyst research is required before Pass 2.

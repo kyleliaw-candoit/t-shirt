@@ -95,7 +95,7 @@ It is **not** evidence that all discovery identities belong together commerciall
 
 ### Unresearched adjacency hypotheses
 
-Potential future Community Analyst targets:
+Potential future Research Analyst targets:
 
 - **rockhounds / mineral hunters**,
 - **fossil hunters**,

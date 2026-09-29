@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Knitters / Crocheters / Fiber Makers  
 **Recommended working label:** Knitters & Crocheters  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

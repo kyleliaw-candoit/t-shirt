@@ -133,7 +133,7 @@ Beach People remain commercially attractive, but only if the test deliberately a
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required.
+No blocking Research Analyst research is required.
 
 ---
 
@@ -224,7 +224,7 @@ R012 deserves serious consideration for the eventual test portfolio because it c
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is required.
+No blocking additional Research Analyst research is required.
 
 ---
 
@@ -314,7 +314,7 @@ Running is strategically attractive in absolute terms but currently unattractive
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is recommended.
+No blocking additional Research Analyst research is recommended.
 
 ---
 
@@ -404,7 +404,7 @@ Gardening deserves to remain in the candidate pool, but only with a disciplined 
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is required.
+No blocking additional Research Analyst research is required.
 
 ---
 
@@ -499,7 +499,7 @@ The commercial and creative structure is strong enough to keep R015 alive, but a
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required for Pass 1.
+No blocking Research Analyst research is required for Pass 1.
 
 If R015 reaches the final test portfolio, lightweight insider validation should be treated as a pre-launch execution step because Founder Advantage is 1/10.
 

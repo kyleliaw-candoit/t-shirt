@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Railfans / Train People  
 **Recommended working label:** Railfans (regional labels preserved)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

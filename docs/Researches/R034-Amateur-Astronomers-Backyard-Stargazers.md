@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Amateur Astronomers / Backyard Stargazers  
 **Recommended working label:** Amateur Astronomers (with casual stargazers adjacent)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

@@ -2,22 +2,34 @@
 ===============================================================================
 Document    : Research Methodology.md
 Owner       : Knowledge Librarian
-Primary User: Community Analyst
-Version     : 0.2
+Primary User: Research Analyst
+Version     : 0.3
 Status      : Living Document
 Created     : 2026-08-09
-Updated     : 2026-08-09
+Updated     : 2026-09-29
 
 Purpose
 -------
-Defines the standard methodology used by the Community Analyst to understand
-identities through communities and other observable evidence. The methodology
-emphasizes evidence-based observation, clear role boundaries, and continuous
-learning.
+Defines the standard methodology used by the Research Analyst to understand
+identities through communities and other observable evidence, and to build the
+market-evidence layer required for commercial decisions. The methodology
+emphasizes evidence-based observation, provenance, clear role boundaries, and
+continuous learning.
 
 ===============================================================================
 
 Change Log
+
+v0.3
+- Expanded the Research Analyst's evidence-gathering scope to include
+  population, marketplace, competition, purchase-proxy, audience-overlap,
+  reachability, and apparel-signaling evidence.
+- Preserved the boundary between Research evidence and Strategy interpretation,
+  prioritization, adjacency, and go / no-go recommendations.
+- Replaced the Community Research Report as the prospective standard output
+  with an Identity and Market Evidence Report.
+- Clarified that legacy reports remain valid and should receive targeted
+  evidence supplements only when a current decision requires them.
 
 v0.2
 - Clarified that the unit of commercial opportunity is the identity, while
@@ -41,7 +53,7 @@ v0.1
 
 ## 1. Purpose
 
-This document defines the standard methodology used by the Community Analyst to research identities through communities and other observable evidence.
+This document defines the standard methodology used by the Research Analyst to research identities, communities, and observable market conditions.
 
 The objective is not merely to collect information.
 
@@ -55,19 +67,21 @@ Communities are especially useful because they make otherwise difficult-to-obser
 
 However, the eventual commercial opportunity does not require the identity group to form a highly cohesive social community.
 
-Accordingly, this methodology uses communities as a primary research lens while focusing on understanding the underlying identity rather than recommending business actions.
+Accordingly, this methodology uses communities as a primary identity-research lens and adds structured population, marketplace, competition, purchase, reachability, and signaling evidence without recommending business actions.
 
 ---
 
 # 2. Scope
 
-This methodology applies only to the Community Analyst.
+This methodology applies only to the Research Analyst.
 
-Other AI roles may consume Community Research Reports but should not modify the research methodology without evidence gathered through repeated execution.
+Other AI roles may consume Identity and Market Evidence Reports but should not modify the research methodology without evidence gathered through repeated execution.
 
-The Community Analyst answers one fundamental question:
+The Research Analyst answers two fundamental questions:
 
 > **"How does this identity work, and what does its surrounding community reveal about it?"**
+
+> **"What observable market evidence exists, what does it establish, and what remains uncertain?"**
 
 Depending on the identity being studied, the surrounding community may be:
 
@@ -114,6 +128,8 @@ Analysts should distinguish clearly between:
 - Evidence
 - Observation
 - Inference
+- Hypothesis
+- Unknown
 
 The final report should make that distinction easy for downstream readers.
 
@@ -123,7 +139,7 @@ The final report should make that distinction easy for downstream readers.
 
 Separate observation from recommendation.
 
-The Community Analyst describes.
+The Research Analyst describes.
 
 The Strategy Advisor recommends.
 
@@ -171,13 +187,21 @@ These variables may reinforce one another, but they are not interchangeable.
 
 # 4. Research Workflow
 
-Every community research project follows the same high-level workflow.
+Every research project follows the same high-level workflow.
 
-Identity / Community Definition
+Research Target and Decision Question
 
 ↓
 
-Evidence Collection
+Evidence Plan
+
+↓
+
+Identity / Community Evidence
+
+↓
+
+Market Evidence
 
 ↓
 
@@ -193,7 +217,7 @@ Iteration Three
 
 ↓
 
-Community Research Report
+Identity and Market Evidence Report
 
 ↓
 
@@ -211,7 +235,7 @@ Insights from later research may improve earlier methodology.
 
 # 5. Standard Research Outputs
 
-Every Community Research Report should contain a consistent structure.
+Every Identity and Market Evidence Report should contain a consistent structure.
 
 Standard sections include:
 
@@ -224,9 +248,19 @@ Standard sections include:
 - Identity Fault Lines
 - Community Boundary Assessment
 - Adjacent Communities
+- Population and Market-Size Evidence
+- Marketplace, Competitor, and Substitute Evidence
+- Purchase-Proxy and Identity-Signaling Evidence
+- Audience-Overlap and Reachability Evidence
+- Evidence Gaps, Limitations, and Unknowns
 - Methodology Notes
 
-A consistent report structure improves comparison across identities and communities.
+A consistent report structure improves comparison across identities, communities, and market evidence.
+
+Legacy reports produced under the earlier scope remain valid records of the
+evidence collected at that time. They should not be rewritten merely to appear
+complete under the expanded standard. Add a targeted supplement when a current
+Strategy decision requires missing market evidence.
 
 ---
 
@@ -319,7 +353,7 @@ Research should be driven by its usefulness to the final analysis rather than by
 
 ### The "So What?" Test
 
-Before collecting information, the Community Analyst should ask:
+Before collecting information, the Research Analyst should ask:
 
 > **"So what? How could knowing this affect our scoring, identity assessment, community boundaries, or downstream analysis?"**
 
@@ -327,7 +361,7 @@ If the analyst cannot identify a meaningful use for the information, it generall
 
 This prevents research from becoming an open-ended cultural study.
 
-The Community Analyst is not attempting to document everything interesting about an identity or community.
+The Research Analyst is not attempting to document everything interesting about an identity or community.
 
 The analyst is attempting to understand the aspects that matter to the company's research objectives.
 
@@ -390,7 +424,7 @@ Examples might include:
 - experience-focused versus consumption-focused participation,
 - hobbyist versus lifestyle participation.
 
-The Community Analyst should identify potentially meaningful fault lines without assuming that every difference represents a separate community.
+The Research Analyst should identify potentially meaningful fault lines without assuming that every difference represents a separate community.
 
 The most important question is:
 
@@ -412,7 +446,7 @@ For example, someone may enjoy café-style matcha lattes while also owning tradi
 
 Therefore, identifying a fault line does not imply that every individual belongs exclusively to one side.
 
-The Community Analyst should consider both:
+The Research Analyst should consider both:
 
 - meaningful differences between groups, and
 - meaningful overlap between groups.
@@ -421,7 +455,7 @@ The Community Analyst should consider both:
 
 ### Adjacent Communities
 
-The Community Analyst should identify proximate or adjacent identity communities when evidence suggests meaningful overlap.
+The Research Analyst should identify proximate or adjacent identity communities when evidence suggests meaningful overlap.
 
 The purpose is not to recommend brand expansion.
 
@@ -433,7 +467,7 @@ Adjacent communities may later become:
 - inputs to Strategy Advisor hypotheses,
 - potential comparisons across research reports.
 
-The Community Analyst should describe adjacency without deciding whether the business should pursue it.
+The Research Analyst should describe adjacency without deciding whether the business should pursue it.
 
 ---
 
@@ -523,7 +557,7 @@ The current scoring framework evaluates:
 - Differentiation Potential
 - Commercial Validation
 
-The Community Analyst should score each criterion using the evidence available at the time of research.
+The Research Analyst should score each criterion using the evidence available at the time of research.
 
 The methodology does not require artificial precision.
 
@@ -611,7 +645,7 @@ Relevant considerations may include:
 - sustained curiosity,
 - existing participation.
 
-The Community Analyst drafts the Founder Advantage score based on available evidence.
+The Research Analyst drafts the Founder Advantage score based on available evidence.
 
 The founder then reviews and may approve or adjust the score.
 
@@ -621,7 +655,7 @@ The founder's assessment should carry substantial weight because the founder pos
 
 Founder Advantage was initially treated primarily as an analyst-generated score.
 
-Research experience demonstrated that the founder has information unavailable to the Community Analyst.
+Research experience demonstrated that the founder has information unavailable to the Research Analyst.
 
 Founder review therefore became a required part of the scoring process.
 
@@ -645,7 +679,7 @@ The analyst should not:
 - reduce scores because the analyst dislikes a community,
 - attempt to predict strategy decisions through scoring.
 
-The Strategy Advisor, not the Community Analyst, determines how scores should influence business decisions.
+The Strategy Advisor, not the Research Analyst, determines how scores should influence business decisions.
 
 ---
 
@@ -742,7 +776,7 @@ Possible conclusions include:
 - meaningful subgroups exist but can remain within one research target,
 - one or more fault lines appear strong enough to justify separate future research.
 
-The Community Analyst may recommend splitting a research target when evidence suggests generally separate identities or identity communities.
+The Research Analyst may recommend splitting a research target when evidence suggests generally separate identities or identity communities.
 
 The analyst does **not** decide whether those identities should share a brand.
 
@@ -752,7 +786,7 @@ That decision belongs downstream.
 
 # 11. Research Sources and Evidence Quality
 
-The Community Analyst should use multiple evidence types whenever practical.
+The Research Analyst should use multiple evidence types whenever practical.
 
 Potential sources include:
 
@@ -765,7 +799,12 @@ Potential sources include:
 - creator content,
 - industry publications,
 - cultural publications,
-- brand activity.
+- brand activity,
+- public demographic and population sources,
+- marketplace listings, reviews, ratings, and bestseller indicators,
+- competitor stores and advertising libraries,
+- search and audience-reachability evidence,
+- direct transaction or preorder evidence when available.
 
 Communities remain especially valuable research environments because they expose identity characteristics that may otherwise be difficult to observe directly.
 
@@ -809,7 +848,7 @@ Until then, awareness and reasonable cross-checking are sufficient.
 
 # 12. Research Quality Standards
 
-A Community Research Report should be:
+An Identity and Market Evidence Report should be:
 
 ### Evidence-Based
 
@@ -841,11 +880,11 @@ The methodology should improve through repeated application rather than theoreti
 
 ---
 
-# 13. Community Analyst Boundary
+# 13. Research Analyst Boundary
 
-The Community Analyst's core responsibility can be summarized as:
+The Research Analyst's core responsibility can be summarized as:
 
-> **"Understand how the identity works and what its surrounding community reveals about it."**
+> **"Build decision-ready evidence about the identity, its surrounding community, and its observable market without making the commercial decision."**
 
 The analyst may:
 
@@ -853,6 +892,10 @@ The analyst may:
 - identify adjacent identities and communities,
 - identify underserved-looking groups as observations,
 - identify identity and community boundaries,
+- document population and market-size evidence with definitions and limitations,
+- inventory competitors, substitutes, marketplace supply, and positioning patterns,
+- collect purchase proxies and direct identity-apparel transaction evidence when observable,
+- document audience overlap, channel reachability, and apparel-signaling evidence,
 - identify research questions.
 
 The analyst should not answer:
@@ -881,7 +924,7 @@ Every AI role should stop at the boundary of its responsibility.
 
 # 14. Methodology Notes
 
-Every Community Research Report should contain a short **Methodology Notes** section.
+Every Identity and Market Evidence Report should contain a short **Methodology Notes** section.
 
 The purpose is to capture observations about the research process itself.
 
@@ -907,7 +950,7 @@ Changes should be driven primarily by execution.
 
 The preferred learning loop is:
 
-Community Analyst
+Research Analyst
 
 ↓
 
@@ -927,7 +970,7 @@ Future Research Questions
 
 ↓
 
-Community Analyst
+Research Analyst
 
 This feedback loop allows strategy to improve research questions without allowing strategy to contaminate research conclusions.
 
@@ -1009,6 +1052,8 @@ Potential future improvements include:
 - identification of criteria that prove to be poor predictors,
 - relationships between mainstream versus niche identities and commercial outcomes,
 - relationships between community popularity and identity-signaling potential.
+- calibration of population, marketplace, competition, purchase-proxy, and
+  reachability evidence against actual MVV results.
 
 In particular, after sufficient products have been launched, the company should retrospectively examine whether the current research scores meaningfully correlate with real commercial outcomes.
 
@@ -1030,12 +1075,16 @@ A successful research process should:
 4. Understand identity expression and signaling behavior.
 5. Distinguish identity strength from community cohesion.
 6. Distinguish ecosystem spending from identity-signaling commercial evidence where relevant.
-7. Gather only evidence that matters to scoring and analysis.
-8. Produce comparable scores.
-9. Document uncertainty.
-10. Hand the evidence to the Strategy Advisor.
-11. Capture methodology lessons.
-12. Move on to the next research target.
+7. Document population and market-size evidence with definitions and limitations.
+8. Inventory marketplace supply, competitors, substitutes, and positioning patterns.
+9. Separate activity, discussion, ecosystem spending, purchase proxies, and direct apparel demand.
+10. Document audience overlap, channel reachability, and apparel-signaling evidence.
+11. Gather only evidence that matters to scoring and analysis.
+12. Produce comparable scores and evidence summaries.
+13. Document uncertainty and unresolved evidence gaps.
+14. Hand the evidence to the Strategy Advisor for commercial interpretation.
+15. Capture methodology lessons.
+16. Move on to the next research target.
 
 The objective is not perfect research.
 

@@ -69,7 +69,7 @@ An inbox item does not need to be fully understood when it is captured.
 
 Interesting ideas frequently emerge while another AI role is performing its primary job.
 
-For example, a commercially interesting brand may surface while the Community Analyst is researching a community.
+For example, a commercially interesting brand may surface while the Research Analyst is researching a community.
 
 Without an inbox, there are two undesirable outcomes.
 
@@ -111,7 +111,7 @@ The Knowledge Librarian does not need to analyze every item when it is captured.
 Any participant may contribute an Inspiration Inbox item, including:
 
 - Founder
-- Community Analyst
+- Research Analyst
 - Strategy Advisor
 - Brand Manager
 - Creative Director
@@ -342,7 +342,7 @@ The case therefore raises questions about opportunity discovery methodology.
 
 ### Potential Questions
 
-For Community Analyst:
+For Research Analyst:
 
 - Are there meaningful identity fault lines within the community?
 - Which groups appear disproportionately visible in public discussions?
@@ -380,7 +380,7 @@ A potentially useful recurring Strategy Advisor question is:
 
 > **"Whose identity or experience is poorly represented by the dominant version of this community?"**
 
-This question should remain a strategic hypothesis-generation tool rather than becoming a mandatory Community Analyst research requirement unless repeated evidence demonstrates otherwise.
+This question should remain a strategic hypothesis-generation tool rather than becoming a mandatory Research Analyst research requirement unless repeated evidence demonstrates otherwise.
 
 ---
 

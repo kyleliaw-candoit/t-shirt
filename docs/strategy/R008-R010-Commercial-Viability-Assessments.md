@@ -199,7 +199,7 @@ Grandparents remain worth testing only if the company deliberately avoids enteri
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required. If R008 reaches the final test portfolio, lightweight concept validation with actual grandparents across different ages and life stages would be useful before creative production.
+No blocking Research Analyst research is required. If R008 reaches the final test portfolio, lightweight concept validation with actual grandparents across different ages and life stages would be useful before creative production.
 
 ---
 
@@ -361,7 +361,7 @@ Roller Skaters deserve continued consideration, but the opportunity should be fr
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required for Pass 1. If R009 reaches the final portfolio, lightweight interviews or concept checks with active adult skaters would materially improve authenticity, especially before using culturally specific rink or regional references.
+No blocking Research Analyst research is required for Pass 1. If R009 reaches the final portfolio, lightweight interviews or concept checks with active adult skaters would materially improve authenticity, especially before using culturally specific rink or regional references.
 
 ---
 
@@ -532,7 +532,7 @@ It should remain a serious candidate for the eventual 2–3 opportunity portfoli
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is required.
+No blocking additional Research Analyst research is required.
 
 If R010 remains a finalist after portfolio calibration, the most useful next learning should come from real creative and market testing rather than more desk research.
 
@@ -546,4 +546,4 @@ The three identities should not be ranked by raw market size alone.
 - **R009 Roller Skaters** has strong identity depth and creative upside, with plausible whitespace beneath a generic retro-heavy marketplace. It advances with a sharper adult-skater framing and explicit cultural guardrails.
 - **R010 Remote Working Parents** has the weakest direct merchandise validation but the strongest combination of open territory, Founder Advantage, testability, and learning value. It advances as the clearest experimental opportunity in this batch.
 
-No blocking Community Analyst research escalation is recommended for any of R008–R010 at this stage.
+No blocking Research Analyst research escalation is recommended for any of R008–R010 at this stage.

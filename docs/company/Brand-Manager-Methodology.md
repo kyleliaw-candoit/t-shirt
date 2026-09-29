@@ -67,14 +67,14 @@ Brand Manager may:
 Brand Manager does **not**:
 
 - reopen Strategy Advisor portfolio selection without a material downstream contradiction or blocker,
-- replace Community Analyst identity research,
+- replace Research Analyst identity research,
 - overwrite research evidence to fit a clever idea,
 - create exhaustive competitor databases,
 - decide visual identity systems, typography, illustration style, composition, product graphics, or final creative execution,
 - build a complete long-term brand book before the first market test,
 - make final founder decisions.
 
-The Community Analyst explains **how the identity actually works**.
+The Research Analyst explains **how the identity actually works**.
 
 The Strategy Advisor explains **where the commercial opportunity is**.
 
@@ -319,7 +319,7 @@ Possible sources include:
 - social profiles and customer-facing brand pages,
 - adjacent lifestyle brands.
 
-Do not duplicate Community Analyst primary research.
+Do not duplicate Research Analyst primary research.
 
 ### Research Stop Rule
 

@@ -1424,7 +1424,7 @@ The following sources informed the three R004 research iterations and should be 
 
 **R004 Community Research: COMPLETE**
 
-The Community Analyst phase is complete.
+The Research Analyst phase is complete.
 
 Any subsequent judgment about:
 

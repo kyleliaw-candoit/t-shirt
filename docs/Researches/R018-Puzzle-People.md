@@ -145,7 +145,7 @@ Within identity culture, this appears as language such as:
 - zone out,
 - and “I’ll just do a few pieces.”
 
-The Community Analyst does not treat mental-health benefit claims as proven commercial facts; the relevant observation is that participants themselves commonly assign calming and restorative meaning to the activity.
+The Research Analyst does not treat mental-health benefit claims as proven commercial facts; the relevant observation is that participants themselves commonly assign calming and restorative meaning to the activity.
 
 ---
 
@@ -643,7 +643,7 @@ Final locked scores:
 > **Creative Leverage: 19/20**  
 > **Founder Advantage: 2/10**
 
-All Community Analyst findings and scores are locked after Iteration Three.
+All Research Analyst findings and scores are locked after Iteration Three.
 
 ---
 

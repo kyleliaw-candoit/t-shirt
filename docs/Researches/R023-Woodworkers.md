@@ -4,7 +4,7 @@
 
 **Research ID:** R023  
 **Community:** Woodworkers  
-**Status:** Final Community Analyst report  
+**Status:** Final Research Analyst report
 **Iterations completed:** 3  
 **Founder Advantage:** Pending founder review
 

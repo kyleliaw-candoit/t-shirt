@@ -4,7 +4,7 @@
 Document    : R001 - Matcha Enthusiasts.md
 Research ID : R001
 Community   : Matcha Enthusiasts
-Owner       : Community Analyst
+Owner       : Research Analyst
 Version     : 1.0
 Status      : Completed Research
 Purpose     : Preserves the final findings, scores, and methodology learnings
@@ -85,7 +85,7 @@ This finding contributed to the later methodology decision to treat **Insider La
 
 ## Founder Advantage
 
-**Initial Community Analyst Draft: 7 / 10**
+**Initial Research Analyst Draft: 7 / 10**
 
 Founder Advantage was intentionally separated from the Community Score.
 
@@ -262,7 +262,7 @@ The traditional/modern distinction represents a meaningful internal fault line, 
 
 Future research may examine particular subgroups separately if strategic questions require greater resolution.
 
-The Community Analyst should make such recommendations based on identity boundaries, not commercial attractiveness.
+The Research Analyst should make such recommendations based on identity boundaries, not commercial attractiveness.
 
 ---
 
@@ -305,7 +305,7 @@ The broader commercial lesson that emerged later in the project was that identit
 - "I need this."
 - "This is actually a matcha shirt whose design style I like."
 
-This creative principle was not part of the Community Analyst's scoring responsibility, but R001 helped establish the community evidence from which later creative work could operate.
+This creative principle was not part of the Research Analyst's scoring responsibility, but R001 helped establish the community evidence from which later creative work could operate.
 
 ---
 
@@ -323,7 +323,7 @@ R001 identified several potentially adjacent communities, including:
 
 These adjacencies were documented as observations.
 
-The Community Analyst did not determine whether the company should commercially pursue them.
+The Research Analyst did not determine whether the company should commercially pursue them.
 
 That responsibility belongs to the Strategy Advisor.
 
@@ -405,7 +405,7 @@ Founder Advantage provides useful information that cannot be captured through co
 
 It was retained as a separate score.
 
-The Community Analyst drafts the assessment.
+The Research Analyst drafts the assessment.
 
 The founder reviews and may adjust it.
 
@@ -467,7 +467,7 @@ This became a general principle for subsequent research.
 
 # 12. Strategic Questions Created by R001
 
-The Community Analyst does not answer these questions.
+The Research Analyst does not answer these questions.
 
 They are preserved as potential inputs to downstream Strategy Advisor work.
 

@@ -371,7 +371,7 @@ Brand Manager should receive, at minimum:
 - this Final Opportunity Portfolio Recommendation,
 - founder constraints and known Founder Advantage context.
 
-Brand Manager may conduct additional brand / competitor / positioning research when it materially improves a consumer-facing positioning decision, provided that work does not duplicate Community Analyst primary identity research or silently redefine Strategy Advisor conclusions.
+Brand Manager may conduct additional brand / competitor / positioning research when it materially improves a consumer-facing positioning decision, provided that work does not duplicate Research Analyst primary identity research or silently redefine Strategy Advisor conclusions.
 
 The Strategy Advisor defines **which opportunity deserves a test and the strategic territory in which to compete**.
 
