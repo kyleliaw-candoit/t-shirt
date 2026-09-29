@@ -594,7 +594,7 @@ R019 provides an important methodology lesson:
 
 > **A market segment and an identity are not the same thing.**
 
-Demographic or frequency categories may be useful evidence, but the Community Analyst must look for:
+Demographic or frequency categories may be useful evidence, but the Research Analyst must look for:
 
 - self-recognition,
 - shared meaning,
@@ -626,7 +626,7 @@ Final locked scores:
 > **Creative Leverage: 19/20**  
 > **Founder Advantage: 7/10**
 
-All Community Analyst findings and scores are locked after Iteration Three.
+All Research Analyst findings and scores are locked after Iteration Three.
 
 ---
 

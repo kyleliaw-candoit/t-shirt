@@ -152,9 +152,9 @@ Avoid scoring every secondary value layer numerically.
 
 ---
 
-## Community Analyst Role Boundary
+## Research Analyst Role Boundary
 
-The Community Analyst should not be asked to decide whether an identity is a good T-shirt market.
+The Research Analyst should not be asked to decide whether an identity is a good T-shirt market.
 
 Where relevant, Community Research should collect descriptive evidence about:
 
@@ -165,7 +165,7 @@ Where relevant, Community Research should collect descriptive evidence about:
 - whether identity holders already use apparel for public signaling,
 - recurring gifting, event, club, meetup, travel, or commemorative contexts.
 
-The Community Analyst describes the evidence.
+The Research Analyst describes the evidence.
 
 The Strategy Advisor interprets its commercial significance.
 
@@ -173,7 +173,7 @@ The Strategy Advisor interprets its commercial significance.
 
 ## Candidate-Prioritization Use
 
-When deciding which identities deserve Community Analyst research, Strategy may use the following lightweight pre-research screens:
+When deciding which identities deserve Research Analyst research, Strategy may use the following lightweight pre-research screens:
 
 1. **Identity plausibility** — does this plausibly function as part of self-concept?
 2. **Recognition density** — are there likely rituals, behaviors, language, tensions, competence signals, objects, or insider truths?

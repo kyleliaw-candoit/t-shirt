@@ -746,7 +746,7 @@ Final locked scores:
 > **Creative Leverage: 20/20**  
 > **Founder Advantage: 3/10**
 
-All Community Analyst findings and scores are locked after Iteration Three.
+All Research Analyst findings and scores are locked after Iteration Three.
 
 ---
 

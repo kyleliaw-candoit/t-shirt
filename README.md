@@ -159,18 +159,22 @@ Rather than thinking of AI as a single assistant, the company is designed around
 
 Current roles include:
 
-### Community Analyst
+### Research Analyst
 
-Researches communities and produces structured research reports.
+Builds structured identity, community, and market-evidence reports.
 
 Responsible for:
 
-* community analysis
+* identity and community analysis
+* population and market-size evidence
+* marketplace, competition, and substitute evidence
+* purchase proxies and apparel-signaling evidence
+* audience overlap and reachability evidence
 * scoring
 * identifying identity boundaries
-* documenting evidence
+* documenting provenance, limitations, and unknowns
 
-The Community Analyst **does not** make branding decisions.
+The Research Analyst **does not** make commercial-priority, go/no-go, brand-architecture, or branding decisions.
 
 ---
 
@@ -230,13 +234,13 @@ Responsible for:
 
 ---
 
-# Community Research Methodology
+# Identity and Market Research Methodology
 
 Every potential community is evaluated using the same framework.
 
 ## Community Score
 
-Measures whether the community is worth pursuing.
+Describes the identity and community evidence used by downstream strategy. It does not by itself decide whether the opportunity is worth pursuing.
 
 Current criteria include:
 
@@ -269,9 +273,9 @@ This score is proposed by AI but ultimately approved by the founder.
 
 ---
 
-# Community Analyst Responsibilities
+# Research Analyst Responsibilities
 
-The Community Analyst's job is to understand communities—not design brands.
+The Research Analyst's job is to build decision-ready evidence—not choose the strategy or design the brand.
 
 Responsibilities include:
 
@@ -280,9 +284,15 @@ Responsibilities include:
 * identifying identity fault lines
 * identifying adjacent communities
 * determining whether a research scope should be divided into multiple communities
+* documenting population and market-size evidence
+* inventorying competitors, substitutes, and marketplace supply
+* separating participation and discussion from purchase and apparel-signaling evidence
+* documenting audience overlap, channel reachability, evidence limitations, and unknowns
 
-The Community Analyst intentionally stops before making:
+The Research Analyst intentionally stops before making:
 
+* commercial-priority and go/no-go decisions
+* brand-architecture decisions
 * branding decisions
 * positioning decisions
 * product decisions

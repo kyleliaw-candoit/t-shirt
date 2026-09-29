@@ -1197,7 +1197,7 @@ Existing fandom merchandise suggests that parent + fandom identity combinations 
 
 However, this idea was deliberately parked rather than allowed to bias the R005 research.
 
-It should be evaluated separately by the appropriate Community Analyst and Strategy Advisor roles.
+It should be evaluated separately by the appropriate Research Analyst and Strategy Advisor roles.
 
 ---
 
@@ -1274,7 +1274,7 @@ R005 exposed the clearest methodology issue identified during the five validatio
 
 A community may spend heavily without all spending validating the same commercial behavior.
 
-Future Community Analysts should distinguish where possible among:
+Future Research Analysts should distinguish where possible among:
 
 - spending on the underlying activity or source,
 - official merchandise,
@@ -1555,7 +1555,7 @@ The following sources informed the three R005 research iterations and should be 
 
 **Initial Community Research Methodology Validation Phase: COMPLETE**
 
-The Community Analyst should now use the established methodology operationally on additional identity communities rather than continuing to redesign the framework without repeated evidence of failure.
+The Research Analyst should now use the established methodology operationally on additional identity communities rather than continuing to redesign the framework without repeated evidence of failure.
 
 Subsequent decisions about:
 

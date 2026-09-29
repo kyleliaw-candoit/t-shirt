@@ -4,7 +4,7 @@
 Document    : R002 - Vietnamese Coffee.md
 Research ID : R002
 Community   : Vietnamese Coffee Culture
-Owner       : Community Analyst
+Owner       : Research Analyst
 Version     : 1.0
 Status      : Completed Research
 Purpose     : Preserves the final findings, scores, founder assessment,
@@ -51,7 +51,7 @@ The final **Community Score was 77/100**.
 
 Creative Leverage was strong at **18/20**.
 
-Founder Advantage was initially drafted by the Community Analyst at **7/10** and later adjusted by the founder to **8/10** based on additional firsthand context.
+Founder Advantage was initially drafted by the Research Analyst at **7/10** and later adjusted by the founder to **8/10** based on additional firsthand context.
 
 The research also generated an important downstream strategic hypothesis:
 
@@ -61,7 +61,7 @@ A mainstream community may offer greater market size and broader recognition.
 
 A more niche community may offer stronger differentiation, specificity, or engagement.
 
-The Community Analyst does not determine which is commercially superior.
+The Research Analyst does not determine which is commercially superior.
 
 That question belongs to the Strategy Advisor.
 
@@ -120,7 +120,7 @@ However, insider language appeared less central than in communities built heavil
 
 **8 / 10 — Founder Approved**
 
-The Community Analyst initially drafted **7 / 10**.
+The Research Analyst initially drafted **7 / 10**.
 
 The founder revised the score to **8 / 10** based on additional firsthand context.
 
@@ -142,7 +142,7 @@ Relevant limitations remain:
 
 This reinforces an important methodology rule:
 
-> **The Community Analyst drafts Founder Advantage. The founder reviews and may adjust it.**
+> **The Research Analyst drafts Founder Advantage. The founder reviews and may adjust it.**
 
 ---
 
@@ -331,7 +331,7 @@ R002 concluded that **Vietnamese Coffee Culture is sufficiently cohesive to rema
 
 Observed fault lines are meaningful but do not currently justify separate community research.
 
-The Community Analyst should continue to monitor:
+The Research Analyst should continue to monitor:
 
 - traditional versus modern specialty participation,
 - diaspora versus non-Vietnamese enthusiasm,
@@ -362,7 +362,7 @@ This distinction is important.
 
 Strong identity expression does not require a mature T-shirt ecosystem.
 
-The Community Analyst should document the current form of expression without assuming what it means commercially.
+The Research Analyst should document the current form of expression without assuming what it means commercially.
 
 ---
 
@@ -384,7 +384,7 @@ Identity-signaling apparel appeared comparatively less mature.
 
 This produced a **Commercial Validation score of 12/20**.
 
-Importantly, the Community Analyst does **not** interpret low apparel penetration as automatically positive or negative.
+Importantly, the Research Analyst does **not** interpret low apparel penetration as automatically positive or negative.
 
 Possible downstream explanations include:
 
@@ -511,7 +511,7 @@ May offer:
 
 These differences may translate into commercial success through different mechanisms.
 
-This is a **Strategy Advisor hypothesis**, not a Community Analyst conclusion.
+This is a **Strategy Advisor hypothesis**, not a Research Analyst conclusion.
 
 Future product and advertising experiments can test it.
 
@@ -536,7 +536,7 @@ Potential creative raw material includes:
 - coffee humor,
 - recognizable visual forms.
 
-The Community Analyst does not convert these into product concepts.
+The Research Analyst does not convert these into product concepts.
 
 That belongs to downstream creative roles.
 
@@ -557,7 +557,7 @@ Observed adjacent communities include:
 
 These are observations only.
 
-The Community Analyst does not recommend whether the brand should expand into them.
+The Research Analyst does not recommend whether the brand should expand into them.
 
 ---
 
@@ -589,7 +589,7 @@ It could reflect:
 - cultural norms,
 - or underserved opportunity.
 
-The Community Analyst should not choose among these explanations.
+The Research Analyst should not choose among these explanations.
 
 ### Community cohesion is moderately high.
 
@@ -599,13 +599,13 @@ Different entry points exist, but the community appears sufficiently interconnec
 
 # 14. Methodology Learnings from R002
 
-## Community Analyst and Strategy Advisor Form a Feedback Loop
+## Research Analyst and Strategy Advisor Form a Feedback Loop
 
 R002 reinforced that the research process should not be purely linear.
 
 A healthier organizational loop is:
 
-**Community Analyst**
+**Research Analyst**
 
 ↓
 
@@ -625,7 +625,7 @@ A healthier organizational loop is:
 
 ↓
 
-**Community Analyst**
+**Research Analyst**
 
 The Strategy Advisor can generate better questions without contaminating the original research.
 
@@ -637,7 +637,7 @@ Vietnamese coffee's stronger cultural anchoring is not inherently positive or ne
 
 Likewise, Matcha's broader mainstream adoption is not inherently positive or negative.
 
-The Community Analyst should describe these characteristics.
+The Research Analyst should describe these characteristics.
 
 The Strategy Advisor determines their commercial implications.
 
@@ -666,13 +666,13 @@ Therefore:
 
 R002 strongly validated founder review of Founder Advantage.
 
-Additional firsthand information materially improved the score from the Community Analyst's draft of 7/10 to the founder-approved 8/10.
+Additional firsthand information materially improved the score from the Research Analyst's draft of 7/10 to the founder-approved 8/10.
 
 ---
 
 # 15. Strategic Questions Created by R002
 
-The Community Analyst does not answer the following questions.
+The Research Analyst does not answer the following questions.
 
 They are preserved for Strategy Advisor analysis.
 
@@ -717,7 +717,7 @@ This case belongs primarily to:
 - Brand Manager,
 - Creative Director,
 
-rather than the Community Analyst.
+rather than the Research Analyst.
 
 It is preserved separately in the Inspiration Inbox.
 
@@ -787,7 +787,7 @@ R002 also reinforced an important lesson for downstream strategy:
 
 That question should ultimately be answered through market experimentation rather than assumption.
 
-For the Community Analyst, the conclusion is narrower:
+For the Research Analyst, the conclusion is narrower:
 
 **Vietnamese Coffee Culture is a coherent identity community with meaningful cultural depth, recognizable rituals, substantial creative leverage, and enough evidence to support future strategic analysis.**
 ```

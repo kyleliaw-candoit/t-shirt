@@ -143,7 +143,7 @@ Climbing deserves to remain in the candidate pool, but only through a behavior-n
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required. If selected for launch consideration, conduct lightweight insider creative validation rather than another broad research cycle.
+No blocking Research Analyst research is required. If selected for launch consideration, conduct lightweight insider creative validation rather than another broad research cycle.
 
 ---
 
@@ -239,7 +239,7 @@ Food-Travel People deserve a real test because the downside can be bounded cheap
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required.
+No blocking Research Analyst research is required.
 
 ---
 
@@ -330,7 +330,7 @@ Puzzle People remain a credible test candidate if the creative goes deeper than 
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required.
+No blocking Research Analyst research is required.
 
 ---
 
@@ -434,7 +434,7 @@ R019 deserves serious portfolio consideration because it combines differentiated
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required.
+No blocking Research Analyst research is required.
 
 ---
 
@@ -529,7 +529,7 @@ Houseplants remain commercially credible, but the test must deliberately avoid g
 
 ### Research Escalation Review
 
-No blocking Community Analyst research is required.
+No blocking Research Analyst research is required.
 
 ---
 
@@ -563,7 +563,7 @@ One of the strongest demand categories in the portfolio, but also one of the cle
 
 # Research Escalation Summary
 
-No identity in R016–R020 requires blocking additional Community Analyst research before portfolio calibration.
+No identity in R016–R020 requires blocking additional Research Analyst research before portfolio calibration.
 
 Potential lightweight pre-launch validation if these identities survive State 3:
 

@@ -169,7 +169,7 @@ That would potentially create more meaning than another motif collection.
 
 ## Relevance to Our Company
 
-This case reinforces why our Community Analyst research matters. A niche can look small but have high creative leverage if it contains recurring behavior, jargon, expertise, rituals, and self-labeling.
+This case reinforces why our Research Analyst research matters. A niche can look small but have high creative leverage if it contains recurring behavior, jargon, expertise, rituals, and self-labeling.
 
 It also cautions us against using POD flexibility as an excuse to place the same design on every possible object.
 

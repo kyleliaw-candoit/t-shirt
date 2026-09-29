@@ -135,7 +135,7 @@ The trigger is recurring operational need, not organizational neatness.
 
 ## 8. Collaboration model
 
-### Community Analyst
+### Research Analyst
 
 Provides evidence about audience garment preferences, price sensitivity, fit expectations, and merchandise behavior. Operations does not reinterpret community evidence.
 

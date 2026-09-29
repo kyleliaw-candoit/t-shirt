@@ -307,7 +307,7 @@ R017 should remain both:
 
 **None.**
 
-No selected opportunity requires another broad Community Analyst research cycle before founder portfolio selection or initial Brand Manager exploration.
+No selected opportunity requires another broad Research Analyst research cycle before founder portfolio selection or initial Brand Manager exploration.
 
 ## Lightweight / decision-triggered validation
 

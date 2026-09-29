@@ -45,7 +45,7 @@ This batch therefore reinforces the Strategy Advisor principle:
 
 > **The attractive condition is not simply high demand or low competition. It is validated enough demand plus a credible place to stand.**
 
-No Pass 1A identity requires blocking additional Community Analyst research before the remaining portfolio is evaluated.
+No Pass 1A identity requires blocking additional Research Analyst research before the remaining portfolio is evaluated.
 
 ---
 
@@ -704,7 +704,7 @@ Swifties validate the general thesis that identity can produce enormous merchand
 
 # Pass 1A Research Escalation Review
 
-No **Blocking** Community Analyst research request is recommended from R001–R005.
+No **Blocking** Research Analyst research request is recommended from R001–R005.
 
 Potential later research candidates:
 

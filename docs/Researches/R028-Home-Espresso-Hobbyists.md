@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Home Espresso Hobbyists  
 **Recommended working label:** Home Baristas / Home Espresso Hobbyists  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

@@ -4,7 +4,7 @@
 
 **Research ID:** R021  
 **Working identity:** Potters / ceramic artists  
-**Status:** Final Community Analyst report  
+**Status:** Final Research Analyst report
 **Iterations completed:** 3  
 **Founder Advantage:** Pending founder review; no reliable personal-participation evidence was available to the analyst
 

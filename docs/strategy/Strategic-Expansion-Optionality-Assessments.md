@@ -513,6 +513,6 @@ R017 remains a strong reserve and may also become an adjacency test inside a suc
 
 ## Research Escalation
 
-No broad blocking Community Analyst research is recommended before founder portfolio selection.
+No broad blocking Research Analyst research is recommended before founder portfolio selection.
 
 The unresearched adjacency hypotheses in this document are intentionally opportunity-generation directions. Focused research should be commissioned only after the founder decides which worldview / entry-wedge combinations deserve deeper Brand Manager exploration or when a specific adjacency could materially change the launch decision.

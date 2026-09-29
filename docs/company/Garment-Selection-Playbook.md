@@ -50,7 +50,7 @@ Physical sample evidence and company customer evidence outrank generalized creat
 
 | Stage | Primary owner | Responsibility |
 |---|---|---|
-| Audience evidence | Community Analyst | Finds observable fit, weight, style, price-sensitivity, and merchandise preferences |
+| Audience evidence | Research Analyst | Finds observable fit, weight, style, price-sensitivity, and merchandise preferences |
 | Commercial hypothesis | Strategy Advisor | Defines what audience/offer/pricing hypothesis deserves testing |
 | Brand requirements | Brand Manager | Defines the physical and emotional qualities the garment should communicate |
 | Garment recommendation | Creative Director | Chooses the garment/artwork combination that best expresses the approved brand and design |

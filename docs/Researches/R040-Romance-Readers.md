@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Romance Readers  
 **Recommended working label:** Romance Readers (segment by subgenre and heat/content preference)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

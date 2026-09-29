@@ -4,7 +4,7 @@
 
 **Research ID:** R027  
 **Working identity:** Preservation-minded old-house people  
-**Status:** Final Community Analyst report  
+**Status:** Final Research Analyst report
 **Iterations completed:** 3  
 **Founder Advantage:** Pending founder review
 

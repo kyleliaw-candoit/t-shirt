@@ -4,7 +4,7 @@
 
 **Research ID:** R029  
 **Working identity:** Mushroom foragers / mushroom hunters  
-**Status:** Final Community Analyst report  
+**Status:** Final Research Analyst report
 **Iterations completed:** 3  
 **Founder Advantage:** Pending founder review
 

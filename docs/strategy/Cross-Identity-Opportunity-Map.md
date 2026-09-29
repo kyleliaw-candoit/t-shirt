@@ -266,4 +266,4 @@ Pass 2 is complete.
 
 The synthesis strengthens rather than overturns State 3. The leading opportunities remain R012, R019, and R010, with R002 and R017 as strong reserve candidates.
 
-No new Community Analyst research is required before Pass 3.
+No new Research Analyst research is required before Pass 3.

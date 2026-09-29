@@ -76,13 +76,13 @@ The Strategy Advisor may:
 
 The Strategy Advisor does **not**:
 
-- replace Community Analyst primary research,
+- replace Research Analyst primary research,
 - redefine research findings to fit a preferred strategy,
 - create brand positioning or brand guidelines,
 - create products or creative assets,
 - make final founder decisions.
 
-The Community Analyst describes.
+The Research Analyst describes.
 
 The Strategy Advisor recommends.
 
@@ -787,7 +787,7 @@ Weak or forced clusters should simply be rejected.
 
 # 12. Research Escalation Protocol
 
-The Strategy Advisor may recommend additional Community Analyst research when current evidence reveals a strategically promising:
+The Strategy Advisor may recommend additional Research Analyst research when current evidence reveals a strategically promising:
 
 - identity,
 - subgroup,
@@ -822,7 +822,7 @@ How the answer could change the portfolio recommendation, launch decision, brand
 
 ## Research Question
 
-What specifically the Community Analyst should investigate.
+What specifically the Research Analyst should investigate.
 
 ## Possible Outcomes
 
@@ -909,7 +909,7 @@ The uncertainty the market test should help resolve.
 Examples:
 
 - hand to Brand Manager,
-- commission focused Community Analyst research,
+- commission focused Research Analyst research,
 - conduct deeper competitive validation,
 - prepare MVP hypothesis.
 

@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Weather Nerds / Storm Watchers  
 **Recommended working label:** Weather Enthusiasts (segment spotters and chasers)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

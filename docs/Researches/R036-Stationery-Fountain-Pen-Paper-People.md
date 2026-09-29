@@ -4,7 +4,7 @@
 
 **Identity evaluated:** Stationery / Fountain Pen / Paper People  
 **Recommended working label:** Fountain Pen & Stationery Enthusiasts (segment by practice)  
-**Research status:** Complete for Community Analyst review  
+**Research status:** Complete for Research Analyst review
 **Founder Advantage:** Pending founder review
 
 ---

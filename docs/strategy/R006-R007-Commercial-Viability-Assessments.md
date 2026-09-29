@@ -207,7 +207,7 @@ Sourdough deserves to remain in the candidate pool, but only as a deeper process
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is required.
+No blocking additional Research Analyst research is required.
 
 If R006 remains a top candidate after portfolio calibration, a lightweight insider-creative validation step would be high-value before launch because Founder Advantage is low and the proposed opportunity depends on process authenticity.
 
@@ -367,7 +367,7 @@ Pickleball is a strong market but not currently a strong first-wave opportunity 
 
 ### Research Escalation Review
 
-No blocking additional Community Analyst research is recommended.
+No blocking additional Research Analyst research is recommended.
 
 If Pickleball later becomes a serious candidate, the highest-value follow-up would be participant-level validation of underused behavioral / social-court territory rather than more general market-size research.
 
@@ -375,7 +375,7 @@ If Pickleball later becomes a serious candidate, the highest-value follow-up wou
 
 # R006-R007 Research Escalation Review
 
-No **Blocking** additional Community Analyst research is required before comparing these identities with the rest of the portfolio.
+No **Blocking** additional Research Analyst research is required before comparing these identities with the rest of the portfolio.
 
 Potential later work:
 

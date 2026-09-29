@@ -4,7 +4,7 @@
 
 **Research ID:** R030  
 **Working identity:** Garment sewists / home garment makers  
-**Status:** Final Community Analyst report  
+**Status:** Final Research Analyst report
 **Iterations completed:** 3  
 **Founder Advantage:** Pending founder review
 
