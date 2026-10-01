@@ -1,0 +1,312 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D07Q01",
+  "observation_id": "TRACE-P002-OBS-DTC-S07-01",
+  "web": [
+    {
+      "id": "W1",
+      "q": "\"Puff puff pass\"",
+      "time": "2026-09-29T17:01:01.464Z",
+      "rows": [
+        {
+          "title": "Puff Puff Pass (feat. Gavy Dhaliwal, Bhallwaan, Swapan Sekhon, Gur Chahal) - YouTube",
+          "url": "https://www.youtube.com/watch?v=3j99ITfSCeg",
+          "ref": "turn25youtube11"
+        },
+        {
+          "title": "Puff Puff Pass - song and lyrics by Sultaan, Gavy Dhaliwal, Bhallwaan, Swapan Sekhon, Gur Chahal | Spotify",
+          "url": "https://open.spotify.com/track/27LMVMTb0boLV5oObxk5GT",
+          "ref": "turn25search0"
+        },
+        {
+          "title": "Puff Puff Pass | USC Digital Folklore Archives",
+          "url": "https://folklore.usc.edu/puff-puff-pass/",
+          "ref": "turn25search1"
+        },
+        {
+          "title": "Puff Puff Pass - song and lyrics by Young Buck, Ky-Mani Marley | Spotify",
+          "url": "https://open.spotify.com/track/5mITNncKIjNg9s94Hk4AVU",
+          "ref": "turn25search2"
+        },
+        {
+          "title": "\u200ePuff Puff Pass - Song with Lyrics by Kitty Hall - Apple\u00a0Music",
+          "url": "https://music.apple.com/us/song/1887539957",
+          "ref": "turn25search3"
+        },
+        {
+          "title": "Puff Puff Pass | USC Digital Folklore Archives",
+          "url": "https://folklore.usc.edu/puff-puff-pass-2/",
+          "ref": "turn25search4"
+        },
+        {
+          "title": "Puff puff pass \u2014 Meaning & Origin | FreeDict Slang",
+          "url": "https://freedict.com/slang/puff-puff-pass",
+          "ref": "turn25search5"
+        },
+        {
+          "title": "Puff, Puff, Pass | eugenio izzi, Artifice, The Visionary | Eugenio Izzi",
+          "url": "https://eugenioizzi.bandcamp.com/track/puff-puff-pass",
+          "ref": "turn25search6"
+        },
+        {
+          "title": "P.P.P (Puff Puff Pass) - song and lyrics by Bahd Man Niko | Spotify",
+          "url": "https://open.spotify.com/track/1yQEeR77yUg2xxjHVd4ceH",
+          "ref": "turn25search7"
+        },
+        {
+          "title": "\u200ePuff Puff Pass - Single - Album by Kitty Hall - Apple Music",
+          "url": "https://music.apple.com/us/album/puff-puff-pass-single/1887539955",
+          "ref": "turn25search8"
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "Puff Puff Pass",
+      "time": "2026-09-29T17:01:01.527Z",
+      "rows": [
+        {
+          "title": "Driving directions to Puff Puff & Pass, 6300 Samuell Blvd, Dallas - Waze",
+          "url": "https://www.waze.com/live-map/directions/us/tx/dallas/puff-puff-and-pass?to=place.ChIJ2WHkxRaiToYRCRHfIx3BGWc",
+          "ref": "turn26search0"
+        },
+        {
+          "title": "Puff Puff & Pass - Dallas, TX Smoke Shops | Cannapages",
+          "url": "https://cannapages.com/smoke-shops/puff-puff-pass-2/",
+          "ref": "turn26search1"
+        },
+        {
+          "title": "Puff puff pass \u2014 Meaning & Origin | FreeDict Slang",
+          "url": "https://freedict.com/slang/puff-puff-pass",
+          "ref": "turn26search2"
+        },
+        {
+          "title": "Puff Puff Pass in Louisville, KY United States - Apple Maps",
+          "url": "https://maps.apple.com/place?place-id=ID9E090869FEB80E6",
+          "ref": "turn26search3"
+        },
+        {
+          "title": "Driving directions to PUFF PUFF PASS SMOKE SHOP, 2210 W Main St, Grand Prairie - Waze",
+          "url": "https://www.waze.com/en-GB/live-map/directions/us/tx/grand-prairie/puff-puff-pass-smoke-shop?to=place.ChIJP3V01lyHToYRevpuPOVpFGE",
+          "ref": "turn26search4"
+        },
+        {
+          "title": "Puff Puff Pass | USC Digital Folklore Archives",
+          "url": "https://folklore.usc.edu/puff-puff-pass/",
+          "ref": "turn26search5"
+        },
+        {
+          "title": "Puff Puff Pass Rules: Weed Smoking Etiquette Explained",
+          "url": "https://www.barneysfarm.com/us/blog/puff-puff-pass-etiquette",
+          "ref": "turn26search6"
+        },
+        {
+          "title": "PUFF PUFF PASS Trademark (USPTO Serial 86437766) \u2013 Puff Puff Pass, LLC | USPTO Record | TrademarkElite",
+          "url": "https://www.trademarkelite.com/trademark/trademark-detail/86437766/PUFF-PUFF-PASS",
+          "ref": "turn26search7"
+        },
+        {
+          "title": "Driving directions to PUFF PUFF PASS, 1072 Bardstown Rd, Louisville - Waze",
+          "url": "https://www.waze.com/live-map/directions/puff-puff-pass-bardstown-rd-1072-louisville?to=place.w.179765630.1797525232.4039747",
+          "ref": "turn26search8"
+        },
+        {
+          "title": "Puff Puff Pass Dispensary | Dispensary Menu, Reviews & Photos",
+          "url": "https://www.leafly.com/dispensary-info/puff-puff-pass-dispensary",
+          "ref": "turn26search9"
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "pufferfish smoking joint underwater street edibles shop",
+      "time": "2026-09-29T17:01:01.581Z",
+      "rows": [
+        {
+          "title": "UH Smoke Shop | Houston's #1 Smoke Shop \u2014 Open 24/7",
+          "url": "https://uhsmokeshop.com/",
+          "ref": "turn24search0"
+        },
+        {
+          "title": "Puffins Smoke Shop \u2013 Premium Smoke & Vape",
+          "url": "https://www.puffinssmokeshop.com/",
+          "ref": "turn24search1"
+        },
+        {
+          "title": "Secret Library West Gray | Houston Smoke Shop on W Gray St",
+          "url": "https://secretlibrarywestgray.framer.website/",
+          "ref": "turn24search2"
+        },
+        {
+          "title": "Chadd Lacy Pufferfish | Rip Tide Smoke Shop",
+          "url": "https://www.riptidemaine.com/product-page/chadd-lacy-pufferfish",
+          "ref": "turn24search3"
+        },
+        {
+          "title": "What We Carry | Secret Library West Gray Smoke Shop Houston",
+          "url": "https://secretlibrarywestgray.framer.website/product-categories",
+          "ref": "turn24search4"
+        },
+        {
+          "title": "Wholesale Smoking Accessories | PuffCrafters",
+          "url": "https://puffcrafters.com/",
+          "ref": "turn24search5"
+        },
+        {
+          "title": "Does anyone know where this came from?",
+          "url": "https://www.reddit.com/r/Bongs/comments/1nt8xjn/does_anyone_know_where_this_came_from/",
+          "ref": "turn24reddit12"
+        },
+        {
+          "title": "Just Keep Smoking 3.5G Mylar Bag | Deep Fried Ocean Vibes \u2013 Gorilla Boyz Inc",
+          "url": "https://gorillaboyz.com/products/lato-berry-pebbles-3-5g-mylar-bag-copy",
+          "ref": "turn24search6"
+        },
+        {
+          "title": "The Best of Fashion Smoking Explained | House of Puff",
+          "url": "https://houseofpuff.com/fashion-smoking-faqs/",
+          "ref": "turn24search7"
+        },
+        {
+          "title": "Puff N Luff - Mission Valley Infused Pre-rolls & Joints | Order Online",
+          "url": "https://weedmaps.com/deliveries/puff-n-luff-mission-valley-1/infused-pre-roll",
+          "ref": "turn24search8"
+        }
+      ]
+    }
+  ],
+  "native": [
+    {
+      "id": "N1",
+      "q": "\"Puff puff pass\"",
+      "time": "2026-09-29T17:01:34.920Z",
+      "url": "https://www.seamonkeyapparel.com/search?q=%22Puff%20puff%20pass%22&type=product",
+      "status": "EXHAUSTED-LT10",
+      "count_basis": "Native displayed 6 results; all six recorded.",
+      "rows": [
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee-1",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Ladies Puff Puff Pass Tank",
+          "url": "https://www.seamonkeyapparel.com/products/ladies-puff-puff-pass-tank",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Performance Top",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-performance-top",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Men's Puff Puff Pass Tank",
+          "url": "https://www.seamonkeyapparel.com/products/mens-puff-puff-pass-tank-2",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Sticker",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-sticker",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "Puff Puff Pass",
+      "time": "2026-09-29T17:01:56.823Z",
+      "status": "COMPLETE-10",
+      "count_basis": "18 results displayed; first ten recorded.",
+      "rows": [
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee-1",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Performance Top",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-performance-top",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Ladies Puff Puff Pass Tank",
+          "url": "https://www.seamonkeyapparel.com/products/ladies-puff-puff-pass-tank",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Men's Puff Puff Pass Tank",
+          "url": "https://www.seamonkeyapparel.com/products/mens-puff-puff-pass-tank-2",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Pass The Reefer Tee",
+          "url": "https://www.seamonkeyapparel.com/products/pass-the-reefer-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Pass the Reefer Koozie",
+          "url": "https://www.seamonkeyapparel.com/products/pass-the-reefer-koozie",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Passage Key Tee",
+          "url": "https://www.seamonkeyapparel.com/products/passage-key-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Passage Key Performance Top",
+          "url": "https://www.seamonkeyapparel.com/products/latitudes-performance-top-copy",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Ladies Pass The Reefer V Neck Tee",
+          "url": "https://www.seamonkeyapparel.com/products/ladies-pass-the-reefer-v-neck-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "pufferfish smoking joint underwater street edibles shop",
+      "time": "2026-09-29T17:02:47.954Z",
+      "status": "EXHAUSTED-LT10",
+      "count_basis": "Native displayed 2 results; both recorded.",
+      "rows": [
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        },
+        {
+          "title": "Puff Puff Pass Tee",
+          "url": "https://www.seamonkeyapparel.com/products/puff-puff-pass-tee-1",
+          "note": "Same source commercial expression/related product; no independent source credit. Tracking parameters omitted."
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "url": "https://www.seamonkeyapparel.com/collections/staple-tees/products/puff-puff-pass-tee",
+    "price": 30,
+    "review_scope": "ITEM-VISIBLE",
+    "review_count": 10,
+    "nonzero_sales": "YES",
+    "basis": "Product review widget: Verified scott 2025-11-23, Scott Stedman 2025-08-16, Marie Ghassedi 2025-07-28. Shop App entries separately labeled. Seller Selling Fast not independent corroboration.",
+    "observed": "Tan tee with PUFF PUFF PASS headline; large pufferfish holding a smoking joint over underwater town street with EDIBLES shop; teal water upper field and sandy buildings below; SeaMonkey Apparel footer.",
+    "provenance": "MEDIUM. Seller explicitly describes original graphics. Source results show same seller variants. Required web results show common smoking etiquette usage, music/title/business uses, unrelated smoke products and ocean packaging; no recorded concrete recurrence of this detailed pufferfish/town composition. Phrase overlap alone does not establish music/film dependence; no film/person/organization iconography seen. No ownership or legal clearance assertion.",
+    "limitations": "Search scope can miss copies; no named illustrator. Brand footer present but narrative scene remains intelligible without it; brand-equity confounder retained."
+  },
+  "gate0": "ELIGIBLE",
+  "closed_at_utc": "2026-09-29T17:02:47.954Z",
+  "analyst": "Creative Director AI"
+}

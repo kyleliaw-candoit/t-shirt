@@ -1,0 +1,1508 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "captured_at_utc": "2026-09-29T17:48:04.875Z",
+  "status": "ORIGIN-SEARCH-CAPTURE-PENDING-DECISIONS",
+  "searches": [
+    {
+      "key": "D08Q02",
+      "domain": "raygunsite.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Abolish ICE\"",
+          "time": "2026-09-29T17:48:13.775Z",
+          "rows": [
+            {
+              "title": "Abolish ICE Heavyweight T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice",
+              "ref": "turn83search0"
+            },
+            {
+              "title": "Abolish ICE Salt Truck T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-salt-truck",
+              "ref": "turn83search1"
+            },
+            {
+              "title": "Abolish ICE Garden Flag – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-garden-flag",
+              "ref": "turn83search2"
+            },
+            {
+              "title": "Hoodies & Sweatshirts – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/hoodies",
+              "ref": "turn83search3"
+            },
+            {
+              "title": "Products – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all/t-shirts",
+              "ref": "turn83search4"
+            },
+            {
+              "title": "Clothing – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing",
+              "ref": "turn83search5"
+            },
+            {
+              "title": "Products – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all",
+              "ref": "turn83search6"
+            },
+            {
+              "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+              "ref": "turn83search7"
+            },
+            {
+              "title": "Die-Cut Stickers – Tagged \"Pickup\" – Page 3 – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/die-cut-stickers/pickup?page=3",
+              "ref": "turn83search8"
+            },
+            {
+              "title": "T-Shirts – Tagged \"T-shirts\" – Page 5 – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/t-shirts/t-shirts?page=5",
+              "ref": "turn83search9"
+            }
+          ]
+        },
+        {
+          "id": "N2",
+          "q": "Abolish ICE Heavyweight",
+          "time": "2026-09-29T17:48:14.711Z",
+          "rows": [
+            {
+              "title": "Abolish ICE Heavyweight T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice",
+              "ref": "turn84search0"
+            },
+            {
+              "title": "Clothing – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing",
+              "ref": "turn84search1"
+            },
+            {
+              "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+              "ref": "turn84search2"
+            },
+            {
+              "title": "Products – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all",
+              "ref": "turn84search3"
+            },
+            {
+              "title": "Products – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all/t-shirts",
+              "ref": "turn84search4"
+            },
+            {
+              "title": "Abolish ICE Salt Truck T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-salt-truck",
+              "ref": "turn84search5"
+            },
+            {
+              "title": "Hoodies & Sweatshirts – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/hoodies",
+              "ref": "turn84search6"
+            },
+            {
+              "title": "Abolish ICE Garden Flag – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-garden-flag",
+              "ref": "turn84search7"
+            },
+            {
+              "title": "T-Shirts – Tagged \"T-shirts\" – Page 5 – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/t-shirts/t-shirts?page=5",
+              "ref": "turn84search8"
+            },
+            {
+              "title": "Garden Flags – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/garden-flag",
+              "ref": "turn84search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "abolish ICE block text shirt RAYGUN",
+          "time": "2026-09-29T17:48:15.841Z",
+          "rows": [
+            {
+              "title": "Abolish ICE Heavyweight T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice",
+              "ref": "turn85search0"
+            },
+            {
+              "title": "Abolish ICE Salt Truck T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-salt-truck",
+              "ref": "turn85search1"
+            },
+            {
+              "title": "Products – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all/t-shirts",
+              "ref": "turn85search2"
+            },
+            {
+              "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+              "ref": "turn85search3"
+            },
+            {
+              "title": "Clothing – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing",
+              "ref": "turn85search4"
+            },
+            {
+              "title": "Abolish ICE Garden Flag – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-garden-flag",
+              "ref": "turn85search5"
+            },
+            {
+              "title": "T-Shirts – Tagged \"T-shirts\" – Page 5 – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/t-shirts/t-shirts?page=5",
+              "ref": "turn85search6"
+            },
+            {
+              "title": "Hoodies & Sweatshirts – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/hoodies",
+              "ref": "turn85search7"
+            },
+            {
+              "title": "ICE Get the F Out of Minneapolis T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/ice-get-the-f-out-of-minneapolis",
+              "ref": "turn85search8"
+            },
+            {
+              "title": "RAYGUN Block Text Logo Union Made T-Shirt",
+              "url": "https://www.raygunsite.com/products/raygun-block-text-logo-union-made",
+              "ref": "turn85search9"
+            }
+          ]
+        },
+        {
+          "id": "W1",
+          "q": "\"Abolish ICE\"",
+          "time": "2026-09-29T17:48:16.960Z",
+          "rows": [
+            {
+              "title": "Amnesty International calls for abolishing ICE",
+              "url": "https://www.axios.com/local/chicago/2026/09/24/amnesty-international-ice-abolition-chicago-minneapolis-immigration-enforcement-abuses",
+              "ref": "turn86news12"
+            },
+            {
+              "title": "'Squad' Democrat slammed by Trump admin for most 'radical' plan targeting ICE yet",
+              "url": "https://nypost.com/2026/09/26/us-news/illinois-rep-delia-ramirez-slammed-by-trump-admin-for-most-radical-plan-targeting-ice-yet/",
+              "ref": "turn86news13"
+            },
+            {
+              "title": "Abolish ICE",
+              "url": "https://en.wikipedia.org/wiki/Abolish_ICE",
+              "ref": "turn86search14"
+            },
+            {
+              "title": "ABOLISHING ICE",
+              "url": "https://www.abolishingice.org/",
+              "ref": "turn86search0"
+            },
+            {
+              "title": "Defund. Dismantle. Abolish ICE.",
+              "url": "https://www.abolishicenow.com/",
+              "ref": "turn86search1"
+            },
+            {
+              "title": "H.R. 7123 (IH) - Abolish ICE Act - BILLS-119hr7123ih | Content Details | GovInfo",
+              "url": "https://www.govinfo.gov/app/details/BILLS-119hr7123ih",
+              "ref": "turn86search2"
+            },
+            {
+              "title": "Congressman Shri Thanedar Introduces the Abolish ICE Act | U.S. Congressman Shri Thanedar",
+              "url": "https://thanedar.house.gov/media/press-releases/congressman-shri-thanedar-introduces-the-abolish-ice-act",
+              "ref": "turn86search3"
+            },
+            {
+              "title": "'Abolish ICE' messaging is back. Is it any more likely this time? - Los Angeles Times",
+              "url": "https://www.latimes.com/politics/story/2026-01-18/abolish-ice-messaging-is-back-is-it-any-more-likely-this-time",
+              "ref": "turn86search4"
+            },
+            {
+              "title": "Opinion | Is it time for Democrats to abandon ‘abolish ICE’?",
+              "url": "https://www.bostonglobe.com/2026/07/30/opinion/abolish-ice-slogan-democrats-immigration/",
+              "ref": "turn86search5"
+            },
+            {
+              "title": "Abolish ICE . . . and Then What? | Yale Law Journal",
+              "url": "https://yalelawjournal.org/essay/abolish-ice-and-then-what",
+              "ref": "turn86search6"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Abolish ICE Heavyweight",
+          "time": "2026-09-29T17:48:17.941Z",
+          "rows": [
+            {
+              "title": "Amnesty International calls for abolishing ICE",
+              "url": "https://www.axios.com/local/chicago/2026/09/24/amnesty-international-ice-abolition-chicago-minneapolis-immigration-enforcement-abuses",
+              "ref": "turn87news12"
+            },
+            {
+              "title": "H.R. 7123 (IH) - Abolish ICE Act - BILLS-119hr7123ih | Related Documents | GovInfo",
+              "url": "https://www.govinfo.gov/app/details/BILLS-119hr7123ih/related",
+              "ref": "turn87search0"
+            },
+            {
+              "title": "ABOLISHING ICE",
+              "url": "https://www.abolishingice.org/",
+              "ref": "turn87search1"
+            },
+            {
+              "title": "Congressman Shri Thanedar Introduces the Abolish ICE Act | U.S. Congressman Shri Thanedar",
+              "url": "https://thanedar.house.gov/media/press-releases/congressman-shri-thanedar-introduces-the-abolish-ice-act",
+              "ref": "turn87search2"
+            },
+            {
+              "title": "Abolish ICE",
+              "url": "https://en.wikipedia.org/wiki/Abolish_ICE",
+              "ref": "turn87search13"
+            },
+            {
+              "title": "Democrats disagree over abolishing or reforming ICE at DNC meeting",
+              "url": "https://apnews.com/article/106d35d404491c87b4f3a64b4119677e",
+              "ref": "turn87news14"
+            },
+            {
+              "title": "HR-7123 - Abolish ICE Act | United States | The Civics Project",
+              "url": "https://www.civicsproject.org/united-states-of-america/bill/119/1/hr-7123",
+              "ref": "turn87search3"
+            },
+            {
+              "title": "NEW AD: “Abolish ICE” Takes Aim at Haley Stevens’ Record on ICE – Michigan US Senate Candidate 2026",
+              "url": "https://abdulforsenate.com/2026/07/new-ad-abolish-ice-takes-aim-at-haley-stevens-record-on-ice/",
+              "ref": "turn87search4"
+            },
+            {
+              "title": "H.R. 7123: Abolish ICE Act | Docket",
+              "url": "https://congressdocket.us/bill/119-hr-7123",
+              "ref": "turn87search5"
+            },
+            {
+              "title": "Calls to Abolish ICE Not 'Open Borders' - FactCheck.org",
+              "url": "https://www.factcheck.org/2018/07/calls-to-abolish-ice-not-open-borders/",
+              "ref": "turn87search6"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "abolish ICE block text shirt RAYGUN",
+          "time": "2026-09-29T17:48:18.880Z",
+          "rows": [
+            {
+              "title": "Abolish ICE Heavyweight T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice",
+              "ref": "turn88search0"
+            },
+            {
+              "title": "Abolish ICE Salt Truck T-Shirt – RAYGUN",
+              "url": "https://www.raygunsite.com/products/abolish-ice-salt-truck",
+              "ref": "turn88search1"
+            },
+            {
+              "title": "Products – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/all/t-shirts",
+              "ref": "turn88search2"
+            },
+            {
+              "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+              "ref": "turn88search3"
+            },
+            {
+              "title": "Clothing – RAYGUN",
+              "url": "https://www.raygunsite.com/collections/clothing",
+              "ref": "turn88search4"
+            },
+            {
+              "title": "Abolish ICE Heavyweight Shirt | Hartford Prints",
+              "url": "https://hartfordprints.com/products/abolish-ice-heavyweight-shirt",
+              "ref": "turn88search5"
+            },
+            {
+              "title": "Abolish ICE | Men's T-Shirt Classic | Block By Block x Straight Edge Clothing",
+              "url": "https://www.threadless.com/shop/%40blockbyblockstraightedge/design/abolish-ice",
+              "ref": "turn88search6"
+            },
+            {
+              "title": "Anti ICE Shirt - Abolish ICE",
+              "url": "https://abolish-ice.com/products/anti-ice-shirt",
+              "ref": "turn88search7"
+            },
+            {
+              "title": "Abolish ICE | Men's T-Shirt Regular | KidLogic Industries",
+              "url": "https://www.threadless.com/shop/%40KidLogicIndustries/design/no-kings-no-ice",
+              "ref": "turn88search8"
+            },
+            {
+              "title": "RAYGUN Abolish ICE Salt Truck - Shop",
+              "url": "https://shop.app/products/8269849788607/abolish-ice-salt-truck",
+              "ref": "turn88search9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D09Q01",
+      "domain": "tacogear.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Extra Spicy\"",
+          "time": "2026-09-29T17:48:19.899Z",
+          "rows": []
+        },
+        {
+          "id": "N2",
+          "q": "Extra Spicy Tee",
+          "time": "2026-09-29T17:48:20.852Z",
+          "rows": [
+            {
+              "title": "Horror Movies and Tacos Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/horror-movies-and-tacos-shirt",
+              "ref": "turn90search0"
+            },
+            {
+              "title": "Support Your Local Taqueria (Flag) Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/premium-support-your-local-taqueria-tableside-taco-shirt",
+              "ref": "turn90search1"
+            },
+            {
+              "title": "Tacos Locos Forever (2 sided)",
+              "url": "https://tacogear.com/products/tacos-locos-forever-2-sided",
+              "ref": "turn90search2"
+            },
+            {
+              "title": "Support Your Local Taqueria (Metal) Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/support-your-local-taqueria-metal-taco-shirt",
+              "ref": "turn90search3"
+            },
+            {
+              "title": "In Loving Memory Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/in-loving-memory-shirt",
+              "ref": "turn90search4"
+            },
+            {
+              "title": "TACOS - Es La Vida Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/tacos-es-la-vida-shirt",
+              "ref": "turn90search5"
+            },
+            {
+              "title": "Mas Tacos Grim Reaper Shirt",
+              "url": "https://tacogear.com/products/mas-tacos-grim-reaper-shirt",
+              "ref": "turn90search6"
+            },
+            {
+              "title": "Al Pastor Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/al-pastor-taco-shirt",
+              "ref": "turn90search7"
+            },
+            {
+              "title": "PREMIUM Ignore the Noise Tacos Shirt - (Comfort Colors)",
+              "url": "https://tacogear.com/products/premium-ignore-the-noise-tacos-shirt-comfort-colors",
+              "ref": "turn90search8"
+            },
+            {
+              "title": "Spread Masa Not Hate Shirt – Taco Gear",
+              "url": "https://tacogear.com/collections/unisex-mens-taco-shirts/products/spread-masa-not-hate-shirt",
+              "ref": "turn90search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "extra spicy taco chili shirt graphic",
+          "time": "2026-09-29T17:48:21.921Z",
+          "rows": [
+            {
+              "title": "Support Your Local Taqueria (Flag) Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/premium-support-your-local-taqueria-tableside-taco-shirt",
+              "ref": "turn91search0"
+            },
+            {
+              "title": "PREMIUM Ignore the Noise Tacos Shirt - (Comfort Colors)",
+              "url": "https://tacogear.com/products/premium-ignore-the-noise-tacos-shirt-comfort-colors",
+              "ref": "turn91search1"
+            },
+            {
+              "title": "PREMIUM Trompo Tacos Shirt - 2 Sided (Comfort Colors)",
+              "url": "https://tacogear.com/products/premium-trompo-tacos-shirt-comfort-colors",
+              "ref": "turn91search2"
+            },
+            {
+              "title": "Support Your Local Taqueria (Metal) Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/support-your-local-taqueria-metal-taco-shirt",
+              "ref": "turn91search3"
+            },
+            {
+              "title": "Mas Tacos Grim Reaper Shirt",
+              "url": "https://tacogear.com/products/mas-tacos-grim-reaper-shirt",
+              "ref": "turn91search4"
+            },
+            {
+              "title": "Arlington Texas Tacos Jersey – Taco Gear",
+              "url": "https://tacogear.com/products/arlington-texas-tacos-jersey",
+              "ref": "turn91search5"
+            },
+            {
+              "title": "Mas Tacos Punk Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/mas-tacos-punk-taco-shirt",
+              "ref": "turn91search6"
+            },
+            {
+              "title": "Support Your Local Taqueria (Tableside) Taco Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/support-your-local-taqueria-tableside-taco-shirt",
+              "ref": "turn91search7"
+            },
+            {
+              "title": "Let's Get Tacos Houston Sticker – Taco Gear",
+              "url": "https://tacogear.com/products/lets-get-tacos-houston-sticker",
+              "ref": "turn91search8"
+            },
+            {
+              "title": "Texas Tacos Shirt – Taco Gear",
+              "url": "https://tacogear.com/products/texas-tacos-shirt",
+              "ref": "turn91search9"
+            }
+          ]
+        },
+        {
+          "id": "W1",
+          "q": "\"Extra Spicy\"",
+          "time": "2026-09-29T17:48:23.037Z",
+          "rows": [
+            {
+              "title": "extra spicy - Translation into Spanish - examples English | Reverso Context",
+              "url": "https://context.reverso.net/translation/english-spanish/extra%2Bspicy",
+              "ref": "turn92search0"
+            },
+            {
+              "title": "dict.cc | extra+spicy | English-Spanish translation",
+              "url": "https://m.dict.cc/english-spanish/extra%2Bspicy.html",
+              "ref": "turn92search1"
+            },
+            {
+              "title": "Extra spicy - Translation into Spanish - examples English | Reverso Context",
+              "url": "https://context.reverso.net/translation/english-spanish/Extra%2Bspicy",
+              "ref": "turn92search2"
+            },
+            {
+              "title": "Chili Crisp Extra Spicy, 8.5 oz | Williams Sonoma",
+              "url": "https://www.williams-sonoma.com/products/williams-sonoma-chili-crisp-spicy-chili/?cm_src=RECIPE",
+              "ref": "turn92search3"
+            },
+            {
+              "title": "Samyang Ramyeon Extra Spicy",
+              "url": "https://samyangamerica.com/samyang/extra-spicy",
+              "ref": "turn92search4"
+            },
+            {
+              "title": "What is the difference between the “spicy” and “extra spicy” content exactly?",
+              "url": "https://www.reddit.com/r/IThinkILikeYou/comments/1vyh2jf/what_is_the_difference_between_the_spicy_and/",
+              "ref": "turn92reddit12"
+            },
+            {
+              "title": "extra picante - Translation into English - examples Spanish | Reverso Context",
+              "url": "https://context.reverso.net/translation/spanish-english/extra%2Bpicante",
+              "ref": "turn92search5"
+            },
+            {
+              "title": "Extra Spicy",
+              "url": "https://www.walmart.com/c/kp/extra-spicy",
+              "ref": "turn92search6"
+            },
+            {
+              "title": "Extra Spicy - Podcast - Apple Podcasts",
+              "url": "https://podcasts.apple.com/us/podcast/extra-spicy/id1517318479",
+              "ref": "turn92search7"
+            },
+            {
+              "title": "Fly By Jing Xtra Spicy Sichuan Chili Crisp Extra Hot Vegan Crispy Hot Sauce - 6oz : Target",
+              "url": "https://www.target.com/p/-/A-87462358",
+              "ref": "turn92search8"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Extra Spicy Tee",
+          "time": "2026-09-29T17:48:24.019Z",
+          "rows": [
+            {
+              "title": "Sam Soft Extra Spicy, Gray Unisex Short Sleeve T-Shirt Unisex Cotton Tee, Full Size S-5XL - Walmart.com",
+              "url": "https://www.walmart.com/ip/17392674735",
+              "ref": "turn93search0"
+            },
+            {
+              "title": "Sam Soft Extra Spicy, Unisex White Short Sleeve T-Shirt Unisex Cotton Tee, Full Size S-5XL - Walmart.com",
+              "url": "https://www.walmart.com/ip/17392674860",
+              "ref": "turn93search1"
+            },
+            {
+              "title": "Extra Spicy Graphic Crop Tee | Windsor",
+              "url": "https://www.windsorstore.com/products/extra-spicy-graphic-crop-tee-06002000594010",
+              "ref": "turn93search2"
+            },
+            {
+              "title": "Sam Soft Extra Spicy, Unisex White Short Sleeve T-Shirt Unisex Cotton Tee, Full Size S-5XL - Walmart.com",
+              "url": "https://www.walmart.com/ip/17401551894",
+              "ref": "turn93search3"
+            },
+            {
+              "title": "Loose Leaf Some Like it Hot Black Tea - Churchill's Fine Teas",
+              "url": "https://churchillsteas.com/products/some-like-it-hot-black-tea",
+              "ref": "turn93search4"
+            },
+            {
+              "title": "Spicy Tea | Tea Flavours | Whittard of Chelsea",
+              "url": "https://www.whittard.com/us/tea/tea-flavours/spicy",
+              "ref": "turn93search5"
+            },
+            {
+              "title": "Spicy Teas - Harney & Sons",
+              "url": "https://www.harney.com/collections/spicy-teas",
+              "ref": "turn93search6"
+            },
+            {
+              "title": "Extra Spicy Margarita Club Graphic Tee | Windsor",
+              "url": "https://www.windsorstore.com/products/extra-spicy-margarita-club-graphic-tee-060021963010",
+              "ref": "turn93search7"
+            },
+            {
+              "title": "Hot Cinnamon Spice Black Tea | Harney & Sons",
+              "url": "https://www.harney.com/products/hot-cinnamon-spice-tea",
+              "ref": "turn93search8"
+            },
+            {
+              "title": "Spicy Teas | Premium Organic Loose Leaf Tea – Firebelly Tea",
+              "url": "https://www.firebellytea.com/collections/spicy",
+              "ref": "turn93search9"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "extra spicy taco chili shirt graphic",
+          "time": "2026-09-29T17:48:25.167Z",
+          "rows": [
+            {
+              "title": "Extra Spicy Tee – Spirit to a Tee",
+              "url": "https://spirittoatee.com/products/extra-spicy-tee",
+              "ref": "turn94search0"
+            },
+            {
+              "title": "Texas Tech Raider Red \"Spicy\" Short Sleeve T-Shirt – Red Raider Outfitter",
+              "url": "https://redraideroutfitter.com/products/texas-tech-raider-red-spicy-short-sleeve-t-shirt",
+              "ref": "turn94search1"
+            },
+            {
+              "title": "Extra Spicy Chili Pepper Checkerboard Graphic Tee – THE WEARHOUSE",
+              "url": "https://shopwearhouse.com/products/extra-spicy-chili-pepper-checkerboard-graphic-tee",
+              "ref": "turn94search2"
+            },
+            {
+              "title": "Comfort Colors® Chili Pepper Shirt, Spicy Pepper Graphic Tee, Red Chili Pepper Shirt, Hot Pepper Food Lover Tee, Mexican Food Lover Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4466779990/comfort-colors-chili-pepper-shirt-spicy",
+              "ref": "turn94search3"
+            },
+            {
+              "title": "Bda | Shirts | Bda Sol Cerveza Beer Taco Chili Pepper All Over Print Shirt Mens Large | Poshmark",
+              "url": "https://poshmark.com/listing/BDA-Sol-Cerveza-Beer-Taco-Chili-Pepper-All-Over-Print-Shirt-Mens-Large-69da66badd06c8c91b1adda9",
+              "ref": "turn94search4"
+            },
+            {
+              "title": "Extra Spicy Please T-shirt, Spicy T-shirt, Extra Spicy Shirt, Comfort Colors Spicy T-shirt, Pepper T-shirt, Chili Pepper Tee, Spicy Graphic - Etsy",
+              "url": "https://www.etsy.com/listing/4480156114/extra-spicy-please-t-shirt-spicy-t-shirt",
+              "ref": "turn94search5"
+            },
+            {
+              "title": "BDA Sol Cerveza Beer Taco Chili Pepper All Over Print Shirt Mens Large | eBay",
+              "url": "https://www.ebay.com/itm/168301908413",
+              "ref": "turn94search6"
+            },
+            {
+              "title": "Comfort Colors Extra Spicy Chili Pepper Shirt, Foodie Shirt, Chili Pepper Shirt, Oversized T-shirt, Red Chili Pepper, Women Fall Shirt - Etsy Ireland",
+              "url": "https://www.etsy.com/listing/1846803157/comfort-colors-extra-spicy-chili-pepper",
+              "ref": "turn94search7"
+            },
+            {
+              "title": "Extra Spicy Marg Cropped Tee — Vintage Soul",
+              "url": "https://vintagesoultx.com/products/extra-spicy-marg-cropped-tee",
+              "ref": "turn94search8"
+            },
+            {
+              "title": "Funny Spicy Chili Pepper T-shirt - Fiery Cartoon Hot Sauce Graphic With Flames, Unisex Adults Youth Toddler Tee, Chili Cook-off Foodie Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4365824796/funny-spicy-chili-pepper-t-shirt-fiery",
+              "ref": "turn94search9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D10Q01",
+      "domain": "theparksapparel.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Badlands National Park\"",
+          "time": "2026-09-29T17:48:26.025Z",
+          "rows": []
+        },
+        {
+          "id": "N2",
+          "q": "Badlands National Park rolled cuff muscle shirt",
+          "time": "2026-09-29T17:48:26.911Z",
+          "rows": []
+        },
+        {
+          "id": "N3",
+          "q": "badlands national park sunset graphic rolled cuff",
+          "time": "2026-09-29T17:48:37.802Z",
+          "rows": []
+        },
+        {
+          "id": "W1",
+          "q": "\"Badlands National Park\"",
+          "time": "2026-09-29T17:48:38.842Z",
+          "rows": [
+            {
+              "title": "Badlands National Park (U.S. National Park Service)",
+              "url": "https://www.nps.gov/BADLANDS/index.htm",
+              "ref": "turn98search0"
+            },
+            {
+              "title": "Badlands National Park (U.S. National Park Service)",
+              "url": "https://www.nps.gov/badl",
+              "ref": "turn98search1"
+            },
+            {
+              "title": "Badlands National Park",
+              "url": "https://en.wikipedia.org/wiki/Badlands_National_Park",
+              "ref": "turn98search12"
+            },
+            {
+              "title": "Basic Information - Badlands National Park (U.S. National Park Service)",
+              "url": "https://home.nps.gov/badl/planyourvisit/basicinfo.htm",
+              "ref": "turn98search2"
+            },
+            {
+              "title": "Operating Hours & Seasons - Badlands National Park (U.S. National Park Service)",
+              "url": "https://home.nps.gov/badl/planyourvisit/hours.htm",
+              "ref": "turn98search3"
+            },
+            {
+              "title": "Badlands National Park | U.S. Geological Survey",
+              "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/badlands-national-park",
+              "ref": "turn98search4"
+            },
+            {
+              "title": "Directions - Badlands National Park (U.S. National Park Service)",
+              "url": "https://www.nps.gov/badl/planyourvisit/directions.htm?fullweb=1",
+              "ref": "turn98search5"
+            },
+            {
+              "title": "Fees & Passes - Badlands National Park (U.S. National Park Service)",
+              "url": "https://home.nps.gov/badl/planyourvisit/fees.htm",
+              "ref": "turn98search6"
+            },
+            {
+              "title": "Plan Your Visit - Badlands National Park (U.S. National Park Service)",
+              "url": "https://home.nps.gov/badl/planyourvisit/index.htm",
+              "ref": "turn98search7"
+            },
+            {
+              "title": "Things To Do - Badlands National Park (U.S. National Park Service)",
+              "url": "https://home.nps.gov/badl/planyourvisit/things2do.htm",
+              "ref": "turn98search8"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Badlands National Park rolled cuff muscle shirt",
+          "time": "2026-09-29T17:48:39.791Z",
+          "rows": [
+            {
+              "title": "Loose Fit Flowy Womens Desert Mountain T-shirt Sage Green, Womens Clothing Gift, Badlands National Park Graphic Tee - Etsy",
+              "url": "https://www.etsy.com/listing/697180537/loose-fit-flowy-womens-desert-mountain-t?content_source=84c73f96-33e2-485c-8a9c-68791c9ecfae%253ALT22fb77e115e028adaecbc3586ced091367f6690f&ls=s&pro=1&sts=1",
+              "ref": "turn99search0"
+            },
+            {
+              "title": "All – Page 2 – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-womens-apparel?page=2",
+              "ref": "turn99search1"
+            },
+            {
+              "title": "Loose Fit Flowy Womens Desert Mountain T-shirt Sage Green, Womens Clothing Gift, Badlands National Park Graphic Tee - Etsy",
+              "url": "https://www.etsy.com/listing/697180537/loose-fit-flowy-womens-desert-mountain-t?content_source=3d3350f6-0087-40d6-96d1-25c73c20a6be%253ALTcdc1e3159420d4ddfbeb6bbdc342f6b64f1f69db&etp=1&ls=s&sts=1",
+              "ref": "turn99search2"
+            },
+            {
+              "title": "Air Button Down Shirt - Hunting Apparel | Badlands Gear",
+              "url": "https://www.badlandsgear.com/collections/fabric-tech/products/air-lw-button-down-shirt?variant=47787187929280",
+              "ref": "turn99search3"
+            },
+            {
+              "title": "Badlands National Park Crewneck | Retro Park Sweatshirt – HOMAGE",
+              "url": "https://www.homage.com/products/badlands-national-park-crewneck",
+              "ref": "turn99search4"
+            },
+            {
+              "title": "Andaire Long Sleeve Crew - Hunting Apparel | Badlands Gear",
+              "url": "https://www.badlandsgear.com/products/andaire-long-sleeve",
+              "ref": "turn99search5"
+            },
+            {
+              "title": "CafePress - Mountains Sky In The Badlands National Park Copy L - Unisex Cotton Long Sleeve T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/5774522519",
+              "ref": "turn99search6"
+            },
+            {
+              "title": "Badlands National Park Shirt, Mountains Lover Tank Top, Cute Hiking Crop Tee, Beautiful Outdoor Adventure Gift Souvenir T Shirts Present - Etsy Australia",
+              "url": "https://www.etsy.com/listing/731132050/badlands-national-park-shirt-mountains",
+              "ref": "turn99search7"
+            },
+            {
+              "title": "Men's Everyday Shirts | Badlands Gear",
+              "url": "https://www.badlandsgear.com/collections/mens-everyday-shirts",
+              "ref": "turn99search8"
+            },
+            {
+              "title": "Badlands National Park | Retro Men's National Park T-Shirt – HOMAGE",
+              "url": "https://www.homage.com/products/badlands-national-park",
+              "ref": "turn99search9"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "badlands national park sunset graphic rolled cuff",
+          "time": "2026-09-29T17:48:40.876Z",
+          "rows": [
+            {
+              "title": "Loose Fit Flowy Womens Desert Mountain T-shirt Sage Green, Womens Clothing Gift, Badlands National Park Graphic Tee - Etsy",
+              "url": "https://www.etsy.com/listing/697180537/loose-fit-flowy-womens-desert-mountain-t?content_source=09e30a03-3024-44fa-a14d-da4fa76e1aaf%253ALTdfd839267a78835bc8af72470c0a503db7068063&ls=s&pro=1&sts=1",
+              "ref": "turn100search0"
+            },
+            {
+              "title": "NPGallery Asset Detail",
+              "url": "https://npgallery.nps.gov/AssetDetail/f78c36f6-ead6-414c-b4a4-a2367f781861",
+              "ref": "turn100search1"
+            },
+            {
+              "title": "Gallery Item Display",
+              "url": "https://www.nps.gov/media/photo/gallery-item.htm?gid=BE498700-0690-40FD-B271-B61609D8F671&id=30cd162a-7e55-4f95-b467-8820956c3485",
+              "ref": "turn100search2"
+            },
+            {
+              "title": "Gallery Item Display",
+              "url": "https://www.nps.gov/media/photo/gallery-item.htm?gid=BE498700-0690-40FD-B271-B61609D8F671&id=41911d7a-6fb7-45fb-930a-c70f271cf55f&pg=0",
+              "ref": "turn100search3"
+            },
+            {
+              "title": "Badlands National Park Tee: Vintage Sunset Graphic, South Dakota Hiking Gift - Etsy",
+              "url": "https://www.etsy.com/listing/1896587141/badlands-national-park-tee-vintage",
+              "ref": "turn100search4"
+            },
+            {
+              "title": "Badlands National Park Sunset Digital Art by Connaq Clair - Fine Art America",
+              "url": "https://fineartamerica.com/featured/badlands-national-park-sunset-connaq-clair.html",
+              "ref": "turn100search5"
+            },
+            {
+              "title": "File:Badlands National Park sunset (54797840777).jpg - Wikimedia Commons",
+              "url": "https://commons.wikimedia.org/wiki/File%3ABadlands_National_Park_sunset_%2854797840777%29.jpg",
+              "ref": "turn100search6"
+            },
+            {
+              "title": "Category:Sunsets of Badlands National Park - Wikimedia Commons",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ASunsets_of_Badlands_National_Park",
+              "ref": "turn100search7"
+            },
+            {
+              "title": "Badlands National Park Comfort Colors T-shirt, Graphic Tee, Vintage Style Shirt, Nature Lover Gift, Mountain Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/1890397645/badlands-national-park-comfort-colors-t",
+              "ref": "turn100search8"
+            },
+            {
+              "title": "Badlands National Park Ram Retro Sunset - Badlands National Park Ram Retro Sunse - Posters and Art Prints | TeePublic",
+              "url": "https://www.teepublic.com/poster-and-art/87681338-badlands-national-park-ram-retro-sunset",
+              "ref": "turn100search9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D11Q01",
+      "domain": "southcoastoutdoorscompany.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Stay Wild\"",
+          "time": "2026-09-29T17:48:41.826Z",
+          "rows": [
+            {
+              "title": "Texas to Key West Coastal Explorer T-Shirt – Gulf Coast Adventure Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/stay-wild-sc3000",
+              "ref": "turn101search0"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts",
+              "ref": "turn101search1"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – Page 2 – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts?page=2",
+              "ref": "turn101search2"
+            }
+          ]
+        },
+        {
+          "id": "N2",
+          "q": "Stay Wild Outdoor Adventure Graphic T-Shirt",
+          "time": "2026-09-29T17:48:43.975Z",
+          "rows": [
+            {
+              "title": "Texas to Key West Coastal Explorer T-Shirt – Gulf Coast Adventure Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/stay-wild-sc3100",
+              "ref": "turn102search0"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts",
+              "ref": "turn102search1"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – Page 2 – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts?page=2",
+              "ref": "turn102search2"
+            },
+            {
+              "title": "Beaches Bayous Backroads T-Shirt – Southern Hunting & Coastal Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/beaches-bayous-backroads-sc4200",
+              "ref": "turn102search3"
+            },
+            {
+              "title": "Stilt House Sea Turtle T-Shirt – Above & Below Tropical Coastal Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/tropical-stilt-house-sc4100",
+              "ref": "turn102search4"
+            },
+            {
+              "title": "Tropical Sunset Beach T-Shirt – Gulf Coast Palm Tree Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/magic-of-coastal-living-sc800",
+              "ref": "turn102search5"
+            },
+            {
+              "title": "SCO Pink Logo T-Shirt – South Coast Silhouette Texas to Key West Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/south-coast-sc4700",
+              "ref": "turn102search6"
+            },
+            {
+              "title": "South Coast Silhouette Logo T-Shirt – Texas to Key West Brand Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/south-coast-silhouette-sc4600",
+              "ref": "turn102search7"
+            },
+            {
+              "title": "Kayak Mangrove T-Shirt – Coastal Paddling Explorer Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/mangrove-kayak-sc3400",
+              "ref": "turn102search8"
+            },
+            {
+              "title": "Texas Flag Coastal House T-Shirt – Gulf Coast Shoreline Signpost Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/southern-shoreline-sc3700",
+              "ref": "turn102search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "stay wild lighthouse shoreline outdoors graphic",
+          "time": "2026-09-29T17:48:45.059Z",
+          "rows": [
+            {
+              "title": "Texas to Key West Coastal Explorer T-Shirt – Gulf Coast Adventure Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/stay-wild-sc3100",
+              "ref": "turn103search0"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts",
+              "ref": "turn103search1"
+            },
+            {
+              "title": "SCO Pink Logo T-Shirt – South Coast Silhouette Texas to Key West Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/south-coast-sc4700",
+              "ref": "turn103search2"
+            },
+            {
+              "title": "South Coast Silhouette Logo T-Shirt – Texas to Key West Brand Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/south-coast-silhouette-sc4600",
+              "ref": "turn103search3"
+            },
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – Page 2 – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts?page=2",
+              "ref": "turn103search4"
+            },
+            {
+              "title": "Above & Below Mangrove Sunset T-Shirt – Gulf Coast Fishing Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/above-below-sc3200",
+              "ref": "turn103search5"
+            },
+            {
+              "title": "Gulf Coast Shoreline Heritage T-Shirt – Texas to Key West Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/southern-shoreline-sc3500",
+              "ref": "turn103search6"
+            },
+            {
+              "title": "Texas Flag Coastal House T-Shirt – Gulf Coast Shoreline Signpost Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/southern-shoreline-sc3700",
+              "ref": "turn103search7"
+            },
+            {
+              "title": "Beaches Bayous Backroads T-Shirt – Southern Hunting & Coastal Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/beaches-bayous-backroads-sc4200",
+              "ref": "turn103search8"
+            },
+            {
+              "title": "SCO It's a Way of Life Navy T-Shirt – South Coast Logo Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/south-coast-outdoors-co-classic-logo-sc4800",
+              "ref": "turn103search9"
+            }
+          ]
+        },
+        {
+          "id": "W1",
+          "q": "\"Stay Wild\"",
+          "time": "2026-09-29T17:48:46.082Z",
+          "rows": [
+            {
+              "title": "Stay Wild Font | Webfont & Desktop | MyFonts",
+              "url": "https://www.myfonts.com/collections/stay-wild-font-epiclinez/",
+              "ref": "turn104search0"
+            },
+            {
+              "title": "Watch Stay Wild Streaming Online | Tubi Free TV",
+              "url": "https://tubitv.com/series/300019707/stay-wild",
+              "ref": "turn104search1"
+            },
+            {
+              "title": "Stay Wild Font | Webfont & Desktop | MyFonts",
+              "url": "https://www.myfonts.com/collections/stay-wild-font-epiclinez",
+              "ref": "turn104search2"
+            },
+            {
+              "title": "STAY WILD - Podcast - Apple Podcasts",
+              "url": "https://podcasts.apple.com/us/podcast/stay-wild/id1558635861",
+              "ref": "turn104search3"
+            },
+            {
+              "title": "STAY WILD",
+              "url": "https://hoo.be/staywild",
+              "ref": "turn104search4"
+            },
+            {
+              "title": "Stay Wild Travel | Group Trips For Women Who Crave Wild Adventures",
+              "url": "https://www.staywildtravel.com/",
+              "ref": "turn104search5"
+            },
+            {
+              "title": "Outdoor Apparel | Stay Wild Outfitters",
+              "url": "https://www.staywildoutfitters.com/",
+              "ref": "turn104search6"
+            },
+            {
+              "title": "Stay Wild – Atticus Poetry Official Store",
+              "url": "https://atticuspoetry.com/collections/stay-wild",
+              "ref": "turn104search7"
+            },
+            {
+              "title": "Stay Wild Travel | Our Story",
+              "url": "https://www.staywildtravel.com/about-us",
+              "ref": "turn104search8"
+            },
+            {
+              "title": "Stay Wild",
+              "url": "https://pitchfork.com/reviews/albums/20805-stay-wild",
+              "ref": "turn104news12"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Stay Wild Outdoor Adventure Graphic T-Shirt",
+          "time": "2026-09-29T17:48:47.406Z",
+          "rows": [
+            {
+              "title": "Texas to Key West Coastal Explorer T-Shirt – Gulf Coast Adventure Tee | South Coast Outdoors Co. – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/products/stay-wild-sc3100",
+              "ref": "turn105search0"
+            },
+            {
+              "title": "Adventure Awaits - Bella+Canvas Tee",
+              "url": "https://staywilde.co/products/adventure-awaits-bella-canvas-tee",
+              "ref": "turn105search1"
+            },
+            {
+              "title": "Stay Wild – Adventure & Outdoor Typography T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/stay_wild_adventure_outdoor_typography_t_shirt-256522531337099850",
+              "ref": "turn105search2"
+            },
+            {
+              "title": "Mountain Explorer Outdoor Adventure Stay Wild - Mountain - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/98485060-mountain-explorer-outdoor-adventure-stay-wild",
+              "ref": "turn105search3"
+            },
+            {
+              "title": "Stay Wild Adventure Nature Quote T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/stay_wild_adventure_nature_quote_t_shirt-256132295428897399",
+              "ref": "turn105search4"
+            },
+            {
+              "title": "Stay Wild | Vintage Outdoor Adventure Typography | Nature Lover Shirt - Stay Wild - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/96687915-stay-wild-vintage-outdoor-adventure-typography-nat?store_id=73076",
+              "ref": "turn105search5"
+            },
+            {
+              "title": "Men's Yellowstone Distressed Stay Wild T-Shirt - White - Medium : Target",
+              "url": "https://www.target.com/p/-/A-90952539",
+              "ref": "turn105search6"
+            },
+            {
+              "title": "Stay Wild Adventure Awaits Outdoor Shirt Graphic by Eyashin0058 · Creative Fabrica",
+              "url": "https://www.creativefabrica.com/product/stay-wild-adventure-awaits-outdoor-shirt/",
+              "ref": "turn105search7"
+            },
+            {
+              "title": "Women's Yellowstone Distressed Stay Wild T-Shirt - Athletic Heather - X Large : Target",
+              "url": "https://www.target.com/p/-/A-90583747",
+              "ref": "turn105search8"
+            },
+            {
+              "title": "Stay Wild, Stay Soft Minimalist Mountain Tee | Outdoor Graphic Shirt – Easewild",
+              "url": "https://www.easewild.com/products/stay-wild-stay-soft-minimalist-mountain-tee",
+              "ref": "turn105search9"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "stay wild lighthouse shoreline outdoors graphic",
+          "time": "2026-09-29T17:48:48.553Z",
+          "rows": [
+            {
+              "title": "South Coast Outdoors Co. T-Shirts – Gulf Coast Lifestyle Graphic Tees – South Coast Outdoors Company",
+              "url": "https://southcoastoutdoorscompany.com/collections/all-t-shirts",
+              "ref": "turn106search0"
+            },
+            {
+              "title": "Stay Wild by Sarah Lumley on Dribbble",
+              "url": "https://dribbble.com/shots/21465300-Stay-Wild",
+              "ref": "turn106search1"
+            },
+            {
+              "title": "'Stay Wild Nature Graphic' Poster, picture, metal print, paint by Orbus Deadsign | Displate",
+              "url": "https://displate.com/displate/8614821",
+              "ref": "turn106search2"
+            },
+            {
+              "title": "Red and white lighthouse Art Print by jonesyinc | Arthaus",
+              "url": "https://shop.myarthaus.com/products/red-and-white-lighthouse",
+              "ref": "turn106search3"
+            },
+            {
+              "title": "Always Take the Scenic Route Camping Travel Adventure Hiking Wild Forest Mountain Compass Lighthouse Sea Ocean Wave SVG PNG - Etsy",
+              "url": "https://www.etsy.com/listing/1733370001/always-take-the-scenic-route-camping",
+              "ref": "turn106search4"
+            },
+            {
+              "title": "Always Take the Scenic Route Camping Travel Adventure Hiking Wild Forest Mountain Compass Lighthouse Sea Ocean Wave SVG PNG - Etsy",
+              "url": "https://www.etsy.com/listing/1719181026/always-take-the-scenic-route-camping",
+              "ref": "turn106search5"
+            },
+            {
+              "title": "Lighthouse Graphic T Shirt Coastal Ocean Scene With Nautical Beacon and Seaside Landscape on Natural Soft Cotton Tee - Etsy",
+              "url": "https://www.etsy.com/listing/4301248950/lighthouse-graphic-t-shirt-coastal-ocean",
+              "ref": "turn106search6"
+            },
+            {
+              "title": "Lighthouse Surrounded By Wild Grass poster av Del Mundo Imagery - Printler",
+              "url": "https://printler.com/sv/print/337774/",
+              "ref": "turn106search7"
+            },
+            {
+              "title": "Lighthouse - Hampton Corporate",
+              "url": "https://hamptonhouse.net/pod-image/lighthouse-789866/",
+              "ref": "turn106search8"
+            },
+            {
+              "title": "Always Take the Scenic Route Camping Travel Adventure Hiking Wild Forest Mountain Compass Lighthouse SVG PNG - Etsy",
+              "url": "https://www.etsy.com/listing/1733433941/always-take-the-scenic-route-camping",
+              "ref": "turn106search9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D12Q01",
+      "domain": "slothhikingclub.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Out Of Breath\"",
+          "time": "2026-09-29T17:48:49.704Z",
+          "rows": [
+            {
+              "title": "Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/",
+              "ref": "turn107search0"
+            },
+            {
+              "title": "Adventure Awaits Sweatshirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/adventure-awaits-sweatshirt",
+              "ref": "turn107search1"
+            },
+            {
+              "title": "Ferntastic T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/ferntastic-t-shirt",
+              "ref": "turn107search2"
+            },
+            {
+              "title": "Go Outside T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/go-outside-t-shirt",
+              "ref": "turn107search3"
+            },
+            {
+              "title": "Pink Peaks T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/pink-peaks-t-shirt",
+              "ref": "turn107search4"
+            },
+            {
+              "title": "Sloth Hiking Club Gift Card",
+              "url": "https://slothhikingclub.com/products/sloth-hiking-club-gift-card",
+              "ref": "turn107search5"
+            },
+            {
+              "title": "Home page – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/collections/frontpage",
+              "ref": "turn107search6"
+            },
+            {
+              "title": "Out Of Breath T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+              "ref": "turn107search7"
+            },
+            {
+              "title": "Lonely Hikers T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/lonely-hikers-t-shirt",
+              "ref": "turn107search8"
+            },
+            {
+              "title": "Sloth Hiking Nap T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/sloth-hiking-nap-t-shirt",
+              "ref": "turn107search9"
+            }
+          ]
+        },
+        {
+          "id": "N2",
+          "q": "Out Of Breath T-shirt",
+          "time": "2026-09-29T17:48:55.837Z",
+          "rows": [
+            {
+              "title": "Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/",
+              "ref": "turn108search0"
+            },
+            {
+              "title": "Out Of Breath T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+              "ref": "turn108search1"
+            },
+            {
+              "title": "Adventure Awaits Sweatshirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/adventure-awaits-sweatshirt",
+              "ref": "turn108search2"
+            },
+            {
+              "title": "Go Outside T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/go-outside-t-shirt",
+              "ref": "turn108search3"
+            },
+            {
+              "title": "Lonely Hikers T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/lonely-hikers-t-shirt",
+              "ref": "turn108search4"
+            },
+            {
+              "title": "Out Of Breath Society T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-society-t-shirt",
+              "ref": "turn108search5"
+            },
+            {
+              "title": "Sloth Hiking Nap T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/sloth-hiking-nap-t-shirt",
+              "ref": "turn108search6"
+            },
+            {
+              "title": "Pink Peaks T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/pink-peaks-t-shirt",
+              "ref": "turn108search7"
+            },
+            {
+              "title": "Home page – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/collections/frontpage",
+              "ref": "turn108search8"
+            },
+            {
+              "title": "Hiking T-Shirt Sale! – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/collections/sale",
+              "ref": "turn108search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "out of breath sloth hiking graphic shirt",
+          "time": "2026-09-29T17:48:56.805Z",
+          "rows": [
+            {
+              "title": "Out Of Breath T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+              "ref": "turn109search0"
+            },
+            {
+              "title": "Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/",
+              "ref": "turn109search1"
+            },
+            {
+              "title": "Sloth Hiking Club Logo T-Shirt",
+              "url": "https://slothhikingclub.com/products/sloth-hiking-club-logo-t-shirt",
+              "ref": "turn109search2"
+            },
+            {
+              "title": "Sloth Adventure T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/130-png",
+              "ref": "turn109search3"
+            },
+            {
+              "title": "Lonely Hikers T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/lonely-hikers-t-shirt",
+              "ref": "turn109search4"
+            },
+            {
+              "title": "Go Outside T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/go-outside-t-shirt",
+              "ref": "turn109search5"
+            },
+            {
+              "title": "Sloth Hiking Nap T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/sloth-hiking-nap-t-shirt",
+              "ref": "turn109search6"
+            },
+            {
+              "title": "Home page – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/collections/frontpage",
+              "ref": "turn109search7"
+            },
+            {
+              "title": "Hiking Happy T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/hiking-happy-t-shirt",
+              "ref": "turn109search8"
+            },
+            {
+              "title": "Trail-Gating T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/trail-gating-t-shirt",
+              "ref": "turn109search9"
+            }
+          ]
+        },
+        {
+          "id": "W1",
+          "q": "\"Out Of Breath\"",
+          "time": "2026-09-29T17:49:01.099Z",
+          "rows": [
+            {
+              "title": "OUT OF BREATH definition | Cambridge English Dictionary",
+              "url": "https://dictionary.cambridge.org/us/dictionary/english/out-of-breath",
+              "ref": "turn110search0"
+            },
+            {
+              "title": "Shortness of breath - Causes and definition - Mayo Clinic",
+              "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
+              "ref": "turn110search1"
+            },
+            {
+              "title": "OUT OF BREATH | English meaning - Cambridge Dictionary",
+              "url": "https://dictionary.cambridge.org/dictionary/english/out-of-breath",
+              "ref": "turn110search2"
+            },
+            {
+              "title": "Hyperventilation Symptoms, Causes & Treatment",
+              "url": "https://my.clevelandclinic.org/health/diseases/hyperventilation",
+              "ref": "turn110search3"
+            },
+            {
+              "title": "OUT OF BREATH definition in American English | Collins English Dictionary",
+              "url": "https://www.collinsdictionary.com/us/dictionary/english/out-of-breath",
+              "ref": "turn110search4"
+            },
+            {
+              "title": "BREATH | definition in the Cambridge English Dictionary",
+              "url": "https://dictionary.cambridge.org/us/dictionary/english/breath",
+              "ref": "turn110search5"
+            },
+            {
+              "title": "Breathlessness | Johns Hopkins Medicine",
+              "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/breathlessness",
+              "ref": "turn110search6"
+            },
+            {
+              "title": "OUT OF BREATH definition and meaning | Collins English Dictionary",
+              "url": "https://www.collinsdictionary.com/dictionary/english/out-of-breath",
+              "ref": "turn110search7"
+            },
+            {
+              "title": "Shortness of Breath: Causes, Warning Signs & When to Seek Help | American Lung Association",
+              "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
+              "ref": "turn110search8"
+            },
+            {
+              "title": "OUT OF BREATH Definition & Meaning | Dictionary.com",
+              "url": "https://www.dictionary.com/browse/out-of-breath",
+              "ref": "turn110search9"
+            }
+          ]
+        },
+        {
+          "id": "W2",
+          "q": "Out Of Breath T-shirt",
+          "time": "2026-09-29T17:49:02.226Z",
+          "rows": [
+            {
+              "title": "Out Of Breath Hiking Society Dont Worry Ill Be There In A TShirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/19995520999",
+              "ref": "turn111search0"
+            },
+            {
+              "title": "Out Of Breath T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+              "ref": "turn111search1"
+            },
+            {
+              "title": "Out Of Breath Hiking Society Dont Worry Ill Be There In A TShirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/20023357689",
+              "ref": "turn111search2"
+            },
+            {
+              "title": "Out Of Breath Hiking Society Don'T Worry I'Ll Be There T-Shirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/20252572477",
+              "ref": "turn111search3"
+            },
+            {
+              "title": "Out Of Breath Hiking Society T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/out_of_breath_hiking_society_t_shirt-256888031618201880",
+              "ref": "turn111search4"
+            },
+            {
+              "title": "Out Of Breath Hiking Society T-Shirt - Vintage Comfort Colors – 207 Threads",
+              "url": "https://207threads.com/products/out-of-breath-hiking-society-tee",
+              "ref": "turn111search5"
+            },
+            {
+              "title": "Out Of Breath Hiking Society T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/out_of_breath_hiking_society_t_shirt-256951666184465734",
+              "ref": "turn111search6"
+            },
+            {
+              "title": "Out of Breath T-Shirt – SpeakBoldCo",
+              "url": "https://www.speakboldco.com/products/out-of-breath-t-shirt-1",
+              "ref": "turn111search7"
+            },
+            {
+              "title": "Out Of Breath Hiking Society T-Shirt – The Grizzly Co.",
+              "url": "https://thegrizzlyco.com/products/out-of-breath-hiking-society",
+              "ref": "turn111search8"
+            },
+            {
+              "title": "Out Of Breath Hiking Club Shirt hiking t-shirt | Hike Tee",
+              "url": "https://hiketee.com/products/huffing-puffing-hiker-shirt",
+              "ref": "turn111search9"
+            }
+          ]
+        },
+        {
+          "id": "W3",
+          "q": "out of breath sloth hiking graphic shirt",
+          "time": "2026-09-29T17:49:03.368Z",
+          "rows": [
+            {
+              "title": "Out Of Breath T-shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+              "ref": "turn112search0"
+            },
+            {
+              "title": "Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/",
+              "ref": "turn112search1"
+            },
+            {
+              "title": "Out of Breath Hiking Team Mountain Shirt – Sloth & Duck",
+              "url": "https://www.slothandduck.store/products/out-of-breath-hiking-team-mountain-graphic-shirt",
+              "ref": "turn112search2"
+            },
+            {
+              "title": "Sloth Adventure T-Shirt – Sloth Hiking Club",
+              "url": "https://slothhikingclub.com/products/130-png",
+              "ref": "turn112search3"
+            },
+            {
+              "title": "Out of Breath Hiking Team T-Shirt | Funny Mountain Hiking Graphic Tee – Sloth & Duck",
+              "url": "https://www.slothandduck.store/products/out-of-breath-hiking-team-t-shirt",
+              "ref": "turn112search4"
+            },
+            {
+              "title": "Out Of Breath Hiking Society Funny Sloth Hiker Jok T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/out_of_breath_hiking_society_funny_sloth_hiker_jok_t_shirt-256379385904308898",
+              "ref": "turn112search5"
+            },
+            {
+              "title": "Funny Hiking Sloth Out Of Breath Society - Funny Hiking Gifts - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/76996737-funny-hiking-sloth-out-of-breath-society",
+              "ref": "turn112search6"
+            },
+            {
+              "title": "Women's - Instant Message - Sloth Hiking Team Short Sleeve Graphic T-Shirt : Target",
+              "url": "https://www.target.com/p/-/A-1007747038",
+              "ref": "turn112search7"
+            },
+            {
+              "title": "Out Of Breath Hiking Society Funny Sloth Hiker Retro Humor Unisex T-Shirt, up to size 5XL - Walmart.com",
+              "url": "https://www.walmart.com/ip/18961156481",
+              "ref": "turn112search8"
+            },
+            {
+              "title": "Out Of Breath Hiking Society Sloth T-Shirt | Funny Hiking Apparel – Sloth & Duck",
+              "url": "https://www.slothandduck.store/products/out-of-breath-hiking-society-sloth-adventure-t-shirt-4570514",
+              "ref": "turn112search9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

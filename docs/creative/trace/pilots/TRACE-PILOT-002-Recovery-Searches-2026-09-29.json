@@ -1,0 +1,1083 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "captured_at_utc": "2026-09-29T16:58:08.381Z",
+  "status": "RECOVERY-IN-PROGRESS-NO-NEW-GATE0",
+  "native_block": {
+    "url": "https://www.crazydogtshirts.com/search?q=%22My%20favorite%20people%20call%20me%20papa%22&type=product",
+    "observed": "Cloudflare Performing security verification; explicit malicious-bot protection message; remained after one reload.",
+    "report": "challenge_loop"
+  },
+  "searches": [
+    {
+      "key": "D05Q11",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"My favorite people call me papa\"",
+          "time": "2026-09-29T16:56:40.874Z",
+          "rows": [
+            {
+              "title": "Crazy Dog T-Shirts | Funny Tees And Cool Tshirts For Men And Women",
+              "url": "https://www.crazydogtshirts.com/",
+              "ref": "turn5search0"
+            },
+            {
+              "title": "Fathers Day Tie | Crazy Dog T-shirts",
+              "url": "https://www.crazydogtshirts.com/collections/fathers-day-tie",
+              "ref": "turn5search1"
+            },
+            {
+              "title": "Grandpa Shirt | Gift for Dad | Grandfather Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/grandpa-shirt",
+              "ref": "turn5search2"
+            },
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn5search3"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Tie",
+              "url": "https://www.crazydogtshirts.com/products/my-favorite-people-call-me-papa-1",
+              "ref": "turn5search4"
+            },
+            {
+              "title": "Hats – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/hats",
+              "ref": "turn5search5"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Hoodie",
+              "url": "https://www.crazydogtshirts.com/products/my-favorite-people-call-me-papa",
+              "ref": "turn5search6"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn5search7"
+            },
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn5search8"
+            },
+            {
+              "title": "Fathers Day Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fathers-day",
+              "ref": "turn5search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"My favorite people call me papa\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "My Favorite People Call Me Papa",
+          "time": "2026-09-29T16:56:40.777Z",
+          "rows": [
+            {
+              "title": "Crazy Dog T-Shirts | Funny Tees And Cool Tshirts For Men And Women",
+              "url": "https://www.crazydogtshirts.com/",
+              "ref": "turn4search0"
+            },
+            {
+              "title": "Fathers Day Tie | Crazy Dog T-shirts",
+              "url": "https://www.crazydogtshirts.com/collections/fathers-day-tie",
+              "ref": "turn4search1"
+            },
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn4search2"
+            },
+            {
+              "title": "Grandpa Shirt | Gift for Dad | Grandfather Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/grandpa-shirt",
+              "ref": "turn4search3"
+            },
+            {
+              "title": "Hats – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/hats",
+              "ref": "turn4search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn4search5"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Tie",
+              "url": "https://www.crazydogtshirts.com/products/my-favorite-people-call-me-papa-1",
+              "ref": "turn4search6"
+            },
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn4search7"
+            },
+            {
+              "title": "Crazy Hoodies | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-hoodies",
+              "ref": "turn4search8"
+            },
+            {
+              "title": "Fathers Day Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fathers-day",
+              "ref": "turn4search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com My Favorite People Call Me Papa",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "distressed arched people script call me large papa typography",
+          "time": "2026-09-29T16:56:40.928Z",
+          "rows": [
+            {
+              "title": "Fathers Day Tie | Crazy Dog T-shirts",
+              "url": "https://www.crazydogtshirts.com/collections/fathers-day-tie",
+              "ref": "turn3search0"
+            },
+            {
+              "title": "Fathers Day Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fathers-day",
+              "ref": "turn3search1"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Tie",
+              "url": "https://www.crazydogtshirts.com/products/my-favorite-people-call-me-papa-1",
+              "ref": "turn3search2"
+            },
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn3search3"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/mens-my-favorite-people-call-me-papa-tshirt-funny-fathers-day-tee-for-guys",
+              "ref": "turn3search4"
+            },
+            {
+              "title": "Please be Patient with me Im From the 1900s Horse Drawn Carriage Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/please-be-patient-with-me-im-from-the-1900s-horse-drawn-carriage-mens-t-shirt",
+              "ref": "turn3search5"
+            },
+            {
+              "title": "Fathers Day Mugs | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/fathers-day-mugs",
+              "ref": "turn3search6"
+            },
+            {
+              "title": "My Favorite People Call Me Papa Hoodie",
+              "url": "https://www.crazydogtshirts.com/products/my-favorite-people-call-me-papa",
+              "ref": "turn3search7"
+            },
+            {
+              "title": "People Confuse Too And To Way Two Much Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/people-confuse-too-and-to-way-two-much-mens-t-shirt",
+              "ref": "turn3search8"
+            },
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn3search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com distressed arched people script call me large papa typography",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    },
+    {
+      "key": "D05Q12",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"I wonder if beer thinks about me too\"",
+          "time": "2026-09-29T16:57:08.237Z",
+          "rows": [
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn7search0"
+            },
+            {
+              "title": "Wonder if Beer Thinks About Me Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/wonder-if-beer-thinks-about-me-t-shirt",
+              "ref": "turn7search1"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn7search2"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic?page=88",
+              "ref": "turn7search3"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts?page=31",
+              "ref": "turn7search4"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn7search5"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts?page=3",
+              "ref": "turn7search6"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn7search7"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"I wonder if beer thinks about me too\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "INCOMPLETE-EXHAUSTION-UNVERIFIED",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "Wonder If Beer Thinks About Me",
+          "time": "2026-09-29T16:57:08.385Z",
+          "rows": [
+            {
+              "title": "Funny St. Patricks Day Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-st-patricks-day",
+              "ref": "turn6search0"
+            },
+            {
+              "title": "Funny St. Patricks Day Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-st-patricks-day/style-mens-t-shirts",
+              "ref": "turn6search1"
+            },
+            {
+              "title": "Beer Shirts Funny | Drinking T shirt | Beer Lovers – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/beer-tshirts",
+              "ref": "turn6search2"
+            },
+            {
+              "title": "Mens St. Patricks Day Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mens-st-patricks-day-shirts",
+              "ref": "turn6search3"
+            },
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn6search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn6search5"
+            },
+            {
+              "title": "Wonder if Beer Thinks About Me Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/wonder-if-beer-thinks-about-me-t-shirt",
+              "ref": "turn6search6"
+            },
+            {
+              "title": "St. Patricks Day Shirts for Adults | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/st-patricks-day-shirts-for-adults",
+              "ref": "turn6search7"
+            },
+            {
+              "title": "Beer Shirts Funny | Drinking T shirt | Beer LoversTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/beer-tshirts/style-mens-t-shirts",
+              "ref": "turn6search8"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn6search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com Wonder If Beer Thinks About Me",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "distressed white typography oversized beer thinks about me too",
+          "time": "2026-09-29T16:57:08.373Z",
+          "rows": [
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn8search0"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn8search1"
+            },
+            {
+              "title": "Funny Wine Shirts | Womens Wino T shirt | Hilarious Gifts",
+              "url": "https://www.crazydogtshirts.com/collections/wine-shirts/style-womens-t-shirts",
+              "ref": "turn8search2"
+            },
+            {
+              "title": "Funny Wine Shirts | Womens Wino T shirt | Hilarious Gifts",
+              "url": "https://www.crazydogtshirts.com/collections/wine-shirts",
+              "ref": "turn8search3"
+            },
+            {
+              "title": "Mens St. Patricks Day Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mens-st-patricks-day-shirts",
+              "ref": "turn8search4"
+            },
+            {
+              "title": "St. Patricks Day Shirts for Adults | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/st-patricks-day-shirts-for-adults",
+              "ref": "turn8search5"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic?page=88",
+              "ref": "turn8search6"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts?page=3",
+              "ref": "turn8search7"
+            },
+            {
+              "title": "Funny Drinking T-shirts | Bachelor Party Gifts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/funny-drinking",
+              "ref": "turn8search8"
+            },
+            {
+              "title": "Funny St. Patricks Day Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-st-patricks-day/style-mens-t-shirts",
+              "ref": "turn8search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com distressed white typography oversized beer thinks about me too",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    },
+    {
+      "key": "D05Q13",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Science like magic but real\"",
+          "time": "2026-09-29T16:57:09.098Z",
+          "rows": [
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn10search0"
+            },
+            {
+              "title": "Crazy Socks for Men | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-men-socks",
+              "ref": "turn10search1"
+            },
+            {
+              "title": "Science: Like Magic But Real Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/science-like-magic-but-real-mens-tshirt",
+              "ref": "turn10search2"
+            },
+            {
+              "title": "Funny Neck Ties – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-neck-ties",
+              "ref": "turn10search3"
+            },
+            {
+              "title": "Nerdy Shirts | Funny Teacher T shirts | Geeky Tees",
+              "url": "https://www.crazydogtshirts.com/collections/funny-science-math",
+              "ref": "turn10search4"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn10search5"
+            },
+            {
+              "title": "Crazy Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-socks",
+              "ref": "turn10search6"
+            },
+            {
+              "title": "Crazy Socks for Kids | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-kids-socks",
+              "ref": "turn10search7"
+            },
+            {
+              "title": "Crazy Hoodies | Crazy Dog T-Shirts – Page 2",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-hoodies?page=2",
+              "ref": "turn10search8"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn10search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"Science like magic but real\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "Science Like Magic But Real",
+          "time": "2026-09-29T16:57:09.233Z",
+          "rows": [
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn9search0"
+            },
+            {
+              "title": "Science: Like Magic But Real Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/science-like-magic-but-real-mens-tshirt",
+              "ref": "turn9search1"
+            },
+            {
+              "title": "Crazy Socks for Men | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-men-socks",
+              "ref": "turn9search2"
+            },
+            {
+              "title": "Nerdy Shirts | Funny Teacher T shirts | Geeky Tees",
+              "url": "https://www.crazydogtshirts.com/collections/funny-science-math",
+              "ref": "turn9search3"
+            },
+            {
+              "title": "Funny Neck Ties – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-neck-ties",
+              "ref": "turn9search4"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn9search5"
+            },
+            {
+              "title": "Crazy Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-socks",
+              "ref": "turn9search6"
+            },
+            {
+              "title": "Funny Socks | Crazy Mens Socks | Fun Womens Sock",
+              "url": "https://www.crazydogtshirts.com/collections/funny-socks",
+              "ref": "turn9search7"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn9search8"
+            },
+            {
+              "title": "Crazy Socks for Kids | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-kids-socks",
+              "ref": "turn9search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com Science Like Magic But Real",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "yellow atom science instruments microscope science like magic but real",
+          "time": "2026-09-29T16:57:09.343Z",
+          "rows": [
+            {
+              "title": "Pint Glasses",
+              "url": "https://www.crazydogtshirts.com/collections/pint-glasses",
+              "ref": "turn11search0"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn11search1"
+            },
+            {
+              "title": "Nerdy Shirts | Funny Teacher T shirts | Geeky Tees",
+              "url": "https://www.crazydogtshirts.com/collections/funny-science-math",
+              "ref": "turn11search2"
+            },
+            {
+              "title": "Science: Like Magic But Real Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/science-like-magic-but-real-mens-tshirt",
+              "ref": "turn11search3"
+            },
+            {
+              "title": "Tea Towels",
+              "url": "https://www.crazydogtshirts.com/collections/tea-towels",
+              "ref": "turn11search4"
+            },
+            {
+              "title": "Funny Political T-shirts | Resist Shirt | Politics Joke",
+              "url": "https://www.crazydogtshirts.com/collections/funny-political/style-womens-t-shirts",
+              "ref": "turn11search5"
+            },
+            {
+              "title": "Cool Sci-fi Shirt | Funny Nerdy Tees | Geeky Graphics",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sci-fi",
+              "ref": "turn11search6"
+            },
+            {
+              "title": "Funny Socks | Crazy Mens Socks | Fun Womens Sock",
+              "url": "https://www.crazydogtshirts.com/collections/funny-socks",
+              "ref": "turn11search7"
+            },
+            {
+              "title": "Best Sellers | 365 Days | 9/10/25",
+              "url": "https://www.crazydogtshirts.com/collections/best-sellers-365-days-9-10-25",
+              "ref": "turn11search8"
+            },
+            {
+              "title": "Shop Back To School | Gifts for Teachers | Cool Kids T-shirts Cheap",
+              "url": "https://www.crazydogtshirts.com/collections/back-to-school",
+              "ref": "turn11search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com yellow atom science instruments microscope science like magic but real",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    },
+    {
+      "key": "D05Q14",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"I’m silently correcting your grammar\"",
+          "time": "2026-09-29T16:57:10.081Z",
+          "rows": [
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn13search0"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn13search1"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn13search2"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive?page=2",
+              "ref": "turn13search3"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"I’m silently correcting your grammar\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "INCOMPLETE-EXHAUSTION-UNVERIFIED",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "I'm Silently Correcting Your Grammar",
+          "time": "2026-09-29T16:57:10.246Z",
+          "rows": [
+            {
+              "title": "Most Popular T-Shirts | Novelty Tees For Men And Women – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/best-sellers",
+              "ref": "turn14search0"
+            },
+            {
+              "title": "Cool Sci-fi Shirt | Funny Nerdy Tees | Geeky Graphics",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sci-fi",
+              "ref": "turn14search1"
+            },
+            {
+              "title": "Funny Womens Shirts | Hilarious Mom Gift | Cool Tee for a New Mama – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-womant",
+              "ref": "turn14search2"
+            },
+            {
+              "title": "Wait, What? Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/wait-what-womens-tshirt",
+              "ref": "turn14search3"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn14search4"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn14search5"
+            },
+            {
+              "title": "Funny Neck Ties – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-neck-ties",
+              "ref": "turn14search6"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn14search7"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn14search8"
+            },
+            {
+              "title": "I'm Silently Correcting Your Grammar Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/silently-correcting-your-grammar-t-shirt",
+              "ref": "turn14search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com I'm Silently Correcting Your Grammar",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "white serif three lines silently correcting your grammar",
+          "time": "2026-09-29T16:57:09.955Z",
+          "rows": [
+            {
+              "title": "Wait, What? Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/wait-what-womens-tshirt",
+              "ref": "turn12search0"
+            },
+            {
+              "title": "Silently Correcting Your Grammar Lined Paper Baby Bodysuit",
+              "url": "https://www.crazydogtshirts.com/products/silently-correcting-grammar-lines-baby-creeper-infant",
+              "ref": "turn12search1"
+            },
+            {
+              "title": "Cool Sci-fi Shirt | Funny Nerdy Tees | Geeky Graphics",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sci-fi",
+              "ref": "turn12search2"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn12search3"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn12search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn12search5"
+            },
+            {
+              "title": "I'm Silently Correcting Your Grammar Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/silently-correcting-your-grammar-t-shirt",
+              "ref": "turn12search6"
+            },
+            {
+              "title": "Funny Womens Shirts | Hilarious Mom Gift | Cool Tee for a New Mama",
+              "url": "https://www.crazydogtshirts.com/products/grunge-striped-skull-womens-tshirt",
+              "ref": "turn12search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn12search8"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive?page=2",
+              "ref": "turn12search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com white serif three lines silently correcting your grammar",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    },
+    {
+      "key": "D05Q15",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"World’s okayest brother\"",
+          "time": "2026-09-29T16:57:11.053Z",
+          "rows": [
+            {
+              "title": "Funny Hoodies | Cool Sweatshirts | Hoodies with Sayings – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-hoodies",
+              "ref": "turn15search0"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn15search1"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn15search2"
+            },
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn15search3"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts",
+              "ref": "turn15search4"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic?page=88",
+              "ref": "turn15search5"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts?page=31",
+              "ref": "turn15search6"
+            },
+            {
+              "title": "Sarcastic",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-womens-t-shirts?page=3",
+              "ref": "turn15search7"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"World’s okayest brother\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "INCOMPLETE-EXHAUSTION-UNVERIFIED",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "World's Okayest Brother",
+          "time": "2026-09-29T16:57:11.373Z",
+          "rows": [
+            {
+              "title": "Brother Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/brother",
+              "ref": "turn17search0"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn17search1"
+            },
+            {
+              "title": "World's Okayest Brother Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/okayest-brother-shirt",
+              "ref": "turn17search2"
+            },
+            {
+              "title": "Funny Hoodies | Cool Sweatshirts | Hoodies with Sayings – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-hoodies",
+              "ref": "turn17search3"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn17search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn17search5"
+            },
+            {
+              "title": "World's Okayest Brother Black Hoodie",
+              "url": "https://www.crazydogtshirts.com/products/worlds-okayest-brother-black-hoodie",
+              "ref": "turn17search6"
+            },
+            {
+              "title": "Funny Kids T-shirts | Cool Youth Shirts | Children's Tees – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-kids",
+              "ref": "turn17search7"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn17search8"
+            },
+            {
+              "title": "Sister Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sister",
+              "ref": "turn17search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com World's Okayest Brother",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "black condensed three lines worlds okayest brother",
+          "time": "2026-09-29T16:57:11.194Z",
+          "rows": [
+            {
+              "title": "World's Okayest Brother Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/okayest-brother-shirt",
+              "ref": "turn16search0"
+            },
+            {
+              "title": "Brother Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/brother",
+              "ref": "turn16search1"
+            },
+            {
+              "title": "World's Okayest Brother Black Hoodie",
+              "url": "https://www.crazydogtshirts.com/products/worlds-okayest-brother-black-hoodie",
+              "ref": "turn16search2"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn16search3"
+            },
+            {
+              "title": "Funny Hoodies | Cool Sweatshirts | Hoodies with Sayings – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-hoodies",
+              "ref": "turn16search4"
+            },
+            {
+              "title": "World's Okayest Boss Mug",
+              "url": "https://www.crazydogtshirts.com/products/worlds-okayest-boss-mug",
+              "ref": "turn16search5"
+            },
+            {
+              "title": "World's Okayest Dad Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/okayest-dad-shirt",
+              "ref": "turn16search6"
+            },
+            {
+              "title": "Crazy Socks for Kids | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-kids-socks",
+              "ref": "turn16search7"
+            },
+            {
+              "title": "Sister Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sister",
+              "ref": "turn16search8"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn16search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com black condensed three lines worlds okayest brother",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    },
+    {
+      "key": "D05Q16",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"I’m hiding\"",
+          "time": "2026-09-29T16:57:12.224Z",
+          "rows": [
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn20search0"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn20search1"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com \"I’m hiding\"",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "INCOMPLETE-EXHAUSTION-UNVERIFIED",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N2",
+          "q": "I'm Hiding",
+          "time": "2026-09-29T16:57:12.480Z",
+          "rows": [
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn18search0"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn18search1"
+            },
+            {
+              "title": "Best Sellers | 365 Days | 9/10/25",
+              "url": "https://www.crazydogtshirts.com/collections/best-sellers-365-days-9-10-25",
+              "ref": "turn18search2"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn18search3"
+            },
+            {
+              "title": "Funny T-Shirts | Hilarious Socks | Funny Face Covering Masks",
+              "url": "https://www.crazydogtshirts.com/collections/all?page=349&variant=7004077228077",
+              "ref": "turn18search4"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn18search5"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn18search6"
+            },
+            {
+              "title": "My Feet Are Hiding Compression Socks",
+              "url": "https://www.crazydogtshirts.com/products/my-feet-are-hiding",
+              "ref": "turn18search7"
+            },
+            {
+              "title": "That's Shady Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/thats-shady-womens-tshirt",
+              "ref": "turn18search8"
+            },
+            {
+              "title": "Mens My Feet Are Hiding Socks",
+              "url": "https://www.crazydogtshirts.com/products/mens-my-feet-are-hiding-socks",
+              "ref": "turn18search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com I'm Hiding",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        },
+        {
+          "id": "N3",
+          "q": "camouflage shirt white distressed I’m hiding",
+          "time": "2026-09-29T16:57:12.568Z",
+          "rows": [
+            {
+              "title": "You. Can't. See. Me. Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/you-can-t-see-me-full-camouflage-print-t-shirt",
+              "ref": "turn19search0"
+            },
+            {
+              "title": "King Of Clubs Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/king-of-clubs-mens-t-shirt",
+              "ref": "turn19search1"
+            },
+            {
+              "title": "My Imaginary Friends Think Im Cool Men's T Shirt – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/products/my-imaginary-friends-think-im-cool-mens-t-shirt",
+              "ref": "turn19search2"
+            },
+            {
+              "title": "Ate A 96er Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/ate-a-96er-mens-tshirt",
+              "ref": "turn19search3"
+            },
+            {
+              "title": "People Confuse Too And To Way Two Much Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/people-confuse-too-and-to-way-two-much-mens-t-shirt",
+              "ref": "turn19search4"
+            },
+            {
+              "title": "Just Asked Myself If Im Crazy We All Said No Socks",
+              "url": "https://www.crazydogtshirts.com/products/just-asked-myself-if-im-crazy-we-all-said-no-socks",
+              "ref": "turn19search5"
+            },
+            {
+              "title": "And Then I Just Snapped Men's T Shirt – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/products/and-then-i-just-snapped-mens-t-shirt",
+              "ref": "turn19search6"
+            },
+            {
+              "title": "Emotionally Exhausted Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/emotionally-exhausted-mens-t-shirt",
+              "ref": "turn19search7"
+            },
+            {
+              "title": "Funny Hunting T-shirts | Cool Fishing Gifts | Hunter Jokes – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-hunting-shirts",
+              "ref": "turn19search8"
+            },
+            {
+              "title": "Wake Up Drink Coffee Cycle Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/wake-up-drink-coffee-cycle-mens-t-shirt",
+              "ref": "turn19search9"
+            }
+          ],
+          "query_executed": "site:crazydogtshirts.com camouflage shirt white distressed I’m hiding",
+          "surface_role": "SOURCE-DOMAIN",
+          "engine": "system2",
+          "status": "COMPLETE-10",
+          "comparison": "Same source domain; titles identify source collections/products. No independent origin or ownership inference from these results; no new visual comparison claimed."
+        }
+      ]
+    }
+  ],
+  "verification_attempts": [
+    {
+      "query": "site:crazydogtshirts.com \"My favorite people call me papa\"",
+      "engine": "system1",
+      "status": "NONCONTROLLING-DOMAIN-NOT-HONORED"
+    },
+    {
+      "query": "\"I’m hiding\"",
+      "domains": [
+        "crazydogtshirts.com"
+      ],
+      "engine": "system1",
+      "status": "NONCONTROLLING-DOMAIN-NOT-HONORED"
+    }
+  ]
+}

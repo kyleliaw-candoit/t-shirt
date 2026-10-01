@@ -1,0 +1,328 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "candidate": "D08Q01",
+  "runs": [
+    {
+      "id": "N1",
+      "q": "\"My Job is Books\"",
+      "time": "2026-09-29T17:42:48.941Z",
+      "rows": [
+        {
+          "title": "Library/Books – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/library",
+          "ref": "turn77search0"
+        },
+        {
+          "title": "Clothing – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing",
+          "ref": "turn77search1"
+        },
+        {
+          "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+          "ref": "turn77search2"
+        },
+        {
+          "title": "Library/Books – Tagged \"T-shirts\" – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/library/t-shirts",
+          "ref": "turn77search3"
+        },
+        {
+          "title": "Die-Cut Stickers – Page 4 – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/die-cut-stickers?page=4",
+          "ref": "turn77search4"
+        },
+        {
+          "title": "Products – Tagged \"Kids\" – Page 5 – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/all/kids?page=5&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfdGl0bGUiLCJzdiI6IlBpY2tsZWJhbGw6IFNvdW5kcyBEZWxpY2lvdXMgS2lkcyIsImQiOiJmIiwidWlkIjo3NTM3NjU4NjI2MjM5LCJsIjozMiwibyI6MCwiciI6IkNQIiwidiI6MX0.eqS5Jzi-PfhW-4qrPjIecEH9a6cVHr4cHhLuHiKlllM",
+          "ref": "turn77search5"
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "q": "My Job is Books",
+      "time": "2026-09-29T17:43:00.086Z",
+      "rows": [
+        {
+          "title": "Library/Books – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/library",
+          "ref": "turn78search0"
+        },
+        {
+          "title": "Clothing – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing",
+          "ref": "turn78search1"
+        },
+        {
+          "title": "Die-Cut Stickers – Page 4 – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/die-cut-stickers?page=4",
+          "ref": "turn78search2"
+        },
+        {
+          "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+          "ref": "turn78search3"
+        },
+        {
+          "title": "Library/Books – Tagged \"T-shirts\" – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/library/t-shirts",
+          "ref": "turn78search4"
+        },
+        {
+          "title": "Products – Tagged \"Kids\" – Page 5 – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/all/kids?page=5&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfdGl0bGUiLCJzdiI6IlBpY2tsZWJhbGw6IFNvdW5kcyBEZWxpY2lvdXMgS2lkcyIsImQiOiJmIiwidWlkIjo3NTM3NjU4NjI2MjM5LCJsIjozMiwibyI6MCwiciI6IkNQIiwidiI6MX0.eqS5Jzi-PfhW-4qrPjIecEH9a6cVHr4cHhLuHiKlllM",
+          "ref": "turn78search5"
+        },
+        {
+          "title": "My Job Is Teach T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/public-education/products/my-job-is-teach",
+          "ref": "turn78search6"
+        },
+        {
+          "title": "Dog Stuff – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/dog-bandanas",
+          "ref": "turn78search7"
+        },
+        {
+          "title": "Museums – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/proud-museum-person",
+          "ref": "turn78search8"
+        },
+        {
+          "title": "T-Shirts – Page 38 – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/t-shirts?page=38",
+          "ref": "turn78search9"
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "q": "books job stacked text librarian shirt",
+      "time": "2026-09-29T17:43:05.089Z",
+      "rows": [
+        {
+          "title": "Everyone is Welcome T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/t-shirts/products/everyone-is-welcome",
+          "ref": "turn79search0"
+        },
+        {
+          "title": "Library Lover Max Collegiate T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/iowa-online-tax-free/products/library-lover-max-collegiate",
+          "ref": "turn79search1"
+        },
+        {
+          "title": "Public Educator Max Collegiate T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/iowa-online-tax-free/products/public-educator-max-collegiate",
+          "ref": "turn79search2"
+        },
+        {
+          "title": "My Job Is Teach T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/public-education/products/my-job-is-teach",
+          "ref": "turn79search3"
+        },
+        {
+          "title": "Clothing – Tagged \"T-shirts\" – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing/t-shirts",
+          "ref": "turn79search4"
+        },
+        {
+          "title": "In Ava Zediker We Trust T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/creighton-womens-basketball/products/in-ava-zediker-we-trust",
+          "ref": "turn79search5"
+        },
+        {
+          "title": "Clothing – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/clothing",
+          "ref": "turn79search6"
+        },
+        {
+          "title": "Don't Fear The Reader T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/public-education/products/dont-fear-the-reader",
+          "ref": "turn79search7"
+        },
+        {
+          "title": "Don't Fear The Reader T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/tax-free-t-shirts/products/dont-fear-the-reader",
+          "ref": "turn79search8"
+        },
+        {
+          "title": "Books Build Better Brains T-Shirt – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/public-education/products/books-build-better-brains",
+          "ref": "turn79search9"
+        }
+      ]
+    },
+    {
+      "id": "W1",
+      "q": "\"My Job is Books\"",
+      "time": "2026-09-29T17:43:06.077Z",
+      "rows": [
+        {
+          "title": "My Job Is Books Shirt: 3XL – The Painted Porch Bookshop",
+          "url": "https://www.thepaintedporch.com/products/my-job-is-books-shirt-3xl",
+          "ref": "turn80search0"
+        },
+        {
+          "title": "Wholesale my job is just books for your store",
+          "url": "https://www.faire.com/discover/my-job-is-just-books",
+          "ref": "turn80search1"
+        },
+        {
+          "title": "Library/Books – RAYGUN",
+          "url": "https://www.raygunsite.com/collections/library",
+          "ref": "turn80search2"
+        },
+        {
+          "title": "My Job is Books - Etsy Australia",
+          "url": "https://www.etsy.com/market/my_job_is_books",
+          "ref": "turn80search3"
+        },
+        {
+          "title": "\"My job is Books\" Classic T-Shirt for Sale by InnaPo | Redbubble",
+          "url": "https://www.redbubble.com/i/t-shirt/My-job-is-Books-by-InnaPo/155847518/lrcw",
+          "ref": "turn80search4"
+        },
+        {
+          "title": "My Job is Books Classic Pink Doll Canvas Tote Bag – Keen Bee Studio",
+          "url": "https://www.keenbeestudio.com/products/my-job-is-books-classic-pink-doll-canvas-tote-bag",
+          "ref": "turn80search5"
+        },
+        {
+          "title": "Lotte-Marie og matchmorderen by Trude Helén Hole | Goodreads",
+          "url": "https://www.goodreads.com/book/show/42094651-lotte-marie-og-matchmorderen",
+          "ref": "turn80search6"
+        },
+        {
+          "title": "Librarian Merch & Gifts for Sale | Redbubble",
+          "url": "https://www.redbubble.com/shop/librarian",
+          "ref": "turn80search7"
+        },
+        {
+          "title": "The Story by Trude Helén Hole | Goodreads",
+          "url": "https://www.goodreads.com/book/show/34886070-the-story",
+          "ref": "turn80search8"
+        },
+        {
+          "title": "Accessories | My Job Is Books Purple Enamel Pin Book Lover Reader Librarian | Poshmark",
+          "url": "https://poshmark.com/listing/My-Job-Is-Books-Purple-Enamel-Pin-Book-Lover-Reader-Librarian-6a8de511ebb1a5d65826cb43",
+          "ref": "turn80search9"
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "q": "My Job is Books",
+      "time": "2026-09-29T17:43:07.172Z",
+      "rows": [
+        {
+          "title": "Books by Jody Lamb – Jody Lamb | Author | Your First Job Is Taking Care of Yourself",
+          "url": "https://www.jodylamb.com/books-by-jody-lamb/",
+          "ref": "turn81search0"
+        },
+        {
+          "title": "Reading Books for a Job | Indeed.com",
+          "url": "https://www.indeed.com/career-advice/finding-a-job/reading-books-for-a-job",
+          "ref": "turn81search1"
+        },
+        {
+          "title": "My Job Is Mostly Meetings About More Meetings: How to Reclaim Your Day from a Calendar Full of Rectangles by Max Paradox - Books on Google Play",
+          "url": "https://play.google.com/store/books/details/Max_Paradox_My_Job_Is_Mostly_Meetings_About_More_M?id=qSoHEgAAQBAJ",
+          "ref": "turn81search2"
+        },
+        {
+          "title": "My Job - by Suzanne Skees (Paperback) : Target",
+          "url": "https://www.target.com/p/-/A-1010867550",
+          "ref": "turn81search3"
+        },
+        {
+          "title": "My Job is a Joke: Giggles Galore From 9 to 5 by Matt Silverman | Goodreads",
+          "url": "https://www.goodreads.com/book/show/9091711-my-job-is-a-joke",
+          "ref": "turn81search4"
+        },
+        {
+          "title": "My Job is Books - Etsy Australia",
+          "url": "https://www.etsy.com/market/my_job_is_books",
+          "ref": "turn81search5"
+        },
+        {
+          "title": "‎It's My Job by Michael Rich on Apple Books",
+          "url": "https://books.apple.com/us/book/its-my-job/id465135582",
+          "ref": "turn81search6"
+        },
+        {
+          "title": "AND",
+          "url": "https://www.thebooknextdoor.com/wp-content/uploads/2015/08/MyJob_WB.pdf",
+          "ref": "turn81search12"
+        },
+        {
+          "title": "29 of the Best Jobs for Book Lovers | Indeed.com",
+          "url": "https://www.indeed.com/career-advice/finding-a-job/jobs-for-book-lovers",
+          "ref": "turn81search7"
+        },
+        {
+          "title": "My Best Job by Adam Hargreaves: 9781524788070 | PenguinRandomHouse.com: Books",
+          "url": "https://www.penguinrandomhouse.com/books/566819/my-best-job-by-adam-hargreaves-illustrated-by-adam-hargreaves/",
+          "ref": "turn81search8"
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "q": "books job stacked text librarian shirt",
+      "time": "2026-09-29T17:43:08.202Z",
+      "rows": [
+        {
+          "title": "Just One More Chapter Long Sleeve Tee, Comfort Colors Book Lover Shirt, Reading Long Sleeve, Bookish Gift for Women, Librarian Teacher Tee - Etsy",
+          "url": "https://www.etsy.com/listing/4435310933/just-one-more-chapter-long-sleeve-tee",
+          "ref": "turn82search0"
+        },
+        {
+          "title": "Keeper of the Stacks Tee | School Librarian Shirt – Canvono",
+          "url": "https://canvono.com/products/school-librarian-card-catalog-tee",
+          "ref": "turn82search1"
+        },
+        {
+          "title": "Read More Books Teacher Shirt, Reading Teacher Shirt, School Librarian Shirt, Back to School Shirt, Bookish Shirt, Reading Specialist - Etsy",
+          "url": "https://www.etsy.com/listing/4492758612/comfort-colors-read-more-books-shirt",
+          "ref": "turn82search2"
+        },
+        {
+          "title": "Too Many Books Long Sleeve | Book Lover Shirt – BookedTees",
+          "url": "https://bookedtees.com/products/too-many-books-long-sleeve",
+          "ref": "turn82search3"
+        },
+        {
+          "title": "Floral Books Shirt Woman, Just One More Chapter, Book Lover Shirt, Bookish Gift, Reading Teacher Gift, Cute Librarian,bookworm,book Club Tee - Etsy",
+          "url": "https://www.etsy.com/listing/1873532369/floral-books-shirt-woman-just-one-more",
+          "ref": "turn82search4"
+        },
+        {
+          "title": "Hooray It's Library Day Shirt, Support Your Local Library Shirt, Librarian Gift, Library Staff Tees, Bookish Clothing, Read Tee, Back Print - Etsy",
+          "url": "https://www.etsy.com/listing/1645977783/hooray-its-library-day-shirt-support",
+          "ref": "turn82search5"
+        },
+        {
+          "title": "Too Many Books T-Shirt | Vintage Book Lover Tee – BookedTees",
+          "url": "https://bookedtees.com/products/too-many-books-t-shirt",
+          "ref": "turn82search6"
+        },
+        {
+          "title": "I Read Books Like Its My Job School Librarian Book Love Unisex T-Shirt up to size 5XL - Walmart.com",
+          "url": "https://www.walmart.com/ip/18862900090",
+          "ref": "turn82search7"
+        },
+        {
+          "title": "Order 'Librarian Keeper Of Books Library Worker Book' Men's T-Shirt online | Spreadshirt",
+          "url": "https://www.spreadshirt.com/shop/design/librarian%2Bkeeper%2Bof%2Bbooks%2Blibrary%2Bworker%2Bbook%2Bmens%2Bt-shirt-D6578743d09e3e22017d33cc4?sellable=OwNvLO4kNaTZjxLDmmDB-210-7",
+          "ref": "turn82search8"
+        },
+        {
+          "title": "Librarian Shirt I Just Want You To Read A Book",
+          "url": "https://tshirtatlowprice.com/products/librarian-shirt-i-just-want-you-to-read-a-book/",
+          "ref": "turn82search9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "pilot_id": "TRACE-PILOT-002",
+  "time": "2026-09-29T17:50:28.538Z",
+  "searches": [
+    {
+      "key": "D09Q01",
+      "domain": "pyknic.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Extra Spicy\"",
+          "time": "2026-09-29T17:50:29.432Z",
+          "rows": [
+            {
+              "title": "Pyknic",
+              "url": "https://pyknic.com/collections/pyknic",
+              "ref": "turn117search0"
+            },
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees/products/extra-spicy-tee",
+              "ref": "turn117search1"
+            },
+            {
+              "title": "Patches & Pins – Pyknic",
+              "url": "https://pyknic.com/collections/patches-pins",
+              "ref": "turn117search2"
+            },
+            {
+              "title": "Extra Spicy Sweatshirt - Chainstitch Embroidered Crewneck | Pyknic",
+              "url": "https://pyknic.com/collections/mens-sweatshirts/products/extra-spicy-crewneck",
+              "ref": "turn117search3"
+            },
+            {
+              "title": "Collections – Pyknic",
+              "url": "https://pyknic.com/collections",
+              "ref": "turn117search4"
+            },
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/products/extra-spicy-tee",
+              "ref": "turn117search5"
+            },
+            {
+              "title": "Extra Spicy Socks - Hot Sauce Crew Socks | Pyknic",
+              "url": "https://pyknic.com/products/extra-spicy-socks",
+              "ref": "turn117search6"
+            },
+            {
+              "title": "Extra Spicy Fun, Quirky Comfy Slippers - Pyknic",
+              "url": "https://pyknic.com/products/extra-spicy-slippers",
+              "ref": "turn117search7"
+            },
+            {
+              "title": "Shop Women's Food Themed Tees, Bikinis & Food Pun Sweatshirts | Pyknic",
+              "url": "https://pyknic.com/collections/women",
+              "ref": "turn117search8"
+            },
+            {
+              "title": "Extra Spicy Fun, Quirky Comfy Slippers - Pyknic",
+              "url": "https://pyknic.com/collections/coffee/products/extra-spicy-slippers",
+              "ref": "turn117search9"
+            }
+          ]
+        },
+        {
+          "id": "N2",
+          "q": "Extra Spicy Tee",
+          "time": "2026-09-29T17:50:33.641Z",
+          "rows": [
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees/products/extra-spicy-tee",
+              "ref": "turn118search0"
+            },
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/products/extra-spicy-tee",
+              "ref": "turn118search1"
+            },
+            {
+              "title": "Pyknic",
+              "url": "https://pyknic.com/collections/pyknic",
+              "ref": "turn118search2"
+            },
+            {
+              "title": "Shop Men's Food Pun Tees. Fun, Food Sayings Fashion T-shirts | Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees",
+              "ref": "turn118search3"
+            },
+            {
+              "title": "Shop Women's Food Themed Tees, Bikinis & Food Pun Sweatshirts | Pyknic",
+              "url": "https://pyknic.com/collections/women",
+              "ref": "turn118search4"
+            },
+            {
+              "title": "Shop Men's Food Themed Tees, Hats, Mugs & Food Pun Sweatshirts | Pyknic",
+              "url": "https://pyknic.com/collections/men",
+              "ref": "turn118search5"
+            },
+            {
+              "title": "Shop Women's Food Pun Tees. Food Sayings Oversized T-shirts | Pyknic",
+              "url": "https://pyknic.com/collections/womens-tees",
+              "ref": "turn118search6"
+            },
+            {
+              "title": "Fra Diavolo Raglan Tee - Cream & Black Devil Pasta T-Shirt | PYKNIC – Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees/products/fra-diavolo-tee",
+              "ref": "turn118search7"
+            },
+            {
+              "title": "Shop Men's Food Themed Tees, Hats, Mugs & Food Pun Sweatshirts | Pyknic – Page 2",
+              "url": "https://pyknic.com/collections/men?page=2",
+              "ref": "turn118search8"
+            },
+            {
+              "title": "Lost in the Hot Sauce Unisex Graphic Tee. Food Shirt. | Pyknic",
+              "url": "https://pyknic.com/products/lost-in-the-hot-sauce-tee",
+              "ref": "turn118search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "extra spicy taco chili shirt graphic",
+          "time": "2026-09-29T17:50:34.590Z",
+          "rows": [
+            {
+              "title": "Fra Diavolo Raglan Tee - Cream & Black Devil Pasta T-Shirt | PYKNIC – Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees/products/fra-diavolo-tee",
+              "ref": "turn119search0"
+            },
+            {
+              "title": "'No Problemo' Tacos and Cactus Print Casual Button-Up Shirt | Pyknic",
+              "url": "https://pyknic.com/collections/men/products/no-problemo-button-up-shirt",
+              "ref": "turn119search1"
+            },
+            {
+              "title": "Raise Hell Eat Tacos Button-Up Shirt | Pyknic",
+              "url": "https://pyknic.com/products/raise-hell-eat-tacos-button-up-shirt",
+              "ref": "turn119search2"
+            },
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/products/extra-spicy-tee",
+              "ref": "turn119search3"
+            },
+            {
+              "title": "No Problemo Tacos Avocado and Cactus Long Sleeve Casual Button-Up Food Shirt – Pyknic",
+              "url": "https://pyknic.com/products/no-problemo-unisex-long-sleeve",
+              "ref": "turn119search4"
+            },
+            {
+              "title": "'No Problemo' Tacos and Cactus Print Casual Button-Up Shirt | Pyknic",
+              "url": "https://pyknic.com/products/no-problemo-button-up-shirt",
+              "ref": "turn119search5"
+            },
+            {
+              "title": "Collections – Pyknic",
+              "url": "https://pyknic.com/collections",
+              "ref": "turn119search6"
+            },
+            {
+              "title": "Shop Women's Food Themed Tees, Bikinis & Food Pun Sweatshirts | Pyknic",
+              "url": "https://pyknic.com/collections/women",
+              "ref": "turn119search7"
+            },
+            {
+              "title": "Extra Spicy Unisex Graphic Tee. Foodie Shirt | Pyknic",
+              "url": "https://pyknic.com/collections/mens-tees/products/extra-spicy-tee",
+              "ref": "turn119search8"
+            },
+            {
+              "title": "Pyknic",
+              "url": "https://pyknic.com/collections/pyknic",
+              "ref": "turn119search9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "D10Q01",
+      "domain": "blackbirdsupply.com",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Badlands National Park\"",
+          "time": "2026-09-29T17:50:35.589Z",
+          "rows": [
+            {
+              "title": "Men's Unisex Graphic Tees, Sweatshirts, Zip Hoodies, 100% Cotton Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens",
+              "ref": "turn120search0"
+            },
+            {
+              "title": "Mens T-Shirts – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-unisex-blended-t-shirts",
+              "ref": "turn120search1"
+            },
+            {
+              "title": "Products – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/all",
+              "ref": "turn120search2"
+            },
+            {
+              "title": "Womens Flowy Muscle Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/flowy-muscle-tees",
+              "ref": "turn120search3"
+            },
+            {
+              "title": "All – Page 2 – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-womens-apparel?page=2",
+              "ref": "turn120search4"
+            }
+          ]
+        },
+        {
+          "id": "N2",
+          "q": "Badlands National Park rolled cuff muscle shirt",
+          "time": "2026-09-29T17:50:36.596Z",
+          "rows": [
+            {
+              "title": "Womens Flowy Muscle Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/flowy-muscle-tees",
+              "ref": "turn121search0"
+            },
+            {
+              "title": "Products – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/all",
+              "ref": "turn121search1"
+            },
+            {
+              "title": "All – Page 2 – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-womens-apparel?page=2",
+              "ref": "turn121search2"
+            },
+            {
+              "title": "Snow Globe Minimalist Flowy Crew Neck Muscle Tee in Dark Heather Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/snow-globe-minimalist-flowy-crew-neck-muscle-tee-in-dark-heather-gray",
+              "ref": "turn121search3"
+            },
+            {
+              "title": "Gothic Art Nouveau Themed Black Garden Snake Loose Fit Muscle Tee Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/gothic-art-nouveau-themed-black-garden-snake-loose-fit-muscle-tee-gray",
+              "ref": "turn121search4"
+            },
+            {
+              "title": "Men's Unisex Graphic Tees, Sweatshirts, Zip Hoodies, 100% Cotton Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens",
+              "ref": "turn121search5"
+            },
+            {
+              "title": "Quaking Aspen Trees Nature Print Loose Fit Rolled Cuff Top Dark Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/quaking-aspen-trees-nature-print-loose-fit-rolled-cuff-top-dark-heather-gray",
+              "ref": "turn121search6"
+            },
+            {
+              "title": "Mens T-Shirts – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-unisex-blended-t-shirts",
+              "ref": "turn121search7"
+            },
+            {
+              "title": "Sun Salutation Loose Fit Flowy Women's Yoga Top – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/yellow-sun-collar-solar-rays-womens-loose-fit-rolled-cuff-muscle-tee-storm-gray",
+              "ref": "turn121search8"
+            },
+            {
+              "title": "New Items – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/new-items",
+              "ref": "turn121search9"
+            }
+          ]
+        },
+        {
+          "id": "N3",
+          "q": "badlands national park sunset graphic rolled cuff",
+          "time": "2026-09-29T17:50:37.720Z",
+          "rows": [
+            {
+              "title": "Products – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/all",
+              "ref": "turn122search0"
+            },
+            {
+              "title": "Womens Flowy Muscle Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/flowy-muscle-tees",
+              "ref": "turn122search1"
+            },
+            {
+              "title": "All – Page 2 – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-womens-apparel?page=2",
+              "ref": "turn122search2"
+            },
+            {
+              "title": "Men's Unisex Graphic Tees, Sweatshirts, Zip Hoodies, 100% Cotton Tees – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens",
+              "ref": "turn122search3"
+            },
+            {
+              "title": "Mens T-Shirts – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/mens-unisex-blended-t-shirts",
+              "ref": "turn122search4"
+            },
+            {
+              "title": "Quaking Aspen Trees Nature Print Loose Fit Rolled Cuff Top Dark Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/quaking-aspen-trees-nature-print-loose-fit-rolled-cuff-top-dark-heather-gray",
+              "ref": "turn122search5"
+            },
+            {
+              "title": "Snow Globe Minimalist Flowy Crew Neck Muscle Tee in Dark Heather Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/snow-globe-minimalist-flowy-crew-neck-muscle-tee-in-dark-heather-gray",
+              "ref": "turn122search6"
+            },
+            {
+              "title": "Sun Salutation Loose Fit Flowy Women's Yoga Top – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/yellow-sun-collar-solar-rays-womens-loose-fit-rolled-cuff-muscle-tee-storm-gray",
+              "ref": "turn122search7"
+            },
+            {
+              "title": "Gothic Art Nouveau Themed Black Garden Snake Loose Fit Muscle Tee Gray – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/products/gothic-art-nouveau-themed-black-garden-snake-loose-fit-muscle-tee-gray",
+              "ref": "turn122search8"
+            },
+            {
+              "title": "New Items – Blackbird Supply Co.",
+              "url": "https://www.blackbirdsupply.com/collections/new-items",
+              "ref": "turn122search9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

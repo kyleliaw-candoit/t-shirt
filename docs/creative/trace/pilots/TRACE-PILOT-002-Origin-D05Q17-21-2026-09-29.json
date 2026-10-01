@@ -1,0 +1,1781 @@
+{
+  "captured_at_utc": "2026-09-29T17:38:02.587Z",
+  "status": "CAPTURED-PENDING-ANALYST-COMPARISON",
+  "searches": [
+    {
+      "key": "D05Q17",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Touch Down Baseball Bat\"",
+          "time": "2026-09-29T17:38:03.797Z",
+          "rows": [
+            {
+              "title": "Funny Sports T-shirts | Football Tees | Cool Baseball Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sports",
+              "ref": "turn39search0"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn39search1"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn39search2"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn39search3"
+            },
+            {
+              "title": "Touch Down Baseball Bat Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/touch-down-baseball-bat-t-shirt-womens",
+              "ref": "turn39search4"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn39search5"
+            },
+            {
+              "title": "Funny Football T-Shirts | Big Game Graphic Tee | Novelty Sports Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/football",
+              "ref": "turn39search6"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn39search7"
+            },
+            {
+              "title": "Autumn Apparel | Cool Halloween T-shirts for Women",
+              "url": "https://www.crazydogtshirts.com/collections/autumn",
+              "ref": "turn39search8"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn39search9"
+            }
+          ],
+          "raw_result_count": 10,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N2",
+          "q": "Touch Down Baseball Bat",
+          "time": "2026-09-29T17:38:14.436Z",
+          "rows": [
+            {
+              "title": "Touch Down Hat",
+              "url": "https://www.crazydogtshirts.com/products/touch-down",
+              "ref": "turn40search0"
+            },
+            {
+              "title": "Funny Sports T-shirts | Football Tees | Cool Baseball Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sports",
+              "ref": "turn40search1"
+            },
+            {
+              "title": "Touch Down Baseball Bat Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/touch-down-baseball-bat-t-shirt-womens",
+              "ref": "turn40search2"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn40search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn40search4"
+            },
+            {
+              "title": "Funny Football T-Shirts | Big Game Graphic Tee | Novelty Sports Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/football",
+              "ref": "turn40search5"
+            },
+            {
+              "title": "Autumn Apparel | Cool Halloween T-shirts for Women",
+              "url": "https://www.crazydogtshirts.com/collections/autumn",
+              "ref": "turn40search6"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn40search7"
+            },
+            {
+              "title": "Why Take The High Road When You Can Take The Psycho Path Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/why-take-the-high-road-when-you-can-take-the-psycho-path-mens-t-shirt",
+              "ref": "turn40search8"
+            },
+            {
+              "title": "Just The Tip I Promise Cupid Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/just-the-tip-i-promise-cupid-mens-tshirt",
+              "ref": "turn40search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N3",
+          "q": "football touchdown baseball bat funny wrong sports shirt",
+          "time": "2026-09-29T17:38:16.184Z",
+          "rows": [
+            {
+              "title": "Touch Down Hat",
+              "url": "https://www.crazydogtshirts.com/products/touch-down",
+              "ref": "turn41search0"
+            },
+            {
+              "title": "Touch Down Baseball Bat Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/touch-down-baseball-bat-t-shirt-womens",
+              "ref": "turn41search1"
+            },
+            {
+              "title": "Funny Sports T-shirts | Football Tees | Cool Baseball Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sports",
+              "ref": "turn41search2"
+            },
+            {
+              "title": "Funny Football T-Shirts | Big Game Graphic Tee | Novelty Sports Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/football",
+              "ref": "turn41search3"
+            },
+            {
+              "title": "Show Me Some TDs Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/show-me-some-tds-mens-tshirt",
+              "ref": "turn41search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn41search5"
+            },
+            {
+              "title": "A Football Fan's Guide To Understanding Referee Hand Signals Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/a-football-fans-guide-to-understanding-referee-hand-signals-mens-tshirt",
+              "ref": "turn41search6"
+            },
+            {
+              "title": "Please Dont Fumble Me Baby Bodysuit",
+              "url": "https://www.crazydogtshirts.com/products/please-dont-fumble-me-baby-bodysuit",
+              "ref": "turn41search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn41search8"
+            },
+            {
+              "title": "You're Killing Me Smalls Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/you-re-killin-me-smalls-t-shirt",
+              "ref": "turn41search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "W1",
+          "q": "\"Touch Down Baseball Bat\"",
+          "time": "2026-09-29T17:38:17.499Z",
+          "rows": [
+            {
+              "title": "Funny Sports T-shirts | Football Tees | Cool Baseball Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-sports",
+              "ref": "turn42search0"
+            },
+            {
+              "title": "Touch Down Baseball Bat Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/touch-down-baseball-bat-t-shirt-womens",
+              "ref": "turn42search1"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn42search3"
+            },
+            {
+              "title": "Basketball Dad Coach Sports Fan T-Shirts for Sale Page 7 | TeePublic",
+              "url": "https://www.teepublic.com/t-shirts/basketball-dad-coach-sports-fan?page=7",
+              "ref": "turn42search4"
+            },
+            {
+              "title": "Autumn Apparel | Cool Halloween T-shirts for Women",
+              "url": "https://www.crazydogtshirts.com/collections/autumn",
+              "ref": "turn42search5"
+            },
+            {
+              "title": "Men – Page 18 – Nerdy Shirts",
+              "url": "https://nerdyshirts.com/collections/menst?page=18&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbGluZV9pdGVtc19jb3VudCIsInN2IjoyLCJkIjoiZiIsInVpZCI6MTYwNjc3OTA5Mjk5NjIsImwiOjUwLCJvIjowLCJyIjoiQ0RQIn0.E-D7BZhds7yx0wGDDcKIvtpKFBjd0Qpkc5Asxla9bnA&type=22",
+              "ref": "turn42search6"
+            },
+            {
+              "title": "Little League Stickers for Sale Page 5 | TeePublic",
+              "url": "https://www.teepublic.com/stickers/little-league?page=5",
+              "ref": "turn42search7"
+            },
+            {
+              "title": "Baseball Tee Stand | Portable Hitting Training Equipment",
+              "url": "https://www.target.com/s/baseball%2Btee%2Bstand",
+              "ref": "turn42search8"
+            },
+            {
+              "title": "Innings Merch & Gifts for Sale | Redbubble",
+              "url": "https://www.redbubble.com/shop/innings%2Ball-departments",
+              "ref": "turn42search9"
+            },
+            {
+              "title": "TOUCH DOWN BASEBALL BAT SPORTS T-Shirt | Zazzle | Shirt designs, Shirts, Baseball tshirts",
+              "url": "https://ca.pinterest.com/pin/touch-down-baseball-bat-sports-tshirt--989525349356331101/",
+              "ref": "turn42search10"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": null
+        },
+        {
+          "id": "W2",
+          "q": "Touch Down Baseball Bat",
+          "time": "2026-09-29T17:38:18.518Z",
+          "rows": [
+            {
+              "title": "Baseball Bats : Baseball Bats : Target",
+              "url": "https://www.target.com/c/baseball-bats-equipment-gear-sports-outdoors/baseball-bats/-/N-pk1lmZ4use",
+              "ref": "turn43search0"
+            },
+            {
+              "title": "CATX2 SENIOR LEAGUE (-11) USA BASEBALL – Bat Flip",
+              "url": "https://batflip.co/products/catx2-senior-league-11-usa-baseball",
+              "ref": "turn43search1"
+            },
+            {
+              "title": "Tapered Knob Bats | DICK'S Sporting Goods",
+              "url": "https://www.dickssportinggoods.com/a/tapered-knob-bat-0rtz02a.html",
+              "ref": "turn43search2"
+            },
+            {
+              "title": "2026 Marucci CATX Rckless -11 Alloy Tee Ball USA Baseball Bat MTBCRR 24in : Target",
+              "url": "https://www.target.com/p/-/A-1006627354",
+              "ref": "turn43search3"
+            },
+            {
+              "title": "Baseball bat",
+              "url": "https://en.wikipedia.org/wiki/Baseball_bat",
+              "ref": "turn43search12"
+            },
+            {
+              "title": "🎯 USSSA Bats for Contact Hitters (2026) / 📝 Blog | Diamond Sports Equipment",
+              "url": "https://www.diamondsportsequipment.com/blog/3139125_usssa-bats-for-contact-hitters-2026",
+              "ref": "turn43search4"
+            },
+            {
+              "title": "Backyard Tip: Gripping a Bat for Baseball or Softball - Little League",
+              "url": "https://www.littleleague.org/university/articles/backyard-tip-gripping-a-bat-for-baseball-or-softball/",
+              "ref": "turn43search5"
+            },
+            {
+              "title": "Sweet Tater - Sweet Spot Trainer – Tater Baseball®",
+              "url": "https://www.taterbaseball.com/products/sweet-tater-trainer",
+              "ref": "turn43search6"
+            },
+            {
+              "title": "Short Bat Trainer — Tater® ML19 | Tater Baseball®",
+              "url": "https://www.taterbaseball.com/products/tater-ml19-short-bat-trainer",
+              "ref": "turn43search7"
+            },
+            {
+              "title": "Tee Ball Bats - Bagger Sports",
+              "url": "https://www.baggersports.com/bats/baseball-bats/tee-ball-bats/",
+              "ref": "turn43search8"
+            }
+          ],
+          "raw_result_count": 27,
+          "domain_filter": null
+        },
+        {
+          "id": "W3",
+          "q": "football touchdown baseball bat funny wrong sports shirt",
+          "time": "2026-09-29T17:38:19.602Z",
+          "rows": [
+            {
+              "title": "I am Japaneeeeeeese!",
+              "url": "https://www.southsidesox.com/chicago-white-sox-news/136805/i-am-japaneeeeeeese",
+              "ref": "turn44news12"
+            },
+            {
+              "title": "TOUCHDOWN Baseball Mix-Up - Funny Sports Parody Shirt - Touchdown - Sticker | TeePublic",
+              "url": "https://www.teepublic.com/sticker/74571038-touchdown-baseball-mix-up-funny-sports-parody-shir",
+              "ref": "turn44search0"
+            },
+            {
+              "title": "Funny Soccer Shirt, Funny Football Shirt, Game Day Tee, Touchdown Football Shirt, Baseball Joke Shirt, Funny Soccer Shirt, American Football - Etsy",
+              "url": "https://www.etsy.com/listing/1420673399/funny-soccer-shirt-funny-football-shirt",
+              "ref": "turn44search1"
+            },
+            {
+              "title": "Touchdown Baseball Funny Sports Fail Sarcasm Joke Unisex T-Shirt up to size 5XL - Walmart.com",
+              "url": "https://www.walmart.com/ip/18793856306",
+              "ref": "turn44search2"
+            },
+            {
+              "title": "Touchdown Baseball Wrong Sport Funny Vintage Sports Humor | eBay",
+              "url": "https://www.ebay.com/itm/298673191660",
+              "ref": "turn44search3"
+            },
+            {
+              "title": "\"Touchdown Funny Baseball Football Shirt Fake Sports Fan Fantasy League Loser Shirt\" Essential T-Shirt for Sale by Dwebster27 | Redbubble",
+              "url": "https://www.redbubble.com/i/t-shirt/Touchdown-Funny-Baseball-Football-Shirt-Fake-Sports-Fan-Fantasy-League-Loser-Shirt-by-Dwebster27/87963319/z5wf",
+              "ref": "turn44search4"
+            },
+            {
+              "title": "Order 'Home Run Football, Yay Sports!' Men's Premium T-Shirt online | Spreadshirt",
+              "url": "https://www.spreadshirt.com/shop/design/home%2Brun%2Bfootball%2Byay%2Bsports%2Bmens%2Bpremium%2Bt-shirt-D64efe9829515e23cf85cbc05?sellable=5aOG92n1LQin4wvNjBbn-812-7",
+              "ref": "turn44search5"
+            },
+            {
+              "title": "Order 'Home Run Football, Yay Sports!' Unisex Poly/Cotton T-Shirt online | Spreadshirt",
+              "url": "https://www.spreadshirt.com/shop/design/home%2Brun%2Bfootball%2Byay%2Bsports%2Bunisex%2Bpolycotton%2Bt-shirt-D64efe9829515e23cf85cbc05?sellable=5aOG92n1LQin4wvNjBbn-1130-7",
+              "ref": "turn44search6"
+            },
+            {
+              "title": "Baseball Touchdown T-Shirt",
+              "url": "https://chummytees.com/products/baseball-touchdown-t-shirt-hoodie-tank-top?color=Grey&size=S&variant=42325605446",
+              "ref": "turn44search7"
+            },
+            {
+              "title": "Order 'Home Run Football, Yay Sports!' Unisex Baseball T-Shirt online | Spreadshirt",
+              "url": "https://www.spreadshirt.com/shop/design/home%2Brun%2Bfootball%2Byay%2Bsports%2Bunisex%2Bbaseball%2Bt-shirt-D64efe9829515e23cf85cbc05?sellable=5aOG92n1LQin4wvNjBbn-951-18",
+              "ref": "turn44search8"
+            }
+          ],
+          "raw_result_count": 44,
+          "domain_filter": null
+        }
+      ]
+    },
+    {
+      "key": "D05Q18",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Hold On Let Me Overthink This\"",
+          "time": "2026-09-29T17:38:20.550Z",
+          "rows": [
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn45search0"
+            },
+            {
+              "title": "Crazy Mugs | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-mugs",
+              "ref": "turn45search1"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn45search2"
+            },
+            {
+              "title": "Funny Womens Shirts | Hilarious Mom Gift | Cool Tee for a New Mama – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-womant",
+              "ref": "turn45search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn45search4"
+            },
+            {
+              "title": "Sarcastic Introvert T-shirts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/introvert",
+              "ref": "turn45search5"
+            },
+            {
+              "title": "Hold On Let Me Overthink This Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-mens-tshirt",
+              "ref": "turn45search6"
+            },
+            {
+              "title": "Hold On Let Me Overthink This Mug",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-mug",
+              "ref": "turn45search7"
+            },
+            {
+              "title": "Sarcastic Introvert T-shirts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/introvert/style-mens-t-shirts",
+              "ref": "turn45search8"
+            },
+            {
+              "title": "Women's Socks",
+              "url": "https://www.crazydogtshirts.com/collections/womens-socks",
+              "ref": "turn45search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N2",
+          "q": "Hold On Let Me Overthink This",
+          "time": "2026-09-29T17:38:24.775Z",
+          "rows": [
+            {
+              "title": "Funny Mugs | Coffee Mugs Quotes | Coffee Lover Gift – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/mugs",
+              "ref": "turn46search0"
+            },
+            {
+              "title": "Crazy Mugs | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-mugs",
+              "ref": "turn46search1"
+            },
+            {
+              "title": "Sarcastic Introvert T-shirts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/introvert",
+              "ref": "turn46search2"
+            },
+            {
+              "title": "Hold On Let Me Overthink This Mug",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-mug",
+              "ref": "turn46search3"
+            },
+            {
+              "title": "Sarcastic Introvert T-shirts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/introvert/style-mens-t-shirts",
+              "ref": "turn46search4"
+            },
+            {
+              "title": "Funny Womens Shirts | Hilarious Mom Gift | Cool Tee for a New Mama – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-womant",
+              "ref": "turn46search5"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn46search6"
+            },
+            {
+              "title": "Hold On Let Me Overthink This Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-mens-tshirt",
+              "ref": "turn46search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn46search8"
+            },
+            {
+              "title": "Women's Socks",
+              "url": "https://www.crazydogtshirts.com/collections/womens-socks",
+              "ref": "turn46search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N3",
+          "q": "overthink this typography shirt brain funny",
+          "time": "2026-09-29T17:38:26.206Z",
+          "rows": [
+            {
+              "title": "Hold On Let Me Overthink This Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-mens-tshirt",
+              "ref": "turn47search0"
+            },
+            {
+              "title": "Are You Overthinking What I'm Overthinking Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/are-you-overthinking-what-im-overthinking-mens-tshirt",
+              "ref": "turn47search1"
+            },
+            {
+              "title": "Are You Overthinking What I'm Overthinking Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/are-you-overthinking-what-im-overthinking-womens-tshirt",
+              "ref": "turn47search2"
+            },
+            {
+              "title": "Hold On Let Me Overthink This Women's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/hold-on-let-me-overthink-this-womens-tshirt",
+              "ref": "turn47search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn47search4"
+            },
+            {
+              "title": "Sarcastic Introvert T-shirts | Hilarious Tees",
+              "url": "https://www.crazydogtshirts.com/collections/introvert",
+              "ref": "turn47search5"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn47search6"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive/style-womens-t-shirts",
+              "ref": "turn47search7"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive?page=2",
+              "ref": "turn47search8"
+            },
+            {
+              "title": "Funny Womens Shirts | Hilarious Mom Gift | Cool Tee for a New Mama",
+              "url": "https://www.crazydogtshirts.com/products/grunge-striped-skull-womens-tshirt",
+              "ref": "turn47search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "W1",
+          "q": "\"Hold On Let Me Overthink This\"",
+          "time": "2026-09-29T17:38:27.208Z",
+          "rows": [
+            {
+              "title": "\"Hold On Let Me Overthink This\" | Awake With Me Now",
+              "url": "https://awakewithmenow.com/blog/hold-on-let-me-overthink-this/",
+              "ref": "turn48search0"
+            },
+            {
+              "title": "Overthink Overthinking Meme - Overthink Overthinking Let me overthink this - Discover & Share GIFs",
+              "url": "https://tenor.com/view/overthink-overthinking-let-me-overthink-this-hold-on-thinking-gif-718587272335466879",
+              "ref": "turn48search1"
+            },
+            {
+              "title": "Hold On Let Me Overthink This - Overthinking - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/77470446-hold-on-let-me-overthink-this",
+              "ref": "turn48search2"
+            },
+            {
+              "title": "Hold On Let Me Overthink This - Overthinking - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/68325868-hold-on-let-me-overthink-this",
+              "ref": "turn48search3"
+            },
+            {
+              "title": "Hold On Let Me Overthink This – T-Shirt, Hoodie & Sweatshirt – Billiards Pool Humor – Players & Enthusiasts - Walmart.com",
+              "url": "https://www.walmart.com/ip/18724719967",
+              "ref": "turn48search4"
+            },
+            {
+              "title": "Don’t overthink it",
+              "url": "https://americanpilgrims.org/wp-content/uploads/2019/04/Camino-101-Jan-2026.pdf",
+              "ref": "turn48search12"
+            },
+            {
+              "title": "hold on let me overthink this - Hold On While I Overthink This - T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/t-shirt/96690092-hold-on-let-me-overthink-this",
+              "ref": "turn48search5"
+            },
+            {
+              "title": "Crazy Dog Hold On Let Me Overthink This Mug Funny Sarcastic Coffee Cup - 11oz : Target",
+              "url": "https://www.target.com/p/-/A-94028602",
+              "ref": "turn48search6"
+            },
+            {
+              "title": "Hold on let me overthink this | Premium Vector",
+              "url": "https://www.magnific.com/premium-vector/hold-let-me-overthink-this_75604616.htm",
+              "ref": "turn48search7"
+            },
+            {
+              "title": "Hold On Let Me Overthink This - Overthinking - Sticker | TeePublic",
+              "url": "https://www.teepublic.com/sticker/68325868-hold-on-let-me-overthink-this",
+              "ref": "turn48search8"
+            }
+          ],
+          "raw_result_count": 24,
+          "domain_filter": null
+        },
+        {
+          "id": "W2",
+          "q": "Hold On Let Me Overthink This",
+          "time": "2026-09-29T17:38:28.223Z",
+          "rows": [
+            {
+              "title": "\"Hold On Let Me Overthink This\" | Awake With Me Now",
+              "url": "https://awakewithmenow.com/blog/hold-on-let-me-overthink-this/",
+              "ref": "turn49search0"
+            },
+            {
+              "title": "Let Me Overthink This – Everly Vibe",
+              "url": "https://everlyvibe.com/products/let-me-overthink-this",
+              "ref": "turn49search1"
+            },
+            {
+              "title": "Hold on let me overthink this | Men's T-Shirt Classic | Bainer Market",
+              "url": "https://www.threadless.com/shop/%40bainermarket/design/hold-on-let-me-overthink-this",
+              "ref": "turn49search2"
+            },
+            {
+              "title": "Hang on. Let me overthink this. | Men's T-Shirt Classic | Tobe Fonseca's Artist Shop",
+              "url": "https://www.threadless.com/shop/%40tobefonseca/design/hang-on-let-me-overthink-this",
+              "ref": "turn49search3"
+            },
+            {
+              "title": "Crazy Dog Hold On Let Me Overthink This Mug Funny Sarcastic Coffee Cup - 11oz : Target",
+              "url": "https://www.target.com/p/-/A-94028602",
+              "ref": "turn49search4"
+            },
+            {
+              "title": "Hang on, let me overthink this. | Men's T-Shirt Classic | INK TUESDAY SHOP",
+              "url": "https://www.threadless.com/shop/%40inktuesday/design/hang-on-let-me-overthink-this-1",
+              "ref": "turn49search5"
+            },
+            {
+              "title": "Hold On Let Me Overthink This | Men's T-Shirt Classic | almasha's Artist Shop",
+              "url": "https://www.threadless.com/shop/%40almasha/design/hold-on-let-me-overthink-this",
+              "ref": "turn49search6"
+            },
+            {
+              "title": "Hold On Let Me Overthink This – T-Shirt, Hoodie & Sweatshirt – Billiards Pool Humor – Players & Enthusiasts - Walmart.com",
+              "url": "https://www.walmart.com/ip/18724719967",
+              "ref": "turn49search7"
+            },
+            {
+              "title": "Hold On Let Me Overthink This TShirt - Walmart.com",
+              "url": "https://www.walmart.com/ip/20033655514",
+              "ref": "turn49search8"
+            },
+            {
+              "title": "‎Let Me Overthink This - Song by Brandon Hixson - Apple Music",
+              "url": "https://music.apple.com/us/song/1857255647",
+              "ref": "turn49search9"
+            }
+          ],
+          "raw_result_count": 38,
+          "domain_filter": null
+        },
+        {
+          "id": "W3",
+          "q": "overthink this typography shirt brain funny",
+          "time": "2026-09-29T17:38:29.286Z",
+          "rows": [
+            {
+              "title": "Funny Quote Tee Hold on Let Me Overthink This Sarcastic Shirt - Etsy Canada",
+              "url": "https://www.etsy.com/listing/961532352/overthink-this-shirt-funny-sarcastic-tee",
+              "ref": "turn50search0"
+            },
+            {
+              "title": "Over Think All The Things Premium T-Shirt | SunFrog",
+              "url": "https://www.sunfrog.com/product/over-think-all-the-things",
+              "ref": "turn50search1"
+            },
+            {
+              "title": "Hang On Let Me Overthink This Funny Saying | Men's T-Shirt Classic | Made By Bono",
+              "url": "https://www.threadless.com/shop/%40MadeByBono/design/hang-on-let-me-overthink-this-funny-saying",
+              "ref": "turn50search2"
+            },
+            {
+              "title": "Overthinking Is My Cardio Retro Typography Tee | Funny Anxiety Humor T – 3 Wizard Clothing",
+              "url": "https://www.3wizardclothing.com/products/overthinking-is-my-cardio-retro-typography-tee-funny-anxiety-humor-t-shirt",
+              "ref": "turn50search3"
+            },
+            {
+              "title": "Wait... Let Me Overthink This. Funny Saying Tee | Men's T-Shirt Triblend | Made By Bono",
+              "url": "https://www.threadless.com/shop/%40MadeByBono/design/wait-let-me-overthink-this-funny-saying-tee/mens/t-shirt/triblend",
+              "ref": "turn50search4"
+            },
+            {
+              "title": "Unisex Overthinking Again Funny Graphic Tee – Aurin Wear",
+              "url": "https://www.aurinwear.com/products/unisex-overthinking-again-premium-graphic-funny-t-shirt",
+              "ref": "turn50search5"
+            },
+            {
+              "title": "Overthinking Brain Humor T-Shirts for Sale | TeePublic",
+              "url": "https://www.teepublic.com/t-shirts/overthinking-brain-humor",
+              "ref": "turn50search6"
+            },
+            {
+              "title": "Order 'Hang on, let me overthink this' Men's T-Shirt online | Spreadshirt",
+              "url": "https://www.spreadshirt.com/shop/design/hang%2Bon%2Blet%2Bme%2Boverthink%2Bthis%2Bmens%2Bt-shirt-D6760f9c9e27a706fe3eaf91c?sellable=qNyA534g1wUgMy5M75zo-210-7",
+              "ref": "turn50search7"
+            },
+            {
+              "title": "Mens Hold On Let Me Overthink This T shirt Funny Sarcastic Hilarious Adult Tee - Crazy Dog Men's T Shirt for Introverts Black L : Target",
+              "url": "https://www.target.com/p/-/A-93770096",
+              "ref": "turn50search8"
+            },
+            {
+              "title": "Let me overthink about it (TYPOGRAPHY) | Men's T-Shirt Classic | DarioSilva's Artist Shop",
+              "url": "https://www.threadless.com/shop/%40dariosilva/design/let-me-over-think-about-it-typography",
+              "ref": "turn50search9"
+            }
+          ],
+          "raw_result_count": 26,
+          "domain_filter": null
+        }
+      ]
+    },
+    {
+      "key": "D05Q19",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Body By Bacon\"",
+          "time": "2026-09-29T17:38:30.765Z",
+          "rows": [
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout Tees – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness",
+              "ref": "turn51search0"
+            },
+            {
+              "title": "Body By Bacon Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/mens-body-by-bacon-t-shirt-funny-bacon-eating-shirt-bacon-lovers-tee",
+              "ref": "turn51search1"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food/style-mens-t-shirts",
+              "ref": "turn51search2"
+            },
+            {
+              "title": "Funny Bacon Shirts | Hilarious Food Shirt",
+              "url": "https://www.crazydogtshirts.com/collections/funny-bacon-shirts",
+              "ref": "turn51search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn51search4"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food",
+              "ref": "turn51search5"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn51search6"
+            },
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout TeesTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness/style-mens-t-shirts",
+              "ref": "turn51search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn51search8"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food?page=3",
+              "ref": "turn51search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N2",
+          "q": "Body By Bacon",
+          "time": "2026-09-29T17:38:31.912Z",
+          "rows": [
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout Tees – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness",
+              "ref": "turn52search0"
+            },
+            {
+              "title": "Body By Bacon Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/mens-body-by-bacon-t-shirt-funny-bacon-eating-shirt-bacon-lovers-tee",
+              "ref": "turn52search1"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food/style-mens-t-shirts",
+              "ref": "turn52search2"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn52search3"
+            },
+            {
+              "title": "Funny Bacon Shirts | Hilarious Food Shirt",
+              "url": "https://www.crazydogtshirts.com/collections/funny-bacon-shirts",
+              "ref": "turn52search4"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food",
+              "ref": "turn52search5"
+            },
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout TeesTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness/style-mens-t-shirts",
+              "ref": "turn52search6"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn52search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn52search8"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food?page=3",
+              "ref": "turn52search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N3",
+          "q": "body by bacon text shirt bacon graphic",
+          "time": "2026-09-29T17:38:33.165Z",
+          "rows": [
+            {
+              "title": "Body By Bacon Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/mens-body-by-bacon-t-shirt-funny-bacon-eating-shirt-bacon-lovers-tee",
+              "ref": "turn53search0"
+            },
+            {
+              "title": "Funny Bacon Shirts | Hilarious Food Shirt",
+              "url": "https://www.crazydogtshirts.com/collections/funny-bacon-shirts",
+              "ref": "turn53search1"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food/style-mens-t-shirts",
+              "ref": "turn53search2"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food",
+              "ref": "turn53search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn53search4"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn53search5"
+            },
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout Tees – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness",
+              "ref": "turn53search6"
+            },
+            {
+              "title": "Funny Tank Tops | Gym Shirts with Sayings | Hilarious Workout TeesTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-fitness/style-mens-t-shirts",
+              "ref": "turn53search7"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn53search8"
+            },
+            {
+              "title": "Funny Food Tees | Fitness Taco T-shirt | Bacon Gift for Him",
+              "url": "https://www.crazydogtshirts.com/collections/funny-food?page=2",
+              "ref": "turn53search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "W1",
+          "q": "\"Body By Bacon\"",
+          "time": "2026-09-29T17:38:34.585Z",
+          "rows": [
+            {
+              "title": "Body By Bacon - Bacon - Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/hoodie/29873967-body-by-bacon",
+              "ref": "turn54search0"
+            },
+            {
+              "title": "Body by Bacon T-Shirt – Humor Meets Comfort for Bacon Enthusiasts – Lone Star Roots",
+              "url": "https://www.lonestarroots.com/products/body-by-bacon-t-shirt",
+              "ref": "turn54search1"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt Red L : Target",
+              "url": "https://www.target.com/p/-/A-94056168",
+              "ref": "turn54search2"
+            },
+            {
+              "title": "Body by Bacon – Frizzy's Tees & Things",
+              "url": "https://frizzys.co/products/body-by-bacon",
+              "ref": "turn54search3"
+            },
+            {
+              "title": "Body By Bacon Cotton T-Shirt for Bacon Lovers - Menswear & Underwear - TikTok Shop",
+              "url": "https://shop.tiktok.com/us/pdp/t-shirt-body-by-bacon-100-cotton-funny-gift-for-bacon-lovers/1730114560472420543",
+              "ref": "turn54search4"
+            },
+            {
+              "title": "Order 'BODY BY BACON' Men's Ringer T-Shirt online | Spreadshirt",
+              "url": "https://www.spreadshirt.com/shop/design/body%2Bby%2Bbacon%2Bmens%2Bringer%2Bt-shirt-D5d8a069d6bbdbb2e6a620fe9?sellable=VRD3rOAQEBTkVYZ5g1MM-121-7",
+              "ref": "turn54search5"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise Black 4XL : Target",
+              "url": "https://www.target.com/p/-/A-1000014084",
+              "ref": "turn54search6"
+            },
+            {
+              "title": "Body By Bacon Shirt | Casual Funny Shirt, Breathable Poly Cotton Unisex Tee – 208 Tees",
+              "url": "https://208tees.com/products/body-by-bacon-shirt-funny-bacon-gift-mens-shirts-funny-graphic-tees-shirts-dad-gift-gift-for-him-gift-for-men-fathers-day-326627125",
+              "ref": "turn54search7"
+            },
+            {
+              "title": "Bacon On The Road – Lehigh Valley IronPigs Official Store",
+              "url": "https://ironpigs.milbstore.com/collections/bacon-on-the-road",
+              "ref": "turn54search8"
+            },
+            {
+              "title": "Body By Bacon - Bacon - Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/hoodie/86386406-body-by-bacon",
+              "ref": "turn54search9"
+            }
+          ],
+          "raw_result_count": 18,
+          "domain_filter": null
+        },
+        {
+          "id": "W2",
+          "q": "Body By Bacon",
+          "time": "2026-09-29T17:38:45.782Z",
+          "rows": [
+            {
+              "title": "Body by Bacon T-Shirt – Humor Meets Comfort for Bacon Enthusiasts – Lone Star Roots",
+              "url": "https://www.lonestarroots.com/products/body-by-bacon-t-shirt",
+              "ref": "turn55search0"
+            },
+            {
+              "title": "Body By Bacon - Bacon - Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/hoodie/29873967-body-by-bacon",
+              "ref": "turn55search1"
+            },
+            {
+              "title": "Body By Bacon T-Shirt | Funny Pig Lover Tee for BBQ Fans & Bacon Enthusiasts - Funny Bbq Sayings - Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/hoodie/7330192-body-by-bacon-t-shirt-funny-pig-lover-tee-for-bbq-",
+              "ref": "turn55search2"
+            },
+            {
+              "title": "Body By Bacon - Bacon - Hoodie | TeePublic",
+              "url": "https://www.teepublic.com/hoodie/86386406-body-by-bacon",
+              "ref": "turn55search3"
+            },
+            {
+              "title": "Body By Bacon - Bacon - Long Sleeve T-Shirt | TeePublic",
+              "url": "https://www.teepublic.com/long-sleeve-t-shirt/29873967-body-by-bacon",
+              "ref": "turn55search4"
+            },
+            {
+              "title": "Body By Bacon - Bacon Lover - Pin | TeePublic",
+              "url": "https://www.teepublic.com/pin/40792044-body-by-bacon",
+              "ref": "turn55search5"
+            },
+            {
+              "title": "Body By Bacon Bacon Merch for Sale | TeePublic",
+              "url": "https://www.teepublic.com/body-by-bacon-bacon-merchandise",
+              "ref": "turn55search6"
+            },
+            {
+              "title": "FAVORITE FOODS (Body by Bacon) | Expect to Laugh Episode on Amazon Music",
+              "url": "https://music.amazon.com/podcasts/be932b73-3539-4cac-a47a-46b544f034a9/episodes/54f4c507-edb0-44bb-8230-3787afb3b044/expect-to-laugh-favorite-foods-body-by-bacon",
+              "ref": "turn55search7"
+            },
+            {
+              "title": "Body By Bacon - Bacon Lover - Tank Top | TeePublic",
+              "url": "https://www.teepublic.com/tank-top/40792044-body-by-bacon",
+              "ref": "turn55search8"
+            },
+            {
+              "title": "Body By Bacon Crewneck Sweatshirts for Sale | TeePublic",
+              "url": "https://www.teepublic.com/crewneck-sweatshirt/body-by-bacon",
+              "ref": "turn55search9"
+            }
+          ],
+          "raw_result_count": 23,
+          "domain_filter": null
+        },
+        {
+          "id": "W3",
+          "q": "body by bacon text shirt bacon graphic",
+          "time": "2026-09-29T17:38:46.759Z",
+          "rows": [
+            {
+              "title": "Body by Bacon Carnivore Shirt, Gildan 5000 Carnivore T-shirt, BBBE Shirt, Carnivore Diet Keto Tee, Bacon Lover Shirt, Meat Eater Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/1709591640/body-by-bacon-carnivore-shirt-gildan",
+              "ref": "turn56search0"
+            },
+            {
+              "title": "Body By Bacon Shirt | Casual Funny Shirt, Breathable Poly Cotton Unisex Tee – 208 Tees",
+              "url": "https://208tees.com/products/body-by-bacon-shirt-funny-bacon-gift-mens-shirts-funny-graphic-tees-shirts-dad-gift-gift-for-him-gift-for-men-fathers-day-326627125",
+              "ref": "turn56search1"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling Graphic Tees - Walmart.com",
+              "url": "https://www.walmart.com/ip/149802732",
+              "ref": "turn56search2"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise Black 4XL : Target",
+              "url": "https://www.target.com/p/-/A-1000014084",
+              "ref": "turn56search3"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise Black 5XL : Target",
+              "url": "https://www.target.com/p/-/A-94056176",
+              "ref": "turn56search4"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise : Target",
+              "url": "https://www.target.com/p/-/A-94056166",
+              "ref": "turn56search5"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise Red 5XL : Target",
+              "url": "https://www.target.com/p/-/A-94056188",
+              "ref": "turn56search6"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt Red L : Target",
+              "url": "https://www.target.com/p/-/A-94056168",
+              "ref": "turn56search7"
+            },
+            {
+              "title": "Body By Bacon shirt | StickyRooster",
+              "url": "https://stickyrooster.com/products/body-by-bacon-shirt",
+              "ref": "turn56search8"
+            },
+            {
+              "title": "Mens Body By Bacon T Shirt Funny Bacon Eating Shirt Lover Gift for Dad Grilling - Crazy Dog Men's T Shirt For Exercise Red XL : Target",
+              "url": "https://www.target.com/p/-/A-94056169",
+              "ref": "turn56search9"
+            }
+          ],
+          "raw_result_count": 31,
+          "domain_filter": null
+        }
+      ]
+    },
+    {
+      "key": "D05Q20",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Smart Ass University\"",
+          "time": "2026-09-29T17:38:47.795Z",
+          "rows": [
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn57search0"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn57search1"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn57search2"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn57search3"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn57search4"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-men",
+              "ref": "turn57search5"
+            }
+          ],
+          "raw_result_count": 6,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N2",
+          "q": "Smart Ass University",
+          "time": "2026-09-29T17:38:52.671Z",
+          "rows": [
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn58search0"
+            },
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn58search1"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn58search2"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn58search3"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn58search4"
+            },
+            {
+              "title": "Smart Ass Mug",
+              "url": "https://www.crazydogtshirts.com/products/smart-ass-mug",
+              "ref": "turn58search5"
+            },
+            {
+              "title": "Men's Boxer Briefs",
+              "url": "https://www.crazydogtshirts.com/collections/mens-boxer-briefs",
+              "ref": "turn58search6"
+            },
+            {
+              "title": "Boxer Briefs – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/boxer-briefs",
+              "ref": "turn58search7"
+            },
+            {
+              "title": "Smart Ass Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/smart-ass-mens-t-shirt",
+              "ref": "turn58search8"
+            },
+            {
+              "title": "Grunge Striped Skull",
+              "url": "https://www.crazydogtshirts.com/products/grunge-striped-skull",
+              "ref": "turn58search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N3",
+          "q": "smart ass university seal college shirt",
+          "time": "2026-09-29T17:39:03.300Z",
+          "rows": [
+            {
+              "title": "Sarcastic – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic",
+              "ref": "turn59search0"
+            },
+            {
+              "title": "SarcasticTagged \"style-mens t-shirts – \" – Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/sarcastic/style-mens-t-shirts",
+              "ref": "turn59search1"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn59search2"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn59search3"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn59search4"
+            },
+            {
+              "title": "Smart Ass Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/smart-ass-mens-t-shirt",
+              "ref": "turn59search5"
+            },
+            {
+              "title": "College Stud Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/college-stud-mens-tshirt",
+              "ref": "turn59search6"
+            },
+            {
+              "title": "Boss Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/mens-boss-shirt-funny-t-shirts-for-dads-hilarious-matching-tees-for-family-t-shirt",
+              "ref": "turn59search7"
+            },
+            {
+              "title": "Grunge Striped Skull",
+              "url": "https://www.crazydogtshirts.com/products/grunge-striped-skull",
+              "ref": "turn59search8"
+            },
+            {
+              "title": "Warning This Shirt May Contain An Asshole Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/warning-this-shirt-may-contain-an-asshole-mens-t-shirt",
+              "ref": "turn59search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "W1",
+          "q": "\"Smart Ass University\"",
+          "time": "2026-09-29T17:39:04.373Z",
+          "rows": [
+            {
+              "title": "State v. Valentine",
+              "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/5/2009/2009-ohio-4738.pdf",
+              "ref": "turn60search12"
+            },
+            {
+              "title": "MEMORANDUM OPINION granting summary judgment in favor of Defendant. Judgment Order to follow. Signed by Judge David S. Cercone on 8/24/11. (jmc)",
+              "url": "https://cases.justia.com/federal/district-courts/pennsylvania/pawdce/2%3A2009cv00699/92430/45/0.pdf",
+              "ref": "turn60search13"
+            },
+            {
+              "title": "Granny and Grandpa’s Custom Creations | Family-Owned Custom Apparel & Gifts & Authorized UPS Shipping Provider",
+              "url": "https://www.grannygrandpascustomcreations.com/shop/p/smart-ass-university-tee",
+              "ref": "turn60search0"
+            },
+            {
+              "title": "Smart Ass University Men's T Shirt Premium T-Shirt",
+              "url": "https://www.sunfrog.com/product/smart-ass-university-men-s-t-shirt-ssax8s",
+              "ref": "turn60search1"
+            },
+            {
+              "title": "Smart Ass University - Shirt - Woot",
+              "url": "https://forums.woot.com/t/smart-ass-university/2390365",
+              "ref": "turn60search2"
+            },
+            {
+              "title": "A",
+              "url": "https://www.susk.ca/wp-content/uploads/2021/01/STUDENT-1973-May.pdf",
+              "ref": "turn60search14"
+            },
+            {
+              "title": "Custom T-Shirts & Graphic Tees | ArtexCustoms Apparel – Artexcustoms",
+              "url": "https://artexcustoms.com/collections/everyday-casual-t-shirts-comfortable-graphic-tees",
+              "ref": "turn60search3"
+            },
+            {
+              "title": "Smart Ass University T-shirt, Funny Smart Ass Shirt, Witty Tee - Women's Softstyle Tee - Etsy UK",
+              "url": "https://www.etsy.com/listing/989781100/smart-ass-university-t-shirt-funny-smart",
+              "ref": "turn60search4"
+            },
+            {
+              "title": "Bill Harmatz - Harmatz Investment Enterprises / Your Real Estate Guru | LinkedIn",
+              "url": "https://au.linkedin.com/in/bill-harmatz-3385ab34",
+              "ref": "turn60search5"
+            },
+            {
+              "title": "Merch | Hasty's Haven",
+              "url": "https://www.hastyshaven.org/merch",
+              "ref": "turn60search6"
+            }
+          ],
+          "raw_result_count": 17,
+          "domain_filter": null
+        },
+        {
+          "id": "W2",
+          "q": "Smart Ass University",
+          "time": "2026-09-29T17:39:05.416Z",
+          "rows": [
+            {
+              "title": "Academics – Studyway",
+              "url": "https://www.studyway.eu/academics/",
+              "ref": "turn61search0"
+            },
+            {
+              "title": "University Games Smart Ass Party Game : Target",
+              "url": "https://www.target.com/p/-/A-90179249",
+              "ref": "turn61search1"
+            },
+            {
+              "title": "Smart Ass University Men's T Shirt Premium T-Shirt",
+              "url": "https://www.sunfrog.com/product/smart-ass-university-men-s-t-shirt-ssax8s",
+              "ref": "turn61search2"
+            },
+            {
+              "title": "Stephanie Leathers - Smart Ass Entertainment | LinkedIn",
+              "url": "https://www.linkedin.com/in/stephanie-leathers-atx",
+              "ref": "turn61search3"
+            },
+            {
+              "title": "Academics – ampeducationalcentre",
+              "url": "https://www.ampeducationalcentre.com/academics-2/",
+              "ref": "turn61search4"
+            },
+            {
+              "title": "Smart Ass by University Games | Puzzle Warehouse",
+              "url": "https://www.puzzlewarehouse.com/university-games-smart-ass/",
+              "ref": "turn61search5"
+            },
+            {
+              "title": "Smart Ass - Scratch and Dent by University Games | Puzzle Warehouse",
+              "url": "https://www.puzzlewarehouse.com/university-games-smart-ass-scratch-and-dent/",
+              "ref": "turn61search6"
+            },
+            {
+              "title": "Smart Ass Trivia Game University Games * Ass Delivery Near Me | Order Online | Uber Eats",
+              "url": "https://www.ubereats.com/product/b/fe412714-c936-5e62-be5d-8dec90010ba1",
+              "ref": "turn61search7"
+            },
+            {
+              "title": "University Games Smart Ass 90s Nostalgia Card Game : Target",
+              "url": "https://www.target.com/p/-/A-95009228",
+              "ref": "turn61search8"
+            },
+            {
+              "title": "Smart Ass University - Shirt - Woot",
+              "url": "https://forums.woot.com/t/smart-ass-university/2390365",
+              "ref": "turn61search9"
+            }
+          ],
+          "raw_result_count": 17,
+          "domain_filter": null
+        },
+        {
+          "id": "W3",
+          "q": "smart ass university seal college shirt",
+          "time": "2026-09-29T17:39:06.418Z",
+          "rows": [
+            {
+              "title": "Smartass University - Long Sleeve T-Shirt – m00nshot",
+              "url": "https://www.m00nshot.com/products/smartass-university-long-sleeve-t-shirt",
+              "ref": "turn62search0"
+            },
+            {
+              "title": "Smart Ass University Men's T Shirt Premium T-Shirt",
+              "url": "https://www.sunfrog.com/product/smart-ass-university-men-s-t-shirt-ssax8s",
+              "ref": "turn62search1"
+            },
+            {
+              "title": "Granny and Grandpa’s Custom Creations | Family-Owned Custom Apparel & Gifts & Authorized UPS Shipping Provider",
+              "url": "https://www.grannygrandpascustomcreations.com/shop/p/smart-ass-university-tee",
+              "ref": "turn62search2"
+            },
+            {
+              "title": "Smart Ass University",
+              "url": "https://shirt.woot.com/offers/smart-ass-university",
+              "ref": "turn62search3"
+            },
+            {
+              "title": "Smart Ass University Sweatshirt, Funny Meme Apparel | Refinery Number One",
+              "url": "https://refinerynumberone.com/products/smart-ass-university-sweatshirt-donkey-sarcastic-college-funny-meme",
+              "ref": "turn62search4"
+            },
+            {
+              "title": "Sebastian Maniscalco University Shirt - Vintagenclassic Tee",
+              "url": "https://vintagenclassic.com/product/sebastian-maniscalco-university-shirt/",
+              "ref": "turn62search5"
+            },
+            {
+              "title": "Smartass University Custom Hoodie – Smartass University Gear",
+              "url": "https://smartassuniversity.com/products/smartass-university-custom-hoodie",
+              "ref": "turn62search6"
+            },
+            {
+              "title": "Smart Ass University T-shirt, Funny Smart Ass Shirt, Witty Tee - Women's Softstyle Tee - Etsy UK",
+              "url": "https://www.etsy.com/listing/989781100/smart-ass-university-t-shirt-funny-smart",
+              "ref": "turn62search7"
+            },
+            {
+              "title": "Unscrewed University T-Shirt",
+              "url": "https://johnmalecki.com/products/unscrewed-university-t-shirt",
+              "ref": "turn62search8"
+            },
+            {
+              "title": "Blue Georgetown University Seal Shirt | Homefield",
+              "url": "https://www.homefieldapparel.com/products/blue-georgetown-university-seal-shirt",
+              "ref": "turn62search9"
+            }
+          ],
+          "raw_result_count": 25,
+          "domain_filter": null
+        }
+      ]
+    },
+    {
+      "key": "D05Q21",
+      "runs": [
+        {
+          "id": "N1",
+          "q": "\"Pick Up Chicks\"",
+          "time": "2026-09-29T17:39:17.444Z",
+          "rows": [
+            {
+              "title": "Pick Up Chicks Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/pick-up-chicks-mens-tshirt",
+              "ref": "turn63search0"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn63search1"
+            },
+            {
+              "title": "Easter Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/easter-socks",
+              "ref": "turn63search2"
+            },
+            {
+              "title": "Shop Animal Socks | Cute Wildlife Socks | Shop Now",
+              "url": "https://www.crazydogtshirts.com/collections/animal-socks",
+              "ref": "turn63search3"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn63search4"
+            },
+            {
+              "title": "Crazy Socks for Kids | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-kids-socks",
+              "ref": "turn63search5"
+            },
+            {
+              "title": "Youth How To Pick Up Chicks Socks",
+              "url": "https://www.crazydogtshirts.com/products/youth-how-to-pick-up-chicks-socks",
+              "ref": "turn63search6"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter",
+              "ref": "turn63search7"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter/style-mens-t-shirts",
+              "ref": "turn63search8"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn63search9"
+            }
+          ],
+          "raw_result_count": 11,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N2",
+          "q": "Pick Up Chicks",
+          "time": "2026-09-29T17:39:18.443Z",
+          "rows": [
+            {
+              "title": "Pick Up Chicks Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/pick-up-chicks-mens-tshirt",
+              "ref": "turn64search0"
+            },
+            {
+              "title": "Youth How To Pick Up Chicks Socks",
+              "url": "https://www.crazydogtshirts.com/products/youth-how-to-pick-up-chicks-socks",
+              "ref": "turn64search1"
+            },
+            {
+              "title": "Shop Animal Socks | Cute Wildlife Socks | Shop Now",
+              "url": "https://www.crazydogtshirts.com/collections/animal-socks",
+              "ref": "turn64search2"
+            },
+            {
+              "title": "Easter Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/easter-socks",
+              "ref": "turn64search3"
+            },
+            {
+              "title": "Youth Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/youth-socks",
+              "ref": "turn64search4"
+            },
+            {
+              "title": "Crazy Socks for Kids | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-kids-socks",
+              "ref": "turn64search5"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn64search6"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter",
+              "ref": "turn64search7"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn64search8"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter/style-mens-t-shirts",
+              "ref": "turn64search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "N3",
+          "q": "pick up chicks shirt baby chickens lifting weights",
+          "time": "2026-09-29T17:39:19.736Z",
+          "rows": [
+            {
+              "title": "Pick Up Chicks Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/pick-up-chicks-mens-tshirt",
+              "ref": "turn65search0"
+            },
+            {
+              "title": "Crazy Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/crazy-shirts?page=1",
+              "ref": "turn65search1"
+            },
+            {
+              "title": "Youth How To Pick Up Chicks Socks",
+              "url": "https://www.crazydogtshirts.com/products/youth-how-to-pick-up-chicks-socks",
+              "ref": "turn65search2"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter/style-mens-t-shirts",
+              "ref": "turn65search3"
+            },
+            {
+              "title": "Funny Easter T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-easter",
+              "ref": "turn65search4"
+            },
+            {
+              "title": "Offensive Funny T-Shirts | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/funny-offensive",
+              "ref": "turn65search5"
+            },
+            {
+              "title": "Easter Socks | Crazy Dog T-Shirts",
+              "url": "https://www.crazydogtshirts.com/collections/easter-socks",
+              "ref": "turn65search6"
+            },
+            {
+              "title": "I Heart Fat Chicks Hat",
+              "url": "https://www.crazydogtshirts.com/products/i-heart-fat-chicks-hat",
+              "ref": "turn65search7"
+            },
+            {
+              "title": "Funny Mens T-shirts | Cool Vintage Tees for Guys",
+              "url": "https://www.crazydogtshirts.com/products/its-not-the-heat-it-s-the-humidity-mens-tshirt",
+              "ref": "turn65search8"
+            },
+            {
+              "title": "Are You a Beaver Cuz Dam Men's T Shirt",
+              "url": "https://www.crazydogtshirts.com/products/are-you-a-beaver-cuz-dam-mens-tshirt",
+              "ref": "turn65search9"
+            }
+          ],
+          "raw_result_count": 12,
+          "domain_filter": "crazydogtshirts.com"
+        },
+        {
+          "id": "W1",
+          "q": "\"Pick Up Chicks\"",
+          "time": "2026-09-29T17:39:20.741Z",
+          "rows": [
+            {
+              "title": "Urban Dictionary: Pick up Chicks",
+              "url": "https://www.urbandictionary.com/define.php?term=Pick+up+Chicks",
+              "ref": "turn66search0"
+            },
+            {
+              "title": "Slang for \"pick up chicks\" (Related Terms) - Urban Thesaurus",
+              "url": "https://urbanthesaurus.org/synonyms/pick%20up%20chicks",
+              "ref": "turn66search1"
+            },
+            {
+              "title": "How to pick up chicks | Spanish Translator",
+              "url": "https://www.spanishdict.com/translate/how%20to%20pick%20up%20chicks",
+              "ref": "turn66search2"
+            },
+            {
+              "title": "pick up chicks - Tłumaczenie na polski - angielskich przykładów | Reverso Context",
+              "url": "https://context.reverso.net/t%C5%82umaczenie/angielski-polski/pick%2Bup%2Bchicks",
+              "ref": "turn66search3"
+            },
+            {
+              "title": "PLACE TO PICK UP CHICKS Crossword Puzzle Clue - All 4 answers",
+              "url": "https://www.the-crossword-solver.com/word/place%2Bto%2Bpick%2Bup%2Bchicks",
+              "ref": "turn66search4"
+            },
+            {
+              "title": "pick up chicks - Translation into Polish - examples English | Reverso Context",
+              "url": "https://context.reverso.net/translation/english-polish/pick%2Bup%2Bchicks",
+              "ref": "turn66search5"
+            },
+            {
+              "title": "Pick Up Chicks - Maxim",
+              "url": "https://www.maxim.com/entertainment/pick-chicks/",
+              "ref": "turn66search6"
+            },
+            {
+              "title": "How to Pick Up Chicks Guide 2009-2010 (2nd Edition) | PokéBeach",
+              "url": "https://pokebeach.com/forums/threads/how-to-pick-up-chicks-guide-2009-2010-2nd-edition.64273/",
+              "ref": "turn66search7"
+            },
+            {
+              "title": "How to Pick Up Chicks - How To Pick Up Chicks - Socks | TeePublic",
+              "url": "https://www.teepublic.com/socks/1325955-how-to-pick-up-chicks",
+              "ref": "turn66search8"
+            },
+            {
+              "title": "Pick up chicks | Spanish Translator",
+              "url": "https://www.spanishdict.com/translate/pick%20up%20chicks",
+              "ref": "turn66search9"
+            }
+          ],
+          "raw_result_count": 30,
+          "domain_filter": null
+        },
+        {
+          "id": "W2",
+          "q": "Pick Up Chicks",
+          "time": "2026-09-29T17:39:21.712Z",
+          "rows": [
+            {
+              "title": "Where to Pick Up Some Chicks",
+              "url": "https://ucanr.edu/sites/default/files/2021-02/302032.pdf",
+              "ref": "turn67search12"
+            },
+            {
+              "title": "Starting your own backyard",
+              "url": "https://www.ucanr.edu/sites/poultry/files/302032.pdf",
+              "ref": "turn67search13"
+            },
+            {
+              "title": "Getting your Chicks",
+              "url": "https://txmg.org/williamson/files/Getting-your-Chicks.pdf",
+              "ref": "turn67search14"
+            },
+            {
+              "title": "Building Your Own Backyard",
+              "url": "https://ucanr.edu/sites/poultry/files/181245.pdf",
+              "ref": "turn67search15"
+            },
+            {
+              "title": "Freshly Picked Chicks | Colorful Eggs, Rare Breeds & Genetics",
+              "url": "https://freshlypickedchicks.com/",
+              "ref": "turn67search0"
+            },
+            {
+              "title": "Slide 1",
+              "url": "https://ucanr.edu/sites/default/files/2015-07/181245.pdf",
+              "ref": "turn67search16"
+            },
+            {
+              "title": "Anyone have tips on getting my chickens to let me pick them up? Everytime I try and pick one up they run away and if I do get one they make it like they’re being murdered",
+              "url": "https://www.reddit.com/r/BackYardChickens/comments/1v5e50r/anyone_have_tips_on_getting_my_chickens_to_let_me/",
+              "ref": "turn67reddit17"
+            },
+            {
+              "title": "Pick Up Chicks: A Guide to Raising Egg-Laying Chickens | RECOIL OFFGRID",
+              "url": "https://www.offgridweb.com/preparation/pick-up-chicks-a-guide-to-raising-egg-laying-chickens/",
+              "ref": "turn67search1"
+            },
+            {
+              "title": "How to Pick Up Chicks - How To Pick Up Chicks - Socks | TeePublic",
+              "url": "https://www.teepublic.com/socks/1325955-how-to-pick-up-chicks",
+              "ref": "turn67search2"
+            },
+            {
+              "title": "Raising Baby Chicks: A Beginner's Guide - Backyard Poultry",
+              "url": "https://backyardpoultry.iamcountryside.com/chickens-101/beginners-guide-raising-baby-chicks/",
+              "ref": "turn67search3"
+            }
+          ],
+          "raw_result_count": 33,
+          "domain_filter": null
+        },
+        {
+          "id": "W3",
+          "q": "pick up chicks shirt baby chickens lifting weights",
+          "time": "2026-09-29T17:39:22.702Z",
+          "rows": [
+            {
+              "title": "How To Pick Up Chicks Unisex T-Shirts | Feather Lover Farms",
+              "url": "https://featherloverfarms.com/products/how-to-pick-up-chicks-unisex-t-shirts",
+              "ref": "turn68search0"
+            },
+            {
+              "title": "Funny Weightlifting Chicken T-shirt, Rooster Barbell Explosion Gym Tee, Protein & Kettlebell Graphic, Unisex Adult Youth Toddler Gift Shirt - Etsy",
+              "url": "https://www.etsy.com/listing/4431100942/funny-weightlifting-chicken-t-shirt",
+              "ref": "turn68search1"
+            },
+            {
+              "title": "How to Pick up Chicks Funny T-shirt, Chicken Farmer Humor Tee, Baby Chick Pun Gift - Etsy",
+              "url": "https://www.etsy.com/listing/4429283952/how-to-pick-up-chicks-funny-t-shirt",
+              "ref": "turn68search2"
+            },
+            {
+              "title": "Picking Up Chicks T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/picking_up_chicks_t_shirt-235844572862414016",
+              "ref": "turn68search3"
+            },
+            {
+              "title": "How To Pick Up Chicks T-Shirt - Funny T-Shirts – Bad Idea T Shirts",
+              "url": "https://www.badideatshirts.com/products/how-to-pick-up-chicks",
+              "ref": "turn68search4"
+            },
+            {
+              "title": "How To Pick Up Chicks T-Shirt - TeeNavi",
+              "url": "https://teenavi.com/product/how-to-pick-up-chicks/",
+              "ref": "turn68search5"
+            },
+            {
+              "title": "How To Pick Up Chicks T Shirt Funny Chicken Shirt | Zazzle",
+              "url": "https://www.zazzle.com/how_to_pick_up_chicks_t_shirt_funny_chicken_shirt-256858380024321629",
+              "ref": "turn68search6"
+            },
+            {
+              "title": "\"Champion at picking up chicks (white)\" Poster for Sale by SolidEarthArt | Redbubble",
+              "url": "https://www.redbubble.com/i/poster/Champion-at-picking-up-chicks-white-by-SolidEarthArt/160703951/flk2",
+              "ref": "turn68search7"
+            },
+            {
+              "title": "How To Pick Up Chicks T-Shirt",
+              "url": "https://www.80stees.com/products/how-to-pick-up-chicks-t-shirt",
+              "ref": "turn68search8"
+            },
+            {
+              "title": "how to pick up chicks T-Shirt | Zazzle",
+              "url": "https://www.zazzle.com/how_to_pick_up_chicks_t_shirt-235820674390065853",
+              "ref": "turn68search9"
+            }
+          ],
+          "raw_result_count": 30,
+          "domain_filter": null
+        }
+      ]
+    }
+  ]
+}
