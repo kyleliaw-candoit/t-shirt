@@ -1,0 +1,361 @@
+[
+  {
+    "id": "D09Q01N1",
+    "domain": "pyknic.com",
+    "query": "\"Extra Spicy\"",
+    "at": "2026-10-01T20:55:02.685Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://pyknic.com/search?q=%22Extra%20Spicy%22",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://pyknic.com/products/extra-spicy-tee"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://pyknic.com/products/extra-spicy-crewneck"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://pyknic.com/products/extra-spicy-slippers"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://pyknic.com/products/extra-spicy-socks"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://pyknic.com/products/extra-spicy-patch"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://pyknic.com/products/extra-spicy-hat"
+      }
+    ]
+  },
+  {
+    "id": "D09Q01N2",
+    "domain": "pyknic.com",
+    "query": "Extra Spicy",
+    "at": "2026-10-01T20:55:07.230Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://pyknic.com/search?q=Extra%20Spicy",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://pyknic.com/products/extra-spicy-tee"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://pyknic.com/products/extra-spicy-crewneck"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://pyknic.com/products/extra-spicy-slippers"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://pyknic.com/products/extra-spicy-socks"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://pyknic.com/products/extra-spicy-patch"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://pyknic.com/products/spicy-noodles-button-up-shirt"
+      },
+      {
+        "ordinal": 7,
+        "url": "https://pyknic.com/products/lost-in-the-hot-sauce-tee"
+      },
+      {
+        "ordinal": 8,
+        "url": "https://pyknic.com/products/spicy-margs-button-up"
+      },
+      {
+        "ordinal": 9,
+        "url": "https://pyknic.com/products/quesadillas-tee"
+      },
+      {
+        "ordinal": 10,
+        "url": "https://pyknic.com/products/raise-hell-eat-tacos-button-up-shirt"
+      }
+    ]
+  },
+  {
+    "id": "D09Q01N3",
+    "domain": "pyknic.com",
+    "query": "extra spicy devil ramen bowl chopsticks shirt",
+    "at": "2026-10-01T20:55:11.681Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://pyknic.com/search?q=extra%20spicy%20devil%20ramen%20bowl%20chopsticks%20shirt",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://pyknic.com/products/extra-spicy-tee"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://pyknic.com/products/hope-they-serve-tacos-in-hell-tee-black"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://pyknic.com/products/fra-diavolo-tee"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://pyknic.com/products/spicy-noodles-button-up-shirt"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://pyknic.com/products/lost-in-the-hot-sauce-tee"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://pyknic.com/products/quesadillas-tee"
+      },
+      {
+        "ordinal": 7,
+        "url": "https://pyknic.com/products/raise-hell-eat-tacos-tee"
+      },
+      {
+        "ordinal": 8,
+        "url": "https://pyknic.com/products/extra-spicy-crewneck"
+      },
+      {
+        "ordinal": 9,
+        "url": "https://pyknic.com/products/donut-destroyer-tee"
+      },
+      {
+        "ordinal": 10,
+        "url": "https://pyknic.com/products/hungry-as-hell-tee"
+      }
+    ]
+  },
+  {
+    "id": "D10Q01N2",
+    "domain": "www.blackbirdsupply.com",
+    "query": "Badlands National Park Heather Olive",
+    "at": "2026-10-01T21:00:48.597Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://www.blackbirdsupply.com/search?q=Badlands%20National%20Park%20Heather%20Olive",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://www.blackbirdsupply.com/products/badlands-rolled-cuff-shirt-for-women-heather-olive"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://www.blackbirdsupply.com/products/badlands-tshirt-heather-lieutenant-green"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://www.blackbirdsupply.com/products/quaking-aspen-trees-nature-print-loose-fit-rolled-cuff-top-dark-heather-gray"
+      }
+    ]
+  },
+  {
+    "id": "D10Q01N3",
+    "domain": "www.blackbirdsupply.com",
+    "query": "pink sun stacked rocky cliffs olive graphic shirt",
+    "at": "2026-10-01T21:00:54.640Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://www.blackbirdsupply.com/search?q=pink%20sun%20stacked%20rocky%20cliffs%20olive%20graphic%20shirt",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://www.blackbirdsupply.com/products/badlands-rolled-cuff-shirt-for-women-heather-olive"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://www.blackbirdsupply.com/products/aspen-trees-bryce-canyon-national-park-womens-graphic-tee-asphalt-gray"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://www.blackbirdsupply.com/products/southwest-desert-cactus-woodblock-style-screen-print-mens-50-50-tee-plum"
+      }
+    ]
+  },
+  {
+    "id": "D12Q05N2",
+    "domain": "slothhikingclub.com",
+    "query": "Sunrise Pines",
+    "at": "2026-10-01T21:05:50.839Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://slothhikingclub.com/search?q=Sunrise%20Pines",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://slothhikingclub.com/products/sunrise-pines-t-shirt"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://slothhikingclub.com/products/sunrise-pines-t-shirt-1"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://slothhikingclub.com/products/sunrise-pines-sweatshirt"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://slothhikingclub.com/products/pinecone-t-shirt"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://slothhikingclub.com/products/lone-pine-t-shirt"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://slothhikingclub.com/products/pine-swept-t-shirt"
+      },
+      {
+        "ordinal": 7,
+        "url": "https://slothhikingclub.com/products/rest-in-pines-t-shirt-2"
+      }
+    ]
+  },
+  {
+    "id": "D12Q05N3",
+    "domain": "slothhikingclub.com",
+    "query": "minimalist pine trees descending curved hillside orange sun shirt",
+    "at": "2026-10-01T21:05:54.755Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://slothhikingclub.com/search?q=minimalist%20pine%20trees%20descending%20curved%20hillside%20orange%20sun%20shirt",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://slothhikingclub.com/products/sunrise-pines-t-shirt"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://slothhikingclub.com/products/sunset-mountain-top-t-shirt"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://slothhikingclub.com/products/water-color-forest-t-shirt"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://slothhikingclub.com/products/pine-swept-t-shirt"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://slothhikingclub.com/products/lone-pine-t-shirt"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://slothhikingclub.com/products/paths-in-life-t-shirt"
+      },
+      {
+        "ordinal": 7,
+        "url": "https://slothhikingclub.com/products/pinecone-t-shirt"
+      },
+      {
+        "ordinal": 8,
+        "url": "https://slothhikingclub.com/products/forest-t-shirt"
+      },
+      {
+        "ordinal": 9,
+        "url": "https://slothhikingclub.com/products/go-outside-t-shirt"
+      },
+      {
+        "ordinal": 10,
+        "url": "https://slothhikingclub.com/products/stump-of-life-t-shirt"
+      }
+    ]
+  },
+  {
+    "id": "D12Q08N2",
+    "domain": "slothhikingclub.com",
+    "query": "Stump Of Life",
+    "at": "2026-10-01T21:12:43.167Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://slothhikingclub.com/search?q=Stump%20Of%20Life",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://slothhikingclub.com/products/stump-of-life-t-shirt"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://slothhikingclub.com/products/stump-of-life-sweatshirt"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://slothhikingclub.com/products/stump-of-life-t-shirt-1"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://slothhikingclub.com/products/stampede-t-shirt"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://slothhikingclub.com/products/squatch-of-life-t-shirt"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://slothhikingclub.com/products/squatch-of-life-t-shirt-1"
+      }
+    ]
+  },
+  {
+    "id": "D12Q08N3",
+    "domain": "slothhikingclub.com",
+    "query": "pine tree silhouette centered inside cracked tree stump growth rings shirt",
+    "at": "2026-10-01T21:12:47.768Z",
+    "access": "live native read-only catalog search",
+    "requested": 10,
+    "search_url": "https://slothhikingclub.com/search?q=pine%20tree%20silhouette%20centered%20inside%20cracked%20tree%20stump%20growth%20rings%20shirt",
+    "results": [
+      {
+        "ordinal": 1,
+        "url": "https://slothhikingclub.com/products/sunrise-pines-t-shirt"
+      },
+      {
+        "ordinal": 2,
+        "url": "https://slothhikingclub.com/products/stump-of-life-t-shirt"
+      },
+      {
+        "ordinal": 3,
+        "url": "https://slothhikingclub.com/products/lone-pine-t-shirt"
+      },
+      {
+        "ordinal": 4,
+        "url": "https://slothhikingclub.com/products/pine-swept-t-shirt"
+      },
+      {
+        "ordinal": 5,
+        "url": "https://slothhikingclub.com/products/water-color-forest-t-shirt"
+      },
+      {
+        "ordinal": 6,
+        "url": "https://slothhikingclub.com/products/paths-in-life-t-shirt"
+      },
+      {
+        "ordinal": 7,
+        "url": "https://slothhikingclub.com/products/forest-t-shirt"
+      },
+      {
+        "ordinal": 8,
+        "url": "https://slothhikingclub.com/products/pinecone-t-shirt"
+      },
+      {
+        "ordinal": 9,
+        "url": "https://slothhikingclub.com/products/pine-glitch-t-shirt"
+      },
+      {
+        "ordinal": 10,
+        "url": "https://slothhikingclub.com/products/wild-flowers-t-shirt"
+      }
+    ]
+  }
+]
