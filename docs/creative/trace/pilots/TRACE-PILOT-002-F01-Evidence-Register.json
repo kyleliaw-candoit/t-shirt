@@ -1,0 +1,380 @@
+{
+  "id": "TRACE-PILOT-002-F01",
+  "local_prereg_commit": "d24defc3c1855a8d8c69d9e2a22e555cf2ca0c1a",
+  "local_prereg_utc": "2026-10-03T21:52:52Z",
+  "remote_prereg_commit": "9ab568ddede894e72c3a56c40be663527032d630",
+  "remote_publication_after_retrieval": true,
+  "queries": [
+    [
+      "F01-Q01",
+      "R010",
+      "PREFERENCE",
+      "site:reddit.com \"work from home\" parent \"love\""
+    ],
+    [
+      "F01-Q02",
+      "R010",
+      "ACTIVITY",
+      "site:reddit.com \"work from home\" parents \"daily routine\""
+    ],
+    [
+      "F01-Q03",
+      "R021",
+      "PREFERENCE",
+      "site:reddit.com pottery \"favorite part\""
+    ],
+    [
+      "F01-Q04",
+      "R021",
+      "ACTIVITY",
+      "site:reddit.com pottery \"studio routine\""
+    ],
+    [
+      "F01-Q05",
+      "R027",
+      "PREFERENCE",
+      "site:reddit.com/r/centuryhomes \"old house\" \"favorite\""
+    ],
+    [
+      "F01-Q06",
+      "R027",
+      "ACTIVITY",
+      "site:reddit.com/r/centuryhomes restoring house process"
+    ]
+  ],
+  "positions": [
+    {
+      "query": "F01-Q01",
+      "rid": "R010",
+      "slot": "PREFERENCE",
+      "rank": 1,
+      "title": "Work from home parents?",
+      "url": "https://www.reddit.com/r/Nanny/comments/rpgf1o",
+      "search_ref": "turn52reddit12",
+      "queried_at": "2026-10-03T21:52:58.738Z",
+      "opened_at": "2026-10-03T21:53:29.910Z",
+      "open_ref": "turn58view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q01",
+      "rid": "R010",
+      "slot": "PREFERENCE",
+      "rank": 2,
+      "title": "Coming from r/toddlers….I work from home and stay at home parent!",
+      "url": "https://www.reddit.com/r/MomsWorkingFromHome/comments/167bz18",
+      "search_ref": "turn52reddit13",
+      "queried_at": "2026-10-03T21:52:58.738Z",
+      "opened_at": "2026-10-03T21:53:29.910Z",
+      "open_ref": "turn58view1",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q01",
+      "rid": "R010",
+      "slot": "PREFERENCE",
+      "rank": 3,
+      "title": "Working outside of the home",
+      "url": "https://www.reddit.com/r/AttachmentParenting/comments/1lirm3c",
+      "search_ref": "turn52reddit14",
+      "queried_at": "2026-10-03T21:52:58.738Z",
+      "opened_at": "2026-10-03T21:53:29.910Z",
+      "open_ref": "turn58view2",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q02",
+      "rid": "R010",
+      "slot": "ACTIVITY",
+      "rank": 1,
+      "title": "WFH Parents, What is your usual daily routine with your toddler?",
+      "url": "https://www.reddit.com/r/toddlers/comments/136jc1m",
+      "search_ref": "turn53reddit8",
+      "queried_at": "2026-10-03T21:53:09.220Z",
+      "opened_at": "2026-10-03T21:53:30.502Z",
+      "open_ref": "turn59view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q02",
+      "rid": "R010",
+      "slot": "ACTIVITY",
+      "rank": 2,
+      "title": "For working/daycare parents, what is your routine?",
+      "url": "https://www.reddit.com/r/beyondthebump/comments/lx4ogo",
+      "search_ref": "turn53reddit9",
+      "queried_at": "2026-10-03T21:53:09.220Z",
+      "opened_at": "2026-10-03T21:53:30.502Z",
+      "open_ref": "turn59view1",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q02",
+      "rid": "R010",
+      "slot": "ACTIVITY",
+      "rank": 3,
+      "title": "Working parents (school age)",
+      "url": "https://www.reddit.com/r/Mommit/comments/1rm37yu/working_parents_school_age/",
+      "search_ref": "turn53reddit10",
+      "queried_at": "2026-10-03T21:53:09.220Z",
+      "opened_at": "2026-10-03T21:53:30.502Z",
+      "open_ref": "turn59view2",
+      "access": "PARTIAL-PAGE-TEXT",
+      "disposition": "Primary statements with visible author IDs reviewed; only returned portion, not whole thread"
+    },
+    {
+      "query": "F01-Q03",
+      "rid": "R021",
+      "slot": "PREFERENCE",
+      "rank": 1,
+      "title": "What's your least favourite part of the ceramic process?",
+      "url": "https://www.reddit.com/r/Pottery/comments/nufhc5",
+      "search_ref": "turn54reddit12",
+      "queried_at": "2026-10-03T21:53:09.898Z",
+      "opened_at": "2026-10-03T21:53:31.519Z",
+      "open_ref": "turn60view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q03",
+      "rid": "R021",
+      "slot": "PREFERENCE",
+      "rank": 2,
+      "title": "My favourite piece from my brief wheel class. I think I prefer hand building. The glazing part is my favourite part anyway :)",
+      "url": "https://www.reddit.com/r/Pottery/comments/1dpuia0",
+      "search_ref": "turn54reddit13",
+      "queried_at": "2026-10-03T21:53:09.898Z",
+      "opened_at": "2026-10-03T21:53:31.519Z",
+      "open_ref": "turn60view1",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q03",
+      "rid": "R021",
+      "slot": "PREFERENCE",
+      "rank": 3,
+      "title": "Tell me your \"unpopular opinion\" of pottery?",
+      "url": "https://www.reddit.com/r/Pottery/comments/1edr7c6/tell_me_your_unpopular_opinion_of_pottery/",
+      "search_ref": "turn54reddit14",
+      "queried_at": "2026-10-03T21:53:09.898Z",
+      "opened_at": "2026-10-03T21:53:31.519Z",
+      "open_ref": "turn60view2",
+      "access": "PARTIAL-PAGE-TEXT",
+      "disposition": "Primary statements with visible author IDs reviewed; only returned portion, not whole thread"
+    },
+    {
+      "query": "F01-Q04",
+      "rid": "R021",
+      "slot": "ACTIVITY",
+      "rank": 1,
+      "title": "Fire-proof labels for workshop pots - suggestions please",
+      "url": "https://www.reddit.com/r/Pottery/comments/1gqft7k",
+      "search_ref": "turn55reddit0",
+      "queried_at": "2026-10-03T21:53:11.064Z",
+      "opened_at": "2026-10-03T21:53:43.703Z",
+      "open_ref": "turn61view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q04",
+      "rid": "R021",
+      "slot": "ACTIVITY",
+      "rank": 2,
+      "title": "A tiny creative ritual from my studio that keeps me inspired",
+      "url": "https://www.reddit.com/r/u_Holiday_Gap2147/comments/1owieh3",
+      "search_ref": "turn55reddit1",
+      "queried_at": "2026-10-03T21:53:11.064Z",
+      "opened_at": "2026-10-03T21:53:43.703Z",
+      "open_ref": "turn61view1",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q04",
+      "rid": "R021",
+      "slot": "ACTIVITY",
+      "rank": 3,
+      "title": "Studio ergonomics",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1o0gd0q",
+      "search_ref": "turn55reddit2",
+      "queried_at": "2026-10-03T21:53:11.064Z",
+      "opened_at": "2026-10-03T21:53:43.703Z",
+      "open_ref": "turn61view2",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q05",
+      "rid": "R027",
+      "slot": "PREFERENCE",
+      "rank": 1,
+      "title": "At what age did you know that you loved old houses?",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/1hz9wps",
+      "search_ref": "turn56reddit11",
+      "queried_at": "2026-10-03T21:53:11.762Z",
+      "opened_at": "2026-10-03T21:53:44.677Z",
+      "open_ref": "turn62view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q05",
+      "rid": "R027",
+      "slot": "PREFERENCE",
+      "rank": 2,
+      "title": "Is anyone else just trying to make the most of their janky old house?",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/1qbvw97/is_anyone_else_just_trying_to_make_the_most_of/",
+      "search_ref": "turn56reddit12",
+      "queried_at": "2026-10-03T21:53:11.762Z",
+      "opened_at": "2026-10-03T21:53:44.677Z",
+      "open_ref": "turn62view1",
+      "access": "PARTIAL-PAGE-TEXT",
+      "disposition": "Primary statements with visible author IDs reviewed; only returned portion, not whole thread"
+    },
+    {
+      "query": "F01-Q05",
+      "rid": "R027",
+      "slot": "PREFERENCE",
+      "rank": 3,
+      "title": "Century Homes vs. Century Homes",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/1gd9skr",
+      "search_ref": "turn56reddit13",
+      "queried_at": "2026-10-03T21:53:11.762Z",
+      "opened_at": "2026-10-03T21:53:44.677Z",
+      "open_ref": "turn62view2",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q06",
+      "rid": "R027",
+      "slot": "ACTIVITY",
+      "rank": 1,
+      "title": "Restoring 125 yr old farmhouse",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/16fdzcp",
+      "search_ref": "turn57reddit12",
+      "queried_at": "2026-10-03T21:53:12.448Z",
+      "opened_at": "2026-10-03T21:53:45.121Z",
+      "open_ref": "turn63view0",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q06",
+      "rid": "R027",
+      "slot": "ACTIVITY",
+      "rank": 2,
+      "title": "\"Over\" restoring your old home?",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/qugguh",
+      "search_ref": "turn57reddit13",
+      "queried_at": "2026-10-03T21:53:12.448Z",
+      "opened_at": "2026-10-03T21:53:45.121Z",
+      "open_ref": "turn63view1",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    },
+    {
+      "query": "F01-Q06",
+      "rid": "R027",
+      "slot": "ACTIVITY",
+      "rank": 3,
+      "title": "You all asked for updates… after 18 months, we’ve finally begun demo on our old cape.",
+      "url": "https://www.reddit.com/r/centuryhomes/comments/1cv30gw",
+      "search_ref": "turn57reddit14",
+      "queried_at": "2026-10-03T21:53:12.448Z",
+      "opened_at": "2026-10-03T21:53:45.121Z",
+      "open_ref": "turn63view2",
+      "access": "BLOCKED-DISABLED",
+      "disposition": "No qualifying primary evidence; search extract not substituted"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "F01-NT-R010-P",
+      "status": "BLOCKED",
+      "claim": null,
+      "reason": "All three preference-query pages blocked. Accessible activity discussion does not supply a qualifying corroborated present preference from identified remote-working parents."
+    },
+    {
+      "id": "F01-NT-R010-A",
+      "status": "SINGLE-SOURCE",
+      "claim": "Alternating who sees children onto the school bus.",
+      "source_position": "F01-Q02/3",
+      "source_ref": "turn59view2",
+      "locator": "L105–112",
+      "author": "UnicornToots",
+      "excerpt": "my husband and I alternate who sees them on the bus",
+      "reason": "First eligible recurring action from an explicitly remote/hybrid-working parent in accessible returned order. Later prospective seeing-them-off statement is not a second current recurring-action report."
+    },
+    {
+      "id": "F01-NT-R021-P",
+      "status": "READY",
+      "claim": "These participants enjoy making mugs when they use a handle extruder.",
+      "source_position": "F01-Q03/3",
+      "source_ref": "turn60view2",
+      "evidence": [
+        {
+          "author": "TheTimDavis",
+          "locator": "L46–52",
+          "excerpt": "Now I love making mugs."
+        },
+        {
+          "author": "hahakafka",
+          "locator": "L85–92",
+          "excerpt": "I love making mugs but I wouldn't do it without an extruder."
+        }
+      ],
+      "independence": "Two distinct displayed authors; one thread/discussion context; no population prevalence inference."
+    },
+    {
+      "id": "F01-NT-R021-A",
+      "status": "READY",
+      "claim": "Making mugs.",
+      "source_position": "F01-Q03/3",
+      "source_ref": "turn60view2",
+      "evidence": [
+        {
+          "author": "TheTimDavis",
+          "locator": "L46–52",
+          "excerpt": "Now I love making mugs."
+        },
+        {
+          "author": "hahakafka",
+          "locator": "L85–92",
+          "excerpt": "I love making mugs but I wouldn't do it without an extruder."
+        }
+      ],
+      "independence": "Same two authors as preference input. Two inputs are not independent source sets. Cross-query evidence allowed; Q04 pages blocked."
+    },
+    {
+      "id": "F01-NT-R027-P",
+      "status": "SINGLE-SOURCE",
+      "claim": "An old-house owner values their neighborhood and local community despite dissatisfaction with the house.",
+      "source_position": "F01-Q05/2",
+      "source_ref": "turn62view1",
+      "locator": "L16–24",
+      "author": "bitsbybones",
+      "excerpt": "The neighborhood is a dream come true",
+      "reason": "First positive valuation in accessible returned order retained. It is not evidence of enjoying house defects, and no second same-claim firsthand corroboration was established in returned text. Later joy-in-old-features observations do not replace the first candidate."
+    },
+    {
+      "id": "F01-NT-R027-A",
+      "status": "SINGLE-SOURCE",
+      "claim": "Fixing one's own hairline cracks.",
+      "source_position": "F01-Q05/2",
+      "source_ref": "turn62view1",
+      "locator": "L30",
+      "author": "bitsbybones",
+      "excerpt": "I fix my own hairline cracks to the best of my ability",
+      "reason": "First concrete recurring self-reported repair action in accessible returned order. General repair accounts or advice to fill a crack are not a second matching firsthand report."
+    }
+  ]
+}
