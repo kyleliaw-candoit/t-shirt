@@ -2,12 +2,30 @@
 title: Found & Forth — adoption review
 owner: Brand Manager
 date: 2026-10-03
-status: Review package complete; adoption held for targeted trademark review
+status: Paid work paused; naming reopened; earlier review archived
 ---
 
 # Found & Forth — adoption review
 
-## Decision in one minute
+## Current decision — October 3, 2026, later Founder discussion
+
+**Paid work on Found & Forth is paused. Naming is reopened with conflict avoidance as an early filter.** This supersedes the earlier recommendation below to obtain a fixed-fee quote. No attorney/search service engagement is authorized. The Founder prefers considering another name rather than paying to resolve this candidate's uncertainty. Found & Forth remains a reference candidate, not the active adoption recommendation; the FOUND record is an unresolved screening concern, not an adjudicated legal blocker.
+
+**Positioning hypothesis — exact approved wording:** Found & Forth makes apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Working customer-facing line — approved for preservation and further development:** For people who find things. And reasons to keep them.
+
+The positioning and working line survive the name change. The Founder confirmed that the name felt right in all three visual contexts and strongly preferred this line over “For people who take ‘just looking’ seriously.” The original visual study below is retained as historical evidence and still displays the superseded line. The updated [R012 brand brief](R012-Antiques-Treasure-Hunters-Brand-Hypothesis-Brief.md) governs future creative development; [the shortlist](R012-Brand-Renaming-Shortlist.md) governs the reopened naming process.
+
+No purchase, filing, account change, or public rename was performed. Worth the Detour remains the working MVV brand. Attorney involvement was a recommendation for this specific risk question, not a requirement to run a public-source search.
+
+---
+
+## Archived review — before the later Founder decision
+
+All recommendations and “review now” instructions below describe the earlier checkpoint and are superseded by the current decision above.
+
+## Decision in one minute (historical)
 
 **Found & Forth is the Founder-approved lead candidate for the next checkpoint. It is not an adopted or cleared brand.**
 
