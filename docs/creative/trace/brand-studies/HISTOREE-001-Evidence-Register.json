@@ -1,0 +1,224 @@
+{
+  "id": "HISTOREE-001",
+  "date": "2026-10-03",
+  "status": "EXPLORATORY BRAND ANALYSIS; ZERO QUALIFIED RECIPES",
+  "scope": "First visible page of 16 standard T-shirts; seven designs closely reviewed. Adaptive selection, not a preregistered TRACE sample or a complete store eligibility scan.",
+  "sourceMethod": "Public web retrieval followed by browser inspection of active native sort and printed art. WebMCP read-only product and native search tools.",
+  "rankEvidence": {
+    "url": "https://historeetees.com/collections/t-shirt",
+    "selectedNativeOption": "Best selling",
+    "liveProductCount": 700,
+    "livePages": 44,
+    "page": 1,
+    "perPage": 16,
+    "cachedWebProductCount": 684,
+    "interpretation": "Single within-collection ordering. Sales window, units, revenue, rank persistence and causal design effect unknown. Count is listings, not deduplicated families."
+  },
+  "merchantCollection": {
+    "url": "https://historeetees.com/collections/recent-best-sellers",
+    "cachedCount": 92,
+    "firstFour": [
+      "Custer Uh-Oh",
+      "Cross A River On Xmas",
+      "USS Johnston In Harm's Way",
+      "Lincoln One Star Review"
+    ],
+    "interpretation": "Merchant-named collection; active native sort unverified. Not substituted for main collection order."
+  },
+  "observations": [
+    {
+      "id": "HT-OBS-001",
+      "rank": 1,
+      "title": "Lincoln One Star Review",
+      "url": "https://historeetees.com/products/lincoln-one-star-review-t-shirt",
+      "disposition": "IP-EXCLUDED",
+      "basis": "Lincoln portrait and named theatre make the historical association material; visually inspected."
+    },
+    {
+      "id": "HT-OBS-002",
+      "rank": 2,
+      "title": "That's Due Tomorrow",
+      "url": "https://historeetees.com/products/thats-due-tomorrow-t-shirt",
+      "disposition": "IP-EXCLUDED",
+      "basis": "Jefferson portrait, name and date make the named historical figure material; visually inspected."
+    },
+    {
+      "id": "HT-OBS-003",
+      "rank": 3,
+      "title": "It's Only Treason If You Lose",
+      "url": "https://historeetees.com/products/treason-if-you-lose-t-shirt",
+      "disposition": "IP-EXCLUDED",
+      "basis": "Recognizable Washington portrait and patriotic treatment make fame materially relevant; visually inspected."
+    },
+    {
+      "id": "HT-OBS-004",
+      "rank": 4,
+      "title": "Cross A River On Xmas",
+      "url": "https://historeetees.com/products/cross-a-river-on-xmas-t-shirt",
+      "disposition": "IP-QUARANTINE",
+      "basis": "Distinctive wording/punchline recurs at Liberty Maniacs; origin unresolved. Historical reference alone is not the exclusion basis."
+    },
+    {
+      "id": "HT-OBS-005",
+      "rank": 5,
+      "title": "Mediocrates",
+      "url": "https://historeetees.com/products/mediocrates-meh-t-shirt",
+      "disposition": "IP-QUARANTINE",
+      "basis": "Same invented name and phrase with philosopher subject at Threadless; artwork differs, expression origin unresolved."
+    },
+    {
+      "id": "HT-OBS-006",
+      "rank": 6,
+      "title": "Custer Uh-Oh",
+      "url": "https://historeetees.com/products/custer-uh-oh-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-007",
+      "rank": 7,
+      "title": "Study History",
+      "url": "https://historeetees.com/products/study-history-white-t-shirt",
+      "disposition": "IP-QUARANTINE",
+      "basis": "Same history/human-stupidity statement at HistoHead; artwork differs, expression origin unresolved."
+    },
+    {
+      "id": "HT-OBS-008",
+      "rank": 8,
+      "title": "Martin Luther Nailed It",
+      "url": "https://historeetees.com/products/martin-luther-nailed-it-t-shirt-1",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-009",
+      "rank": 9,
+      "title": "Titanic Swim Team",
+      "url": "https://historeetees.com/products/titanic-swim-team-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-010",
+      "rank": 10,
+      "title": "Don't Make Me Repeat Myself",
+      "url": "https://historeetees.com/products/dont-make-me-repeat-myself-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-011",
+      "rank": 11,
+      "title": "Happy Treason Day",
+      "url": "https://historeetees.com/products/happy-treason-day-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-012",
+      "rank": 12,
+      "title": "Teddy Riding Moose",
+      "url": "https://historeetees.com/products/tr-moose-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-013",
+      "rank": 13,
+      "title": "Pickett Do What Now",
+      "url": "https://historeetees.com/products/george-pickett-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-014",
+      "rank": 14,
+      "title": "Titanic What The Hell Was That",
+      "url": "https://historeetees.com/products/titanic-what-the-hell-was-that-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    },
+    {
+      "id": "HT-OBS-015",
+      "rank": 15,
+      "title": "Roman Walks Into a Bar",
+      "url": "https://historeetees.com/products/roman-walks-into-a-bar-white-t-shirt",
+      "disposition": "IP-QUARANTINE",
+      "basis": "Exact joke documented outside apparel in historical joke compilation; origin unresolved."
+    },
+    {
+      "id": "HT-OBS-016",
+      "rank": 16,
+      "title": "SPQR",
+      "url": "https://historeetees.com/products/spqr-t-shirt",
+      "disposition": "NOT-FULLY-SCREENED",
+      "basis": "Captured title only; no eligibility or recipe credit."
+    }
+  ],
+  "reviewEvidence": [
+    {
+      "product": "Study History",
+      "author": "Jenalee M.",
+      "date": "2026-09-29",
+      "sellerVerified": true,
+      "page": "https://historeetees.com/products/roman-walks-into-a-bar-white-t-shirt",
+      "retrievedLines": "381-385",
+      "finding": "Positive comfort and arrival review linked to Study History; nonzero review-linked demand signal only."
+    },
+    {
+      "product": "Roman Walks Into a Bar",
+      "author": "Jane J.",
+      "date": "2026-09-28",
+      "sellerVerified": true,
+      "page": "https://historeetees.com/products/roman-walks-into-a-bar-white-t-shirt",
+      "retrievedLines": "409-413",
+      "finding": "Gift for high-school-teacher son; history/humor fit. One purchaser report, no prevalence estimate."
+    }
+  ],
+  "nativeSearches": [
+    {
+      "at": "2026-10-03T22:01:08.832Z",
+      "query": "\"Meh, good enough\" Mediocrates",
+      "results": 0
+    },
+    {
+      "at": "2026-10-03T22:01:12.835Z",
+      "query": "\"Study history\" \"thousands of years\"",
+      "results": 0
+    },
+    {
+      "at": "2026-10-03T22:01:16.408Z",
+      "query": "\"A Roman walks into a bar\"",
+      "results": 6,
+      "interpretation": "Standard, premium, hoodie, back-print, crewneck, tank: format variants of the same expression, not independent corroboration."
+    }
+  ],
+  "webQueries": [
+    "\"Meh good enough\" \"Mediocrates\" origin",
+    "\"Study history\" \"people have been this stupid\"",
+    "\"A Roman walks into a bar\" \"five beers\"",
+    "\"Americans\" \"frozen river\" \"Christmas\" shirt"
+  ],
+  "searchLimitations": "Adaptive exploratory origin checks, not all three mandatory query classes with ten positions each. Concrete recurrence can justify quarantine, but incomplete checks cannot establish eligibility. Native zero results do not establish originality.",
+  "sources": {
+    "collection": "https://historeetees.com/collections/t-shirt",
+    "merchantCollection": "https://historeetees.com/collections/recent-best-sellers",
+    "about": "https://historeetees.com/pages/about-us",
+    "mediocratesRecurrence": "https://www.threadless.com/shop/@thewestwood/design/mediocrates",
+    "studyRecurrence": "https://histohead.com/products/study-history-spooky-funny-t-shirt?variant=53446170804570",
+    "riverRecurrence": "https://libertymaniacs.com/products/americans-t-shirt-1",
+    "romanRecurrence": "https://barrypopik.com/blog/a_roman_walks_into_a_bar_holds_up_two_fingers_bar_joke"
+  },
+  "rightsInterpretation": "Research eligibility controls only. No infringement finding, ownership finding, copy direction or legal clearance claimed. Modern art remains distinct from its historical subject.",
+  "totals": {
+    "inventory": 16,
+    "closelyReviewed": 7,
+    "ipExcluded": 3,
+    "ipQuarantine": 4,
+    "notFullyScreened": 9,
+    "eligible": 0,
+    "sourceDecodeCards": 0,
+    "recipes": 0
+  },
+  "separation": "No P002/F01 source replacement, ingredient change, maturity credit or transfer validation."
+}
