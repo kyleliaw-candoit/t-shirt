@@ -1,9 +1,9 @@
 ---
 title: R012 Antiques Treasure Hunters — Brand Hypothesis Brief
 owner: Brand Manager
-status: Founder Approved — Ready for Creative Director
+status: Positioning and working customer-facing line approved; replacement naming reopened
 methodology: Brand Manager Methodology v0.1
-last_updated: 2026-08-12
+last_updated: 2026-10-03
 opportunity: R012 — Antiques Treasure Hunters
 ---
 
@@ -11,14 +11,36 @@ opportunity: R012 — Antiques Treasure Hunters
 
 ## Brand Hypothesis Brief
 
+## Current decision — October 3, 2026
+
+**Founder-approved positioning hypothesis (exact wording):**
+
+> Found & Forth makes apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Approved working customer-facing line:**
+
+> For people who find things. And reasons to keep them.
+
+The Founder approved the meaning and three name-in-context studies, then chose to pause paid work on Found & Forth and reopen naming with conflict avoidance as an early filter. The name is not adopted. Preserve the positioning independently of the name: **The brand makes apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.**
+
+The new line adds dry, affectionate humor through the double meaning of “reasons”: an object's character/history and the finder's justification for keeping it. It supports humorous and sincere designs. It supersedes “For people who see what others miss” for the replacement-brand development brief; the hunter's-eye idea remains a core recognition mechanism. “For people who take ‘just looking’ seriously” is retained only as an alternative, not the selected working line.
+
+**Implementation boundary:** Worth the Detour remains the working MVV brand. This documentation update does not authorize changing the live storefront, existing ads, accounts, or historical assets. The Found & Forth visual study is historical and contains the earlier line.
+
+**Naming process approved:** preserve positioning and line; develop a small distinctive candidate set; screen exact/near names, relevant apparel/retail records and commercial use before visuals; drop substantial apparent conflicts early, then check domains and handles for survivors. No paid legal/search engagement, purchase, filing or public rename is authorized. Preliminary screening is not legal clearance.
+
+See the [renaming shortlist](R012-Brand-Renaming-Shortlist.md) for current screening and the [Found & Forth review](Found-and-Forth-Adoption-Review.md) for the paused candidate's evidence.
+
 ## 1. Executive Recommendation
 
 Build the first R012 brand around **the hunter's eye**: the identity of people who repeatedly search, notice, evaluate, rescue, and find value, character, history, or possibility that other people overlook.
 
-The approved customer-facing brand expression is:
+The replacement-brand development expression is:
 
-> **Worth the Detour**  
-> *For people who see what others miss.*
+> **Brand name under review**  
+> *For people who find things. And reasons to keep them.*
+
+Worth the Detour remains the existing MVV name pending an approved migration.
 
 The name provides imaginative openness and long-term room for a broader discovery-oriented brand world. The one-line positioning anchors that openness back to the specific R012 entry wedge and the customer's core competence: noticing what others overlook.
 
@@ -32,7 +54,7 @@ It should recognize:
 
 This is stronger than generic antiquing / thrifting merchandise because it recognizes the customer's behavior, discernment, and identity rather than merely naming the activity.
 
-### Naming decision
+### Original naming rationale — August 12, 2026 (historical)
 
 **Approved brand name: Worth the Detour**
 
@@ -55,7 +77,7 @@ Why the pairing works:
 - **Hollis & Vale** — brandable heritage-style name but risks shifting toward curated taste / design-house codes rather than discovery.
 - **One More Booth** — excellent insider recognition for the entry wedge, but too narrow for the intended long-term brand architecture.
 
-No additional naming cycles are recommended before creative development unless a legal, trademark, cultural, or comprehension issue emerges.
+The later trademark concerns triggered the October 3 naming reopening documented above.
 
 ---
 
@@ -165,9 +187,11 @@ The brand should celebrate the hunt without becoming elitist about expertise.
 
 ## 7. Positioning Hypothesis
 
-### Recommended position — The Hunter's Eye
+### Approved positioning — overlooked character and carrying the story forward
 
-> **Worth the Detour is for people who see what others miss — people who live for the hunt and trust themselves to spot character, history, value, or possibility where other people see old stuff.**
+> **The brand makes apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.**
+
+The exact Founder-approved wording using Found & Forth is preserved in the current decision above. The hunter's eye remains the organizing identity mechanism.
 
 The brand celebrates the person's eye, not the object's pedigree.
 
@@ -361,7 +385,7 @@ Strongest among activities that plausibly occur in the same person's weekend / t
 
 ### Customer-legible brand adjacency
 
-Worth the Detour has unusually good permission to expand because the name does not hard-code “antiques.” However, the one-liner — **For people who see what others miss** — should remain the boundary-setting worldview.
+The replacement name should leave room beyond antiques. The approved positioning supplies the boundary: overlooked character and carrying the story forward. The working customer-facing line is **For people who find things. And reasons to keep them.**
 
 An adjacent activity belongs only when customers can plausibly understand why the same brand serves it without being taught the Strategy framework.
 
@@ -389,8 +413,9 @@ Weak sales from one or two designs would not by themselves invalidate R012. A cr
 
 Creative Director should preserve:
 
-- **brand name:** Worth the Detour,
-- **one-line positioning:** For people who see what others miss,
+- **brand name:** replacement under review; Worth the Detour remains the existing MVV name,
+- **positioning hypothesis:** apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters,
+- **working customer-facing line:** For people who find things. And reasons to keep them.,
 - **target identity:** repeated discovery-seeking treasure hunters,
 - **scope:** loose antiques / vintage / collectible / salvage territory rather than a rigid age definition,
 - **core truth:** the customer gets identity value from seeing worth others miss,
@@ -414,7 +439,9 @@ The name's open-endedness is an asset, but the initial creative work should stil
 
 ---
 
-## 19. Founder Decision Record
+## 19. Founder Decision Record — original August approval
+
+The October 3 current decision at the top supersedes naming/messaging instructions in this historical record for future replacement-brand work.
 
 Founder approved on 2026-08-12:
 
