@@ -62,3 +62,4 @@ The six-slot evidence denominator always remains six; concept-test counts depend
 - After transfer, HOLD if three qualifying instantiations remain undemonstrated. Even a successful follow-up is exposed, exploratory evidence, not independent confirmation.
 
 No frozen TRACE rules or prior records are changed. Any proposed recipe v0.2 or larger evidence study belongs in a future separately declared work item. This assignment creates research and noncommercial diagnostics only, with no artwork generation, spending, product listing or brand advancement.
+
