@@ -3,7 +3,7 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Second screening round complete; Still a Find discussion lead; no name adopted
+status: Second bounded screen recorded; Founder feedback restores Kept for a Reason to creative shortlist; no name adopted
 last_updated: 2026-10-05
 ---
 
@@ -11,11 +11,27 @@ last_updated: 2026-10-05
 
 ## October 5, 2026 — second bounded naming screen
 
-**PR #119 merged** at `af4530edc8246ad40a44deb61730594fbaf1c0ca`. The approved positioning and working line are now on main. Found & Forth paid work remains paused. This round considers four candidates and advances none to adoption or visual development.
+**PR #119 merged** at `af4530edc8246ad40a44deb61730594fbaf1c0ca`. The approved positioning and working line are now on main. Found & Forth paid work remains paused. This round considers four candidates plus a Founder-requested reassessment of Kept for a Reason, and advances none to adoption or visual development.
 
 **Stable positioning:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
 
 **Working customer-facing line:** For people who find things. And reasons to keep them.
+
+### Founder feedback and Kept for a Reason reassessment — October 5
+
+The Founder prefers **A Little Storied** among the previous three-name batch and also likes **Kept for a Reason**. The Founder correctly challenges treating repetition of “And reasons to keep them” as inherently negative: semantic consistency can reduce explanation and cognitive load. This is a brand hypothesis, not a measured consumer finding.
+
+**Creative judgment revised:** Restore **Kept for a Reason** to the creative shortlist. It offers a sincere reading (history, attachment, preservation) and a comic reading (the collector's rationalization). The name expresses the idea; the approved line identifies the people and adds the joke. Repetition alone is not a rejection criterion. More material creative weaknesses are four-word length, a potentially slogan-like impression, and less emphasis on discovery than on keeping. A Little Storied remains the Founder's creative favorite; new commercial evidence, not a reversal of creative taste, lowers its practical standing.
+
+**Screening judgment: Caution; hold before visual development.** No exact full-name apparel business surfaced in the inspected web results, and the selected exact/near federal query returned no results. However, the commercial field includes [KEPT/KEPTXGOD clothing](https://keptxgod.com/collections/all), [KEPT for GOOD branded merchandise](https://madebykept.com/kept-for-good), and [KEPT LUXE apparel/retail](https://www.keptluxe.com/). KEPT for GOOD is especially worth recording because of the shared “KEPT for…” construction and merchandise context. Shared words alone do not establish conflict; this is a reason not to present the full phrase as an easy low-cost clearance candidate.
+
+Direct [USPTO search](https://tmsearch.uspto.gov/search/search-results), October 5:
+- `CM:("kept for a reason" OR "kept for reason" OR "keep for a reason" OR keptforareason OR "kept four a reason")`: **No results found**, all classes.
+- `CM:(kept OR "for a reason") AND (IC:025 OR IC:035)`: **143 results; first 50 cards inspected only**. Examples: KEPT 88392247 live registered (expanded goods inspected: class 025 **aprons**, also tote bags and household goods; do not describe as a T-shirt registration); KEPT LUXE 90200329 live registered for online retail including shirts/sweatshirts; KEPT WOMAN 98589592 live registered for T-shirts; ENORMOUSLY KEPT 90800648 live registered for apparel. KEPT 97690682, owned by KEPT Clothing Brand LLC, is dead/abandoned; that does not erase independently observed current commerce.
+- Exact/near commercial queries included `"Kept for a Reason"`, `"Kept for a Reason" clothing shop brand trademark`, `"Kept for Reason" OR "Keep for a Reason" apparel brand`, and `"KEPT" clothing brand`. Search also surfaced [Stages of Grace: Kept For A Reason](https://www.amazon.com/Stages-Grace-Betty-J-Christmas/dp/B0CFCK3F8D), an inspirational biography listing; title overlap is not assumed to be apparel-rights conflict.
+- Exact domain/handles **not checked for this candidate** because the commercial caution arises before that stage. No comprehensive clearance, full 143-result review, or prosecution-history analysis is claimed.
+
+**Revised discussion priority:** Kept for a Reason deserves serious creative consideration alongside Still a Find; do not automatically place the new phrase or coinage above the Founder's preferences. Still a Find currently has fewer apparent concerns in the bounded checks, while Kept for a Reason has the stronger direct link to the approved line and needs its commercial caution kept visible. No candidate is adopted.
 
 ### Candidate judgment
 
@@ -26,7 +42,7 @@ last_updated: 2026-10-05
 | **A Little Storied** | Warm, lightly poetic, broad future fit; could sound like a bookshop or home brand. | **Caution — drop from this round.** [Little Storied Homes](https://www.littlestoriedhomes.com/) is an active home-organizing/space-planning business. More materially, direct federal search found STORYD (98612094) registered for apparel, STORIED FOLK AND CO. (97637242) registered for apparel retail, and STORIED SPORTS (99885887) pending for tees/hoodies. [STORIED](https://visitstoried.com/) is also a clothing/swim retail site. Combined crowding makes it unattractive for this low-friction naming round; no legal conclusion about the full phrase. |
 | **Oddmentry** | Coined from oddments; quirky collections and overlooked objects. Intended ODD-men-tree. Spelling/explanation cost and a near-sounding Oddmentary content account are weaknesses. | **Potential blocker — drop from this round.** [Oddment Apparel](https://oddmentapparel.com/) is an existing U.S. apparel business emphasizing discarded textiles, and [Oddment](https://oddmentshop.com/) sells lifestyle goods. Close root and related goods make this an avoidable screening concern. Exact absence in the federal query does not override observed commerce. |
 
-**Brand Manager recommendation:** Discuss Still a Find first; use Happenkept only as a comparison of a natural phrase against a coinage. Neither has Founder approval. Do not force a selection from the batch if the name does not appeal; availability is not the only criterion. The approved positioning and line remain independent of any candidate.
+**Brand Manager recommendation:** Incorporate the Founder feedback above: compare Kept for a Reason and Still a Find on creative fit, keeping their different screening status explicit. Happenkept remains a lower-priority coined comparison. No new name has adoption approval. Do not force a selection from the batch if the name does not appeal; availability is not the only criterion. The approved positioning and line remain independent of any candidate.
 
 ### Public commercial-use searches — October 5
 
@@ -72,7 +88,7 @@ Public absence is not confirmed handle/shop-name claimability. Prices/availabili
 
 This is a bounded public-source screen before visual development, not comprehensive legal clearance. Direct state-register coverage, exhaustive phonetic/common-law searches, international rights and account-level claimability remain unverified. The [USPTO clearance guidance](https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks) recommends searching similar marks and unregistered uses beyond exact federal matches.
 
-**Review now:** Is **Still a Find** appealing and broad enough as an apparel brand with the approved working line, or does it feel too much like a resale shop? Does **Happenkept** feel pleasantly distinctive or too invented? This is a name-fit discussion, not adoption or spending approval. No visuals were created.
+**Review now:** Does **Kept for a Reason** have the warmth and self-aware humor we want in the enduring brand, with its commercial caution understood? Is **Still a Find** a compelling alternative, or too much like a resale shop? This is a name-fit discussion, not adoption or spending approval. No visuals were created.
 
 ---
 
