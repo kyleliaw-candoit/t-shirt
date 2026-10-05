@@ -3,11 +3,62 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Latest three-name conflict screen complete; Still a Find preferred for next checkpoint; no adoption
+status: Social follow-up found additional close-name businesses; both finalists caution before adoption
 last_updated: 2026-10-05
 ---
 
 # R012 Brand Renaming Shortlist
+
+## October 5, 2026 — signed-in Facebook and cross-platform follow-up (latest)
+
+**Material update:** The Founder signed into Facebook through the secure browser handoff. Signed-in access was verified, and business-page searches were performed. This pass found meaningful close-name businesses missed by indexed web searches. This supersedes the earlier Facebook “login wall” status and qualifies earlier claims about a clean commercial field. No messages, follows, posts, reservations or purchases were made.
+
+### Exact handles: observed versus unknown
+
+| Platform | Still a Find | Found & Forth |
+|---|---|---|
+| Instagram | [stillafind](https://www.instagram.com/stillafind/): “Profile isn't available” | [foundandforth](https://www.instagram.com/foundandforth/): “Profile isn't available” |
+| Facebook, signed in | [stillafind](https://www.facebook.com/stillafind): “This content isn't available right now” | [foundandforth](https://www.facebook.com/foundandforth): same unavailable-content state |
+| YouTube | [stillafind](https://www.youtube.com/@stillafind): 404/page unavailable | [foundandforth](https://www.youtube.com/@foundandforth): 404/page unavailable |
+| Etsy | [StillAFind](https://www.etsy.com/shop/StillAFind): page not found | [FoundAndForth](https://www.etsy.com/shop/FoundAndForth): page not found |
+| TikTok | Direct attempt could not be observed due to browser credential-protection restriction; **unverified this pass** | Same restriction; **unverified this pass** |
+| X | [stillafind](https://x.com/stillafind): user profile not found | Direct attempt blocked by browser credential-protection restriction; **unverified** |
+| Pinterest | Exact path redirected to homepage with show_error=true; **inconclusive** | Direct attempt could not be observed because of browser credential-protection restriction; **unverified** |
+
+Earlier same-day TikTok checks reported missing profiles; they were not freshly confirmed in this pass. Browser observation restrictions are not proof that a platform/account is unavailable and are not classified as bot blocks. No credentials were inspected or recorded. Public absence or unavailable content does not establish handle claimability; Facebook's message can also reflect restricted visibility.
+
+### Close-name findings from signed-in Facebook
+
+1. **Forth and Found Vintiques — significant new commercial overlap for Found & Forth.**
+   - [Facebook](https://www.facebook.com/forthandfoundvintiques): 68 followers at observation; shopping/retail; description identifies curated vintage and antique homewares, online shopping and Bourne Mill Antiques Centre.
+   - [Instagram](https://www.instagram.com/forthandfoundvintiques): profile directly inspected, display name **Forth & Found**, 1,709 followers; bio discusses antiques, vintage finds and their stories. Existing posts/reels shown.
+   - The Facebook/Instagram pages link to forthandfoundvintiques.co.uk; web retrieval of that site failed. A [Shop listing](https://shop.app/m/e59z1x8puf) surfaced with priced vintage products. Direct checkout, U.S. sales and territorial rights not investigated.
+   - This is closer to our intended antique/vintage community than the previously known marketing agency. It is a **material branding/search-confusion caution**, not proof of U.S. infringement.
+2. **Still Fine Designs — additional apparel lead for Still a Find.**
+   - [Facebook](https://www.facebook.com/StillFineDesigns): 167 followers; brand page with posts and a Shop now link to stillfineapparel.com.
+   - Current store operation, product range and territory remain unverified; web retrieval of the shop failed. The page is enough to record an apparel-related lead, not enough to label the business defunct or currently trading.
+3. **Still Fine Company.**
+   - [Facebook](https://www.facebook.com/BeatbyNeik): 40 followers; search categorized it as a women's clothing store, profile inspected. Current trading activity/territory not established. Do not merge it with Still Fine Designs or the earlier French STILL FINE business without evidence.
+4. **Still Good Finds.**
+   - [Facebook](https://www.facebook.com/StillGoodFinds): 300 followers; clothing-store category; description covers preloved books, clothes and home finds; location shown as Mandaluyong, Philippines. Profile includes a relaunch announcement under this name.
+   - Semantically nearby resale business. Foreign location does not establish U.S. rights or a legal blocker.
+5. **Still find.**
+   - [Facebook](https://www.facebook.com/profile.php?id=100070041207107): local-business page, zero followers and no posts available. Existence verified; commercial activity unknown. Do not infer abandonment.
+6. **Other reverse-name results.**
+   - Found & Forth page search also returned Forth & Found marketing agency (4 followers), a Forth & Found discount-store page, and Forth and Found graphic designer in Phoenix. These were search-card observations, not individually investigated businesses.
+   - Still Finds search also surfaced Still Life Finds (thrift/consignment, Shelton CT) and Still Good–Unique Finds (gift shop, Victoria TX); these are search-card leads, not adjudicated conflicts.
+
+### Method and coverage limits
+
+Signed-in Facebook searches: **Still a Find**, **Found & Forth**, **Still Fine**, **Still Finds**, followed by Pages filtering and selected relevant profiles. The Found & Forth search returned reversed and “and” wording without requiring an exact reverse-name handle. No exact full-name business page appeared in the displayed results; this is not an exhaustive Facebook inventory.
+
+Indexed searches were attempted for both exact phrases/unspaced handles and selected variants (**Still Finds**, **Still Fine**, **Forth and Found/Forth & Found**, **Found Forth**) across Instagram, TikTok, Facebook, YouTube, X, Pinterest and Etsy. Domain-filtered follow-ups returned empty or weak/unrelated results; TikTok web retrieval reported robots exclusion. **Indexed absence is weak negative evidence**, especially because Facebook revealed businesses those searches missed. This was not an authenticated in-app variant search on every platform; only Facebook had authenticated search access. Instagram variant inspection followed the vintage retailer's observed profile link.
+
+The pass provides a consistent attempted scope, but **unequal completed coverage** due to access limitations. TikTok, Found & Forth on X, Pinterest and exhaustive in-app variant searches remain unresolved. Exact-handle findings must not be described as fully available.
+
+**Revised Brand Manager judgment:** Found & Forth still has more apparent concerns, now with a reversed-name business in the exact audience world as well as the prior FOUND apparel issue. Still a Find remains the preferred paid-assessment candidate if it appeals creatively, but now has concrete apparel/resale leads to include. Both warrant **Caution before adoption**. Do not spend on two searches simply to fill a two-name package; Found & Forth is worthwhile only if the Founder still strongly prefers it after seeing the vintage-business overlap. No legal determination or spending authorization is implied.
+
+---
 
 ## October 5, 2026 — requested three-name conflict comparison (latest)
 
