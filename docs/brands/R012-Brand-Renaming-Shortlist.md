@@ -3,11 +3,50 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Second bounded screen recorded; Founder feedback restores Kept for a Reason to creative shortlist; no name adopted
+status: Latest three-name conflict screen complete; Still a Find preferred for next checkpoint; no adoption
 last_updated: 2026-10-05
 ---
 
 # R012 Brand Renaming Shortlist
+
+## October 5, 2026 — requested three-name conflict comparison (latest)
+
+**Scope:** U.S.-focused preliminary knockout screen for new T-shirts and apparel retail: Still a Find, Picked for a Reason, and A Little Storied. This is not a legal availability determination. No paid work, filing, registration, or adoption.
+
+**Latest creative direction:** The Founder clarified that Kept for a Reason emphasizes retaining existing possessions rather than discovering/acquiring treasures. Keep the approved positioning and line, but prioritize discovery and choice in the name. The Founder likes “for a reason”; Picked for a Reason was proposed as the best shorter expression of the “brought home for a reason” idea. Kept for a Reason is no longer the creative lead. Earlier assessments below are historical.
+
+| Candidate | Preliminary judgment | Next step |
+|---|---|---|
+| Still a Find | **Clear enough to advance to the next research/creative checkpoint**, with unresolved limitations. No obvious U.S. exact/selected-close apparel knockout identified. Older French STILL FINE clothing use is an unresolved similar-sound lead, not silently dismissed. | Preferred of these three for continued consideration; do not interpret as cleared for launch or registration. |
+| Picked for a Reason | **Caution.** Exact wording already appears in commercial copy, including a U.S. footwear email archived by Milled. Related PICKED and FOR A REASON apparel/retail marks exist, though their shared components alone do not prove confusion. | Hold major investment; less attractive than Still a Find under the preference to avoid paying to resolve uncertainty. |
+| A Little Storied | **Potential blocker; drop under the current low-conflict naming brief.** STORYD registration covering T-shirts, related apparel-retail marks, and actual Storyd/STORIED commerce warrant greater concern. | Retain as a creative reference, not the recommended commercial name. This is a business screening decision, not a finding of infringement. |
+
+### Fresh direct USPTO observations
+
+Source: [USPTO Trademark Search](https://tmsearch.uspto.gov/search/search-results), field-tag mode, queries submitted and completed results inspected October 5. No live/dead filter. Record numbers below are **serial numbers**, not registration numbers. URL does not retain queries.
+
+| Query | Result and relevant observations |
+|---|---|
+| `CM:("picked for a reason" OR "pick for a reason" OR "picked for reason" OR pickedforareason OR "picked four a reason" OR "still a find" OR stillafind OR "a little storied" OR "little storied")` | **No results found**, across all classes for these exact/selected variants. |
+| `CM:(picked OR "for a reason") AND (IC:025 OR IC:035)` | **98 results**, two result pages opened; card-level review, not complete file/prosecution review. FRESHLY PICKED 86060590 registered for children's footwear; FRESHLY PICKED 86569688 registered in 018/025/035. “PICKED” FROMDAGARDEN. 99783728 pending for apparel; “PQCKED” FROMDAGARDEN. 88455978 registered for apparel. PLAY FOR A REASON 90084519 and RACE FOR A REASON 77240583 registered with class025 coverage. PICKED 85842088 consignment-retail application dead/abandoned; PICKED 90897280 registered for trading-card-related goods/services, not assumed to cover T-shirts. No exact full-name match identified. |
+| `CM:((still AND find*) OR "steel a find" OR "steal a find" OR "still fine" OR "still a") AND (IC:025 OR IC:035)` | **20 results**, one page. No displayed Still a Find/Still Fine exact mark. Includes STILLA KILLA 99678177 pending for T-shirts, STILL A MAN 98401222 and STILL A HOMO 98921147 pending with class025 among their classes, plus longer phrases. Earlier all-class selected-variant search is retained below. |
+| `CM:(storied OR storyd OR "little story" OR "little stories") AND (IC:025 OR IC:035)` | **36 results**, one page. STORYD 98612094 live registered: clothing including T-shirts, shirts, dresses, blouses, pants. STORIED FOLK AND CO. 97637242 live registered: online retail featuring women's/kids' apparel. STORIED RIVALS 86254732 live registered: apparel including tees/sweatshirts. STORIED SPORTS 99885887 live pending: tees/hoodies/hats. STORIED 88264566 is dead/abandoned, not a live T-shirt registration. |
+
+### Commercial-use evidence
+
+- **Picked for a Reason:** [Milled's archived Double-H email](https://milled.com/double-h/worn-by-chris-higbee-picked-for-a-reason-J4BPGRfvkk3FkQOO), dated February 7, 2026, uses “Worn by Chris Higbee. Picked for a Reason.” while promoting boots and a hat. This is an observed third-party archive of advertising, **not proof of an exact registered mark, continuous trademark use, or enforceable exclusivity**. [Useful Things, New Zealand](https://usefulthings.co.nz/about/) also uses the exact phrase as a heading in retail copy; foreign use is not automatically a U.S. bar. These findings make the commercial field less clean and suggest slogan-like usage.
+- **A Little Storied:** [Storyd](https://storyd.com/) actively offers made-to-order activewear; [STORIED](https://visitstoried.com/) offers swim/resort retail (site says 2026 season ended, returning February2027). [Little Storied Homes](https://www.littlestoriedhomes.com/) operates home/lifestyle consulting, a less directly relevant business than apparel. The concern is the combined apparel field, especially STORYD, not just the unrelated home business.
+- **Still a Find:** No confirmed exact-name apparel business surfaced in inspected results. Earlier exact phrase song-title overlap remains documented below. New similar-sound lead: [Toulouse Magazine's STILL FINE clothing advertorial](https://www.toulousemagazine.com/still-fine/) describes French online men's/women's clothing. Its linked official site could not be retrieved by web search; present operation and U.S. sales/rights remain unverified. Do not describe the whole international field as clear.
+
+Search queries included exact names, unspaced Stillafind, Pick for a Reason, PICKED apparel/trademark, Still Fine clothing, and Little Storied/Storyd apparel. Some search responses ignored quoted wording and returned generic results; negative web evidence is therefore weak. Primary business pages were preferred; the Double-H historical wording is specifically attributed to its archive.
+
+### Interpretation and limits
+
+The [USPTO](https://www.uspto.gov/trademarks/search/likelihood-confusion) assesses similarity in sound, appearance, meaning and commercial impression together with related goods/services. A shared ordinary word or an advertising sentence does not, by itself, establish infringement. A zero-result exact search does not establish registrability or freedom to use. Separate issues include distinctiveness and whether consumers perceive a phrase as a brand rather than ordinary promotional/ornamental wording.
+
+This round did not search all state registers, all unregistered sellers/marketplaces, international registries, or every phonetic variant; no full file-history or priority investigation. Domain/handle checks were not repeated as legal evidence. Earlier same-day Still a Find domain/profile observations remain separately recorded below. No legal clearance claim or mandatory paid-attorney recommendation is made.
+
+---
 
 ## October 5, 2026 — second bounded naming screen
 
