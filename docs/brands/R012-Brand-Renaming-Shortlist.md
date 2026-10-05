@@ -3,11 +3,39 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Social follow-up found additional close-name businesses; both finalists caution before adoption
+status: Still a Find is top candidate; Found & Forth set aside; Serendipity options rejected in preliminary screen
 last_updated: 2026-10-05
 ---
 
 # R012 Brand Renaming Shortlist
+
+## October 5, 2026 — candidate decision and Serendipity screen (latest)
+
+**Founder decision:** Replace Found & Forth with **Still a Find as the top candidate**, given Found & Forth's apparent conflicts. Found & Forth is set aside. This is a shortlist decision, not final adoption or legal clearance. Worth the Detour remains the live brand pending a separate migration decision. Previously identified Still Fine apparel leads remain unresolved.
+
+**Approved positioning, name-independent:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Approved customer-facing line:** “For people who find things. And reasons to keep them.”
+
+### Serendipity Finds / A Serendipity Find
+
+**Brand Manager recommendation: Potential blocker — drop both from the shortlist under our conflict-avoidance process.** The underlying emotion of happy, unexpected discovery is useful for future naming, but these formulations introduce substantial apparent commercial and trademark concerns. This is a business screening recommendation, not a determination of infringement.
+
+- **Serendipity Finds:** The stronger wording of the two. Pleasant, lyrical and readily suggests fortunate discoveries. Six syllables, a relatively long spelling, and a familiar boutique/resale-store construction weaken compactness and distinctiveness. It foregrounds chance more than the customer's discerning eye. It can support our positioning but sounds more like a seller of found objects than apparel celebrating the finder. Humor can come from the working line/designs; the name need not itself be a joke.
+- **A Serendipity Find:** Seven syllables and less idiomatic than “a serendipitous find.” Understandable as branding, but the article is easy to drop and the singular sounds like one item or a caption. It does not create convincing distance from Serendipity Finds or the shared SERENDIPITY root.
+- **Still a Find:** Retains the top position. Shorter, easier to repeat and carries the lasting-value/wearer double meaning. Its quieter, potentially defensive “still” remains a creative weakness; comparative preference does not resolve legal leads.
+
+### Evidence retrieved October 5, 2026
+
+1. [Serendipity Finds — eBay](https://www.ebay.com/str/serendipityfinds): exact full-name store; retrieved page reports approximately 3.4K items sold and shows women's/men's clothing, shoes, shirts and a T-shirt listing. Web retrieval may use cached content; this is existing commercial-use evidence, not a live inventory audit.
+2. [Serendipity Finds — Whatnot](https://www.whatnot.com/user/serendipityfinds): exact display name and handle, approximately 3.5K sold/1.8K followers, vintage goods positioning and upcoming jewelry/accessory shows. Strong audience overlap. Whether these storefronts share an owner was not established; do not count them as proven independent businesses.
+3. [Serendipity Finds Official — eBay](https://www.ebay.com/str/serendipityfindsofficial): approximately 3.2K items sold, vintage/antique jewelry, collectibles and apparel listings. Again, ownership relationships unverified.
+4. **SERENDIPITY — serial 73068298; registration 1051353.** [Official USPTO TTABVUE record](https://ttabvue.uspto.gov/ttabvue/v?pno=91234661&pty=OPP) displays REGISTERED AND RENEWED, with the retrieved page's results timestamp August 8, 2026. [Official 2018 opposition filing, pages 2 and 6](https://ttabvue.uspto.gov/ttabvue/ttabvue-91241501-OPP-1.pdf) identifies the registration's Class 025 goods including T-shirts, sweatshirts and shirts. This is an important apparel conflict lead. The historical filing supports the goods identification; it is not a fresh October 5 TSDR status check.
+5. [Serendipity Consignment Boutique](https://serendipity-consignment.com/): additional clothing/resale use in North Carolina, reinforcing the crowded retail context.
+
+**Scope/limits:** Indexed exact-name, singular and apparel/trademark searches plus relevant primary-source pages. No convincing exact full-name business surfaced for “A Serendipity Find” in the returned results; absence is weak evidence. Direct USPTO search was attempted but browser observation was blocked by its native credential-protection restriction; no fresh comprehensive federal exact/phonetic search was completed. No credentials were inspected and the restriction was not bypassed. State records, ownership/territorial priority and international clearance were not assessed. No domain/handle availability sweep was pursued after the early commercial conflicts. No paid search, filing or registration authorized.
+
+[USPTO likelihood-of-confusion guidance](https://www.uspto.gov/trademarks/search/likelihood-confusion) considers similar commercial impression and related goods, not just exact matches. Adding “A” or changing Find/Finds should not be treated as a clearance solution. The evidence is sufficient to reject these candidates economically without paying to resolve every legal question.
 
 ## October 5, 2026 — signed-in Facebook and cross-platform follow-up (latest)
 
