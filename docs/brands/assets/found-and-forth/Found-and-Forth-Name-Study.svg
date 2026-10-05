@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1100" viewBox="0 0 1440 1100" role="img" aria-labelledby="title desc">
+<title id="title">Found &amp; Forth — name in context</title>
+<desc id="desc">Internal name study showing a mobile storefront, proposed social profile, and garment brand label. Concept only. Trademark review and handle confirmation are pending.</desc>
+<defs><style>
+.sans{font-family:'DejaVu Sans',sans-serif;fill:#253b35}.serif{font-family:'DejaVu Serif',serif;fill:#253b35}.small{font-family:'DejaVu Sans',sans-serif;font-size:16px;fill:#61706a}.caps{font-family:'DejaVu Sans',sans-serif;font-size:13px;letter-spacing:2px;fill:#61706a}.body{font-family:'DejaVu Sans',sans-serif;font-size:19px;fill:#253b35}
+</style></defs>
+<rect width="1440" height="1100" fill="#f4f1e9"/>
+<text x="64" y="56" class="caps">R012 / BRAND MANAGER REVIEW / 03 OCT 2026</text>
+<text x="64" y="121" class="serif" font-size="52">Found &amp; Forth</text>
+<text x="64" y="158" class="body">A name for the eye that finds it — and the story carried forward.</text>
+<rect x="1055" y="48" width="321" height="92" rx="10" fill="#e9dfcb"/>
+<text x="1075" y="77" class="sans" font-size="15" font-weight="bold">INTERNAL NAME STUDY</text>
+<text x="1075" y="103" class="small">Adoption held for trademark review</text>
+<text x="1075" y="126" class="small">Handles shown are proposed</text>
+<line x1="64" y1="191" x2="1376" y2="191" stroke="#c8c9bc"/>
+<text x="64" y="234" class="caps">01 / MOBILE STOREFRONT</text>
+<text x="520" y="234" class="caps">02 / SOCIAL PROFILE</text>
+<text x="992" y="234" class="caps">03 / GARMENT BRAND LABEL</text>
+<!-- Mobile surface, kept close to a plausible 375 px layout -->
+<rect x="64" y="258" width="390" height="617" rx="30" fill="#253b35"/>
+<rect x="75" y="269" width="368" height="595" rx="22" fill="#fffdf7"/>
+<text x="97" y="299" class="sans" font-size="13">9:41</text>
+<rect x="365" y="288" width="35" height="12" rx="3" fill="none" stroke="#253b35"/>
+<rect x="368" y="291" width="26" height="6" fill="#253b35"/>
+<line x1="97" y1="335" x2="113" y2="335" stroke="#253b35" stroke-width="2"/>
+<line x1="97" y1="342" x2="113" y2="342" stroke="#253b35" stroke-width="2"/>
+<text x="129" y="347" class="serif" font-size="25">Found &amp; Forth</text>
+<path d="M397 334h18v17h-18z M401 334v-5h10v5" fill="none" stroke="#253b35" stroke-width="1.5"/>
+<line x1="95" y1="369" x2="423" y2="369" stroke="#d7d8cd"/>
+<text x="97" y="409" class="caps" font-size="12">T-SHIRTS FOR TREASURE HUNTERS</text>
+<text x="97" y="460" class="serif" font-size="34">For people who</text>
+<text x="97" y="504" class="serif" font-size="34">see what</text>
+<text x="97" y="548" class="serif" font-size="34">others miss.</text>
+<text x="97" y="587" class="small">Estate sales. Flea markets.</text>
+<text x="97" y="613" class="small">One more booth.</text>
+<rect x="97" y="644" width="220" height="45" rx="3" fill="#253b35"/>
+<text x="120" y="673" font-family="DejaVu Sans" font-size="16" fill="#fffdf7">Explore the collection</text>
+<rect x="97" y="715" width="147" height="118" rx="4" fill="#e8e3d7"/>
+<rect x="258" y="715" width="163" height="118" rx="4" fill="#e8e3d7"/>
+<path d="M124 748l27-16h14c3 8 11 8 14 0h14l26 16-12 22-14-8v48h-56v-48l-13 8z" fill="#fffdf7" stroke="#d0ccbf"/>
+<path d="M286 748l27-16h14c3 8 11 8 14 0h14l26 16-12 22-14-8v48h-56v-48l-13 8z" fill="#fffdf7" stroke="#d0ccbf"/>
+<text x="64" y="908" class="small">Does the name read naturally at mobile size?</text>
+<text x="64" y="934" class="small">Blank garments are layout placeholders.</text>
+<!-- Social profile concept, no fabricated audience counts -->
+<rect x="520" y="258" width="416" height="432" rx="12" fill="#fffdf7" stroke="#d7d8cd"/>
+<text x="546" y="295" class="sans" font-size="18" font-weight="bold">@foundandforth</text>
+<line x1="546" y1="318" x2="910" y2="318" stroke="#d7d8cd"/>
+<circle cx="590" cy="387" r="44" fill="#253b35"/>
+<text x="590" y="394" text-anchor="middle" font-family="DejaVu Serif" font-size="21" fill="#fffdf7">F&amp;F</text>
+<text x="652" y="380" class="serif" font-size="23">Found &amp; Forth</text>
+<text x="652" y="410" class="small">Clothing brand</text>
+<text x="546" y="463" class="sans" font-size="17">For people who see what others miss.</text>
+<text x="546" y="498" class="small">T-shirts for the treasure-hunting kind.</text>
+<text x="546" y="524" class="small">Estate sales, flea markets &amp; good finds.</text>
+<text x="546" y="564" class="sans" font-size="17" font-weight="bold">foundandforth.com</text>
+<rect x="546" y="597" width="364" height="43" rx="5" fill="#e4e9e1"/>
+<text x="728" y="624" text-anchor="middle" class="sans" font-size="15">Follow</text>
+<text x="520" y="728" class="small">Can the name and bio establish apparel</text>
+<text x="520" y="754" class="small">without making the brand feel like a</text>
+<text x="520" y="780" class="small">vintage-goods shop or marketing agency?</text>
+<text x="520" y="829" class="caps">NO FOLLOWER OR SALES CLAIMS</text>
+<!-- Label construction is a neutral schematic -->
+<rect x="992" y="258" width="384" height="432" rx="12" fill="#e8e3d7"/>
+<path d="M992 338q192 98 384 0" fill="none" stroke="#cec7b8" stroke-width="2"/>
+<path d="M992 350q192 98 384 0" fill="none" stroke="#d5cec0" stroke-width="2"/>
+<rect x="1033" y="397" width="302" height="167" rx="2" fill="#fffdf7" stroke="#c8c1b2"/>
+<rect x="1041" y="405" width="286" height="151" fill="none" stroke="#c4c0b2" stroke-dasharray="3 4"/>
+<text x="1184" y="456" text-anchor="middle" class="serif" font-size="29">FOUND</text>
+<text x="1184" y="498" text-anchor="middle" class="serif" font-size="29">&amp; FORTH</text>
+<line x1="1100" y1="518" x2="1268" y2="518" stroke="#c4c0b2"/>
+<text x="1184" y="541" text-anchor="middle" class="sans" font-size="10" letter-spacing="1">FOR PEOPLE WHO SEE WHAT OTHERS MISS</text>
+<text x="992" y="728" class="small">Does the complete name feel wearable?</text>
+<text x="992" y="754" class="small">Brand label only; enlarged study.</text>
+<text x="992" y="780" class="small">No size, care or origin claims implied.</text>
+<text x="992" y="829" class="caps">FINAL EXECUTION: CREATIVE DIRECTOR</text>
+<line x1="64" y1="974" x2="1376" y2="974" stroke="#c8c9bc"/>
+<text x="64" y="1011" class="sans" font-size="17" font-weight="bold">Review the name, its meaning, and the word order.</text>
+<text x="64" y="1042" class="small">This is a concept preview. Domain, handle and trademark findings are in the adoption review; no public rename is approved.</text>
+<text x="1376" y="1076" text-anchor="end" class="caps">FOUND &amp; FORTH / STUDY 01</text>
+</svg>
