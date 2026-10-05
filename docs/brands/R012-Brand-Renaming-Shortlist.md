@@ -3,11 +3,79 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Naming reopened; paid Found & Forth work paused; preliminary concepts under discussion
-last_updated: 2026-10-03
+status: Second screening round complete; Still a Find discussion lead; no name adopted
+last_updated: 2026-10-05
 ---
 
 # R012 Brand Renaming Shortlist
+
+## October 5, 2026 — second bounded naming screen
+
+**PR #119 merged** at `af4530edc8246ad40a44deb61730594fbaf1c0ca`. The approved positioning and working line are now on main. Found & Forth paid work remains paused. This round considers four candidates and advances none to adoption or visual development.
+
+**Stable positioning:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Working customer-facing line:** For people who find things. And reasons to keep them.
+
+### Candidate judgment
+
+| Candidate | Brand interpretation and practical weakness | Preliminary screening disposition |
+|---|---|---|
+| **Still a Find** | Natural phrase: something retains character and interest through time. Warm, readable, easy to say/spell, with a possible self-aware reading about the wearer. Fits antiques, restoration, records and collecting. Weakness: less distinctive in ordinary search and can suggest a resale store; state explicitly that we sell new T-shirts for treasure hunters. | **Clear enough to explore** in this bounded screen; creative discussion lead. No exact/selected-close apparel brand surfaced. The exact phrase is a song title, and broader STILL A… marks exist (below). Neither is silently treated as irrelevant or as proof of infringement. |
+| **Happenkept** | Coined from happenstance + kept: a chance encounter becomes something worth holding onto. Intended pronunciation HAP-en-kept. More compact/distinctive in spelling than a phrase; meaning and recall are less immediate. | **Caution.** No exact/selected-variant mark or business found, but the intended semantic source HAPPENSTANCE has live apparel registration 88984224. This is a neighboring-name concern, not a conclusion the complete coined name conflicts. Keep as a discussion alternative; do not spend on resolving it under the current no-paid-review preference. |
+| **A Little Storied** | Warm, lightly poetic, broad future fit; could sound like a bookshop or home brand. | **Caution — drop from this round.** [Little Storied Homes](https://www.littlestoriedhomes.com/) is an active home-organizing/space-planning business. More materially, direct federal search found STORYD (98612094) registered for apparel, STORIED FOLK AND CO. (97637242) registered for apparel retail, and STORIED SPORTS (99885887) pending for tees/hoodies. [STORIED](https://visitstoried.com/) is also a clothing/swim retail site. Combined crowding makes it unattractive for this low-friction naming round; no legal conclusion about the full phrase. |
+| **Oddmentry** | Coined from oddments; quirky collections and overlooked objects. Intended ODD-men-tree. Spelling/explanation cost and a near-sounding Oddmentary content account are weaknesses. | **Potential blocker — drop from this round.** [Oddment Apparel](https://oddmentapparel.com/) is an existing U.S. apparel business emphasizing discarded textiles, and [Oddment](https://oddmentshop.com/) sells lifestyle goods. Close root and related goods make this an avoidable screening concern. Exact absence in the federal query does not override observed commerce. |
+
+**Brand Manager recommendation:** Discuss Still a Find first; use Happenkept only as a comparison of a natural phrase against a coinage. Neither has Founder approval. Do not force a selection from the batch if the name does not appeal; availability is not the only criterion. The approved positioning and line remain independent of any candidate.
+
+### Public commercial-use searches — October 5
+
+Both search engines were used. Queries included:
+- `"A Little Storied" OR "Little Storied"`
+- `"Still a Find"`; `"Stillafind" OR "Still a Find" shop clothing trademark`
+- `"Oddmentry" OR "Oddmentary"`; `"Oddment" clothing brand shop`
+- `"Happenkept" OR "Happen Kept"`; `"Happenkept" OR "Happenkeep" OR "Happen Kept"`
+- `"Happen" apparel clothing brand`
+- `"Happenkept" OR "Stillafind" Etsy Instagram TikTok Facebook`
+
+Some responses contained generic/ordinary phrase matches rather than exact businesses; those are weak negative evidence. No confirmed exact apparel business for Still a Find or Happenkept surfaced in inspected results. An exact-title [Still A Find song by Nikki Franklyn](https://open.spotify.com/track/6bY3kJ0bvP5mvHJpt819HF) and ordinary editorial/forum phrase use were found. This is search overlap, not a proven apparel-rights conflict. HAPPEN is also used within existing apparel names such as [Hip + Happen](https://hipandhappen.com/en/); shared components are recorded without treating them as automatic exclusion rules.
+
+### Direct federal evidence
+
+Source: [USPTO Trademark Search](https://tmsearch.uspto.gov/search/search-results). Field-tag mode; each query submitted with Enter and completed results inspected. URLs do not encode queries, so reproduce them below. No live/dead filter applied.
+
+| Query | Observed result |
+|---|---|
+| `CM:("a little storied" OR "little storied" OR "still a find" OR stillafind OR oddmentry OR oddmentary)` | No results found across these combined exact/selected-variant terms, all classes. |
+| `CM:storied AND (IC:025 OR IC:035)` | 34 results. Relevant live records include STORYD 98612094 (registered, apparel); STORIED FOLK AND CO. 97637242 (registered, apparel retail); STORIED SPORTS 99885887 (pending, tees/hoodies). STORIED 88264566 is dead/abandoned, not a live apparel registration. |
+| `CM:(happenkept OR "happen kept" OR happenkeep* OR happnkept OR (still AND find*) OR "steel a find" OR "steal a find")` | 7 results; none of the displayed marks was Happenkept or Still a Find. Included dead STILLFINDER 74466304 (software) and long unrelated phrases containing component words. Only apparel card was a dead GUNPOWDER & LEAD phrase, serial 85751426. This query is not reported as “zero results.” |
+| `CM:(happenke* OR happnke* OR "happen kept" OR "happen keep" OR "happy kept" OR happenstance)` | 34 results, consisting of HAPPENSTANCE-related records. Live registered HAPPENSTANCE 88984224 covers shirts/T-shirts; HAPPENSTANCE 98225012 is live pending for footwear. These prevent presenting the semantic neighborhood as empty. |
+| `CM:("still a" OR "still find" OR "still finds" OR "still fine" OR "steel a find" OR "steal a find") AND (IC:025 OR IC:035)` | 19 results. Examples: STILL A BABE 78502139 and STILL A THING 87212847 dead/abandoned; STILLA KILLA 99678177 live pending for T-shirts; several other STILL A… phrases. No displayed exact Still a Find mark. |
+
+Record-card observations establish the stated status and displayed goods; no prosecution-history, legal similarity or ownership investigation was performed. Selected sound/spelling variants are not an exhaustive phonetic search. Class filters focus attention but cannot rule out related goods in other classes. Absence of exact marks does not establish freedom to use.
+
+### Direct domain and handle checks for the two remaining discussion candidates
+
+Observed October 5, 2026, America/Chicago. No purchase, signup, name reservation or account mutation.
+
+| Check | Still a Find | Happenkept |
+|---|---|---|
+| Exact .com | [stillafind.com](https://www.namecheap.com/domains/registration/results/?domain=stillafind.com): ordinary annual price and Add to cart displayed; offered for standard registration | [happenkept.com](https://www.namecheap.com/domains/registration/results/?domain=happenkept.com): ordinary annual price and Add to cart displayed; offered for standard registration |
+| Instagram | [@stillafind](https://www.instagram.com/stillafind/): Profile isn't available | [@happenkept](https://www.instagram.com/happenkept/): Profile isn't available |
+| TikTok | [@stillafind](https://www.tiktok.com/@stillafind): Couldn't find this account | [@happenkept](https://www.tiktok.com/@happenkept): Couldn't find this account |
+| Facebook | [Observed redirect](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fstillafind): login wall, unverified | [Observed redirect](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fhappenkept): login wall, unverified |
+| Etsy | [StillAFind](https://www.etsy.com/shop/StillAFind): shop page not found | [Happenkept](https://www.etsy.com/shop/Happenkept): shop page not found |
+
+Public absence is not confirmed handle/shop-name claimability. Prices/availability can change; no checkout quote is represented. Optional YouTube/X/Pinterest checks were not performed in this bounded round. Domains/handles for discarded candidates were deliberately not pursued.
+
+### Scope, stop point and concrete Founder review
+
+This is a bounded public-source screen before visual development, not comprehensive legal clearance. Direct state-register coverage, exhaustive phonetic/common-law searches, international rights and account-level claimability remain unverified. The [USPTO clearance guidance](https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks) recommends searching similar marks and unregistered uses beyond exact federal matches.
+
+**Review now:** Is **Still a Find** appealing and broad enough as an apparel brand with the approved working line, or does it feel too much like a resale shop? Does **Happenkept** feel pleasantly distinctive or too invented? This is a name-fit discussion, not adoption or spending approval. No visuals were created.
+
+---
+
 
 ## Current decision — October 3, 2026, later Founder discussion
 
