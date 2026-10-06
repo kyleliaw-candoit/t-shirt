@@ -6,6 +6,14 @@ All cards are CANDIDATE v1.0. Required/adjustable/optional/prohibited assignment
 
 US Shopping results are bounded supplementary evidence. Up to three organic offers were captured per readable query; ads excluded. Titles and Shopping cards do not establish exact art, seller independence, authorship or demand. Direct product observations are distinguished from Shopping-only observations. Empty captures mean unavailable evidence, not zero market presence.
 
+## Shared recipe handoff update — 2026-10-06
+
+The [shared mechanism library](../mechanisms/README.md) now holds the reusable index and the initial improved cards. For creative use of sources 10/53, see [TRM-001](../mechanisms/TRM-001-Delayed-Reinterpretation.md); for the formal-record abstraction illustrated by 27/32, see [TRM-002](../mechanisms/TRM-002-Formal-Record-Informal-Experience.md); for 38, see [TRM-003](../mechanisms/TRM-003-Shape-Correspondence.md). These cards clarify essentials and copying boundaries while the v1 source records below preserve original observations and interpretations.
+
+Known v1 handoff limitations: Required repeats the proposed mechanism, generic optional-styling language is too broad, and copying boundaries need source-specific combinations. Do not use that boilerplate to remove essential recognition cues: color may carry the package in 45, understatement is essential to 52's tone, and 38's taxonomy needs multiple readable correspondences. The source-specific operative cards supersede that boilerplate for covered abstractions; remaining conversions are pending. Neither historical evidence labels nor the structured source ledger are silently rewritten.
+
+A sketch can follow more than one mechanism. Assess the presence of its intended operation, not exclusive category membership.
+
 ## 06 — Cold but brave
 
 **Source:** Etsy listing 4557622114, FinenessClothing; page 1, displayed position 26. Displayed item reviews: **6** (as shown; not unit sales). Bestseller observed on inspected listing.
