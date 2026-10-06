@@ -1,5 +1,5 @@
 {
-  "status": "IN PROGRESS: 45 of 60 new expressions decoded",
+  "status": "60 new expressions decoded; synthesis and seller follow-up in progress",
   "date": "2026-10-06",
   "columns": [
     "source",
@@ -599,6 +599,201 @@
       "Use a promiscuity-associated self-label then restrict it to a spouse, converting provocation into marital devotion.",
       "Loaded self-description; delayed exclusive recipient; contradiction/reframing.",
       "Adult language; explicit T-shirt options verified; optional personalization not core."
+    ],
+    [
+      106,
+      17,
+      54,
+      "4512036342",
+      "AllTeesPopular",
+      "10",
+      "Nothing beats fourth grade",
+      "Rock beats scissors / scissors beats paper / paper beats rock / NOTHING BEATS 4TH GRADE with matching objects.",
+      "Teach a familiar circular contest then break its rules by inserting a beloved group as the unbeatable winner.",
+      "Recognizable rule sequence; repeated beats; unexpected final entrant; superiority claim.",
+      "Grade option cosmetic; optional personalization not core."
+    ],
+    [
+      107,
+      17,
+      55,
+      "4515125470",
+      "VibePrintFun",
+      "6",
+      "Silly goose club",
+      "Silly GOOSE CLUB with several actual geese.",
+      "Literalize an affectionate name for a foolish person as birds and turn the shared trait into club membership.",
+      "Human idiom; actual species; group label.",
+      "Club label secondary; no exclusive membership claim."
+    ],
+    [
+      108,
+      18,
+      7,
+      "4477122772",
+      "MedusApparel",
+      "2",
+      "Wise woman quits",
+      "A WISE WOMAN ONCE SAID / I'm Out / RETIRED 2026.",
+      "Set up a profound attributed quotation then deliver a blunt departure, recasting quitting as wisdom.",
+      "Wisdom quotation frame; anticlimactic colloquial line; retirement context.",
+      "Date customization cosmetic; distinct from dictionary retirement32."
+    ],
+    [
+      109,
+      18,
+      8,
+      "4558273697",
+      "WildSocietyStudio",
+      "4",
+      "Dachshund cattle drive",
+      "Mounted cowboys drive a herd of running dachshunds across desert.",
+      "Replace cattle in a Western herd scene with small pet dogs while preserving cowboy activity and composition.",
+      "Recognizable cattle-drive scene; multiple replacement animals; cowboy context.",
+      "Not merely dog in cowboy hat; specific relational role replacement."
+    ],
+    [
+      110,
+      19,
+      36,
+      "1877462244",
+      "GrapeApparel",
+      "98",
+      "Every day weekend",
+      "Officially Retired / every day is a weekend / I'm off the clock.",
+      "Redefine every calendar day by the leisure status of weekends once employment ends.",
+      "Retirement context; calendar category; universal expansion.",
+      "Secondary retirement slogans not separate expressions."
+    ],
+    [
+      111,
+      19,
+      58,
+      "4524228568",
+      "EverChangingJourney",
+      "16",
+      "Girls will be mantises",
+      "Girls will be girls with a witch-hatted mantis holding a severed mantis head.",
+      "Apply a familiar excuse for misbehavior to an insect's gruesome mating-associated behavior, exaggerating the stakes through a species proxy.",
+      "Excusing phrase; recognizable mantis; severed counterpart head.",
+      "Distinct from witch gathering100 because specific animal behavior is the punchline; stylized insect gore; no general claim all mantises do this."
+    ],
+    [
+      112,
+      20,
+      20,
+      "4466062051",
+      "Hearthlandfashiontee",
+      "39",
+      "Tap shoulder for prayer",
+      "Back print: NEED PRAYER? TAP MY SHOULDER. LET'S TAKE IT TO GOD TOGETHER.",
+      "Turn a garment message into a usable invitation by specifying an action on the wearer at the point where the reader can perform it.",
+      "Back placement; reader need; concrete contact instruction; offered response.",
+      "Mechanism is situated interaction, not joke; no spiritual outcome verified."
+    ],
+    [
+      113,
+      20,
+      55,
+      "4574714546",
+      "SimplyCozyVibes",
+      "1",
+      "Trick or teeth",
+      "Trick or teeth beneath ghosts holding dentures, tooth sign and toothbrush.",
+      "Replace treat with a near-sounding dental object and resolve the altered seasonal phrase with professional props.",
+      "Familiar Halloween phrase; sound substitution; dental cue.",
+      "Distinct expression from speech ghouls94; same seller."
+    ],
+    [
+      114,
+      "B1",
+      11,
+      "4546985290",
+      "TriangleThreadsShop",
+      "3",
+      "Irish goodbye social club",
+      "IRISH GOODBYE SOCIAL CLUB / You will never know I was even here, drinks and crest.",
+      "Create a social organization around leaving social occasions unnoticed; its promise undermines the premise of gathering.",
+      "Club identity; stealth departure trait; self-defeating membership promise.",
+      "Idiom about departure, not claim about Irish people."
+    ],
+    [
+      115,
+      "B1",
+      18,
+      "4566828195",
+      "EveryDayClothingTX",
+      "3",
+      "Creepy people versus monster dogs",
+      "Dogs because people are creepy below dogs dressed as ghost, vampire, pumpkin and skeleton.",
+      "Declare ordinary humans the frightening alternative even while showing beloved pets as actual monsters.",
+      "Preference statement; creepy descriptor; visibly monstrous favored category.",
+      "Halloween dogs generic; no specific character likeness required."
+    ],
+    [
+      116,
+      "B1",
+      21,
+      "1821473571",
+      "CatDistributor",
+      "85",
+      "Alien cat destroys Earth",
+      "Green antennaed cat and nonsense alien sounds; beam strikes exploding Earth.",
+      "Combine a harmless pet's cute appearance with alien world-destroying power and scale.",
+      "Cute recognizable pet; alien attributes; visible disproportionate destructive consequence.",
+      "Meme context may contribute; no franchise-specific title or character identified; original artwork not reusable."
+    ],
+    [
+      117,
+      "B1",
+      32,
+      "4536145316",
+      "TeeShirtApparel",
+      "8",
+      "Almost magical horse",
+      "Horse wears tied traffic cone as horn; ALMOST MAGICAL.",
+      "Use a cheap mundane object with a matching silhouette to approximate a mythical defining body feature; caption admits the gap.",
+      "Horse; horn-shaped substitute; visible makeshift attachment; qualified aspiration.",
+      "Traffic cone/horn correspondence essential, not arbitrary accessory."
+    ],
+    [
+      118,
+      "B1",
+      37,
+      "4448445020",
+      "RewindPremiumTees",
+      "19",
+      "That's coo",
+      "THAT'S COO. beside pigeon.",
+      "Replace a slang approval word with the similar sound made by the pictured species.",
+      "Cool/coo similarity; recognizable bird; ordinary approval syntax.",
+      "Pigeon illustration style optional."
+    ],
+    [
+      119,
+      "B1",
+      40,
+      "4543985193",
+      "NewDestinyCo",
+      "9",
+      "Le boop dragon",
+      "LE BOOP: armored knight touches seated dragon's nose in medieval manuscript frame.",
+      "Replace the expected combat encounter between knight and dragon with a tiny affectionate pet gesture.",
+      "Traditional adversaries; confrontation pose; visible nose touch; tenderness.",
+      "Distinct from ghost BOO-P70: conflict-to-affection reversal, not ghost sound blend."
+    ],
+    [
+      120,
+      "B1",
+      50,
+      "4533017730",
+      "SovelleApparel",
+      "14",
+      "Cat life advice",
+      "Do not ask me for life advice you will end up with a new cat.",
+      "Warn against an apparently serious service because the advisor reduces every problem to a single personal enthusiasm.",
+      "Broad advice premise; warning frame; narrow unrelated predictable outcome.",
+      "No claim a pet solves all problems; text mechanism."
     ]
   ],
   "checkpoint": {
@@ -1022,11 +1217,66 @@
       47,
       "repeat15",
       "HappyBdayBoutique eight reviews; spouse praise ends yes she bought this shirt"
+    ],
+    [
+      17,
+      10,
+      "tentative",
+      "Teach love grow with pumpkins: growth metaphor possible but seasonal decor may suffice"
+    ],
+    [
+      17,
+      12,
+      "tentative",
+      "Robe-wearing figure/skulls: species/reference unclear"
+    ],
+    [
+      17,
+      40,
+      "repeat85-same-seller",
+      "Uranusevn crop garment relisting; no additional seller score"
+    ],
+    [
+      18,
+      41,
+      "tentative",
+      "Goose wedding party: ordinary mascot role and matching group coordination, no extra specific operation"
+    ],
+    [
+      19,
+      35,
+      "graphic-led",
+      "Conventional alien/UFO montage"
+    ],
+    [
+      20,
+      6,
+      "repeat64-franchise",
+      "RoyaltyTeesTreasures34 reviews, flock calling teacher; seagulls resemble specific animated film so exclude seller score"
+    ],
+    [
+      "B1",
+      20,
+      "tentative-franchise",
+      "Dragon appearance resembles familiar animated character; not admitted"
+    ],
+    [
+      "B1",
+      42,
+      "repeat119",
+      "CloudCottoNShirt16reviews; same knight nose-touch scene"
+    ],
+    [
+      "B1",
+      49,
+      "tentative",
+      "Goose therapy montage; occupational mascot rather than a necessary specific trait relationship"
     ]
   ],
   "resume": {
-    "page": 17,
-    "next_position": 1
+    "page": "B1",
+    "next_position": 51,
+    "quota_reached": true
   },
   "evidence_note": "Actual listing images and Bestseller badge visually inspected on 2026-10-06. URL/listing identities retained; no screenshot archive. Browser runtime restart discarded early raw snapshots, but decisions and decoded observations are preserved.",
   "held_observations": [
@@ -1043,5 +1293,22 @@
       "Familiar small creature; enormous destructive capacity; specific unexpected target.",
       "Interpretive anti-data-center satire; no endorsement or real-world instruction; source-specific kaiju composition must not be copied."
     ]
+  ],
+  "search_segments": [
+    {
+      "id": "A",
+      "query": "t-shirts",
+      "start": "page7 position52",
+      "end": "page20 position60; Next disabled",
+      "admitted": 53
+    },
+    {
+      "id": "B",
+      "query": "graphic t-shirts",
+      "start": "page1 position1",
+      "end": "page1 position50",
+      "admitted": 7,
+      "reason": "Original ordered search exhausted at20; same filters/context preserved."
+    }
   ]
 }
