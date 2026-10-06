@@ -81,6 +81,8 @@ Additional recurrence was visible across search pages and stores. The delight ra
 
 ## Comparison of all 60
 
+**Current shared home:** [TRACE mechanism library](../mechanisms/README.md). It contains the platform-independent family index, links to every source decode, and the first three improved recipe cards. The table below preserves this run's original grouping. Mechanisms may overlap; primary placement is navigation, not an exclusivity requirement.
+
 These **11 provisional navigation families** were proposed after individual decoding. Each source appears once in this primary index; cross-cutting relationships remain possible. A family is not one interchangeable recipe, an independent-corroboration award, or a market-prevalence estimate. Counts reflect this selected sample and analyst granularity.
 
 | Family | Source numbers | Count | Shared operation / limits |
