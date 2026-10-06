@@ -1,0 +1,97 @@
+{
+  "status": "IN PROGRESS: 5 of 60 additional clear expressions decoded; not a completed120-source run",
+  "date": "2026-10-06",
+  "columns": [
+    "source",
+    "page",
+    "position",
+    "listing_id",
+    "seller",
+    "displayed_item_reviews",
+    "label",
+    "observed_artwork",
+    "mechanism",
+    "essential_conditions",
+    "limits"
+  ],
+  "records": [
+    [
+      61,
+      7,
+      57,
+      "4390086372",
+      "ColorfulComfortTees",
+      "4",
+      "All about fall (prevention)",
+      "Autumn pumpkins and leaf use walker, gait belt and wheelchair. Caption All about Fall (Prevention).",
+      "Pivot from autumn enthusiasm to professional fall prevention using the shared word and a late qualifier.",
+      "Two natural readings; autumn cue; mobility-safety cue; late occupational qualifier.",
+      "Occupational identity may drive appeal; no clinical effectiveness claim."
+    ],
+    [
+      62,
+      8,
+      7,
+      "4554593970",
+      "CloudCottoNShirt",
+      "2",
+      "Be kind to all kinds",
+      "Kindness slogan surrounded by diverse insects.",
+      "Extend an interpersonal inclusion instruction to the literal diversity of nonhuman kinds.",
+      "Recognizable social norm; unexpected beneficiary; varied insects resolving kinds.",
+      "Nature affection may dominate; distinct from respect-the-locals expression."
+    ],
+    [
+      63,
+      8,
+      8,
+      "4536744959",
+      "ComfyDesignShop",
+      "4",
+      "Book worm",
+      "Book WORM above a bespectacled worm reading a book.",
+      "Turn the figurative name for a reader into a literal creature doing the defining activity.",
+      "Familiar reader label; literal worm; reading action.",
+      "Ordinary idiom literalization; palette and glasses optional."
+    ],
+    [
+      64,
+      8,
+      11,
+      "4516143245",
+      "GilRootsllc",
+      "12",
+      "Teacher geese calling name",
+      "A classroom flock of geese repeatedly calls MISS TAYLOR, ending MISS TAYLORRRR.",
+      "Use honking flock behavior as a proxy for simultaneous pupils clamoring for one teacher.",
+      "Many noisy proxies; repeated address; escalating call; classroom props.",
+      "Optional name personalizes recipient but does not create prewritten noisy-classroom scenario."
+    ],
+    [
+      65,
+      8,
+      20,
+      "4546716416",
+      "TeacherLandDesign",
+      "2",
+      "Subtraction makes a difference",
+      "Be like SUBTRACTION and make a DIFFERENCE with animated minus and equals signs holding hands.",
+      "Give a motivational instruction a second mathematical reading through the operation producing a difference.",
+      "Shared everyday/technical term; named operation; positive imperative; math cue.",
+      "Teacher identity may dominate; effect on buyers untested."
+    ]
+  ],
+  "checkpoint": {
+    "date": "2026-10-06",
+    "reviewer": "Codex operator review; not independent Creative Director",
+    "sources": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "outcome": "Pass for candidate decoding: badge and actual artwork observed, short-sleeve T-shirts, novel expressions against legacy60, explicit visible relationships and alternatives. Optional teacher name is not buyer-created core expression. No causal sales claim; mechanisms may overlap. Completed before admitting remainder.",
+    "limits": "Supplementary seller follow-up pending; interpretation of courtesy extension62 is narrower than a general kindness statement because taxonomic kinds supplies the second referent."
+  }
+}
