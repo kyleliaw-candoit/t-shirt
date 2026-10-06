@@ -1,5 +1,7 @@
 # TRACE — approved applicability update, October 6, 2026
 
+> Superseded for prospective work by [TRACE v0.4](../../../company/TRACE-Bestseller-Creative-Intelligence-Methodology.md), approved later in the October 6 discussion. The current standard removes target-community applicability and unknown origin as TRACE analysis/acceptance filters. This note is retained as the earlier decision record; its origin checks and supported-target-input requirements are not current TRACE gates.
+
 Status: founder-approved direction recorded during the October 6 discussion. Prospective addendum; not a rerun, retrospective validation, or rewrite of frozen TRACE v0.3.
 
 ## Decision
