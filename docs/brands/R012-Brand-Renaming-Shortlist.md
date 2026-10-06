@@ -3,11 +3,213 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Naming reopened; paid Found & Forth work paused; preliminary concepts under discussion
-last_updated: 2026-10-03
+status: Still a Find is top candidate; Found & Forth set aside; Serendipity options rejected in preliminary screen
+last_updated: 2026-10-05
 ---
 
 # R012 Brand Renaming Shortlist
+
+## October 5, 2026 — candidate decision and Serendipity screen (latest)
+
+**Founder decision:** Replace Found & Forth with **Still a Find as the top candidate**, given Found & Forth's apparent conflicts. Found & Forth is set aside. This is a shortlist decision, not final adoption or legal clearance. Worth the Detour remains the live brand pending a separate migration decision. Previously identified Still Fine apparel leads remain unresolved.
+
+**Approved positioning, name-independent:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Approved customer-facing line:** “For people who find things. And reasons to keep them.”
+
+### Serendipity Finds / A Serendipity Find
+
+**Brand Manager recommendation: Potential blocker — drop both from the shortlist under our conflict-avoidance process.** The underlying emotion of happy, unexpected discovery is useful for future naming, but these formulations introduce substantial apparent commercial and trademark concerns. This is a business screening recommendation, not a determination of infringement.
+
+- **Serendipity Finds:** The stronger wording of the two. Pleasant, lyrical and readily suggests fortunate discoveries. Six syllables, a relatively long spelling, and a familiar boutique/resale-store construction weaken compactness and distinctiveness. It foregrounds chance more than the customer's discerning eye. It can support our positioning but sounds more like a seller of found objects than apparel celebrating the finder. Humor can come from the working line/designs; the name need not itself be a joke.
+- **A Serendipity Find:** Seven syllables and less idiomatic than “a serendipitous find.” Understandable as branding, but the article is easy to drop and the singular sounds like one item or a caption. It does not create convincing distance from Serendipity Finds or the shared SERENDIPITY root.
+- **Still a Find:** Retains the top position. Shorter, easier to repeat and carries the lasting-value/wearer double meaning. Its quieter, potentially defensive “still” remains a creative weakness; comparative preference does not resolve legal leads.
+
+### Evidence retrieved October 5, 2026
+
+1. [Serendipity Finds — eBay](https://www.ebay.com/str/serendipityfinds): exact full-name store; retrieved page reports approximately 3.4K items sold and shows women's/men's clothing, shoes, shirts and a T-shirt listing. Web retrieval may use cached content; this is existing commercial-use evidence, not a live inventory audit.
+2. [Serendipity Finds — Whatnot](https://www.whatnot.com/user/serendipityfinds): exact display name and handle, approximately 3.5K sold/1.8K followers, vintage goods positioning and upcoming jewelry/accessory shows. Strong audience overlap. Whether these storefronts share an owner was not established; do not count them as proven independent businesses.
+3. [Serendipity Finds Official — eBay](https://www.ebay.com/str/serendipityfindsofficial): approximately 3.2K items sold, vintage/antique jewelry, collectibles and apparel listings. Again, ownership relationships unverified.
+4. **SERENDIPITY — serial 73068298; registration 1051353.** [Official USPTO TTABVUE record](https://ttabvue.uspto.gov/ttabvue/v?pno=91234661&pty=OPP) displays REGISTERED AND RENEWED, with the retrieved page's results timestamp August 8, 2026. [Official 2018 opposition filing, pages 2 and 6](https://ttabvue.uspto.gov/ttabvue/ttabvue-91241501-OPP-1.pdf) identifies the registration's Class 025 goods including T-shirts, sweatshirts and shirts. This is an important apparel conflict lead. The historical filing supports the goods identification; it is not a fresh October 5 TSDR status check.
+5. [Serendipity Consignment Boutique](https://serendipity-consignment.com/): additional clothing/resale use in North Carolina, reinforcing the crowded retail context.
+
+**Scope/limits:** Indexed exact-name, singular and apparel/trademark searches plus relevant primary-source pages. No convincing exact full-name business surfaced for “A Serendipity Find” in the returned results; absence is weak evidence. Direct USPTO search was attempted but browser observation was blocked by its native credential-protection restriction; no fresh comprehensive federal exact/phonetic search was completed. No credentials were inspected and the restriction was not bypassed. State records, ownership/territorial priority and international clearance were not assessed. No domain/handle availability sweep was pursued after the early commercial conflicts. No paid search, filing or registration authorized.
+
+[USPTO likelihood-of-confusion guidance](https://www.uspto.gov/trademarks/search/likelihood-confusion) considers similar commercial impression and related goods, not just exact matches. Adding “A” or changing Find/Finds should not be treated as a clearance solution. The evidence is sufficient to reject these candidates economically without paying to resolve every legal question.
+
+## October 5, 2026 — signed-in Facebook and cross-platform follow-up (latest)
+
+**Material update:** The Founder signed into Facebook through the secure browser handoff. Signed-in access was verified, and business-page searches were performed. This pass found meaningful close-name businesses missed by indexed web searches. This supersedes the earlier Facebook “login wall” status and qualifies earlier claims about a clean commercial field. No messages, follows, posts, reservations or purchases were made.
+
+### Exact handles: observed versus unknown
+
+| Platform | Still a Find | Found & Forth |
+|---|---|---|
+| Instagram | [stillafind](https://www.instagram.com/stillafind/): “Profile isn't available” | [foundandforth](https://www.instagram.com/foundandforth/): “Profile isn't available” |
+| Facebook, signed in | [stillafind](https://www.facebook.com/stillafind): “This content isn't available right now” | [foundandforth](https://www.facebook.com/foundandforth): same unavailable-content state |
+| YouTube | [stillafind](https://www.youtube.com/@stillafind): 404/page unavailable | [foundandforth](https://www.youtube.com/@foundandforth): 404/page unavailable |
+| Etsy | [StillAFind](https://www.etsy.com/shop/StillAFind): page not found | [FoundAndForth](https://www.etsy.com/shop/FoundAndForth): page not found |
+| TikTok | Direct attempt could not be observed due to browser credential-protection restriction; **unverified this pass** | Same restriction; **unverified this pass** |
+| X | [stillafind](https://x.com/stillafind): user profile not found | Direct attempt blocked by browser credential-protection restriction; **unverified** |
+| Pinterest | Exact path redirected to homepage with show_error=true; **inconclusive** | Direct attempt could not be observed because of browser credential-protection restriction; **unverified** |
+
+Earlier same-day TikTok checks reported missing profiles; they were not freshly confirmed in this pass. Browser observation restrictions are not proof that a platform/account is unavailable and are not classified as bot blocks. No credentials were inspected or recorded. Public absence or unavailable content does not establish handle claimability; Facebook's message can also reflect restricted visibility.
+
+### Close-name findings from signed-in Facebook
+
+1. **Forth and Found Vintiques — significant new commercial overlap for Found & Forth.**
+   - [Facebook](https://www.facebook.com/forthandfoundvintiques): 68 followers at observation; shopping/retail; description identifies curated vintage and antique homewares, online shopping and Bourne Mill Antiques Centre.
+   - [Instagram](https://www.instagram.com/forthandfoundvintiques): profile directly inspected, display name **Forth & Found**, 1,709 followers; bio discusses antiques, vintage finds and their stories. Existing posts/reels shown.
+   - The Facebook/Instagram pages link to forthandfoundvintiques.co.uk; web retrieval of that site failed. A [Shop listing](https://shop.app/m/e59z1x8puf) surfaced with priced vintage products. Direct checkout, U.S. sales and territorial rights not investigated.
+   - This is closer to our intended antique/vintage community than the previously known marketing agency. It is a **material branding/search-confusion caution**, not proof of U.S. infringement.
+2. **Still Fine Designs — additional apparel lead for Still a Find.**
+   - [Facebook](https://www.facebook.com/StillFineDesigns): 167 followers; brand page with posts and a Shop now link to stillfineapparel.com.
+   - Current store operation, product range and territory remain unverified; web retrieval of the shop failed. The page is enough to record an apparel-related lead, not enough to label the business defunct or currently trading.
+3. **Still Fine Company.**
+   - [Facebook](https://www.facebook.com/BeatbyNeik): 40 followers; search categorized it as a women's clothing store, profile inspected. Current trading activity/territory not established. Do not merge it with Still Fine Designs or the earlier French STILL FINE business without evidence.
+4. **Still Good Finds.**
+   - [Facebook](https://www.facebook.com/StillGoodFinds): 300 followers; clothing-store category; description covers preloved books, clothes and home finds; location shown as Mandaluyong, Philippines. Profile includes a relaunch announcement under this name.
+   - Semantically nearby resale business. Foreign location does not establish U.S. rights or a legal blocker.
+5. **Still find.**
+   - [Facebook](https://www.facebook.com/profile.php?id=100070041207107): local-business page, zero followers and no posts available. Existence verified; commercial activity unknown. Do not infer abandonment.
+6. **Other reverse-name results.**
+   - Found & Forth page search also returned Forth & Found marketing agency (4 followers), a Forth & Found discount-store page, and Forth and Found graphic designer in Phoenix. These were search-card observations, not individually investigated businesses.
+   - Still Finds search also surfaced Still Life Finds (thrift/consignment, Shelton CT) and Still Good–Unique Finds (gift shop, Victoria TX); these are search-card leads, not adjudicated conflicts.
+
+### Method and coverage limits
+
+Signed-in Facebook searches: **Still a Find**, **Found & Forth**, **Still Fine**, **Still Finds**, followed by Pages filtering and selected relevant profiles. The Found & Forth search returned reversed and “and” wording without requiring an exact reverse-name handle. No exact full-name business page appeared in the displayed results; this is not an exhaustive Facebook inventory.
+
+Indexed searches were attempted for both exact phrases/unspaced handles and selected variants (**Still Finds**, **Still Fine**, **Forth and Found/Forth & Found**, **Found Forth**) across Instagram, TikTok, Facebook, YouTube, X, Pinterest and Etsy. Domain-filtered follow-ups returned empty or weak/unrelated results; TikTok web retrieval reported robots exclusion. **Indexed absence is weak negative evidence**, especially because Facebook revealed businesses those searches missed. This was not an authenticated in-app variant search on every platform; only Facebook had authenticated search access. Instagram variant inspection followed the vintage retailer's observed profile link.
+
+The pass provides a consistent attempted scope, but **unequal completed coverage** due to access limitations. TikTok, Found & Forth on X, Pinterest and exhaustive in-app variant searches remain unresolved. Exact-handle findings must not be described as fully available.
+
+**Revised Brand Manager judgment:** Found & Forth still has more apparent concerns, now with a reversed-name business in the exact audience world as well as the prior FOUND apparel issue. Still a Find remains the preferred paid-assessment candidate if it appeals creatively, but now has concrete apparel/resale leads to include. Both warrant **Caution before adoption**. Do not spend on two searches simply to fill a two-name package; Found & Forth is worthwhile only if the Founder still strongly prefers it after seeing the vintage-business overlap. No legal determination or spending authorization is implied.
+
+---
+
+## October 5, 2026 — requested three-name conflict comparison (latest)
+
+**Scope:** U.S.-focused preliminary knockout screen for new T-shirts and apparel retail: Still a Find, Picked for a Reason, and A Little Storied. This is not a legal availability determination. No paid work, filing, registration, or adoption.
+
+**Latest creative direction:** The Founder clarified that Kept for a Reason emphasizes retaining existing possessions rather than discovering/acquiring treasures. Keep the approved positioning and line, but prioritize discovery and choice in the name. The Founder likes “for a reason”; Picked for a Reason was proposed as the best shorter expression of the “brought home for a reason” idea. Kept for a Reason is no longer the creative lead. Earlier assessments below are historical.
+
+| Candidate | Preliminary judgment | Next step |
+|---|---|---|
+| Still a Find | **Clear enough to advance to the next research/creative checkpoint**, with unresolved limitations. No obvious U.S. exact/selected-close apparel knockout identified. Older French STILL FINE clothing use is an unresolved similar-sound lead, not silently dismissed. | Preferred of these three for continued consideration; do not interpret as cleared for launch or registration. |
+| Picked for a Reason | **Caution.** Exact wording already appears in commercial copy, including a U.S. footwear email archived by Milled. Related PICKED and FOR A REASON apparel/retail marks exist, though their shared components alone do not prove confusion. | Hold major investment; less attractive than Still a Find under the preference to avoid paying to resolve uncertainty. |
+| A Little Storied | **Potential blocker; drop under the current low-conflict naming brief.** STORYD registration covering T-shirts, related apparel-retail marks, and actual Storyd/STORIED commerce warrant greater concern. | Retain as a creative reference, not the recommended commercial name. This is a business screening decision, not a finding of infringement. |
+
+### Fresh direct USPTO observations
+
+Source: [USPTO Trademark Search](https://tmsearch.uspto.gov/search/search-results), field-tag mode, queries submitted and completed results inspected October 5. No live/dead filter. Record numbers below are **serial numbers**, not registration numbers. URL does not retain queries.
+
+| Query | Result and relevant observations |
+|---|---|
+| `CM:("picked for a reason" OR "pick for a reason" OR "picked for reason" OR pickedforareason OR "picked four a reason" OR "still a find" OR stillafind OR "a little storied" OR "little storied")` | **No results found**, across all classes for these exact/selected variants. |
+| `CM:(picked OR "for a reason") AND (IC:025 OR IC:035)` | **98 results**, two result pages opened; card-level review, not complete file/prosecution review. FRESHLY PICKED 86060590 registered for children's footwear; FRESHLY PICKED 86569688 registered in 018/025/035. “PICKED” FROMDAGARDEN. 99783728 pending for apparel; “PQCKED” FROMDAGARDEN. 88455978 registered for apparel. PLAY FOR A REASON 90084519 and RACE FOR A REASON 77240583 registered with class025 coverage. PICKED 85842088 consignment-retail application dead/abandoned; PICKED 90897280 registered for trading-card-related goods/services, not assumed to cover T-shirts. No exact full-name match identified. |
+| `CM:((still AND find*) OR "steel a find" OR "steal a find" OR "still fine" OR "still a") AND (IC:025 OR IC:035)` | **20 results**, one page. No displayed Still a Find/Still Fine exact mark. Includes STILLA KILLA 99678177 pending for T-shirts, STILL A MAN 98401222 and STILL A HOMO 98921147 pending with class025 among their classes, plus longer phrases. Earlier all-class selected-variant search is retained below. |
+| `CM:(storied OR storyd OR "little story" OR "little stories") AND (IC:025 OR IC:035)` | **36 results**, one page. STORYD 98612094 live registered: clothing including T-shirts, shirts, dresses, blouses, pants. STORIED FOLK AND CO. 97637242 live registered: online retail featuring women's/kids' apparel. STORIED RIVALS 86254732 live registered: apparel including tees/sweatshirts. STORIED SPORTS 99885887 live pending: tees/hoodies/hats. STORIED 88264566 is dead/abandoned, not a live T-shirt registration. |
+
+### Commercial-use evidence
+
+- **Picked for a Reason:** [Milled's archived Double-H email](https://milled.com/double-h/worn-by-chris-higbee-picked-for-a-reason-J4BPGRfvkk3FkQOO), dated February 7, 2026, uses “Worn by Chris Higbee. Picked for a Reason.” while promoting boots and a hat. This is an observed third-party archive of advertising, **not proof of an exact registered mark, continuous trademark use, or enforceable exclusivity**. [Useful Things, New Zealand](https://usefulthings.co.nz/about/) also uses the exact phrase as a heading in retail copy; foreign use is not automatically a U.S. bar. These findings make the commercial field less clean and suggest slogan-like usage.
+- **A Little Storied:** [Storyd](https://storyd.com/) actively offers made-to-order activewear; [STORIED](https://visitstoried.com/) offers swim/resort retail (site says 2026 season ended, returning February2027). [Little Storied Homes](https://www.littlestoriedhomes.com/) operates home/lifestyle consulting, a less directly relevant business than apparel. The concern is the combined apparel field, especially STORYD, not just the unrelated home business.
+- **Still a Find:** No confirmed exact-name apparel business surfaced in inspected results. Earlier exact phrase song-title overlap remains documented below. New similar-sound lead: [Toulouse Magazine's STILL FINE clothing advertorial](https://www.toulousemagazine.com/still-fine/) describes French online men's/women's clothing. Its linked official site could not be retrieved by web search; present operation and U.S. sales/rights remain unverified. Do not describe the whole international field as clear.
+
+Search queries included exact names, unspaced Stillafind, Pick for a Reason, PICKED apparel/trademark, Still Fine clothing, and Little Storied/Storyd apparel. Some search responses ignored quoted wording and returned generic results; negative web evidence is therefore weak. Primary business pages were preferred; the Double-H historical wording is specifically attributed to its archive.
+
+### Interpretation and limits
+
+The [USPTO](https://www.uspto.gov/trademarks/search/likelihood-confusion) assesses similarity in sound, appearance, meaning and commercial impression together with related goods/services. A shared ordinary word or an advertising sentence does not, by itself, establish infringement. A zero-result exact search does not establish registrability or freedom to use. Separate issues include distinctiveness and whether consumers perceive a phrase as a brand rather than ordinary promotional/ornamental wording.
+
+This round did not search all state registers, all unregistered sellers/marketplaces, international registries, or every phonetic variant; no full file-history or priority investigation. Domain/handle checks were not repeated as legal evidence. Earlier same-day Still a Find domain/profile observations remain separately recorded below. No legal clearance claim or mandatory paid-attorney recommendation is made.
+
+---
+
+## October 5, 2026 — second bounded naming screen
+
+**PR #119 merged** at `af4530edc8246ad40a44deb61730594fbaf1c0ca`. The approved positioning and working line are now on main. Found & Forth paid work remains paused. This round considers four candidates plus a Founder-requested reassessment of Kept for a Reason, and advances none to adoption or visual development.
+
+**Stable positioning:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+**Working customer-facing line:** For people who find things. And reasons to keep them.
+
+### Founder feedback and Kept for a Reason reassessment — October 5
+
+The Founder prefers **A Little Storied** among the previous three-name batch and also likes **Kept for a Reason**. The Founder correctly challenges treating repetition of “And reasons to keep them” as inherently negative: semantic consistency can reduce explanation and cognitive load. This is a brand hypothesis, not a measured consumer finding.
+
+**Creative judgment revised:** Restore **Kept for a Reason** to the creative shortlist. It offers a sincere reading (history, attachment, preservation) and a comic reading (the collector's rationalization). The name expresses the idea; the approved line identifies the people and adds the joke. Repetition alone is not a rejection criterion. More material creative weaknesses are four-word length, a potentially slogan-like impression, and less emphasis on discovery than on keeping. A Little Storied remains the Founder's creative favorite; new commercial evidence, not a reversal of creative taste, lowers its practical standing.
+
+**Screening judgment: Caution; hold before visual development.** No exact full-name apparel business surfaced in the inspected web results, and the selected exact/near federal query returned no results. However, the commercial field includes [KEPT/KEPTXGOD clothing](https://keptxgod.com/collections/all), [KEPT for GOOD branded merchandise](https://madebykept.com/kept-for-good), and [KEPT LUXE apparel/retail](https://www.keptluxe.com/). KEPT for GOOD is especially worth recording because of the shared “KEPT for…” construction and merchandise context. Shared words alone do not establish conflict; this is a reason not to present the full phrase as an easy low-cost clearance candidate.
+
+Direct [USPTO search](https://tmsearch.uspto.gov/search/search-results), October 5:
+- `CM:("kept for a reason" OR "kept for reason" OR "keep for a reason" OR keptforareason OR "kept four a reason")`: **No results found**, all classes.
+- `CM:(kept OR "for a reason") AND (IC:025 OR IC:035)`: **143 results; first 50 cards inspected only**. Examples: KEPT 88392247 live registered (expanded goods inspected: class 025 **aprons**, also tote bags and household goods; do not describe as a T-shirt registration); KEPT LUXE 90200329 live registered for online retail including shirts/sweatshirts; KEPT WOMAN 98589592 live registered for T-shirts; ENORMOUSLY KEPT 90800648 live registered for apparel. KEPT 97690682, owned by KEPT Clothing Brand LLC, is dead/abandoned; that does not erase independently observed current commerce.
+- Exact/near commercial queries included `"Kept for a Reason"`, `"Kept for a Reason" clothing shop brand trademark`, `"Kept for Reason" OR "Keep for a Reason" apparel brand`, and `"KEPT" clothing brand`. Search also surfaced [Stages of Grace: Kept For A Reason](https://www.amazon.com/Stages-Grace-Betty-J-Christmas/dp/B0CFCK3F8D), an inspirational biography listing; title overlap is not assumed to be apparel-rights conflict.
+- Exact domain/handles **not checked for this candidate** because the commercial caution arises before that stage. No comprehensive clearance, full 143-result review, or prosecution-history analysis is claimed.
+
+**Revised discussion priority:** Kept for a Reason deserves serious creative consideration alongside Still a Find; do not automatically place the new phrase or coinage above the Founder's preferences. Still a Find currently has fewer apparent concerns in the bounded checks, while Kept for a Reason has the stronger direct link to the approved line and needs its commercial caution kept visible. No candidate is adopted.
+
+### Candidate judgment
+
+| Candidate | Brand interpretation and practical weakness | Preliminary screening disposition |
+|---|---|---|
+| **Still a Find** | Natural phrase: something retains character and interest through time. Warm, readable, easy to say/spell, with a possible self-aware reading about the wearer. Fits antiques, restoration, records and collecting. Weakness: less distinctive in ordinary search and can suggest a resale store; state explicitly that we sell new T-shirts for treasure hunters. | **Clear enough to explore** in this bounded screen; creative discussion lead. No exact/selected-close apparel brand surfaced. The exact phrase is a song title, and broader STILL A… marks exist (below). Neither is silently treated as irrelevant or as proof of infringement. |
+| **Happenkept** | Coined from happenstance + kept: a chance encounter becomes something worth holding onto. Intended pronunciation HAP-en-kept. More compact/distinctive in spelling than a phrase; meaning and recall are less immediate. | **Caution.** No exact/selected-variant mark or business found, but the intended semantic source HAPPENSTANCE has live apparel registration 88984224. This is a neighboring-name concern, not a conclusion the complete coined name conflicts. Keep as a discussion alternative; do not spend on resolving it under the current no-paid-review preference. |
+| **A Little Storied** | Warm, lightly poetic, broad future fit; could sound like a bookshop or home brand. | **Caution — drop from this round.** [Little Storied Homes](https://www.littlestoriedhomes.com/) is an active home-organizing/space-planning business. More materially, direct federal search found STORYD (98612094) registered for apparel, STORIED FOLK AND CO. (97637242) registered for apparel retail, and STORIED SPORTS (99885887) pending for tees/hoodies. [STORIED](https://visitstoried.com/) is also a clothing/swim retail site. Combined crowding makes it unattractive for this low-friction naming round; no legal conclusion about the full phrase. |
+| **Oddmentry** | Coined from oddments; quirky collections and overlooked objects. Intended ODD-men-tree. Spelling/explanation cost and a near-sounding Oddmentary content account are weaknesses. | **Potential blocker — drop from this round.** [Oddment Apparel](https://oddmentapparel.com/) is an existing U.S. apparel business emphasizing discarded textiles, and [Oddment](https://oddmentshop.com/) sells lifestyle goods. Close root and related goods make this an avoidable screening concern. Exact absence in the federal query does not override observed commerce. |
+
+**Brand Manager recommendation:** Incorporate the Founder feedback above: compare Kept for a Reason and Still a Find on creative fit, keeping their different screening status explicit. Happenkept remains a lower-priority coined comparison. No new name has adoption approval. Do not force a selection from the batch if the name does not appeal; availability is not the only criterion. The approved positioning and line remain independent of any candidate.
+
+### Public commercial-use searches — October 5
+
+Both search engines were used. Queries included:
+- `"A Little Storied" OR "Little Storied"`
+- `"Still a Find"`; `"Stillafind" OR "Still a Find" shop clothing trademark`
+- `"Oddmentry" OR "Oddmentary"`; `"Oddment" clothing brand shop`
+- `"Happenkept" OR "Happen Kept"`; `"Happenkept" OR "Happenkeep" OR "Happen Kept"`
+- `"Happen" apparel clothing brand`
+- `"Happenkept" OR "Stillafind" Etsy Instagram TikTok Facebook`
+
+Some responses contained generic/ordinary phrase matches rather than exact businesses; those are weak negative evidence. No confirmed exact apparel business for Still a Find or Happenkept surfaced in inspected results. An exact-title [Still A Find song by Nikki Franklyn](https://open.spotify.com/track/6bY3kJ0bvP5mvHJpt819HF) and ordinary editorial/forum phrase use were found. This is search overlap, not a proven apparel-rights conflict. HAPPEN is also used within existing apparel names such as [Hip + Happen](https://hipandhappen.com/en/); shared components are recorded without treating them as automatic exclusion rules.
+
+### Direct federal evidence
+
+Source: [USPTO Trademark Search](https://tmsearch.uspto.gov/search/search-results). Field-tag mode; each query submitted with Enter and completed results inspected. URLs do not encode queries, so reproduce them below. No live/dead filter applied.
+
+| Query | Observed result |
+|---|---|
+| `CM:("a little storied" OR "little storied" OR "still a find" OR stillafind OR oddmentry OR oddmentary)` | No results found across these combined exact/selected-variant terms, all classes. |
+| `CM:storied AND (IC:025 OR IC:035)` | 34 results. Relevant live records include STORYD 98612094 (registered, apparel); STORIED FOLK AND CO. 97637242 (registered, apparel retail); STORIED SPORTS 99885887 (pending, tees/hoodies). STORIED 88264566 is dead/abandoned, not a live apparel registration. |
+| `CM:(happenkept OR "happen kept" OR happenkeep* OR happnkept OR (still AND find*) OR "steel a find" OR "steal a find")` | 7 results; none of the displayed marks was Happenkept or Still a Find. Included dead STILLFINDER 74466304 (software) and long unrelated phrases containing component words. Only apparel card was a dead GUNPOWDER & LEAD phrase, serial 85751426. This query is not reported as “zero results.” |
+| `CM:(happenke* OR happnke* OR "happen kept" OR "happen keep" OR "happy kept" OR happenstance)` | 34 results, consisting of HAPPENSTANCE-related records. Live registered HAPPENSTANCE 88984224 covers shirts/T-shirts; HAPPENSTANCE 98225012 is live pending for footwear. These prevent presenting the semantic neighborhood as empty. |
+| `CM:("still a" OR "still find" OR "still finds" OR "still fine" OR "steel a find" OR "steal a find") AND (IC:025 OR IC:035)` | 19 results. Examples: STILL A BABE 78502139 and STILL A THING 87212847 dead/abandoned; STILLA KILLA 99678177 live pending for T-shirts; several other STILL A… phrases. No displayed exact Still a Find mark. |
+
+Record-card observations establish the stated status and displayed goods; no prosecution-history, legal similarity or ownership investigation was performed. Selected sound/spelling variants are not an exhaustive phonetic search. Class filters focus attention but cannot rule out related goods in other classes. Absence of exact marks does not establish freedom to use.
+
+### Direct domain and handle checks for the two remaining discussion candidates
+
+Observed October 5, 2026, America/Chicago. No purchase, signup, name reservation or account mutation.
+
+| Check | Still a Find | Happenkept |
+|---|---|---|
+| Exact .com | [stillafind.com](https://www.namecheap.com/domains/registration/results/?domain=stillafind.com): ordinary annual price and Add to cart displayed; offered for standard registration | [happenkept.com](https://www.namecheap.com/domains/registration/results/?domain=happenkept.com): ordinary annual price and Add to cart displayed; offered for standard registration |
+| Instagram | [@stillafind](https://www.instagram.com/stillafind/): Profile isn't available | [@happenkept](https://www.instagram.com/happenkept/): Profile isn't available |
+| TikTok | [@stillafind](https://www.tiktok.com/@stillafind): Couldn't find this account | [@happenkept](https://www.tiktok.com/@happenkept): Couldn't find this account |
+| Facebook | [Observed redirect](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fstillafind): login wall, unverified | [Observed redirect](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fhappenkept): login wall, unverified |
+| Etsy | [StillAFind](https://www.etsy.com/shop/StillAFind): shop page not found | [Happenkept](https://www.etsy.com/shop/Happenkept): shop page not found |
+
+Public absence is not confirmed handle/shop-name claimability. Prices/availability can change; no checkout quote is represented. Optional YouTube/X/Pinterest checks were not performed in this bounded round. Domains/handles for discarded candidates were deliberately not pursued.
+
+### Scope, stop point and concrete Founder review
+
+This is a bounded public-source screen before visual development, not comprehensive legal clearance. Direct state-register coverage, exhaustive phonetic/common-law searches, international rights and account-level claimability remain unverified. The [USPTO clearance guidance](https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks) recommends searching similar marks and unregistered uses beyond exact federal matches.
+
+**Review now:** Does **Kept for a Reason** have the warmth and self-aware humor we want in the enduring brand, with its commercial caution understood? Is **Still a Find** a compelling alternative, or too much like a resale shop? This is a name-fit discussion, not adoption or spending approval. No visuals were created.
+
+---
+
 
 ## Current decision — October 3, 2026, later Founder discussion
 
