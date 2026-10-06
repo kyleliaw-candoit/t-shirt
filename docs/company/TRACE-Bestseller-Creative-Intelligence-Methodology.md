@@ -50,6 +50,8 @@ This v0.4.1 document incorporates the agreed decisions. The consistency review c
 
 ## 1. Source selection and evidence
 
+For the Founder-discussed Etsy discovery route, use the [Etsy Bestseller → Google Shopping workflow](./TRACE-Etsy-Google-Shopping-Workflow.md), including custom/bulk exclusions, ad filtering, product badge evidence, and spread/variation analysis.
+
 Start with broad cross-niche sources with commercial signals; do not select only what the analyst finds clever. Record why each source is worth studying and distinguish exploratory inspiration from commercially supported examples.
 
 Use the strongest available product-specific evidence and preserve its scope:
