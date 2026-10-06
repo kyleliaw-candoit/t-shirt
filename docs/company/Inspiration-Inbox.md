@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.5
+Version     : 0.6
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.6
+- Reconciled the prior Kittl tool-research request as processed I007 and expanded it to compare Kittl with Flying Research.
 
 v0.5
 - Added processed I006 for the AI-native 3D Niche Test and Devotion Coverage pilot.
@@ -598,6 +601,43 @@ The company already treats low Founder Advantage as a constraint rather than a v
 **Processed.**
 
 Use the 3D model only as a fast screen. Preserve Founder Advantage and current opportunity priorities. Pilot a separate Devotion Coverage gate on the next serious low-Founder-Advantage opportunity, with insider correction, honest claim boundaries, and a precommitted exit rule. Do not promote the gate into methodology until repeated execution evidence supports it.
+
+---
+
+## I007 — Kittl and Flying Research Workflow Fit
+
+**Status:** Processed — 2026-10-06; bounded evaluations not yet started
+
+**Category:** Tooling / Research / Creative Execution / Automation
+
+**Source:** Founder request to expand the prior Kittl workflow-fit research to include Flying Research and determine whether, when, and where either tool belongs in the T-shirt business.
+
+**Processed output:** [Kittl and Flying Research Workflow Assessment](Kittl-Design-Execution-Tool-Assessment.md)
+
+### Observation
+
+Kittl and Flying Research overlap in AI image generation, asset utilities, design management, and POD connections, but their primary value lies at different points in the workflow:
+
+- **Flying Research** is primarily an Amazon/POD marketplace-evidence, keyword, trademark-screening, design-management, and upload-automation platform.
+- **Kittl** is primarily a design-execution platform for typography, layout, vectors, mockups, print files, and AI-assisted asset production.
+
+They are better evaluated as sequential, specialized tools than as competing all-in-one systems.
+
+### Decision Status
+
+**Processed into two gated follow-ups; no subscription, integration, or core adoption is authorized.**
+
+1. **Flying Research Gate 0:** Research Analyst should evaluate the free tier in read-only mode during the next TRACE evidence-acquisition or relevant niche-market sprint. The test must compare a fixed 15–20-product US Amazon sample against manual evidence and require at least a 50% reduction in acquisition time, reproducible product identity, auditable records, and no material unexplained discrepancies.
+2. **Kittl Stage 0:** Creative Director should run the existing free, private evaluation when the next approved original design brief is ready. A paid month is considered only if Stage 0 passes; an annual plan remains out of scope.
+3. **Separation of duties:** Flying Research may supply marketplace evidence; Research Analyst verifies it; Strategy Advisor interprets it; Creative Director creates the original concept; Kittl may execute the approved brief; GitHub preserves the canonical decision and provenance record.
+4. **Prohibitions:** Do not use Flying Research to download or imitate competitor artwork, generate close variants from bestsellers, or treat trademark search as legal clearance. Do not let Kittl templates determine brand meaning. Do not connect Shopify, Printful, Amazon, Etsy, or upload automation during either initial evaluation.
+
+### Follow-Through Triggers
+
+- Add the Flying Research Gate 0 to the next suitable TRACE or Research Analyst market-evidence work packet rather than scheduling a detached tool demo.
+- Add Kittl Stage 0 to the next design-execution packet after an original Creative Director brief is approved.
+- Strategy Advisor records the proceed / defer / reject decision after each gate.
+- Founder approval is required before any paid plan, physical sample, browser-extension installation with material permissions, or external commerce-account connection.
 
 ---
 
