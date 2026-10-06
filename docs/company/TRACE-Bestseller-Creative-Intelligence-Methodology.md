@@ -2,8 +2,8 @@
 title: TRACE Bestseller Creative Intelligence Methodology
 owner: Creative Director
 maintainer: Knowledge Librarian
-status: October 6 agreed revisions incorporated; operator consistency review complete
-version: 0.4.1
+status: Shared mechanism handoff and Founder overlap clarification incorporated
+version: 0.4.2
 last_updated: 2026-10-06
 reviewed_by: Founder approved the decisions below; Creative Director completed document consistency review
 ---
@@ -26,11 +26,13 @@ Target-community research, applicability to current wedges, concept transfer tes
 
 ## Version and decision record
 
+Version **0.4.2** (2026-10-06) adds the platform-independent mechanism library and the Creative Director's approved handoff recommendations. The Founder confirmed that the twelve illustrative sketches follow their mechanisms and that a concept need not be distinctive to just one mechanism. This revision changes documentation usability, not source admission or commercial-evidence thresholds. The first implementation comprises three improved cards before converting remaining source decodes.
+
 The founder requested this consolidation on October 6, 2026, after reviewing the standards one at a time. The later discussion approved source grounding, partial samples, documented replacements and an autonomous five-card review. Version 0.4.1 incorporates those four decisions and a line-by-line operator consistency review.
 
 The [exact v0.3 archive](./TRACE-Bestseller-Creative-Intelligence-Methodology-v0.3-Archive.md) preserves the rules governing prior work, including the v0.2 historical appendix. Completed scans, exclusions, HOLD decisions, failed transfers and review verdicts remain historical outcomes under their original protocols. They are not retroactively rewritten as passes.
 
-This v0.4.1 document incorporates the agreed decisions. The consistency review covers this current document and the archived clauses it references; it is not an independent review, a new pilot, or an audit of every company playbook. It supersedes the earlier October 6 applicability note for future work: target-community applicability is now outside TRACE, rather than merely a relaxed transfer requirement.
+Version 0.4.1 incorporated those agreed decisions. Its recorded consistency review covered that version and the archived clauses it referenced; it is not an independent review, a new pilot, or an audit of every company playbook. It supersedes the earlier October 6 applicability note for future work: target-community applicability is now outside TRACE, rather than merely a relaxed transfer requirement.
 
 | Topic | Approved direction | Reason |
 |---|---|---|
@@ -168,6 +170,16 @@ Remove the source-erasure test: a reader recognizing or remembering the source d
 ### Ingredients
 
 Distinguish required, adjustable, optional and prohibited ingredients in a lightweight form. Initial ingredient assignments are interpretive hypotheses; refine them with versioned reasoning. Avoid unnecessary taxonomy.
+
+### Shared library and creative handoff
+
+The canonical shared index is [docs/creative/trace/mechanisms/](../creative/trace/mechanisms/README.md). Reusable recipe IDs and versions are platform-independent. Families provide overlapping navigation; recipes describe operations; source designs retain observed expressions and evidence; repeated commercial expressions retain recurrence information. Do not equate source count, family count or merchant count with independent mechanisms.
+
+For each shared card, state the plain-language operation and proposed payoff; two to four concrete required conditions rather than a repeated mechanism sentence; adjustable and conditional optional elements; fit/nonfit guidance; source links with essential-detail grounding; source-specific copying boundaries; and a clearly labeled illustrative application. Record explanation confidence, source commercial evidence and downstream usability separately. A visual cue necessary for recognition is not optional styling.
+
+**Mechanism overlap is acceptable.** A concept derived from A may also be understood through B. Check whether its intended operation is present; do not require exclusive classification, distinguishability from every neighbor, or a rewrite solely because of overlap. Neighbor notes explain essential conditions, not mutually exclusive categories. This does not relax downstream originality or audience-fit judgments.
+
+Future platform scans first decode sources individually, then link fitting operations to existing recipes or propose new IDs. Record meaningful ingredient changes with a version and rationale; recheck credited examples before strengthening evidence. Preserve old IDs and destinations for splits/merges. Families may expand beyond eleven. Keep commercial observations in linked source records rather than turning them into universal recipe-performance claims.
 
 ### No target-community acceptance test
 
