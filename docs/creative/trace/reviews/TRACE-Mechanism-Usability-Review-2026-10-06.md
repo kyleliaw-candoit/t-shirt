@@ -9,6 +9,14 @@ reviewed_commit: 69c5fdd393ddfd71fae94707c7e2e958be0d005d
 
 # Creative Director review: can the mechanism library guide original concepts?
 
+## Founder feedback and implementation follow-up — 2026-10-06
+
+The Founder reviewed the twelve sketches and found that they follow their mechanisms. The Founder clarified that a sketch does **not** need to be distinctive to one mechanism: derivation from A remains valid even when B also explains it. Accordingly, any original review language about boundaries or distinctness should be used to clarify the claimed operation, never as an exclusivity test.
+
+The Founder authorized the recommended documentation changes. The [shared mechanism library](../mechanisms/README.md) now indexes all eleven families outside the Etsy records and contains the recommended initial three improved cards: [delayed reinterpretation](../mechanisms/TRM-001-Delayed-Reinterpretation.md), [formal record for an informal experience](../mechanisms/TRM-002-Formal-Record-Informal-Experience.md), and [shape correspondence](../mechanisms/TRM-003-Shape-Correspondence.md).
+
+The implementation adds concrete essentials, fit/nonfit conditions, neighboring operations without exclusivity, source-specific copying boundaries, separate evidence dimensions and illustrative applications. Remaining variants are visibly pending standalone cards, following the recommendation to establish three before converting all source records. The historical review below remains intact. This follow-up is an operator implementation record, not a new independent review, production approval or commercial validation.
+
 ## Decision
 
 **Overall: REVISE for a self-contained creative handoff. PASS as a provisional navigation index supported by individual candidate decodes.**
