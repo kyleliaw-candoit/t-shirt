@@ -1,16 +1,30 @@
 # TRACE shared mechanism library
 
-Owner: Creative Director. Updated: 2026-10-06. Initial shared handoff release: 1.0.
+Owner: Creative Director. Updated: 2026-10-06. Shared handoff release: 1.2 (independently reviewed candidates; PASS WITH NON-BLOCKING LIMITATIONS).
 
 This is the **platform-independent home** for reusable mechanisms. Etsy, Amazon and DTC scans supply evidence to this library; their source records remain in their scan files. Platform names do not appear in recipe IDs.
 
-## Start here
+## Expansion release — 60 additional sources
+
+The [120-source report](../pilots/TRACE-Etsy-120-Report.md) adds 60 new source expressions, reconciles seller evidence and maps 113 non-tentative interpretations. Seven historical borderline interpretations remain withheld. Source lists and scores are in the [evidence ledger](../pilots/TRACE-Etsy-120-Evidence.json).
+
+- [TRM-004–025](TRM-Catalog-004-025.md)
+- [TRM-026–047](TRM-Catalog-026-047.md)
+- [TRM-048–070](TRM-Catalog-048-070.md)
+- [TRM-071 — Object condition report](TRM-071-Object-Condition-Report.md)
+- [Independent review and decisions](../pilots/TRACE-Etsy-120-Independent-Review.md)
+
+Each stable recipe ID has its own versioned section, conditions, failure boundary and source links. New illustrative applications, where present, are unvalidated; TRM-071 uses its historical source as the explanatory example. The current 68-recipe ranking includes TRM-003, TRM-004–029, TRM-031–070 and TRM-071. TRM-030 remains a historical redirect into TRM-051; the merge and split balance numerically. TRM-001 and TRM-002 remain broader parent/teaching cards and are not ranked alongside their specific variants. No ID has been renumbered or silently replaced. This library does not claim 70 scientifically independent mechanisms or market validation.
+
+**The historical family table below preserves the first release's navigation and source assignments. Its “card pending” notes are historical and superseded by this expansion's catalog; use the current evidence ledger for multi-tag recipe/family mappings and union scores.** Overlap remains welcome. Source observations remain operator-authored. A separate independent documentation review is complete; it does not claim fresh image verification or market validation.
+
+## Original teaching cards
 
 - [TRM-001 — Delayed reinterpretation](TRM-001-Delayed-Reinterpretation.md)
 - [TRM-002 — Formal record for an informal experience](TRM-002-Formal-Record-Informal-Experience.md)
 - [TRM-003 — Shape correspondence across categories](TRM-003-Shape-Correspondence.md)
 
-These are the three initial improved cards recommended by the [Creative Director's review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md). All eleven families are indexed below; the remaining variants retain linked decodes and explicit drafting guidance. This staged release does not claim that all sixty source records have been converted into finished shared cards.
+These are the three initial improved cards recommended by the [Creative Director's review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md). All eleven families are indexed below; the remaining variants retain linked decodes and explicit drafting guidance. Those were the initial release's scope. The expansion above now covers all non-tentative source interpretations; tentative records are not promoted.
 
 ## Founder clarification: overlap is welcome
 
@@ -79,9 +93,9 @@ Decode each eligible design individually first. Compare its actual operation and
 
 Use separate review dimensions. A clear explanation may have weak commercial evidence; a bestseller may have an uncertain mechanism interpretation; a usable concept exercise is not market validation. No evidence upgrade follows automatically from a new platform or a second seller.
 
-## Remaining card work and interpretation notes
+## Historical staging and interpretation notes
 
-The Creative Director recommended establishing three improved cards before converting the rest. This release completes that initial stage. Future expansion should use the per-family distinctions above rather than bulk-copying source-card Required fields.
+The Creative Director recommended establishing three improved cards before converting the rest. That initial stage preceded the expansion linked above, which uses the per-family distinctions to state concrete recipe conditions.
 
 Keep source interpretations 07, 16, 29, 41, 45, 47 and 52 explicitly moderate and revisable. Quiet mechanisms, single-source status and difficult transfer are not automatic failures. For all later cards, preserve source-specific copying combinations: for example, the dawn rally plus frog holding a found lamp in 49, and the likes-list ending in a tiny numbered human allowance in 53.
 
@@ -92,3 +106,5 @@ Keep source interpretations 07, 16, 29, 41, 45, 47 and 52 explicitly moderate an
 Operator documentation check: each of the three cards contains concrete essentials, fit/nonfit guidance, source links, distinctive copying boundaries and a separate illustrative application. This is implementation verification, not another independent Creative Director review or a new image/market test.
 
 [TRACE methodology](../../../company/TRACE-Bestseller-Creative-Intelligence-Methodology.md) · [Etsy run report](../pilots/TRACE-Etsy-60-Report.md) · [Creative Director usability review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md)
+
+2026-10-06, release1.1: added TRM-004–070 as versioned catalog sections; extended TRM-003 with a second shape-based operation; separated broader parent cards from the scored operational catalog. Added 60 new decodes and conservatively reconciled design–seller evidence. Legacy tentative interpretations preserved without score credit. Independent Creative Director review remains pending.

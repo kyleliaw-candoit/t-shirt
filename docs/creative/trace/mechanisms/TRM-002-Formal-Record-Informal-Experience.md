@@ -66,3 +66,9 @@ The Founder found the twelve sketches consistent with their mechanisms. This is 
 v1.0, 2026-10-06: bounded formal-record recipe from the borrowed-formats family, with explicit functional variants and source-specific copying boundaries. Added Founder clarification permitting mechanism overlap.
 
 [Shared index](README.md) · [Usability review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md)
+
+## Expansion navigation — 2026-10-06
+
+This parent card remains a teaching abstraction. Specific scored functions include [TRM-028 — dictionary reinterpretation](TRM-Catalog-026-047.md#trm-028), [TRM-045 — consumer review](TRM-Catalog-026-047.md#trm-045), and [TRM-046 — certificate of release](TRM-Catalog-026-047.md#trm-046). Awards, warnings and mock advertisements have their own [catalog cards](TRM-Catalog-048-070.md). TRM-002 is not ranked alongside these variants or added to their scores. Existing source27/32 readings remain valid.
+
+Navigation addendum only; v1.0 operation unchanged. No independent review or production approval implied.
