@@ -2,7 +2,7 @@
 
 Owner: Creative Director  
 Date: 2026-10-06  
-Status: Founder-discussed workflow documented; execution results must be recorded separately.
+Status: Founder-discussed workflow documented, including the concept/mechanism screen; ready for discussion before an Etsy pilot. Execution results must be recorded separately.
 
 Governing standard: [TRACE v0.4.1](./TRACE-Bestseller-Creative-Intelligence-Methodology.md). This is an additional discovery route, not a replacement for all platform research. It does not alter the historical pilot.
 
@@ -39,7 +39,21 @@ Keep finished designs selected for their existing creative idea. Ordinary size/c
 
 Record a short exclusion reason. Continue to the next accessible candidate without routine Founder approval.
 
-## 3. Search the distinctive expression
+## 3. Screen for an identifiable creative mechanism before further research
+
+After the product-type exclusions, briefly inspect the actual design for a creative concept: a relationship, transformation, contrast, metaphor, recognition or reveal that plausibly produces an emotional or social payoff. State the possible mechanism in plain language and point to the visible detail supporting it.
+
+When the apparent appeal is primarily decorative execution—such as attractive illustration, color, typography, texture or composition—and no identifiable conceptual play emerges, skip the Google Shopping follow-up and full recipe research. Record: **Graphic-led; no identifiable creative mechanism**, with a short explanation. This is a research-priority decision, not a claim that the shirt cannot sell or that its creator had no idea.
+
+Do not exclude designs just because they lack text or humor. A purely visual design can carry a metaphor, unexpected relationship or identity insight. Conversely, text alone does not establish a mechanism. Mixed designs remain eligible when an identifiable concept is present; beautiful execution does not disqualify them.
+
+For an ambiguous design, briefly inspect the listing or refine the interpretation before deciding. Do not invent a mechanism or demand elaborate proof. Retain uncertain but plausible candidates with a note. Do not select only concepts the operator personally finds clever or only those suited to current target communities.
+
+**Founder-supplied example:** the October 6 screenshot of a “Dandelion Sun Shirt” shows a Bestseller badge and dandelions against an orange sun, radiating lines and a distressed finish. The apparent appeal is botanical imagery and vintage styling; no clear conceptual twist was identified. Record it as graphic-led and skip further mechanism research. This is an interpretation of the supplied screenshot, not a live verification or a finding about what caused sales. The visible rating/count must not be assumed to be design-specific.
+
+This early screen avoids spending the research budget on supplementary graphics study. If a full decode later yields only composition learning, retain TRACE's existing GRAMMAR-ONLY or NO-TRANSFERABLE-MECHANISM outcome as appropriate; do not count it as a mechanism recipe.
+
+## 4. Search the distinctive expression
 
 For a text-led design, search its distinctive wording on Google, then inspect the Shopping tab. Example:
 
@@ -49,7 +63,7 @@ Use quoted and unquoted variants as needed; record the actual query. For a text-
 
 If Shopping is inaccessible, report that limitation and label ordinary web/product-page research as a fallback. Never claim to have inspected Shopping results when only general search was available.
 
-## 4. Analyze non-sponsored Shopping results
+## 5. Analyze non-sponsored Shopping results
 
 Skip cards/blocks marked Sponsored or Ad and promotional cashback strips. The Founder wants these excluded from this comparison.
 
@@ -66,7 +80,7 @@ Inspect representative offers for:
 
 Gather accessible corroboration without making outside review verification a second admission gate. Missing sales numbers or reviews means that field is unknown, not that an Etsy-badged source is unsuitable for decoding.
 
-## 5. Interpret spread and variations
+## 6. Interpret spread and variations
 
 | Observed pattern | Useful signal | Limit |
 |---|---|---|
@@ -79,11 +93,11 @@ Retain exact-copy and variation evidence; do not discard it simply because it is
 
 An Etsy Bestseller badge plus spread and variations strengthens the case for prioritizing the mechanism. The badge concerns a product; the decoded mechanism remains an interpretation, not proven sales causality. Unknown origin is not a filter.
 
-## 6. Decode and report
+## 7. Decode and report
 
 Produce a concise source record and recipe:
 - observed Etsy signal and its provenance;
-- exclusion-screen result;
+- product-type, franchise and creative-mechanism screening results;
 - Shopping query and accessible coverage, with ads excluded;
 - representative source links, distinct merchants where identifiable, and variation notes;
 - additional demand evidence and unresolved fields;
@@ -106,8 +120,19 @@ These observations illustrate the workflow, not a completed new bestseller scan 
 
 1. Confirm Etsy filter state and individual badge evidence.
 2. Exclude blank, buyer-designed, custom-service and bulk offers.
-3. Search the phrase and inspect Shopping where accessible.
-4. Exclude ads and cashback promotions.
-5. Open representative products; record spread, variations and accessible purchase evidence.
-6. Decode the grounded mechanism without origin or target-fit gates.
-7. Report coverage, evidence strength and uncertainty accurately.
+3. Screen for an identifiable creative concept; log and skip graphic-led examples before extended research.
+4. Search the phrase or visual relationship and inspect Shopping where accessible.
+5. Exclude ads and cashback promotions.
+6. Open representative products; record spread, variations and accessible purchase evidence.
+7. Decode the grounded mechanism without origin or target-fit gates.
+8. Report coverage, evidence strength and uncertainty accurately.
+
+## Next step: discuss, then pilot on Etsy
+
+Amazon adaptation is deferred. This document does not start an Amazon scan or change its platform-specific procedures.
+
+Discuss this documented workflow first, then run a bounded Etsy pilot to learn whether the scan produces useful mechanism recipes efficiently. Before execution, record the page traversal, intended coverage, candidate target, source caps and backup order. Keep a compact screening log, including graphic-led skips, so the operator can assess both yield and whether the new screen discards plausible mechanisms.
+
+During the pilot, follow the existing five-card quality checkpoint if five decodes are reached; resolve routine issues and continue without routine Founder approval. Report accessible coverage, exclusion reasons, recipes produced, ambiguous screening decisions and access/time bottlenecks. Recommend changes from observed friction rather than tightening admission rules speculatively. An incomplete sample remains useful with disclosed gaps.
+
+Documentation status: the workflow has been checked against TRACE v0.4.1 for consistency. This is an operator document review, not a completed pilot, an independent review or market validation.
