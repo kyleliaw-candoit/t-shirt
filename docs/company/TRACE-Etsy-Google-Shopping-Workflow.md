@@ -127,7 +127,15 @@ These observations illustrate the workflow, not a completed new bestseller scan 
 7. Decode the grounded mechanism without origin or target-fit gates.
 8. Report coverage, evidence strength and uncertainty accurately.
 
-## Next step: discuss, then pilot on Etsy
+## October 6 pilot scope and decode-before-grouping decision
+
+The Founder subsequently selected **the first five eligible bestseller designs on page one**, read left-to-right and top-to-bottom in the displayed Most relevant order. This replaces the operator's proposed 30-listing/five-family scope. Apply the existing custom/bulk, franchise and graphic-led exclusions; inspect ambiguous cards on their product pages. Stop after five eligible designs or the end of page one. Backups are the next eligible design on that same page; do not extend to page two without a scope change.
+
+Decode each selected design separately into its own mechanism description and recipe. Similar mechanisms do not disqualify a later design or cause replacement. Defer mechanism clustering, deduplication and consolidated recipes to a later batch review; the Founder mentioned 50–100 designs as an example, not authorization for that larger run. Keep each source and its evidence even after later grouping. Within a design's follow-up, distinguish repeated merchant offers from independent examples without using pre-grouped families to select the sample.
+
+For this small pilot, use up to three representative non-sponsored merchant listings per selected design; this is a research cap, not an admission minimum. When Shopping is inaccessible, use the documented web/product-page fallback and disclose the gap. Perform the five-card operator quality review, with grouping still deferred. Record findings separately.
+
+## Pilot execution guidance
 
 Amazon adaptation is deferred. This document does not start an Amazon scan or change its platform-specific procedures.
 
