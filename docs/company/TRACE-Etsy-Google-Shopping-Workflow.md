@@ -144,3 +144,7 @@ Discuss this documented workflow first, then run a bounded Etsy pilot to learn w
 During the pilot, follow the existing five-card quality checkpoint if five decodes are reached; resolve routine issues and continue without routine Founder approval. Report accessible coverage, exclusion reasons, recipes produced, ambiguous screening decisions and access/time bottlenecks. Recommend changes from observed friction rather than tightening admission rules speculatively. An incomplete sample remains useful with disclosed gaps.
 
 Documentation status: the workflow has been checked against TRACE v0.4.1 for consistency. This is an operator document review, not a completed pilot, an independent review or market validation.
+
+## Pilot result
+
+The [October 6 first-five Etsy pilot with US Shopping follow-up](../creative/trace/pilots/TRACE-Etsy-First-Five-US-2026-10-06.md) is complete: five individual candidate decodes, screening log, bounded merchant follow-up and operator quality review. Mechanism grouping remains deferred. The report identifies mixed prewritten/custom listings as the main screening edge case for Founder review; no new admission threshold is introduced.
