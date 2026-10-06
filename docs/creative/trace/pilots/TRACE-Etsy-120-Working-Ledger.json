@@ -1,5 +1,5 @@
 {
-  "status": "IN PROGRESS: 24 of 60 new expressions decoded",
+  "status": "IN PROGRESS: 36 of 60 new expressions decoded",
   "date": "2026-10-06",
   "columns": [
     "source",
@@ -326,6 +326,162 @@
       "Give a tiny mild creature the triumphant posture and battle cry of an epic hero.",
       "Small unthreatening subject; victory pose; heroic props; grand exclamation.",
       "Folklore/fantasy role, not franchise-dependent; embroidery optional."
+    ],
+    [
+      85,
+      10,
+      34,
+      "4531086578",
+      "Uranusevn",
+      "17",
+      "Success because insane",
+      "I will succeed because I am insane; cowgirl lassos while riding winged tiger.",
+      "Present a supposedly disqualifying trait as the very cause of achievement, reinforced by an impossible feat.",
+      "Success declaration; unexpected causal reason; reversal of liability into advantage.",
+      "Colloquial self-description, not clinical claim; fantasy image reinforces but text carries operation."
+    ],
+    [
+      86,
+      10,
+      39,
+      "4374220097",
+      "CustombyTexas",
+      "16",
+      "Sorry for what face said",
+      "Sorry for what my face said in decorative type.",
+      "Treat involuntary facial expression as an independently speaking agent for whom the wearer must apologize.",
+      "Apology formula; body part as speaker; implied social leakage.",
+      "No facial image needed; recognition depends on nonverbal expression."
+    ],
+    [
+      87,
+      10,
+      48,
+      "4530019217",
+      "CatDistributor",
+      "2",
+      "Sun-sponsored photosynthesis",
+      "Photosynthesis diagram, plant sprouting from cat head; Brought to you by the Sun.",
+      "Borrow sponsor-credit language to credit a natural process's energy source as its presenter.",
+      "Recognizable sponsorship formula; actual natural dependency; science subject.",
+      "Plant-cat hybrid additional visual play; diagram not validated science instruction."
+    ],
+    [
+      88,
+      10,
+      49,
+      "4370536281",
+      "KavasClothing",
+      "74",
+      "Ninety years to look good",
+      "It took me 90 years to look this good / but here I am nailing it.",
+      "Recast accumulated age as the preparation time needed to achieve an impressive result.",
+      "Long elapsed time; accomplishment frame; self-congratulation.",
+      "T-shirt options observed despite sweatshirt hero image; milestone-age variants pool evidence."
+    ],
+    [
+      89,
+      10,
+      55,
+      "1728638259",
+      "TeaShirtsUS",
+      "121",
+      "To the person behind me",
+      "Back print addresses person behind wearer with affirmations; front says You matter.",
+      "Use garment placement to identify the actual reader and turn a general message into a situated personal address.",
+      "Directional address; matching back placement; second-person message.",
+      "Placement essential; affirmation wording replaceable; no measured wellbeing effect."
+    ],
+    [
+      90,
+      11,
+      6,
+      "4472872627",
+      "CreativeInkFlow",
+      "23",
+      "Dilly dallying apology",
+      "Sorry I'm late / I was Dilly Dallying with relaxed raccoon.",
+      "Begin a conventional apology then substitute a freely chosen trivial delay for an exculpatory excuse.",
+      "Apology setup; non-excuse admission; relaxed presentation.",
+      "Raccoon styling optional."
+    ],
+    [
+      91,
+      11,
+      12,
+      "4567906736",
+      "LowkeyHighClub",
+      "3",
+      "Make cancer extinct",
+      "Let's Make Breast Cancer EXTINCT with pink dinosaurs.",
+      "Transfer the disappearance of an animal species to a desired disappearance of disease; dinosaurs make the metaphor visible.",
+      "Extinction term; extinct animal cue; cause as substituted target.",
+      "No health efficacy or donation verified."
+    ],
+    [
+      92,
+      11,
+      32,
+      "4578021666",
+      "AURALIFECO",
+      null,
+      "Hot ghouls walk",
+      "Ghouls 10K Walking Club / Hot Ghouls Walk with sneaker-wearing ghosts carrying drinks.",
+      "Replace girls with near-sounding ghouls and show supernatural participants in an everyday walking club.",
+      "Recoverable original phrase; sound replacement; matching ghost participants.",
+      "Optional personalization not core; item reviews unrecorded."
+    ],
+    [
+      93,
+      11,
+      60,
+      "4444490839",
+      "TheTrendingGiftCo",
+      "86",
+      "Just meowied",
+      "JUST MEOWIED with cats dressed as bride and groom, disco ball, surname/date.",
+      "Substitute a cat sound into married while casting cats as newlyweds.",
+      "Familiar wedding phrase; near-sound replacement; wedding cats.",
+      "Name/date customization supplements fixed pun; listing includes can coolers, T-shirt options observed."
+    ],
+    [
+      94,
+      12,
+      17,
+      "4542320007",
+      "SimplyCozyVibes",
+      null,
+      "Speech ghouls",
+      "Speech ghouls under ghosts holding speech therapy tools.",
+      "Replace goals with near-sounding ghouls, using ghosts to embody the substituted sound in an occupational phrase.",
+      "Speech therapy context; recognizable near-sound phrase; visible ghosts.",
+      "Goals/girls interpretations both possible; exclusivity not required."
+    ],
+    [
+      95,
+      12,
+      34,
+      "4352431827",
+      "ValenTeenoDesign",
+      "3",
+      "Seasonal emergency medicine",
+      "Emergency department collage: drug vials labeled pumpkin spice propofol and spiced vanilla norepinephrine.",
+      "Apply seasonal coffee flavor conventions to serious medical substances.",
+      "Recognizable drug packaging; seasonal beverage flavor names; absurd category transfer.",
+      "Fictional flavor joke, no medical-use instruction."
+    ],
+    [
+      96,
+      12,
+      44,
+      "800536732",
+      "BlueWaveInk",
+      "64",
+      "Vote blue waves",
+      "VOTE surrounded by rows of literal blue waves.",
+      "Turn the electoral wave metaphor and political color into literal ocean waves framing a voting instruction.",
+      "Voting cue; blue color; wave form; shared political metaphor.",
+      "Observation of mechanism, not endorsement or election prediction."
     ]
   ],
   "checkpoint": {
@@ -539,11 +695,152 @@
       23,
       "graphic-led",
       "Medical awareness objects personified as friendly mascots; no clearer operation"
+    ],
+    [
+      10,
+      29,
+      "graphic-led",
+      "Support local library direct statement"
+    ],
+    [
+      10,
+      30,
+      "graphic-led",
+      "Mallard wetland scene"
+    ],
+    [
+      10,
+      35,
+      "graphic-led",
+      "Lake Ontario scenery and date"
+    ],
+    [
+      10,
+      44,
+      "graphic-led",
+      "Dinosaur landscape illustration"
+    ],
+    [
+      10,
+      45,
+      "tentative",
+      "Feminism in heavy-metal dragon styling; possible format transfer but uncertain beyond aesthetic"
+    ],
+    [
+      10,
+      47,
+      "graphic-led",
+      "Sun/floral illustration; card Bestseller but detail Etsy's Pick"
+    ],
+    [
+      10,
+      52,
+      "graphic-led",
+      "Faith reassurance with leopard"
+    ],
+    [
+      10,
+      56,
+      "repeat33",
+      "SunnyluDesigns; dog steals skeleton bone, breed/bodypart cosmetic scenario variation"
+    ],
+    [
+      10,
+      58,
+      "graphic-led",
+      "Lake map/date souvenir"
+    ],
+    [
+      10,
+      59,
+      "graphic-led",
+      "National parks typographic inventory"
+    ],
+    [
+      10,
+      57,
+      "tentative-franchise",
+      "Giant fire-breathing dorsal-spined cat attacking data center resembles specific kaiju trope; held outside quota pending review"
+    ],
+    [
+      11,
+      7,
+      "graphic-led",
+      "Veterinary identity collage"
+    ],
+    [
+      11,
+      10,
+      "tentative",
+      "Plant activity inventory; repetition alone ambiguous"
+    ],
+    [
+      11,
+      11,
+      "tentative",
+      "I could be meaner direct attitude"
+    ],
+    [
+      11,
+      24,
+      "graphic-led",
+      "Jimothy raccoon portrait"
+    ],
+    [
+      11,
+      41,
+      "tentative",
+      "Undiagnosed direct colloquial admission"
+    ],
+    [
+      11,
+      54,
+      "tentative",
+      "Unknown campaign reference"
+    ],
+    [
+      11,
+      57,
+      "graphic-led",
+      "Library card with direct Read More Books"
+    ],
+    [
+      11,
+      58,
+      "graphic-led",
+      "Ghost and pumpkin seasonal characters"
+    ],
+    [
+      12,
+      33,
+      "repeat69",
+      "LuxeKind five item reviews; same para-normal classroom ghost expression"
+    ],
+    [
+      12,
+      53,
+      "franchise",
+      "Treehouse of Horror title and recognizable aliens"
     ]
   ],
   "resume": {
-    "page": 10,
-    "next_position": 29
+    "page": 13,
+    "next_position": 1
   },
-  "evidence_note": "Actual listing images and Bestseller badge visually inspected on 2026-10-06. URL/listing identities retained; no screenshot archive. Browser runtime restart discarded early raw snapshots, but decisions and decoded observations are preserved."
+  "evidence_note": "Actual listing images and Bestseller badge visually inspected on 2026-10-06. URL/listing identities retained; no screenshot archive. Browser runtime restart discarded early raw snapshots, but decisions and decoded observations are preserved.",
+  "held_observations": [
+    [
+      90,
+      10,
+      57,
+      "4563694377",
+      "TheArtofDanialRyan",
+      "1",
+      "Cat burns data center",
+      "Giant dorsal-spined cat breathes fire onto labeled DATA CENTER.",
+      "Scale a domestic pet into a city-threatening fantasy actor and aim its power at a contemporary institution.",
+      "Familiar small creature; enormous destructive capacity; specific unexpected target.",
+      "Interpretive anti-data-center satire; no endorsement or real-world instruction; source-specific kaiju composition must not be copied."
+    ]
+  ]
 }
