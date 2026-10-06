@@ -7,10 +7,10 @@ primary_users:
   - Creative Director
   - Strategy Advisor
   - Technical Lead / PM
-status: Proposed comparative recommendation; Founder review pending
-version: 0.2
+status: Founder-reviewed workflow option; evaluations deferred; not a current priority
+version: 0.3
 last_updated: 2026-10-06
-reviewed_by: Founder (v0.1 Kittl recommendation only)
+reviewed_by: Founder (v0.1 Kittl recommendation and v0.3 optional-workflow/defer decision)
 ---
 
 # Kittl and Flying Research Workflow Assessment
@@ -19,7 +19,7 @@ reviewed_by: Founder (v0.1 Kittl recommendation only)
 
 This document records the company's assessment of Kittl and Flying Research as possible tools in the AI-native commerce workflow. It compares their overlap, complementary roles, risks, and the bounded tests required before either tool is adopted.
 
-The document began as a Kittl-only assessment on 2026-09-21. Version 0.2 adds Flying Research and reconciles both candidates into one workflow decision.
+The document began as a Kittl-only assessment on 2026-09-21. Version 0.2 added Flying Research and reconciled both candidates into one workflow decision. Version 0.3 records the Founder decision to preserve the workflow option but defer both evaluations because neither tool is a current priority.
 
 **Research as of:** Kittl evidence refreshed and Flying Research evidence added on 2026-10-06.
 
@@ -33,15 +33,16 @@ The document distinguishes:
 
 ## Decision summary
 
-> **Recommendation: do not adopt either tool as a core system yet. Run two separate, bounded evaluations at the point where each tool can answer a real workflow question.**
+> **Founder decision: do not incorporate either tool into the current workflow or prioritize an evaluation now. Preserve both as optional modules with explicit future triggers.**
 
-1. **Flying Research first, as a read-only research utility:** evaluate its free tier during the next TRACE evidence-acquisition or niche-research sprint. Test whether its Amazon bestseller history, BSR data, filters, keyword evidence, and product records materially improve speed and auditability. Do not use its design-copying, AI quote/design generation, trademark conclusions, automated upload, or store-connection features during this evaluation.
-2. **Kittl second, as a design-execution utility:** run the already-defined free Stage 0 when the next Creative Director-approved original brief is ready. If Stage 0 passes, authorize at most one month of a paid plan for commercial export and the Kittl-to-Printful production test. Do not buy an annual plan.
-3. **Keep GitHub and company roles authoritative:** Flying Research may supply marketplace evidence; it does not decide which niche to enter or what to copy. Kittl may execute an approved brief; it does not define the brand or creative meaning. GitHub remains the canonical record.
+1. **Research Analyst chooses evidence sources:** Flying Research is not a required Research Analyst tool. It may be proposed when Amazon/POD marketplace evidence—such as bestseller identity, BSR history, keywords, competition, saturation, price, or seller recurrence—would materially augment a decision-relevant question. It does not replace community-depth research, insider language, broader evidence, or manual verification.
+2. **Creative Director chooses execution tools:** Kittl is not a required creative stage. It may be proposed when an approved original brief exposes a material execution bottleneck and its apparel-design judgment, control, export quality, or time savings need testing.
+3. **Keep GitHub and company roles authoritative:** Strategy Advisor defines the decision-relevant question and interprets evidence; Research Analyst owns the source plan and verification; Creative Director owns original concepts and briefs; Brand Manager reviews brand fit; Founder owns consequential approvals. GitHub remains the canonical record.
+4. **Defer activation:** do not create accounts, connect services, schedule tests, or add either tool to current work until its trigger is present and the Founder authorizes the bounded evaluation.
 
-The intended combined sequence is:
+The optional future sequence is:
 
-> **Flying Research supplies marketplace evidence → Research Analyst records and verifies it → Strategy Advisor makes the commercial recommendation → Creative Director defines an original concept and brief → Kittl supports design execution → GitHub preserves provenance and approval → Printful produces → Shopify sells.**
+> **Strategy Advisor defines the research question → Research Analyst creates the source plan → Flying Research may augment marketplace evidence when relevant → Research Analyst verifies and documents evidence → Strategy Advisor makes the commercial recommendation → Creative Director defines an original concept and brief → Kittl may support design execution when useful → Brand Manager reviews → GitHub preserves provenance and approval → authorized production follows.**
 
 Kittl and Flying Research therefore **complement more than they compete**. The main reason not to adopt both immediately is not redundancy; it is premature complexity and the risk of letting vendor workflows replace the company's own research, strategy, originality, and governance.
 
@@ -280,9 +281,13 @@ Kittl says private user uploads remain the user's and are processed/stored to pr
 
 ## Bounded pilot
 
-The pilot has two stages.
+**Current status:** Deferred, not scheduled, and not a current priority.
 
-### Stage 0 — Free private evaluation
+**Revisit trigger:** an approved original Creative Director brief exposes a material execution bottleneck, or the company deliberately authorizes a comparison of Kittl's T-shirt-specific design judgment, controllable revision workflow, export quality, and time savings against the existing process.
+
+If that trigger is reached, the pilot has two stages.
+
+### Stage 0 — Free private evaluation — deferred
 
 Use the free plan only for non-commercial interface evaluation:
 
@@ -392,11 +397,15 @@ During evaluation:
 
 The current public legal routes behaved like a client-rendered application during this review and did not expose enough text for a complete contractual or privacy analysis. Terms, privacy, cancellation, data use, connector permissions, and current pricing therefore require a fresh in-account review before any paid plan, extension, upload, or account connection.
 
-### Bounded Flying Research Gate 0
+### Bounded Flying Research Gate 0 — deferred
 
-**Trigger:** the next approved TRACE evidence-acquisition pass or Research Analyst niche-market sprint for which Amazon POD data is relevant.
+**Current status:** Not scheduled and not a current priority.
+
+**Revisit trigger:** a real TRACE or Research Analyst work packet requires Amazon/POD marketplace evidence, the current acquisition method creates a material bottleneck, and the Research Analyst judges Flying Research likely to add decision-relevant evidence. Amazon relevance alone does not automatically trigger the tool.
 
 **Owner:** Research Analyst for data reconciliation. Creative Director owns any TRACE mechanism decoding. Strategy Advisor owns commercial interpretation and the recommendation to proceed, defer, or reject. Founder approval is required before spending money or connecting an external business account.
+
+Before proposing Gate 0, the Research Analyst records whether Flying Research is needed, why, the evidence expected, how it will be verified, and the limitations. A `not used` decision is valid and requires no further action.
 
 Use the free tier in read-only mode:
 
@@ -428,14 +437,15 @@ Do not test Flying Upload or store connections during research Gate 0. Revisit u
 
 ## Final assessment
 
-**Recommendation:** evaluate both tools conditionally, in different stages, with no immediate core adoption.
+**Recommendation:** preserve both tools as conditional options, but defer evaluation and make no current workflow change.
 
 Kittl is the stronger candidate for the known gap between sound creative direction and polished, production-ready apparel execution. Flying Research is the stronger candidate for accelerating Amazon/POD marketplace evidence acquisition and may be particularly useful to TRACE. Neither is a substitute for the company's role system, originality controls, or canonical records.
 
-The near-term decision is therefore **not “Kittl or Flying Research.”** It is:
+The current decision is therefore **not “Kittl or Flying Research.”** It is:
 
-- test Flying Research when marketplace evidence is being acquired;
-- test Kittl when an approved original brief is being executed; and
+- let Research Analyst choose whether Flying Research could materially augment a future Amazon/POD marketplace-evidence question;
+- let Creative Director propose Kittl only when a future approved brief exposes a material execution bottleneck;
+- do not schedule either evaluation now; and
 - adopt only the module that proves a measurable reduction in time or Founder involvement without lowering evidence quality, originality, output quality, or control.
 
 If Flying Research starts deciding what to sell by imitating bestsellers, or Kittl starts deciding what the brand means through templates, either tool's speed advantage becomes a strategic liability.
