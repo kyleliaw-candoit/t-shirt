@@ -1,7 +1,7 @@
 # TRACE Etsy 60 — execution record
 
 Date: 2026-10-06. Owner: Creative Director.
-Status: IN PROGRESS. Founder authorized 55 additional eligible designs, total 60 including the five reviewed pilot sources. Amazon excluded.
+Status: COMPLETED with disclosed supplementary-evidence limits; awaiting Founder review. Founder authorized 55 additional eligible designs, total 60 including the five reviewed pilot sources. Amazon excluded.
 
 ## Execution scope
 
@@ -19,4 +19,12 @@ Save screening and individual recipe records in batches; conduct operator review
 
 ## Baseline
 
-Five reviewed sources: 4565216251; 4534865585; 4479750317; 1747705422; 4532997098. See TRACE-Etsy-First-Five-US-2026-10-06.md. Current additional completed: 0/55. Grouping not started.
+Five reviewed sources: 4565216251; 4534865585; 4479750317; 1747705422; 4532997098. See TRACE-Etsy-First-Five-US-2026-10-06.md. Additional completed: 55/55; combined total: 60. Proposed navigation groups: 11. See [final report](TRACE-Etsy-60-Report.md), [additional recipe cards](TRACE-Etsy-60-Additional-Recipes.md) and [structured ledger](TRACE-Etsy-60-Working-Ledger.json).
+
+## Execution outcome and deviations
+
+The plan above is preserved as the original intention. Actual traversal covered 392 displayed positions through page 7 position 51, with card/title triage before 70 unique detail inspections. The selected 55 are not claimed to be an exhaustive first-eligible census. All 55 were decoded individually before grouping.
+
+The intended first-five checkpoint occurred retrospectively at batch end, followed by a full-55 operator review; it was not an independent review. Corrections and borderline interpretations are documented in the final report.
+
+Google Shopping yielded readable organic captures for 38 of 55 queries. Seventeen received web fallback; sixteen have a product/catalog source or related variant, one has no useful independent external source. Eight earlier empty captures were unresolved; a later nine-query batch ended in a verified unusual-traffic block. Google browser access stopped without CAPTCHA attempt or bypass. Missing follow-up did not block eligible source decoding. No outside sales-causality or independent-invention claim was inferred.
