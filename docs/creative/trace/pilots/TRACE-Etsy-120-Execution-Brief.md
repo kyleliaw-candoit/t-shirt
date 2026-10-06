@@ -10,17 +10,31 @@ Collect 60 additional eligible Etsy bestseller T-shirt designs, bringing the res
 
 Exclude borderline interpretations from confirmed mechanism support and the ranked usable catalog, while preserving them as tentative research. Do not discard an entire family when it has other clear support. “Confirmed” concerns the observed mechanism relationship, not causal sales proof.
 
-## Frequency measure
+## Observed adoption score — Founder approved
 
-For each specific reusable recipe, count unique selected design expressions with a clear, documented relationship to that recipe. Count a design once per recipe. Exclude exact reprints, cosmetic variants and repeated merchant offers from additional design credit. Separately retain recurrence observations.
+**Score = distinct designs + additional seller appearances.**
 
-Multiple mechanisms may clearly operate in one design; allow each supported relationship without requiring exclusive classification. Therefore recipe totals can exceed the number of designs. A family roll-up counts the union of supporting designs, not the sum of its recipes.
+For each clear mechanism, give one point per distinct design expression and one additional point for each additional distinct seller observed offering that expression or a close cosmetic variant. This equals the number of distinct design–seller pairs when seller identities are resolved. Count repeat listings, colors, sizes and garment mockups from the same seller once for that design. A genuinely different expression using the same mechanism earns its own design point; cosmetic variants stay with the original expression.
 
-Publish the raw support count and supporting source IDs. Frequency is within this selected sample; it is not sales volume, Etsy-wide prevalence, independent invention, or a predictor of creative success. Record tentative support separately, excluded from the score.
+Example: three distinct designs, offered by four, one and one sellers respectively, receive 3 design points + 3 additional seller points = **6 total**.
 
-Rank comparable specific recipes separately from broad families. Broad groups such as double meaning must not compete directly with narrow recipes such as grammar escalation. Show families as navigation and a separate roll-up.
+Always show the breakdown alongside the total and trace each credited seller appearance to a source. Unknown seller identity is unresolved and earns no additional seller point. Repeated marketplace or syndicated offers must not automatically be treated as different sellers. Do not equate distinct storefronts with verified independent ownership.
 
-For downstream requests such as “apply the top 20 to remote working parents,” select from the highest-frequency supported recipes whose applicability conditions fit the audience truth. Report if fewer than 20 qualified recipes exist; do not manufacture categories or force unsuitable applications. Audience fit remains a creative judgment separate from frequency.
+The Etsy Bestseller badge remains the source-design commercial admission signal. Additional offers contribute observed adoption, not a claim that each copy is a bestseller or has verified sales. Sales/review evidence remains supporting notes, with no numerical weighting. Equal weighting is an explicit simple starting assumption, not a validated predictor.
+
+Exclude borderline interpretations from both score components. Keep tentative source records separately. Multiple clear mechanisms may operate in a design; credit each supported relationship without exclusive classification. For family roll-ups, deduplicate design–seller pairs across member recipes instead of summing recipe scores.
+
+Rank specific comparable recipes by this score; keep broad family roll-ups separate. For “apply the top 20 to remote working parents,” select high-scoring recipes with applicable audience conditions. Do not fabricate twenty categories or force poor fits.
+
+### Comparable observation effort
+
+Use the same bounded follow-up effort for each design: up to three representative non-sponsored external offers, under the existing workflow, plus recurrence already encountered during the ordered Etsy scan. Record which observations came from which route. This is a capped observed sample, not an exhaustive seller count. Do not search longer merely to boost a favorite recipe.
+
+Missing or blocked follow-up is unknown coverage, not zero adoption. Show coverage alongside scores; flag comparisons with unequal coverage. Reconcile legacy seller observations under these rules before combining old and new scores. Source-design count remains visible even when seller coverage is incomplete.
+
+### Decision record
+
+2026-10-06: Founder approved distinct-design points plus additional-seller points, with the breakdown visible. This supersedes the initial frequency-only proposal in this brief. Additional 60-design scan remains authorized and unfinished; no weighted review or sales formula introduced.
 
 ## Existing-source baseline and exclusions
 
@@ -59,7 +73,7 @@ Count 60 new eligible clear-mechanism design expressions toward the expansion ta
 - 60 additional individual source decodes with observed badge, artwork, eligibility, interpretation and evidence limits.
 - Ordered screening and deduplication ledger.
 - Expanded platform-independent recipe cards; separate family index.
-- Traceable recipe frequency table, tentative exclusions and family union counts.
+- Traceable recipe adoption-score table (design points + additional seller points), coverage notes, tentative exclusions and deduplicated family totals.
 - Quality review and disclosed coverage limits.
 - No production T-shirt design work during this expansion.
 
