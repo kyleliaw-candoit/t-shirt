@@ -2,7 +2,7 @@
 
 Date: 2026-10-06
 Owner: Creative Director
-Status: **60 additional eligible expressions decoded; operator synthesis complete with disclosed evidence limits.** See the [completed report](TRACE-Etsy-120-Report.md), [source decodes](TRACE-Etsy-120-Source-Decodes.md) and [evidence ledger](TRACE-Etsy-120-Evidence.json). Independent Creative Director review pending.
+Status: **60 additional eligible expressions decoded; operator synthesis complete with disclosed evidence limits.** See the [completed report](TRACE-Etsy-120-Report.md), [source decodes](TRACE-Etsy-120-Source-Decodes.md) and [evidence ledger](TRACE-Etsy-120-Evidence.json). Independent review completed: **PASS WITH NON-BLOCKING LIMITATIONS** after corrections; see the [review record](TRACE-Etsy-120-Independent-Review.md).
 
 ## Founder direction
 
@@ -34,7 +34,7 @@ Missing or blocked follow-up is unknown coverage, not zero adoption. Show covera
 
 ### Decision record
 
-2026-10-06: Founder approved distinct-design points plus additional-seller points, with the breakdown visible. This supersedes the initial frequency-only proposal in this brief. Additional 60-design scan remains authorized and unfinished; no weighted review or sales formula introduced.
+2026-10-06: Founder approved distinct-design points plus additional-seller points, with the breakdown visible. This supersedes the initial frequency-only proposal in this brief. At the time of this decision the additional 60-design scan was authorized and unfinished; it is now complete (see completion record); no weighted review or sales formula introduced.
 
 ## Existing-source baseline and exclusions
 

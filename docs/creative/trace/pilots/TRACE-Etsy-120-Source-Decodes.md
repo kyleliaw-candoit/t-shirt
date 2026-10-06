@@ -900,7 +900,7 @@ Each admitted source was inspected on its Etsy product page for the Bestseller b
 
 **Alternative appeal / limits:** No arbitrary accessory-only reading; style optional. Mechanism clarity is not proof of creator intent or the cause of purchases.
 
-**Shared recipe:** [TRM-030](../mechanisms/TRM-Catalog-026-047.md#trm-030). Other defensible mechanisms may coexist.
+**Shared recipe:** [TRM-051](../mechanisms/TRM-Catalog-048-070.md#trm-051). Other defensible mechanisms may coexist.
 
 **Follow-up:** Cat performs skateboard trick. One additional storefront credited: Threadless/erimorie. [Selected product attempt](https://www.threadless.com/shop/%40erimorie/design/skateboard-trick-cat). Candidate offers and any ordered-scan recurrence are preserved in the [evidence ledger](TRACE-Etsy-120-Evidence.json).
 

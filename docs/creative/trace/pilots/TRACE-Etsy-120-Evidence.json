@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "status": "Operator-scored candidate catalog; independent review pending",
+  "status": "Independently reviewed candidate catalog — PASS WITH NON-BLOCKING LIMITATIONS; no production approval",
   "scoring": "distinct design–seller pairs = distinct designs + additional seller appearances",
   "not_claimed": [
     "independent storefront ownership",
@@ -1232,6 +1232,7 @@
         "F03"
       ],
       "sources": [
+        4,
         8,
         24,
         25,
@@ -1248,13 +1249,14 @@
       ],
       "fit_failure": "Fails when the second meaning requires an explanation or the image merely decorates the phrase.",
       "illustration": "A gardener calls a packet of seeds a growth plan; the financial and literal readings must both be familiar.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-004",
-      "design_points": 7,
+      "design_points": 8,
       "additional_seller_points": 4,
-      "score": 11,
+      "score": 12,
       "pairs": [
+        "4|SellItAgainDesigns",
         "8|ByeByeDesignCo",
         "24|ArtemOpus",
         "25|ComfortCustomShirt",
@@ -1268,7 +1270,7 @@
         "8|Chowdaheadz"
       ],
       "coverage": {
-        "legacy_sources": 4,
+        "legacy_sources": 5,
         "new_sources": 3,
         "new_sources_with_credited_external_offer": 2
       }
@@ -1276,7 +1278,7 @@
     {
       "id": "TRM-005",
       "number": 5,
-      "title": "Sound substitution with a matching scene",
+      "title": "Phonetic reinterpretation resolved by context",
       "families": [
         "F03"
       ],
@@ -1304,7 +1306,7 @@
       ],
       "fit_failure": "Fits audiences familiar with the original phrase; fails if arbitrary spelling is doing all the work.",
       "illustration": "A repair hobbyist's weekend forecast replaces rain with a near-sounding tool term, if a natural phrase can be found; test recognition before drawing.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-005",
       "design_points": 14,
@@ -1386,8 +1388,6 @@
         "F06"
       ],
       "sources": [
-        4,
-        20,
         63,
         79,
         107
@@ -1400,22 +1400,20 @@
       ],
       "fit_failure": "An arbitrary animal mascot is insufficient; the language must motivate that animal.",
       "illustration": "A social butterfly conducts an actual conversation among flowers; audience and wording remain unvalidated.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-007",
-      "design_points": 5,
+      "design_points": 3,
       "additional_seller_points": 1,
-      "score": 6,
+      "score": 4,
       "pairs": [
-        "4|SellItAgainDesigns",
-        "20|VoidandwildCo",
         "63|ComfyDesignShop",
         "79|22ndOfOctober",
         "107|VibePrintFun",
         "63|TheLibraryCloset"
       ],
       "coverage": {
-        "legacy_sources": 2,
+        "legacy_sources": 0,
         "new_sources": 3,
         "new_sources_with_credited_external_offer": 1
       }
@@ -1772,7 +1770,7 @@
     {
       "id": "TRM-018",
       "number": 18,
-      "title": "Positive self-claim contradicted by the speaker",
+      "title": "Favorable claim undercut by its pictured subject",
       "families": [
         "F01",
         "F06"
@@ -1791,7 +1789,7 @@
       ],
       "fit_failure": "Fails if the image and slogan can be read independently without changing meaning.",
       "illustration": "An immaculately calm declaration comes from a visibly tangled craft project.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-018",
       "design_points": 4,
@@ -1966,7 +1964,6 @@
         "F02"
       ],
       "sources": [
-        31,
         88,
         99
       ],
@@ -1978,20 +1975,19 @@
       ],
       "fit_failure": "Fails if it only prints a birth year without revaluing age.",
       "illustration": "Compare accumulated experience to a patiently developed craft finish, with a clear human mapping.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-023",
-      "design_points": 3,
+      "design_points": 2,
       "additional_seller_points": 1,
-      "score": 4,
+      "score": 3,
       "pairs": [
-        "31|HappyYouApparel",
         "88|KavasClothing",
         "99|TheToastedMarket",
         "88|Alta 8 Armwear"
       ],
       "coverage": {
-        "legacy_sources": 1,
+        "legacy_sources": 0,
         "new_sources": 2,
         "new_sources_with_credited_external_offer": 1
       }
@@ -2015,7 +2011,7 @@
       ],
       "fit_failure": "Fails if the same message works identically on an unrelated surface.",
       "illustration": "A back message offers a specific small assistance to the person behind; test consent and tone.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-004-025.md#trm-024",
       "design_points": 2,
@@ -2201,40 +2197,6 @@
       "coverage": {
         "legacy_sources": 0,
         "new_sources": 2,
-        "new_sources_with_credited_external_offer": 1
-      }
-    },
-    {
-      "id": "TRM-030",
-      "number": 30,
-      "title": "Animal ability transferred into a human sport",
-      "families": [
-        "F06"
-      ],
-      "sources": [
-        101
-      ],
-      "operation": "Turn a familiar bodily capability into competent performance of a human activity.",
-      "essentials": [
-        "Recognizable animal ability",
-        "activity requiring that ability",
-        "coordinated action rather than prop placement"
-      ],
-      "fit_failure": "Fails when a pet simply stands next to sporting equipment.",
-      "illustration": "A balancing animal performs an unmistakable balancing task; anatomy must make the relation readable.",
-      "version": "1.0",
-      "maturity": "CANDIDATE",
-      "file": "TRM-Catalog-026-047.md#trm-030",
-      "design_points": 1,
-      "additional_seller_points": 1,
-      "score": 2,
-      "pairs": [
-        "101|mimidollstudios",
-        "101|Threadless/erimorie"
-      ],
-      "coverage": {
-        "legacy_sources": 0,
-        "new_sources": 1,
         "new_sources_with_credited_external_offer": 1
       }
     },
@@ -2476,7 +2438,7 @@
     {
       "id": "TRM-038",
       "number": 38,
-      "title": "Expected adversaries exchange a tender gesture",
+      "title": "Expected threat replaced by a gentle action",
       "families": [
         "F06",
         "F01"
@@ -2493,7 +2455,7 @@
       ],
       "fit_failure": "Fails if tenderness is inferred only from the caption.",
       "illustration": "An enormous imaginary guard carefully shelters a tiny seedling.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-026-047.md#trm-038",
       "design_points": 2,
@@ -2797,7 +2759,6 @@
         "F07"
       ],
       "sources": [
-        24,
         33,
         36
       ],
@@ -2809,21 +2770,20 @@
       ],
       "fit_failure": "Fails if the parts are simply rearranged without cause.",
       "illustration": "A routine tug detaches a replaceable fantasy component; depict cause and result together.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-026-047.md#trm-047",
-      "design_points": 3,
+      "design_points": 2,
       "additional_seller_points": 2,
-      "score": 5,
+      "score": 4,
       "pairs": [
-        "24|ArtemOpus",
         "33|PixelThreadAlchemy",
         "36|ozunallc",
         "33|SunnyluDesigns",
         "36|TeePublic/suncord"
       ],
       "coverage": {
-        "legacy_sources": 3,
+        "legacy_sources": 2,
         "new_sources": 0,
         "new_sources_with_credited_external_offer": 0
       }
@@ -2933,12 +2893,13 @@
     {
       "id": "TRM-051",
       "number": 51,
-      "title": "Anatomy gives an activity advantage",
+      "title": "Animal capability enables a human task",
       "families": [
         "F06"
       ],
       "sources": [
-        42
+        42,
+        101
       ],
       "operation": "Choose a creature whose distinctive anatomy makes a human task unusually possible.",
       "essentials": [
@@ -2948,20 +2909,22 @@
       ],
       "fit_failure": "Fails if the special anatomy contributes nothing.",
       "illustration": "A many-limbed creature performs a task with simultaneous distinct actions.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-048-070.md#trm-051",
-      "design_points": 1,
-      "additional_seller_points": 1,
-      "score": 2,
+      "design_points": 2,
+      "additional_seller_points": 2,
+      "score": 4,
       "pairs": [
         "42|ScatterbrainTees",
+        "101|mimidollstudios",
+        "101|Threadless/erimorie",
         "42|Radius Drums"
       ],
       "coverage": {
         "legacy_sources": 1,
-        "new_sources": 0,
-        "new_sources_with_credited_external_offer": 0
+        "new_sources": 1,
+        "new_sources_with_credited_external_offer": 1
       }
     },
     {
@@ -3455,7 +3418,7 @@
       ],
       "fit_failure": "Fails if species choice contributes no motive.",
       "illustration": "A creature waits politely for an event that would benefit its known feeding habit.",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "file": "TRM-Catalog-048-070.md#trm-066",
       "design_points": 1,
@@ -3605,6 +3568,32 @@
         "new_sources": 0,
         "new_sources_with_credited_external_offer": 0
       }
+    },
+    {
+      "id": "TRM-071",
+      "number": 71,
+      "title": "Aging person described by an object condition report",
+      "families": [
+        "F02",
+        "F05"
+      ],
+      "sources": [
+        31
+      ],
+      "file": "TRM-071-Object-Condition-Report.md",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "pairs": [
+        "31|HappyYouApparel"
+      ],
+      "design_points": 1,
+      "score": 1,
+      "additional_seller_points": 0,
+      "coverage": {
+        "legacy_sources": 1,
+        "new_sources": 0,
+        "new_sources_with_credited_external_offer": 0
+      }
     }
   ],
   "families": [
@@ -3638,7 +3627,9 @@
       "score": 44,
       "pairs": [
         "1|SarcasticRebelShop",
+        "1|TeePublic/paraplyshop",
         "9|Monlesacx",
+        "9|Silver Lake T-shirts",
         "10|CrazyDogTshirts",
         "14|PeraCustomTX",
         "15|HappyBdayBoutique",
@@ -3648,39 +3639,37 @@
         "30|SunnyluDesigns",
         "46|BASICBOUTIQUECOLTD",
         "53|DaisyApparelArt",
+        "53|Zazzle/Nabil Designs",
         "60|LucyKentPrint",
+        "66|LULO Boutique",
         "66|LegendaryApparelShop",
         "67|LegendaryApparelShop",
+        "80|HopiMall",
         "80|ZebraCustomApparel",
         "82|ThreadifiedShop",
         "83|EveryDayClothingTX",
         "86|CustombyTexas",
+        "86|OrnamentallyYou",
         "89|TeaShirtsUS",
         "90|CreativeInkFlow",
+        "90|WRYBLUE STORE / WryBlue Studio",
         "100|EverChangingJourney",
+        "100|quartzdesignstudio",
         "105|NostalGiftShop",
+        "105|Orbital Clothing",
         "106|AllTeesPopular",
+        "108|ArtGiftStop",
         "108|MedusApparel",
         "111|EverChangingJourney",
+        "112|CubeBik",
         "112|Hearthlandfashiontee",
         "114|TriangleThreadsShop",
         "115|EveryDayClothingTX",
         "116|CatDistributor",
+        "119|CloudCottoNShirt",
         "119|NewDestinyCo",
         "120|SovelleApparel",
-        "66|LULO Boutique",
-        "80|HopiMall",
-        "86|OrnamentallyYou",
-        "90|WRYBLUE STORE / WryBlue Studio",
-        "100|quartzdesignstudio",
-        "105|Orbital Clothing",
-        "108|ArtGiftStop",
-        "112|CubeBik",
-        "120|TeePublic/artoglo",
-        "119|CloudCottoNShirt",
-        "9|Silver Lake T-shirts",
-        "53|Zazzle/Nabil Designs",
-        "1|TeePublic/paraplyshop"
+        "120|TeePublic/artoglo"
       ]
     },
     {
@@ -3699,12 +3688,14 @@
         "TRM-057",
         "TRM-062",
         "TRM-063",
-        "TRM-064"
+        "TRM-064",
+        "TRM-071"
       ],
       "design_points": 21,
       "additional_seller_points": 7,
       "score": 28,
       "pairs": [
+        "3|Chummy Tees",
         "3|TeeIslandCo",
         "11|TuckersTees",
         "12|ColorfulComfortTees",
@@ -3712,27 +3703,26 @@
         "31|HappyYouApparel",
         "32|LALocalDesign",
         "48|LunnaGiftsStudio",
+        "48|UpTopNorth",
         "51|EndeavorGoods",
         "58|CatDistributor",
         "62|CloudCottoNShirt",
         "72|InkWavePress",
+        "74|Feline & Fable",
         "74|TeecentricUS",
         "76|ArtemOpus",
+        "77|Mossdeer",
         "77|SouthwestApparelUS",
         "81|VELAStudioArt",
         "85|Uranusevn",
+        "88|Alta 8 Armwear",
         "88|KavasClothing",
         "97|ZandisCorner",
         "99|TheToastedMarket",
         "103|SOFIIAS",
-        "110|GrapeApparel",
-        "74|Feline & Fable",
-        "77|Mossdeer",
-        "88|Alta 8 Armwear",
         "103|Teeextra",
-        "110|TeePublic/Dog&Cat",
-        "48|UpTopNorth",
-        "3|Chummy Tees"
+        "110|GrapeApparel",
+        "110|TeePublic/Dog&Cat"
       ]
     },
     {
@@ -3748,61 +3738,60 @@
         "TRM-065",
         "TRM-069"
       ],
-      "design_points": 35,
+      "design_points": 34,
       "additional_seller_points": 16,
-      "score": 51,
+      "score": 50,
       "pairs": [
         "4|SellItAgainDesigns",
         "8|ByeByeDesignCo",
+        "8|Chowdaheadz",
         "14|PeraCustomTX",
         "19|ColorfulTeeStation",
-        "20|VoidandwildCo",
         "24|ArtemOpus",
         "25|ComfortCustomShirt",
         "28|TeeHeeUSCo",
         "34|IronandOakBotique",
         "35|HandmadeHPL",
         "37|22ndOfOctober",
+        "37|Bavarian Inn",
         "40|ReSoSo",
         "54|CuTeesCustomShirts",
+        "59|BrideFits",
         "59|PakStudioDesigns",
         "61|ColorfulComfortTees",
         "63|ComfyDesignShop",
+        "63|TheLibraryCloset",
+        "65|RoyaltyTeesTreasures",
         "65|TeacherLandDesign",
+        "65|Tees.Design",
+        "66|LULO Boutique",
         "66|LegendaryApparelShop",
+        "68|Once Upon a Book Club",
         "68|UpTopNorth",
+        "69|EveryDayClothingTX",
         "69|LetsGrowBoutique",
+        "69|LuxeKind",
+        "69|TeePublic/hja3",
         "70|JaxGraphicTees",
         "75|BabyBNCat",
+        "75|Stormseye Design",
+        "78|Flour Covered",
         "78|TheCottageMeadowShop",
         "79|22ndOfOctober",
         "83|EveryDayClothingTX",
         "91|LowkeyHighClub",
+        "91|TeePublic/Be Water",
         "92|AURALIFECO",
         "93|TheTrendingGiftCo",
         "94|SimplyCozyVibes",
         "96|BlueWaveInk",
+        "98|CreationShedShop",
         "98|StylishTeeShirt",
         "102|angiepea",
         "107|VibePrintFun",
         "113|SimplyCozyVibes",
-        "118|RewindPremiumTees",
-        "63|TheLibraryCloset",
-        "65|Tees.Design",
-        "66|LULO Boutique",
-        "68|Once Upon a Book Club",
-        "69|TeePublic/hja3",
-        "75|Stormseye Design",
-        "78|Flour Covered",
-        "91|TeePublic/Be Water",
-        "98|CreationShedShop",
         "118|Flavachris Enterprises LLC",
-        "69|EveryDayClothingTX",
-        "69|LuxeKind",
-        "65|RoyaltyTeesTreasures",
-        "8|Chowdaheadz",
-        "37|Bavarian Inn",
-        "59|BrideFits"
+        "118|RewindPremiumTees"
       ]
     },
     {
@@ -3817,19 +3806,19 @@
       "additional_seller_points": 5,
       "score": 13,
       "pairs": [
+        "6|Crazy Dog TShirts",
         "6|FinenessClothing",
         "18|EEClothingTX",
+        "18|KeepCove",
         "44|PhoenixSparkStudio",
         "49|SoftessShop",
         "56|PineSpiceBooks",
-        "57|CatDistributor",
-        "71|boutiquebyPedro",
-        "84|PineSpiceBooks",
-        "71|OrnamentallyYou",
-        "18|KeepCove",
-        "6|Crazy Dog TShirts",
         "56|RETROWASH APPAREL",
-        "57|OrnamentallyYou"
+        "57|CatDistributor",
+        "57|OrnamentallyYou",
+        "71|OrnamentallyYou",
+        "71|boutiquebyPedro",
+        "84|PineSpiceBooks"
       ]
     },
     {
@@ -3846,32 +3835,34 @@
         "TRM-046",
         "TRM-059",
         "TRM-060",
-        "TRM-061"
+        "TRM-061",
+        "TRM-071"
       ],
-      "design_points": 13,
+      "design_points": 14,
       "additional_seller_points": 7,
-      "score": 20,
+      "score": 21,
       "pairs": [
         "5|Violetsnows",
         "23|CuTeesCustomShirts",
+        "27|BrandiTees",
+        "27|MerryMomentTees",
         "27|SunsetAndStitchCo",
+        "31|HappyYouApparel",
         "32|LALocalDesign",
         "35|HandmadeHPL",
         "55|RetroFluent",
         "75|BabyBNCat",
+        "75|Stormseye Design",
         "87|CatDistributor",
+        "87|TeePublic/jim_fako",
         "95|ValenTeenoDesign",
         "97|ZandisCorner",
-        "104|signaturetshirts",
-        "108|MedusApparel",
-        "114|TriangleThreadsShop",
-        "75|Stormseye Design",
-        "87|TeePublic/jim_fako",
         "104|Bigfirefashion",
+        "104|MillieLaneTees",
+        "104|signaturetshirts",
         "108|ArtGiftStop",
-        "27|MerryMomentTees",
-        "27|BrandiTees",
-        "104|MillieLaneTees"
+        "108|MedusApparel",
+        "114|TriangleThreadsShop"
       ]
     },
     {
@@ -3883,7 +3874,6 @@
         "TRM-015",
         "TRM-018",
         "TRM-029",
-        "TRM-030",
         "TRM-033",
         "TRM-038",
         "TRM-050",
@@ -3893,43 +3883,42 @@
         "TRM-067",
         "TRM-070"
       ],
-      "design_points": 23,
+      "design_points": 22,
       "additional_seller_points": 10,
-      "score": 33,
+      "score": 32,
       "pairs": [
         "1|SarcasticRebelShop",
-        "4|SellItAgainDesigns",
+        "1|TeePublic/paraplyshop",
         "9|Monlesacx",
+        "9|Silver Lake T-shirts",
         "17|EverydayCustomTX",
+        "17|GlamGalorex2",
         "20|VoidandwildCo",
         "21|HollisDesignCompany",
         "30|SunnyluDesigns",
+        "42|Radius Drums",
         "42|ScatterbrainTees",
         "43|FlaireAura",
         "46|BASICBOUTIQUECOLTD",
         "63|ComfyDesignShop",
+        "63|TheLibraryCloset",
+        "64|Dearmora Gifts",
         "64|GilRootsllc",
         "67|LegendaryApparelShop",
+        "73|HappyRoon",
         "73|OldSchoolCulture",
         "79|22ndOfOctober",
         "82|ThreadifiedShop",
         "100|EverChangingJourney",
+        "100|quartzdesignstudio",
+        "101|Threadless/erimorie",
         "101|mimidollstudios",
         "107|VibePrintFun",
         "109|WildSocietyStudio",
         "111|EverChangingJourney",
         "115|EveryDayClothingTX",
-        "119|NewDestinyCo",
-        "63|TheLibraryCloset",
-        "64|Dearmora Gifts",
-        "73|HappyRoon",
-        "100|quartzdesignstudio",
-        "101|Threadless/erimorie",
         "119|CloudCottoNShirt",
-        "9|Silver Lake T-shirts",
-        "17|GlamGalorex2",
-        "42|Radius Drums",
-        "1|TeePublic/paraplyshop"
+        "119|NewDestinyCo"
       ]
     },
     {
@@ -3941,20 +3930,19 @@
         "TRM-053",
         "TRM-068"
       ],
-      "design_points": 7,
+      "design_points": 6,
       "additional_seller_points": 3,
-      "score": 10,
+      "score": 9,
       "pairs": [
-        "24|ArtemOpus",
         "33|PixelThreadAlchemy",
+        "33|SunnyluDesigns",
+        "36|TeePublic/suncord",
         "36|ozunallc",
         "38|CreativeInkFlow",
+        "38|EverWildTees",
         "50|NicheComforts",
         "60|LucyKentPrint",
-        "117|TeeShirtApparel",
-        "33|SunnyluDesigns",
-        "38|EverWildTees",
-        "36|TeePublic/suncord"
+        "117|TeeShirtApparel"
       ]
     },
     {
@@ -3972,14 +3960,14 @@
       "score": 9,
       "pairs": [
         "13|QMAstudio",
+        "26|USACustomTeeCenter",
         "26|WallGalaPrints",
         "39|CottonDashPrintCo",
         "58|CatDistributor",
         "87|CatDistributor",
-        "91|LowkeyHighClub",
         "87|TeePublic/jim_fako",
-        "91|TeePublic/Be Water",
-        "26|USACustomTeeCenter"
+        "91|LowkeyHighClub",
+        "91|TeePublic/Be Water"
       ]
     },
     {
@@ -6498,9 +6486,9 @@
       "source": 4,
       "listing_id": "1747705422",
       "seller": "SellItAgainDesigns",
-      "label": "Skeleton crew",
-      "observation": "Selected skeleton-crew phrase literalizes a familiar bone idiom.",
-      "mechanism": "Physical skeleton provides the literal reading of a figurative persona.",
+      "label": "Bad to the bone",
+      "observation": "Skeleton graphics with the selected prewritten Most likely to be bad to the bone option.",
+      "mechanism": "A skeleton makes the bone in a figurative character judgment literally visible.",
       "era": "legacy",
       "decode": "../pilots/TRACE-Etsy-First-Five-US-2026-10-06.md#04--literalize-an-idiom-as-a-seasonal-persona",
       "tentative": false
@@ -7158,7 +7146,7 @@
       "seller": "PakStudioDesigns",
       "label": "O-fish-iant",
       "observation": "Fish in formal clothing holding a book, caption o-fish-iant.",
-      "mechanism": "Split a job title around an animal sound and depict the resulting hybrid literally.",
+      "mechanism": "Split a job title around an animal name and depict the resulting hybrid literally.",
       "essentials": "Occupational homophone; animal inserted into word; role costume; ceremonial prop.",
       "era": "legacy",
       "decode": "../pilots/TRACE-Etsy-60-Additional-Recipes.md#59--o-fish-iant",
@@ -8155,5 +8143,37 @@
       "operator interpretation review only",
       "external product coverage uneven"
     ]
+  },
+  "retired_recipes": [
+    {
+      "id": "TRM-030",
+      "version": "1.1",
+      "merged_into": "TRM-051",
+      "sources": [
+        101
+      ],
+      "reason": "Sport versus another human task is not an essential operation boundary."
+    }
+  ],
+  "independent_review": {
+    "date": "2026-10-06",
+    "record": "TRACE-Etsy-120-Independent-Review.md",
+    "reviewed_head": "3896a2f3805ef891d098d1c478a349765680c421",
+    "verdict": "PASS WITH NON-BLOCKING LIMITATIONS",
+    "scope": "Independent documentation/evidence-record review; no fresh marketplace or image inspection.",
+    "pair_changes": 0,
+    "validation": {
+      "result": "PASS",
+      "active_recipes": 68,
+      "single_source_recipes": 46,
+      "supported_sources": 113,
+      "unchanged_pairs": 168,
+      "new_followups": 60,
+      "resolved_new_external_credits": 29,
+      "retained_roster_positions": 771,
+      "admissions_checked_against_retained_roster": 49,
+      "local_markdown_links_and_anchors_checked": 543,
+      "checks": "Independent recomputation of source membership, unique pair sets, recipe arithmetic, coverage, family unions, catalog and report consistency; git diff --check"
+    }
   }
 }

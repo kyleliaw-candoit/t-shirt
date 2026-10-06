@@ -1,6 +1,6 @@
 # TRACE reusable recipes 048–070
 
-Version 1.0 · 2026-10-06 · Operator-authored candidates for Creative Director review.
+Catalog release 1.1 · 2026-10-06 · Independently reviewed candidate documentation; individual recipe versions shown below.
 
 These platform-independent cards specify operations, not production designs. Illustrations below are unvalidated thought experiments, not new commercial evidence. Overlap is welcome; the test is whether the intended relationship is present. See the [shared index](README.md) and [scored evidence](../pilots/TRACE-Etsy-120-Report.md).
 
@@ -33,7 +33,7 @@ v1.0 · CANDIDATE · Families: F04
 
 **Illustrative application — unvalidated:** A repair group assembles at dawn for a very small household fix.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -65,7 +65,7 @@ v1.0 · CANDIDATE · Families: F04
 
 **Illustrative application — unvalidated:** A small creature refuses one trivial household instruction with revolutionary solemnity.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -97,27 +97,27 @@ v1.0 · CANDIDATE · Families: F06
 
 **Illustrative application — unvalidated:** A model miniature carefully inspects a miniature collection.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
 <a id="trm-051"></a>
 
-## TRM-051 — Anatomy gives an activity advantage
+## TRM-051 — Animal capability enables a human task
 
-v1.0 · CANDIDATE · Families: F06
+v1.1 · CANDIDATE · Families: F06
 
-**Operation:** Choose a creature whose distinctive anatomy makes a human task unusually possible.
+**Operation:** Choose a creature whose recognizable anatomy or movement capability explains its performance of a human task.
 
 **Proposed payoff:** recognition of the linked relationship, with surprise or self-recognition where the audience shares the premise. This is a hypothesis about appeal.
 
 **Essential conditions**
 
-1. Distinctive anatomical capacity.
-2. Task requiring that capacity.
+1. Recognizable anatomical or movement capacity.
+2. A human task that visibly uses or benefits from that capacity.
 3. Visible use of it.
 
-**Fit and failure:** Fails if the special anatomy contributes nothing.
+**Fit and failure:** Fails if the capability contributes nothing beyond an animal holding a prop.
 
 **Adjustable:** audience, setting, wording and visual style, provided every condition above survives. **Conditional execution:** retain the sound, reading order, action, geometry, format or placement that supplies the evidence; an ornamental change cannot substitute for it. Texture and embellishments can be removed only if recognition survives.
 
@@ -127,11 +127,16 @@ v1.0 · CANDIDATE · Families: F06
 
 - [Source 42 — Octopus drummer](../pilots/TRACE-Etsy-60-Additional-Recipes.md#42--octopus-drummer): Give an animal a human task for which its unusual anatomy becomes a comic advantage. Avoid reusing this source's combined wording, characters, props and arrangement; change the underlying situation, not only a noun or color.
 
+- [Source 101 — Skateboarding cat](../pilots/TRACE-Etsy-120-Source-Decodes.md#source-101): Recast a cat's familiar jumping agility as a human skateboard trick. Avoid reusing this source's combined wording, characters, props and arrangement; change the underlying situation, not only a noun or color.
+
 **Illustrative application — unvalidated:** A many-limbed creature performs a task with simultaneous distinct actions.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
+
+**Independent review revision — v1.1, 2026-10-06:** Merged TRM-030/source101 with source42. Multi-limb coordination and jumping agility are distinct expressions of the same capability-to-task operation, not separate recipes merely because one task is a sport.
+
 
 <a id="trm-052"></a>
 
@@ -161,7 +166,7 @@ v1.0 · CANDIDATE · Families: F06
 
 **Illustrative application — unvalidated:** An intimidating imaginary guardian becomes absorbed in a tiny puzzle.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -193,7 +198,7 @@ v1.0 · CANDIDATE · Families: F07
 
 **Illustrative application — unvalidated:** A character physically sets off to find its patience; test whether the phrase naturally supports travel.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -225,7 +230,7 @@ v1.0 · CANDIDATE · Families: F08
 
 **Illustrative application — unvalidated:** A conservation-style message protects imaginary miniature habitats.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -257,7 +262,7 @@ v1.0 · CANDIDATE · Families: F08
 
 **Illustrative application — unvalidated:** An imagined historical craft inspector comments on a modern everyday shortcut; verify the premise.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -289,7 +294,7 @@ v1.0 · CANDIDATE · Families: F08
 
 **Illustrative application — unvalidated:** Attribute a mundane object's disappearance to its exaggerated emotional reaction.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -321,7 +326,7 @@ v1.0 · CANDIDATE · Families: F08, F02
 
 **Illustrative application — unvalidated:** A pet's repetitive disruption is framed as testing one recognizable physical principle.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -353,7 +358,7 @@ v1.0 · CANDIDATE · Families: F09
 
 **Illustrative application — unvalidated:** Escalate a familiar refusal through a deliberately impossible comparative form.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -385,7 +390,7 @@ v1.0 · CANDIDATE · Families: F05
 
 **Illustrative application — unvalidated:** Give a small harmless travel mishap a mock best-in-group award.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -417,7 +422,7 @@ v1.0 · CANDIDATE · Families: F05
 
 **Illustrative application — unvalidated:** A caution sign announces that a hobby group has found another supply sale.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -449,7 +454,7 @@ v1.0 · CANDIDATE · Families: F05
 
 **Illustrative application — unvalidated:** Present a familiar organism's verified capacities as an absurd appliance specification.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -482,7 +487,7 @@ v1.0 · CANDIDATE · Families: F02
 
 **Illustrative application — unvalidated:** Describe ordinary snack-sharing with an exaggerated underground-distribution role.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -514,7 +519,7 @@ v1.0 · CANDIDATE · Families: F02
 
 **Illustrative application — unvalidated:** Call a familiar place one's preferred flavor only if the design establishes the sensory bridge.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -546,7 +551,7 @@ v1.0 · CANDIDATE · Families: F02
 
 **Illustrative application — unvalidated:** A harmless hobby's packing-away box is framed as a surrender device.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -580,7 +585,7 @@ v1.0 · CANDIDATE · Families: F03, F01
 
 **Illustrative application — unvalidated:** Use a naturally ambiguous household term whose literal object clearly resolves the tease.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -588,7 +593,7 @@ v1.0 · CANDIDATE · Families: F03, F01
 
 ## TRM-066 — Animal speaker reveals a darker stake
 
-v1.0 · CANDIDATE · Families: F01, F06
+v1.1 · CANDIDATE · Families: F01, F06
 
 **Operation:** Let the chosen animal turn an ordinary waiting question into a species-specific motive.
 
@@ -596,9 +601,9 @@ v1.0 · CANDIDATE · Families: F01, F06
 
 **Essential conditions**
 
-1. Recognizable animal behavior.
+1. Recognizable animal behavior or cultural association.
 2. Ordinary question or waiting scene.
-3. Inferred motive tied to the species.
+3. An implied stake supported by that behavior or association; cultural death symbolism is not a verified feeding motive.
 
 **Fit and failure:** Fails if species choice contributes no motive.
 
@@ -612,9 +617,12 @@ v1.0 · CANDIDATE · Families: F01, F06
 
 **Illustrative application — unvalidated:** A creature waits politely for an event that would benefit its known feeding habit.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
+
+**Independent review revision — v1.1, 2026-10-06:** Source30 supports a death-associated speaker and morbid waiting question. Do not harden that interpretation into a factual claim about crows or author intent.
+
 
 <a id="trm-067"></a>
 
@@ -644,7 +652,7 @@ v1.0 · CANDIDATE · Families: F01, F06
 
 **Illustrative application — unvalidated:** An ostensibly fearsome costume is worn with unmistakable reluctance.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -676,7 +684,7 @@ v1.0 · CANDIDATE · Families: F01, F07
 
 **Illustrative application — unvalidated:** A non-explicit boast about manual skill ends by assigning the work to an impossible body part; test legibility.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -708,7 +716,7 @@ v1.0 · CANDIDATE · Families: F03, F01
 
 **Illustrative application — unvalidated:** A metaphor for steady progress becomes a literal stumble over a small ordinary obstacle.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
@@ -740,7 +748,7 @@ v1.0 · CANDIDATE · Families: F06
 
 **Illustrative application — unvalidated:** An unmistakably perplexed creature responds to a recognizable minor everyday puzzle.
 
-**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Downstream usability has not received a fresh independent Creative Director review or rendered concept test.
+**Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 

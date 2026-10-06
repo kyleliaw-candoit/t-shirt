@@ -1,6 +1,6 @@
 # TRACE Etsy expansion to 120 — report
 
-2026-10-06 · **60 additional eligible source expressions decoded.** Operator review completed with limitations; independent Creative Director review pending. No production artwork created.
+2026-10-06 · **60 additional eligible source expressions decoded.** Independent Creative Director verdict: **PASS WITH NON-BLOCKING LIMITATIONS**, after corrections. See the [review and Founder checklist](TRACE-Etsy-120-Independent-Review.md). No production artwork created.
 
 The historical source catalog now contains 120 distinct admitted listing IDs. Seven historical interpretations remain tentative (07, 16, 29, 41, 45, 47, 52), leaving **113 non-tentative source interpretations** for this candidate catalog. “Non-tentative” describes the recorded mechanism relationship, not market validation or independent review.
 
@@ -21,9 +21,9 @@ The first five new decodes (61–65) received an operator checkpoint before furt
 
 ## What expanded
 
-The shared library now has **68 scored specific candidate recipes**, covering all 113 non-tentative source interpretations. TRM-001 and TRM-002 remain broader teaching/parent cards, outside this ranking; their operational variants receive separate IDs. TRM-003 remains a scored shape-correspondence recipe. TRM-004–070 are new versioned sections in three catalog volumes. This does **not** mean 68 scientifically distinct or independently validated mechanisms: granularity and grouping remain revisable creative judgments.
+The shared library now has **68 scored specific candidate recipes**, covering all 113 non-tentative source interpretations. TRM-001 and TRM-002 remain broader teaching/parent cards, outside this ranking; their operational variants receive separate IDs. TRM-003 remains a scored shape-correspondence recipe. TRM-004–070 are versioned sections in three catalog volumes; TRM-030 is retired into TRM-051, and TRM-071 separates the durable-object condition report from age-as-preparation. The net ranking remains 68 active candidates. This does **not** mean 68 scientifically distinct or independently validated mechanisms: granularity and grouping remain revisable creative judgments.
 
-Multiple supported recipes can apply to a source. Explicit overlaps include source20 (literal creature/hobby loop), 24 (dual reading/causal anatomy), 44 and49 (epic agency/rally), and117 (shape correspondence/makeshift magical feature). No sketch must be distinctive to only one mechanism. Additional interpretations may be added when grounded; this is not an exhaustive secondary-tag exercise.
+Multiple supported recipes can apply to a source. Explicit overlaps include 44 and49 (epic agency/rally), and117 (shape correspondence/makeshift magical feature). Review removed unsupported secondary mappings for20 (no figurative idiom) and24 (cause of detachment insufficiently specified); both retain their supported primary recipe. No sketch must be distinctive to only one mechanism. Additional interpretations may be added when grounded; this is not an exhaustive secondary-tag exercise.
 
 ## Observed adoption and coverage
 
@@ -35,25 +35,26 @@ The cap makes effort bounded, not coverage equal. Some selected pages were unava
 
 ## Ranked recipes
 
-Ties are ordered by stable ID, not a claim of creative superiority. D = distinct expressions; A = additional sellers. Coverage L/N is historical/new source count. New external verified shows designs with one resolved follow-up offer, excluding ordered recurrence. Differences in coverage and recipe breadth limit comparisons. A broad sound-substitution operation has more opportunities to accumulate expressions than a narrow spatial recipe; review granularity before treating rank as a creative priority.
+Ties are ordered by stable ID, not a claim of creative superiority. D = distinct expressions; A = additional sellers. Coverage L/N is historical/new source count. New external verified shows designs with one resolved follow-up offer, excluding ordered recurrence. Differences in coverage and recipe breadth limit comparisons. A broad phonetic-reinterpretation operation has more opportunities to accumulate expressions than a narrow spatial recipe; review granularity before treating rank as a creative priority.
 
 | Recipe | D | A | Total | L/N | New external verified |
 |---|---:|---:|---:|---:|---:|
-| [TRM-005 — Sound substitution with a matching scene](../mechanisms/TRM-Catalog-004-025.md#trm-005) | 14 | 8 | 22 | 4/10 | 4/10 |
-| [TRM-004 — Dual reading through a concrete cue](../mechanisms/TRM-Catalog-004-025.md#trm-004) | 7 | 4 | 11 | 4/3 | 2/3 |
+| [TRM-005 — Phonetic reinterpretation resolved by context](../mechanisms/TRM-Catalog-004-025.md#trm-005) | 14 | 8 | 22 | 4/10 | 4/10 |
+| [TRM-004 — Dual reading through a concrete cue](../mechanisms/TRM-Catalog-004-025.md#trm-004) | 8 | 4 | 12 | 5/3 | 2/3 |
 | [TRM-019 — Ordinary or tiny subject given epic agency](../mechanisms/TRM-Catalog-004-025.md#trm-019) | 5 | 2 | 7 | 4/1 | 0/1 |
-| [TRM-007 — Literal creature inside a human idiom](../mechanisms/TRM-Catalog-004-025.md#trm-007) | 5 | 1 | 6 | 2/3 | 1/3 |
 | [TRM-008 — Courtesy extended to unexpected residents](../mechanisms/TRM-Catalog-004-025.md#trm-008) | 3 | 2 | 5 | 1/2 | 1/2 |
-| [TRM-018 — Positive self-claim contradicted by the speaker](../mechanisms/TRM-Catalog-004-025.md#trm-018) | 4 | 1 | 5 | 2/2 | 0/2 |
-| [TRM-047 — Natural habit exploits fantasy anatomy](../mechanisms/TRM-Catalog-026-047.md#trm-047) | 3 | 2 | 5 | 3/0 | 0/0 |
+| [TRM-018 — Favorable claim undercut by its pictured subject](../mechanisms/TRM-Catalog-004-025.md#trm-018) | 4 | 1 | 5 | 2/2 | 0/2 |
+| [TRM-007 — Literal creature inside a human idiom](../mechanisms/TRM-Catalog-004-025.md#trm-007) | 3 | 1 | 4 | 0/3 | 1/3 |
 | [TRM-012 — Small habit defended as extreme necessity](../mechanisms/TRM-Catalog-004-025.md#trm-012) | 2 | 2 | 4 | 1/1 | 1/1 |
-| [TRM-023 — Age reframed as productive preparation](../mechanisms/TRM-Catalog-004-025.md#trm-023) | 3 | 1 | 4 | 1/2 | 1/2 |
-| [TRM-038 — Expected adversaries exchange a tender gesture](../mechanisms/TRM-Catalog-026-047.md#trm-038) | 2 | 2 | 4 | 1/1 | 0/1 |
+| [TRM-038 — Expected threat replaced by a gentle action](../mechanisms/TRM-Catalog-026-047.md#trm-038) | 2 | 2 | 4 | 1/1 | 0/1 |
 | [TRM-040 — Broad welcome narrowed by a late restriction](../mechanisms/TRM-Catalog-026-047.md#trm-040) | 2 | 2 | 4 | 1/1 | 1/1 |
+| [TRM-047 — Natural habit exploits fantasy anatomy](../mechanisms/TRM-Catalog-026-047.md#trm-047) | 2 | 2 | 4 | 2/0 | 0/0 |
+| [TRM-051 — Animal capability enables a human task](../mechanisms/TRM-Catalog-048-070.md#trm-051) | 2 | 2 | 4 | 1/1 | 1/1 |
 | [TRM-003 — Shape correspondence across categories](../mechanisms/TRM-003-Shape-Correspondence.md) | 2 | 1 | 3 | 1/1 | 0/1 |
 | [TRM-006 — Harmless acronym re-expansion](../mechanisms/TRM-Catalog-004-025.md#trm-006) | 2 | 1 | 3 | 1/1 | 1/1 |
 | [TRM-017 — Affectionate honorary role](../mechanisms/TRM-Catalog-004-025.md#trm-017) | 2 | 1 | 3 | 1/1 | 0/1 |
 | [TRM-020 — Apparent liability becomes cause of success](../mechanisms/TRM-Catalog-004-025.md#trm-020) | 2 | 1 | 3 | 0/2 | 1/2 |
+| [TRM-023 — Age reframed as productive preparation](../mechanisms/TRM-Catalog-004-025.md#trm-023) | 2 | 1 | 3 | 0/2 | 1/2 |
 | [TRM-024 — Garment placement identifies the reader](../mechanisms/TRM-Catalog-004-025.md#trm-024) | 2 | 1 | 3 | 0/2 | 1/2 |
 | [TRM-029 — Misbehavior excuse normalized through an extreme scene](../mechanisms/TRM-Catalog-026-047.md#trm-029) | 2 | 1 | 3 | 0/2 | 1/2 |
 | [TRM-031 — Second message hidden by selective typography](../mechanisms/TRM-Catalog-026-047.md#trm-031) | 1 | 2 | 3 | 0/1 | 1/1 |
@@ -67,14 +68,12 @@ Ties are ordered by stable ID, not a claim of creative superiority. D = distinct
 | [TRM-021 — Body part treated as an independent social actor](../mechanisms/TRM-Catalog-004-025.md#trm-021) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-022 — Sponsor credit applied to a natural dependency](../mechanisms/TRM-Catalog-004-025.md#trm-022) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-025 — Extinct species makes a desired disappearance tangible](../mechanisms/TRM-Catalog-004-025.md#trm-025) | 1 | 1 | 2 | 0/1 | 1/1 |
-| [TRM-030 — Animal ability transferred into a human sport](../mechanisms/TRM-Catalog-026-047.md#trm-030) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-034 — Life transition expands a privileged time category](../mechanisms/TRM-Catalog-026-047.md#trm-034) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-041 — Attractive invitation followed by a dark shared-location qualifier](../mechanisms/TRM-Catalog-026-047.md#trm-041) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-042 — Apology revealed as a non-excuse](../mechanisms/TRM-Catalog-026-047.md#trm-042) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-043 — Sage quotation collapses into blunt departure](../mechanisms/TRM-Catalog-026-047.md#trm-043) | 1 | 1 | 2 | 0/1 | 1/1 |
 | [TRM-048 — Mundane mission delivered as a martial rally](../mechanisms/TRM-Catalog-048-070.md#trm-048) | 2 | 0 | 2 | 2/0 | 0/0 |
 | [TRM-049 — Pet defiance cast as political resistance](../mechanisms/TRM-Catalog-048-070.md#trm-049) | 1 | 1 | 2 | 1/0 | 0/0 |
-| [TRM-051 — Anatomy gives an activity advantage](../mechanisms/TRM-Catalog-048-070.md#trm-051) | 1 | 1 | 2 | 1/0 | 0/0 |
 | [TRM-054 — Imagined beneficiaries justify a familiar institution](../mechanisms/TRM-Catalog-048-070.md#trm-054) | 1 | 1 | 2 | 1/0 | 0/0 |
 | [TRM-058 — Bent grammar escalates an attitude](../mechanisms/TRM-Catalog-048-070.md#trm-058) | 1 | 1 | 2 | 1/0 | 0/0 |
 | [TRM-062 — Charged role softened into a benign activity](../mechanisms/TRM-Catalog-048-070.md#trm-062) | 2 | 0 | 2 | 2/0 | 0/0 |
@@ -107,6 +106,7 @@ Ties are ordered by stable ID, not a claim of creative superiority. D = distinct
 | [TRM-067 — Low-energy persona contradicts a theatrical costume](../mechanisms/TRM-Catalog-048-070.md#trm-067) | 1 | 0 | 1 | 1/0 | 0/0 |
 | [TRM-068 — Charged boast ends in impossible means](../mechanisms/TRM-Catalog-048-070.md#trm-068) | 1 | 0 | 1 | 1/0 | 0/0 |
 | [TRM-069 — Aspiration literalized through physical failure](../mechanisms/TRM-Catalog-048-070.md#trm-069) | 1 | 0 | 1 | 1/0 | 0/0 |
+| [TRM-071 — Aging person described by an object condition report](../mechanisms/TRM-071-Object-Condition-Report.md) | 1 | 0 | 1 | 1/0 | 0/0 |
 
 ## Family navigation totals — not another recipe ranking
 
@@ -116,11 +116,11 @@ Each row is the union of its member recipes' design–seller pairs. Never sum me
 |---|---:|---:|---:|
 | F01 — Expectation and tone mismatch | 31 | 13 | 44 |
 | F02 — Reframing identity or value | 21 | 7 | 28 |
-| F03 — Double meaning and literalization | 35 | 16 | 51 |
+| F03 — Double meaning and literalization | 34 | 16 | 50 |
 | F04 — Everyday activity as grand action | 8 | 5 | 13 |
-| F05 — Borrowed formats | 13 | 7 | 20 |
-| F06 — Human roles and animal traits | 23 | 10 | 33 |
-| F07 — Visual recombination and consequences | 7 | 3 | 10 |
+| F05 — Borrowed formats | 14 | 7 | 21 |
+| F06 — Human roles and animal traits | 22 | 10 | 32 |
+| F07 — Visual recombination and consequences | 6 | 3 | 9 |
 | F08 — Implied explanation or counterfactual | 6 | 3 | 9 |
 | F09 — Grammar escalation | 1 | 1 | 2 |
 | F10 — Seasonal phrase relocation | 0 | 0 | 0 |
@@ -132,15 +132,15 @@ F10 and F11 have no non-tentative support in this scored mapping; zero here mean
 
 - **Pass:** 60 final new records; 120 distinct admitted listing IDs; all 113 non-tentative sources mapped; no tentative source contributes a point; pair uniqueness, recipe arithmetic and deduplicated family unions checked programmatically.
 - **Pass:** retained roster positions agree with admitted listing IDs; source and recipe anchors checked; first-five checkpoint preserved.
-- **Deduplication judgment:** source73's cow variant merged. Source77's imagined cryptid residents is retained separately from source48's real local wildlife because the implied world changes; witch ritual100 and mantis behavior111 retain different depicted events. These are expression-boundary decisions open to Creative Director review, not mechanism-exclusivity requirements.
+- **Deduplication judgment:** source73's cow variant merged. Source77's imagined cryptid residents is retained separately from source48's real local wildlife because the implied world changes; witch ritual100 and mantis behavior111 retain different depicted events. Independent review retained these expression boundaries, with a documented sensitivity check for48/77; they are not mechanism-exclusivity requirements.
 - **Traceability limitation:** full ordered ID rosters retained for A9–A20 and B1/1–51 (771 card positions). A7/52–60 and A8 retain admitted records and specific detail decisions, but their complete card rosters were not preserved after a runtime reset. For remaining unadmitted roster positions, a missing detail decision means only card screening is documented; no invented detail-page exclusion is supplied.
 - **Evidence limitation:** screenshots were viewed live but not archived. Listing URLs, IDs, sellers, positions and observations are retained. Live search results can reorder and badges can change.
-- **Interpretation limitation:** operator-authored grouping and card review, not an independent Creative Director assessment. Quiet mechanisms and cross-mechanism overlap are allowed. Badges and item-section reviews cannot establish that a mechanism caused demand.
+- **Interpretation limitation:** independent documentation review is now complete; historical visual observations remain operator records, not images independently re-inspected by this reviewer. Quiet mechanisms and cross-mechanism overlap are allowed. Badges and item-section reviews cannot establish that a mechanism caused demand.
 - **Follow-up limitation:** external pages had uneven availability; unknown coverage remains explicit. Displayed item reviews may pool colors, garments and selected phrases. Reviews do not weight scores.
 
 ## Recommended next step
 
-Have the Creative Director review the new recipe abstractions and consequential expression-boundary decisions, starting with the highest observed scores and single-source operations that would be used in a creative brief. Review the operation, essential conditions and source fit—not whether a resulting sketch could also fit another mechanism. Keep the seven legacy borderlines separate until substantively reviewed. Then choose recipes whose audience conditions fit a specific identity brief and run a small concept exercise. No automatic production or another scan is implied.
+Founder: review the [independent-review decisions and checklist](TRACE-Etsy-120-Independent-Review.md), especially recipe boundaries, the48/77 sensitivity and evidence limits. Recommend approving this corrected documentation PR as a candidate research library. Merge remains subject to explicit Founder approval; no merge, new scan, niche concept exercise or production work is authorized by this verdict. After approval, merge and separately choose the next creative brief before any concept work.
 
 ## Reproducibility
 

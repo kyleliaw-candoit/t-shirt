@@ -1,6 +1,6 @@
 # TRACE shared mechanism library
 
-Owner: Creative Director. Updated: 2026-10-06. Shared handoff release: 1.1 (operator candidates; independent review pending).
+Owner: Creative Director. Updated: 2026-10-06. Shared handoff release: 1.2 (independently reviewed candidates; PASS WITH NON-BLOCKING LIMITATIONS).
 
 This is the **platform-independent home** for reusable mechanisms. Etsy, Amazon and DTC scans supply evidence to this library; their source records remain in their scan files. Platform names do not appear in recipe IDs.
 
@@ -11,10 +11,12 @@ The [120-source report](../pilots/TRACE-Etsy-120-Report.md) adds 60 new source e
 - [TRM-004–025](TRM-Catalog-004-025.md)
 - [TRM-026–047](TRM-Catalog-026-047.md)
 - [TRM-048–070](TRM-Catalog-048-070.md)
+- [TRM-071 — Object condition report](TRM-071-Object-Condition-Report.md)
+- [Independent review and decisions](../pilots/TRACE-Etsy-120-Independent-Review.md)
 
-Each stable recipe ID has its own versioned section, conditions, failure boundary, source links and unvalidated illustration. These are 67 newly documented candidate operations plus existing TRM-003 in the 68-recipe ranking. TRM-001 and TRM-002 remain broader parent/teaching cards and are not ranked alongside their specific variants. No ID has been renumbered or silently replaced. This library does not claim 70 scientifically independent mechanisms or market validation.
+Each stable recipe ID has its own versioned section, conditions, failure boundary and source links. New illustrative applications, where present, are unvalidated; TRM-071 uses its historical source as the explanatory example. The current 68-recipe ranking includes TRM-003, TRM-004–029, TRM-031–070 and TRM-071. TRM-030 remains a historical redirect into TRM-051; the merge and split balance numerically. TRM-001 and TRM-002 remain broader parent/teaching cards and are not ranked alongside their specific variants. No ID has been renumbered or silently replaced. This library does not claim 70 scientifically independent mechanisms or market validation.
 
-**The historical family table below preserves the first release's navigation and source assignments. Its “card pending” notes are historical and superseded by this expansion's catalog; use the current evidence ledger for multi-tag recipe/family mappings and union scores.** Overlap remains welcome. New documentation is operator-authored, not an independent Creative Director review.
+**The historical family table below preserves the first release's navigation and source assignments. Its “card pending” notes are historical and superseded by this expansion's catalog; use the current evidence ledger for multi-tag recipe/family mappings and union scores.** Overlap remains welcome. Source observations remain operator-authored. A separate independent documentation review is complete; it does not claim fresh image verification or market validation.
 
 ## Original teaching cards
 
