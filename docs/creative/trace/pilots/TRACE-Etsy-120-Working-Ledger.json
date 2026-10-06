@@ -1,5 +1,5 @@
 {
-  "status": "IN PROGRESS: 36 of 60 new expressions decoded",
+  "status": "IN PROGRESS: 45 of 60 new expressions decoded",
   "date": "2026-10-06",
   "columns": [
     "source",
@@ -482,6 +482,123 @@
       "Turn the electoral wave metaphor and political color into literal ocean waves framing a voting instruction.",
       "Voting cue; blue color; wave form; shared political metaphor.",
       "Observation of mechanism, not endorsement or election prediction."
+    ],
+    [
+      97,
+      13,
+      10,
+      "4498839650",
+      "ZandisCorner",
+      "3",
+      "Friend dictionary",
+      "THE BOSSY ONE [noun] / Naturally takes charge, gives instructions, and calls it being helpful; other prewritten roles offered.",
+      "Borrow dictionary authority to formalize a friend's informal reputation and soften the fault through a self-serving definition.",
+      "Entry headword; part-of-speech marker; recognizable fault; euphemistic definition.",
+      "One selected prewritten expression from multidesign listing; optional personalization not core."
+    ],
+    [
+      98,
+      13,
+      21,
+      "4361192442",
+      "StylishTeeShirt",
+      "135",
+      "Boo-jee",
+      "BOO-JEE above ghost with leopard-pattern handbag, bow and drink.",
+      "Respell bougie around a ghost's boo and dress the ghost to enact the lifestyle term.",
+      "Near-sound overlap; ghost; status/fashion props.",
+      "Sweatshirt hero; explicit unisex T-shirt variants verified; pooled badge/reviews."
+    ],
+    [
+      99,
+      13,
+      49,
+      "4545853555",
+      "TheToastedMarket",
+      "1",
+      "Aged to perfection",
+      "AGED to PERFECTION with wine bottle/glasses and birthday date.",
+      "Transfer the improvement of wine through aging to the person celebrating a birthday.",
+      "Wine maturation language; human birthday; wine cues.",
+      "Optional name/year supplements fixed metaphor; distinct from corks are for quitters."
+    ],
+    [
+      100,
+      13,
+      54,
+      "4469783024",
+      "EverChangingJourney",
+      "16",
+      "Girls will be girls",
+      "Girls will be girls below witches around a large bonfire.",
+      "Switch the gender in a familiar misconduct excuse and use it to normalize a grand witch ritual as ordinary girl behavior.",
+      "Recognizable excusing phrase; gender substitution; exaggerated ritual image.",
+      "Generic witch scene; interpretation not endorsement of misconduct."
+    ],
+    [
+      101,
+      15,
+      8,
+      "4402062359",
+      "mimidollstudios",
+      "60",
+      "Skateboarding cat",
+      "Cat airborne above tilted skateboard, limbs extended like a skating trick.",
+      "Recast a cat's familiar jumping agility as a human skateboard trick.",
+      "Animal body capable of leap; board; airborne coordinated pose.",
+      "No arbitrary accessory-only reading; style optional."
+    ],
+    [
+      102,
+      15,
+      29,
+      "4414621211",
+      "angiepea",
+      "89",
+      "Certain rage",
+      "Woman of a certain Rage.",
+      "Insert one consonant into an age euphemism to replace polite age evasion with explicit anger.",
+      "Familiar idiom; minimal sound change; contrasting emotional declaration.",
+      "Not a claim about all women."
+    ],
+    [
+      103,
+      15,
+      32,
+      "1798257507",
+      "SOFIIAS",
+      "19",
+      "Rage makes me pretty",
+      "RAGE MAKES ME FEEL PRETTY in plain typography.",
+      "Reframe an emotion conventionally deemed unattractive as the cause of feeling attractive.",
+      "Negative emotion; positive beauty outcome; explicit causal connector.",
+      "Personal feeling claim; possible external quotation context not necessary to decode."
+    ],
+    [
+      104,
+      15,
+      35,
+      "4565577666",
+      "signaturetshirts",
+      "16",
+      "Hidden FDT",
+      "GULF OF MEXICO / KENNEDY CENTER / LAKE ONTARIO; F D T drawn in outline amid solid letters.",
+      "Hide a second abbreviated message by selectively changing three letters within an innocuous-looking list.",
+      "Readable cover text; contrasting letter treatment; recoverable secondary sequence.",
+      "Political interpretation supported by listing title; no factual claim about place renaming."
+    ],
+    [
+      105,
+      15,
+      45,
+      "4510163399",
+      "NostalGiftShop",
+      "4",
+      "Devoted spouse provocation",
+      "I'm a slut / for my wife embroidered.",
+      "Use a promiscuity-associated self-label then restrict it to a spouse, converting provocation into marital devotion.",
+      "Loaded self-description; delayed exclusive recipient; contradiction/reframing.",
+      "Adult language; explicit T-shirt options verified; optional personalization not core."
     ]
   ],
   "checkpoint": {
@@ -821,10 +938,94 @@
       53,
       "franchise",
       "Treehouse of Horror title and recognizable aliens"
+    ],
+    [
+      13,
+      7,
+      "tentative",
+      "ER colored inside emergency: lexical emphasis but no strong additional transformation"
+    ],
+    [
+      13,
+      19,
+      "graphic-led",
+      "Gumbus pet photo collage"
+    ],
+    [
+      13,
+      37,
+      "repeat27",
+      "BrandiTees one review; men vs people narrows target without changing one-star complaint expression"
+    ],
+    [
+      13,
+      52,
+      "repeat38",
+      "EverWildTees one review; same named pasta-body dachshund taxonomy"
+    ],
+    [
+      14,
+      8,
+      "graphic-led",
+      "Kickin it with cousins direct group identity; no literal kick"
+    ],
+    [
+      14,
+      24,
+      "tentative",
+      "I left it in water: abstract baptism referent unstated in artwork"
+    ],
+    [
+      14,
+      39,
+      "franchise",
+      "Recognizable Patrick-like character in pocket"
+    ],
+    [
+      14,
+      46,
+      "tentative",
+      "Tired moms coffee club direct affiliation; no specific club convention transformed"
+    ],
+    [
+      14,
+      49,
+      "tentative",
+      "National/personal anniversary juxtaposition without stronger transformation"
+    ],
+    [
+      15,
+      36,
+      "tentative",
+      "Ghost cycling could merely be seasonal character scene; no additional text or consequence makes contrast essential"
+    ],
+    [
+      16,
+      11,
+      "graphic-led",
+      "Memento mori skull/devotional imagery reinforces direct message"
+    ],
+    [
+      16,
+      29,
+      "repeat97-family",
+      "ComfyDaysCo one review; prewritten dictionary friend roles similar expression; no exact bossy example verified so no additional seller score yet"
+    ],
+    [
+      16,
+      43,
+      "repeat104",
+      "MillieLaneTees seven reviews; same hidden FDT letters/list"
+    ],
+    [
+      16,
+      47,
+      "repeat15",
+      "HappyBdayBoutique eight reviews; spouse praise ends yes she bought this shirt"
     ]
   ],
   "resume": {
-    "page": 13,
+    "page": 17,
     "next_position": 1
   },
   "evidence_note": "Actual listing images and Bestseller badge visually inspected on 2026-10-06. URL/listing identities retained; no screenshot archive. Browser runtime restart discarded early raw snapshots, but decisions and decoded observations are preserved.",
