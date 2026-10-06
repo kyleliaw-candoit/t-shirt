@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.6
+Version     : 0.7
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.7
+- Clarified I007 as a deferred, optional workflow: the Research Analyst selects evidence sources and may use Flying Research only when it materially augments a relevant marketplace question; neither Flying Research nor Kittl is a current workflow priority.
 
 v0.6
 - Reconciled the prior Kittl tool-research request as processed I007 and expanded it to compare Kittl with Flying Research.
@@ -606,7 +609,7 @@ Use the 3D model only as a fast screen. Preserve Founder Advantage and current o
 
 ## I007 — Kittl and Flying Research Workflow Fit
 
-**Status:** Processed — 2026-10-06; bounded evaluations not yet started
+**Status:** Processed — 2026-10-06; workflow option preserved for later; evaluations deferred and not a current priority
 
 **Category:** Tooling / Research / Creative Execution / Automation
 
@@ -621,21 +624,27 @@ Kittl and Flying Research overlap in AI image generation, asset utilities, desig
 - **Flying Research** is primarily an Amazon/POD marketplace-evidence, keyword, trademark-screening, design-management, and upload-automation platform.
 - **Kittl** is primarily a design-execution platform for typography, layout, vectors, mockups, print files, and AI-assisted asset production.
 
-They are better evaluated as sequential, specialized tools than as competing all-in-one systems.
+They are better understood as optional, specialized tools than as competing all-in-one systems. Neither belongs in every research-to-design cycle.
+
+The Research Analyst owns the research plan and source selection. Flying Research may augment the Research Analyst when Amazon/POD marketplace evidence is relevant—for example bestseller discovery, product identity, BSR history, keywords, competition, saturation, pricing, or seller recurrence. It is not a required Research Analyst tool and does not replace community-depth research, insider language, broader market evidence, manual verification, or role judgment.
+
+Kittl is a separate optional execution surface. It may help the Creative Director turn an approved original brief into polished apparel artwork, but it is not required for concept development and must not define brand meaning through templates.
 
 ### Decision Status
 
-**Processed into two gated follow-ups; no subscription, integration, or core adoption is authorized.**
+**Deferred. Do not incorporate either tool into the current operating workflow or prioritize an evaluation now. No subscription, account creation, integration, scheduled test, or core adoption is authorized.**
 
-1. **Flying Research Gate 0:** Research Analyst should evaluate the free tier in read-only mode during the next TRACE evidence-acquisition or relevant niche-market sprint. The test must compare a fixed 15–20-product US Amazon sample against manual evidence and require at least a 50% reduction in acquisition time, reproducible product identity, auditable records, and no material unexplained discrepancies.
-2. **Kittl Stage 0:** Creative Director should run the existing free, private evaluation when the next approved original design brief is ready. A paid month is considered only if Stage 0 passes; an annual plan remains out of scope.
-3. **Separation of duties:** Flying Research may supply marketplace evidence; Research Analyst verifies it; Strategy Advisor interprets it; Creative Director creates the original concept; Kittl may execute the approved brief; GitHub preserves the canonical decision and provenance record.
-4. **Prohibitions:** Do not use Flying Research to download or imitate competitor artwork, generate close variants from bestsellers, or treat trademark search as legal clearance. Do not let Kittl templates determine brand meaning. Do not connect Shopify, Printful, Amazon, Etsy, or upload automation during either initial evaluation.
+1. **Research Analyst source choice:** Strategy Advisor defines the decision-relevant research question. Research Analyst creates the source plan and decides whether Flying Research would add relevant marketplace evidence. Dot or another orchestrator must not automatically route every Research Analyst assignment through Flying Research.
+2. **Conditional Flying Research augmentation:** If a future work packet has an Amazon/POD marketplace-evidence need and a material acquisition bottleneck, Research Analyst may propose the existing read-only Gate 0. Record `used / not used`, the reason, expected evidence, verification method, and limitations. Strategy Advisor interprets the resulting evidence.
+3. **Conditional Kittl execution:** If a future approved original brief exposes a meaningful design-execution bottleneck, Creative Director may propose the existing private Stage 0. Kittl executes or refines approved direction; it does not originate the commercial strategy, identity insight, or brand meaning.
+4. **Durable handoff:** GitHub preserves the research question, source plan, evidence, verification, Strategy decision, original creative brief, provenance, and approvals. The tools remain optional modules rather than mandatory stages.
+5. **Prohibitions:** Do not use Flying Research to download or imitate competitor artwork, generate close variants from bestsellers, or treat trademark search as legal clearance. Do not let Kittl templates determine brand meaning. Do not connect Shopify, Printful, Amazon, Etsy, or upload automation during any initial evaluation.
 
 ### Follow-Through Triggers
 
-- Add the Flying Research Gate 0 to the next suitable TRACE or Research Analyst market-evidence work packet rather than scheduling a detached tool demo.
-- Add Kittl Stage 0 to the next design-execution packet after an original Creative Director brief is approved.
+- Do not schedule a detached tool demo or add either tool to current work merely because it is available.
+- Revisit Flying Research only when a real Research Analyst work packet needs Amazon/POD marketplace evidence and current evidence acquisition is a material bottleneck. Research Analyst recommends whether the tool belongs in that packet.
+- Revisit Kittl only when an approved original Creative Director brief exposes a material execution gap or a deliberate design-tool comparison is authorized.
 - Strategy Advisor records the proceed / defer / reject decision after each gate.
 - Founder approval is required before any paid plan, physical sample, browser-extension installation with material permissions, or external commerce-account connection.
 
