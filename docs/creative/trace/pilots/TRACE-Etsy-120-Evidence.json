@@ -1208,7 +1208,7 @@
         117
       ],
       "file": "TRM-003-Shape-Correspondence.md",
-      "version": "1.0",
+      "version": "1.1",
       "maturity": "CANDIDATE",
       "design_points": 2,
       "additional_seller_points": 1,
@@ -8136,5 +8136,24 @@
       "decode": "../pilots/TRACE-Etsy-120-Source-Decodes.md#source-120",
       "tentative": false
     }
-  ]
+  ],
+  "validation": {
+    "errors": [],
+    "date": "2026-10-06",
+    "checks": [
+      "60 new admitted records",
+      "120 distinct admitted listing IDs",
+      "113 non-tentative source mappings",
+      "retained roster positions match admissions",
+      "no tentative source in scores",
+      "recipe arithmetic and unique pairs",
+      "family union deduplication"
+    ],
+    "limitations": [
+      "A7–A8 full card roster not retained",
+      "no archived screenshots",
+      "operator interpretation review only",
+      "external product coverage uneven"
+    ]
+  }
 }
