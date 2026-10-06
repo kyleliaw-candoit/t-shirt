@@ -1,5 +1,5 @@
 {
-  "status": "IN PROGRESS: 5 of 60 additional clear expressions decoded; not a completed120-source run",
+  "status": "IN PROGRESS: 24 of 60 new expressions decoded",
   "date": "2026-10-06",
   "columns": [
     "source",
@@ -79,6 +79,253 @@
       "Give a motivational instruction a second mathematical reading through the operation producing a difference.",
       "Shared everyday/technical term; named operation; positive imperative; math cue.",
       "Teacher identity may dominate; effect on buyers untested."
+    ],
+    [
+      66,
+      8,
+      35,
+      "4351552344",
+      "LegendaryApparelShop",
+      "75",
+      "Psycho path",
+      "Why take the high road when you can take the Psycho Path; retro woman drinks.",
+      "Split a charged word into an alternative route, reversing an exhortation to take the high road.",
+      "Familiar idiom; natural word split; opposing route choice.",
+      "Comic rhetoric; no psychological diagnosis."
+    ],
+    [
+      67,
+      8,
+      37,
+      "4390546433",
+      "LegendaryApparelShop",
+      "14",
+      "Haunting list",
+      "I fully intend to haunt people when I die / I have a list; skeleton with drink.",
+      "Turn a supernatural afterlife into a mundane plan for settling grudges; the list makes the threat comically organized.",
+      "Future haunting premise; ordinary planning detail; delayed specificity.",
+      "Dark humor; skeleton style optional."
+    ],
+    [
+      68,
+      8,
+      40,
+      "4329924672",
+      "UpTopNorth",
+      "89",
+      "Reading is my jam",
+      "Reading is my jam around strawberry pattern.",
+      "Use food imagery to activate literal jam alongside the slang declaration of enthusiasm for reading.",
+      "Natural slang phrase; fruit cue; hobby subject.",
+      "Distinct activity from inclusion-source40; commercial signal listing-wide."
+    ],
+    [
+      69,
+      8,
+      45,
+      "4553884833",
+      "LetsGrowBoutique",
+      "3",
+      "Para normal activities",
+      "PARA NORMAL ACTIVITIES / paraprofessional with ghosts carrying classroom tools.",
+      "Split paranormal into a profession abbreviation and ordinary activities; ghosts support the other reading.",
+      "Recognizable compound; occupational abbreviation; job props; supernatural cue.",
+      "Generic phrase/ghost relationship; no movie-specific likeness or title styling needed."
+    ],
+    [
+      70,
+      8,
+      47,
+      "4563343799",
+      "JaxGraphicTees",
+      "2",
+      "Boo-p",
+      "Ghost touches golden retriever nose under BOO-P.",
+      "Blend a ghost's sound with a pet nose-touch word while depicting the combined action.",
+      "Overlapping sounds; ghost; visible nose touch.",
+      "50+ predesigned breed options; count one expression; reviews pooled."
+    ],
+    [
+      71,
+      8,
+      56,
+      "4463865851",
+      "boutiquebyPedro",
+      "13",
+      "Weird stuff or die",
+      "Frog holds mug: I have to say weird stuff or I will die.",
+      "Justify a minor social habit by escalating abstinence into an impossible survival emergency.",
+      "Ordinary habit; wildly disproportionate consequence; first-person excuse.",
+      "Hyperbole not health claim; frog/mug optional to textual mechanism."
+    ],
+    [
+      72,
+      9,
+      9,
+      "4580767207",
+      "InkWavePress",
+      "1",
+      "Deliver hope",
+      "Postal workers / We deliver hope with mail imagery and pink awareness ribbon.",
+      "Replace the tangible object of a job's defining verb with an emotional benefit, joining occupational pride and cause support.",
+      "Recognizable job action; abstract replacement; cause cue.",
+      "No donation or health outcome verified; branding in mockup background not required to concept."
+    ],
+    [
+      73,
+      9,
+      11,
+      "4463581948",
+      "OldSchoolCulture",
+      "44",
+      "Sharks howl at moon",
+      "Three shark portraits face a moon with open jaws in a vintage wildlife montage.",
+      "Give a marine predator the moon-howling behavior and setting associated with wolves.",
+      "Recognizable howling pose; species that does not howl; moon cue.",
+      "Visual-trope parody; no biological claim or copying approval."
+    ],
+    [
+      74,
+      9,
+      18,
+      "4462864602",
+      "OldSchoolCulture",
+      "31",
+      "Cows howl at moon",
+      "Cows point heads skyward around a moon in dramatic montage.",
+      "Cast a domestic farm animal in a wild predator's dramatic nocturnal role.",
+      "Domestic subject; howling posture; moon; disproportionate grandeur.",
+      "Related operation to73 but domestic-to-wild role contrast is different from marine-to-land behavior; same seller."
+    ],
+    [
+      75,
+      9,
+      21,
+      "4449626308",
+      "BabyBNCat",
+      "4",
+      "Man I love frogs",
+      "Large MILF followed by Man I Love Frogs and frog collage.",
+      "Resolve a familiar adult acronym into an innocent animal enthusiasm.",
+      "Recognizable loaded abbreviation; matching harmless expansion; resolution order.",
+      "Adult initial association; no full explicit expansion needed."
+    ],
+    [
+      76,
+      9,
+      24,
+      "1868824178",
+      "ArtemOpus",
+      "418",
+      "Garden office",
+      "I'll be in my office above a person in a flower garden.",
+      "Use a work-location announcement to redefine a beloved leisure space as one's place of business.",
+      "Workplace label; visibly non-office destination; first-person claim.",
+      "Painting/style may dominate; mechanism does not require source painting."
+    ],
+    [
+      77,
+      9,
+      32,
+      "4542259668",
+      "SouthwestApparelUS",
+      "2",
+      "Respect cryptid locals",
+      "Respect the locals amid folklore creatures.",
+      "Treat imaginary monsters as established residents entitled to visitor courtesy.",
+      "Ordinary visitor etiquette; legendary beneficiaries; recognizable cryptids.",
+      "Distinct from real wildlife-source48: fictional residency adds implied world; no belief claim."
+    ],
+    [
+      78,
+      9,
+      35,
+      "4531064620",
+      "TheCottageMeadowShop",
+      "14",
+      "Mental bake down",
+      "Having a mental bake down with mixer, bowls and baking tools.",
+      "Replace one sound in a familiar distress phrase with a hobby action.",
+      "Recognizable phrase; near-sound substitution; baking cue.",
+      "Humor and coping interpretation, not health advice."
+    ],
+    [
+      79,
+      9,
+      44,
+      "4528494629",
+      "22ndOfOctober",
+      "2",
+      "Got that dog in me",
+      "I got that dog in me beneath sunglasses-wearing cattle dog with beer and cigarette.",
+      "Literalize a toughness idiom as a specific dog, then redirect toughness into a relaxed louche persona.",
+      "Known figurative dog phrase; literal animal; human vice props.",
+      "No animal-care or substance-use recommendation."
+    ],
+    [
+      80,
+      9,
+      60,
+      "4371880113",
+      "ZebraCustomApparel",
+      "30",
+      "Adventure and serial killers",
+      "Adventure is out there / but so are serial killers around a peaceful forest.",
+      "Undercut an inspiring invitation with a delayed dark objection sharing the same location.",
+      "Positive setup; contrasting late qualifier; shared referent.",
+      "Dark humor not risk estimate; scene optional."
+    ],
+    [
+      81,
+      10,
+      10,
+      "4565511336",
+      "VELAStudioArt",
+      "1",
+      "Funcle",
+      "FUNCLE with embroidered goose in sunglasses, backward cap and beer.",
+      "Compress fun and uncle into an affectionate role title; relaxed party styling embodies the composite.",
+      "Two recoverable words; shared sound; family role; playful modifier.",
+      "Personalization optional; goose not essential."
+    ],
+    [
+      82,
+      10,
+      11,
+      "4321509141",
+      "ThreadifiedShop",
+      "104",
+      "Living the dream skull",
+      "Livin the dream around a cracked skull with flower in mouth.",
+      "Let a visibly dead/damaged speaker contradict an optimistic life claim, turning it into weary sarcasm.",
+      "Positive life claim; unmistakable mortality/damage cue; joint reading.",
+      "Decorative skull appeal possible; no claim of wearer distress."
+    ],
+    [
+      83,
+      10,
+      21,
+      "4535234906",
+      "EveryDayClothingTX",
+      "5",
+      "Bigfoot took wiener",
+      "Bigfoot grabbed my wiener; cryptid holds sausage on stick at campsite.",
+      "Use an apparent adult encounter claim resolved innocently as stolen camp food.",
+      "Double-meaning noun; alarming verb; visible innocent object.",
+      "Adult innuendo; fictional encounter."
+    ],
+    [
+      84,
+      10,
+      24,
+      "4350974897",
+      "PineSpiceBooks",
+      "272",
+      "Huzzah frog",
+      "Small frog raises sword, wears flowing cape, says HUZZAH.",
+      "Give a tiny mild creature the triumphant posture and battle cry of an epic hero.",
+      "Small unthreatening subject; victory pose; heroic props; grand exclamation.",
+      "Folklore/fantasy role, not franchise-dependent; embroidery optional."
     ]
   ],
   "checkpoint": {
@@ -93,5 +340,210 @@
     ],
     "outcome": "Pass for candidate decoding: badge and actual artwork observed, short-sleeve T-shirts, novel expressions against legacy60, explicit visible relationships and alternatives. Optional teacher name is not buyer-created core expression. No causal sales claim; mechanisms may overlap. Completed before admitting remainder.",
     "limits": "Supplementary seller follow-up pending; interpretation of courtesy extension62 is narrower than a general kindness statement because taxonomic kinds supplies the second referent."
-  }
+  },
+  "detail_decisions": [
+    [
+      7,
+      53,
+      "tentative",
+      "STILL Lake Ontario: persistence/renaming context unstated; outside quota"
+    ],
+    [
+      7,
+      54,
+      "graphic-led",
+      "Fall is my favorite with seasonal collage; no color category substitution"
+    ],
+    [
+      7,
+      55,
+      "repeat18",
+      "KeepCove; same fun-aunt knight/giant-cat expression"
+    ],
+    [
+      7,
+      59,
+      "repeat27",
+      "MerryMomentTees; cosmetic people one-star variant"
+    ],
+    [
+      8,
+      10,
+      "graphic-led",
+      "Luna moth/thistles/moon; decorative arrangement"
+    ],
+    [
+      8,
+      17,
+      "graphic-led",
+      "Every Child Matters; hand/feather/nature emblem supports direct advocacy"
+    ],
+    [
+      8,
+      23,
+      "graphic-led",
+      "Free Palestine watermelon/floral symbol; direct advocacy, no additional clear transformation selected"
+    ],
+    [
+      8,
+      24,
+      "tentative",
+      "May our daughters be ungovernable: plausible value inversion but mostly direct wish"
+    ],
+    [
+      8,
+      36,
+      "tentative",
+      "Feral: one-word self-label; insufficiently specified relationship"
+    ],
+    [
+      8,
+      39,
+      "repeat48",
+      "UpTopNorth; respect locals with woodland wildlife replaces insects; same courtesy-to-nonhuman-residents expression"
+    ],
+    [
+      8,
+      42,
+      "franchise",
+      "Mo books; recognizable Mo Willems pigeon"
+    ],
+    [
+      8,
+      43,
+      "excluded",
+      "Named public-figure portrait/quotation collage; direct advocacy/tribute"
+    ],
+    [
+      8,
+      54,
+      "graphic-led",
+      "Respect your mother plain text; no alternative referent"
+    ],
+    [
+      8,
+      59,
+      "repeat-exclusion",
+      "Same4529146009 seasonal statement as page7"
+    ],
+    [
+      9,
+      7,
+      "franchise",
+      "Recognizable Twilight actor/character parody"
+    ],
+    [
+      9,
+      8,
+      "graphic-led",
+      "Faux patchwork duck; texture treatment without conceptual relation"
+    ],
+    [
+      9,
+      10,
+      "tentative",
+      "Geese wearing costumes; mascot seasonal role alone insufficiently specific"
+    ],
+    [
+      9,
+      12,
+      "repeat26",
+      "USACustomTeeCenter; same cryptid park protection expression"
+    ],
+    [
+      9,
+      29,
+      "graphic-led",
+      "ART rotated typography; execution not relationship"
+    ],
+    [
+      9,
+      33,
+      "graphic-led",
+      "Every child matters with hummingbird"
+    ],
+    [
+      9,
+      34,
+      "repeat69",
+      "EveryDayClothingTX; classroom ghost duties cosmetic variation of para normal"
+    ],
+    [
+      9,
+      36,
+      "repeat65",
+      "RoyaltyTeesTreasures; typography-only subtraction difference variant"
+    ],
+    [
+      9,
+      38,
+      "graphic-led",
+      "Roswell UFO desert destination scene; no additional transformation"
+    ],
+    [
+      9,
+      40,
+      "tentative",
+      "Sounds like husbands problem; direct responsibility deflection"
+    ],
+    [
+      9,
+      43,
+      "graphic-led",
+      "Every child matters tribute/symbol collage"
+    ],
+    [
+      9,
+      45,
+      "tentative",
+      "Dog sunglasses and iced coffee: generic humanization with arbitrary prop"
+    ],
+    [
+      9,
+      53,
+      "graphic-led",
+      "Floral heart outline; decorative symbol composition"
+    ],
+    [
+      9,
+      55,
+      "graphic-led",
+      "Hallowtide saints label and religious calendar illustration"
+    ],
+    [
+      10,
+      5,
+      "graphic-led",
+      "Direct affirmations illustrated by cute geese; no clear extra transformation"
+    ],
+    [
+      10,
+      17,
+      "graphic-led",
+      "Witch coven/full moon scene"
+    ],
+    [
+      10,
+      19,
+      "franchise",
+      "Practical Magic-associated ritual quotation"
+    ],
+    [
+      10,
+      22,
+      "graphic-led",
+      "Zion landscape souvenir"
+    ],
+    [
+      10,
+      23,
+      "graphic-led",
+      "Medical awareness objects personified as friendly mascots; no clearer operation"
+    ]
+  ],
+  "resume": {
+    "page": 10,
+    "next_position": 29
+  },
+  "evidence_note": "Actual listing images and Bestseller badge visually inspected on 2026-10-06. URL/listing identities retained; no screenshot archive. Browser runtime restart discarded early raw snapshots, but decisions and decoded observations are preserved."
 }
