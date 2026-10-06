@@ -2,7 +2,7 @@
 
 Date: 2026-10-06
 Owner: Creative Director
-Status: Authorized; existing records inspected and live continuation access checked. **0 new designs decoded in this continuation so far.** No claim of a completed 120-source run.
+Status: **60 additional eligible expressions decoded; operator synthesis complete with disclosed evidence limits.** See the [completed report](TRACE-Etsy-120-Report.md), [source decodes](TRACE-Etsy-120-Source-Decodes.md) and [evidence ledger](TRACE-Etsy-120-Evidence.json). Independent Creative Director review pending.
 
 ## Founder direction
 
@@ -77,7 +77,7 @@ Count 60 new eligible clear-mechanism design expressions toward the expansion ta
 - Quality review and disclosed coverage limits.
 - No production T-shirt design work during this expansion.
 
-## Access check
+## Historical access check — before execution
 
 Opened the recorded Etsy search on page seven in the current browser. Bestseller and Exclude digital downloads filters, Most relevant sort, and United States / English (US) / USD footer were observed. This verifies access and filter state only. No new listing has yet been admitted or decoded.
 
@@ -86,3 +86,7 @@ Opened the recorded Etsy search on page seven in the current browser. Bestseller
 - [Existing 60-source report](TRACE-Etsy-60-Report.md)
 - [Shared mechanism library](../mechanisms/README.md)
 - [Etsy workflow](../../../company/TRACE-Etsy-Google-Shopping-Workflow.md)
+
+## Completion record — 2026-10-06
+
+Original t-shirts search exhausted at page20. Final batch consists of52 new expressions from that segment and8 from graphic t-shirts page1 through position51 with the same filters/context. Final QA merged the cow/shark moon-howling variants and replaced working source74 with the next eligible source. All60 received bounded web/product follow-up after the Shopping browser safeguard; unavailable/unresolved observations receive no extra seller points. Seven historical tentative interpretations remain withheld. Full early-page card rosters and screenshots were not retained; the report discloses those limitations. No production designs created.
