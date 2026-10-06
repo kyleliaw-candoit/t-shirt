@@ -1,5 +1,5 @@
 {
-  "status": "IN PROGRESS — 55 additional individual decodes captured; Shopping follow-up, screening audit and final grouping pending.",
+  "status": "COMPLETED — 55 additional decodes; 60 sources including reviewed pilot. Supplementary follow-up has disclosed access and evidence limits.",
   "date": "2026-10-06",
   "columns": [
     "listing_id",
@@ -676,9 +676,1569 @@
     ]
   ],
   "common": {
-    "signal": "Bestseller observed on each inspected product page",
+    "signal": "Etsy Bestseller observed on selected listings; listing 673969093 had Bestseller on organic search card and Etsy's Pick on detail page. See per-record caveat.",
     "scope": "Listing-level evidence; counts not attributed to individual garment variants or interpreted as sales.",
     "copying": "Do not reproduce source wording, illustration, exact composition, seller marks or close visual derivatives. Abstract operation only.",
-    "confidence": "High source visibility unless noted; mechanism remains interpretation; sales causality unknown."
+    "confidence": "Visible source details ground an interpretation, not creator intention or sales causality. All new recipes remain CANDIDATE v1; moderate interpretations explicitly labeled."
+  },
+  "recipe_metadata": [
+    {
+      "source_number": 6,
+      "listing_id": "4557622114",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Inflate an everyday discomfort into an act of heroic endurance, inviting affectionate recognition.",
+        "adjustable": "Minor discomfort and voice; keep the mismatch with heroic self-assessment.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Affectionate self-recognition or winter gifting may matter more than the exaggeration.",
+      "follow_up": {
+        "google_shopping_query": "\"I’m cold but I’m being really brave about it\" shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Crazy Dog TShirts; Walmart/Tapco LLC; Etsy seller unresolved",
+          "Same phrase across text shirts; Google card showed 1 review for Crazy Dog; merchant review widget not verified."
+        ],
+        "product_page": [
+          "https://www.crazydogtshirts.com/products/im-cold-but-im-being-really-brave-about-it-mens-t-shirt",
+          "Crazy Dog direct product page opened; same phrase. Shopping 1-review claim not independently verified in retrieved merchant page."
+        ],
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 7,
+      "listing_id": "1265347724",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Relocate a familiar festive phrase to a different seasonal ritual bundle.",
+        "adjustable": "Season and ritual bundle; use a phrase whose prior seasonal association is recognizable.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Seasonal colors and recognizable objects may be the primary attraction.",
+      "follow_up": {
+        "google_shopping_query": "tis the season coffee football pumpkin shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.constantlyvariedgear.com/collections/fall-festivities/products/football-coffee-tis-the-season-shirt-unisex",
+          "CVG product page: same seasonal phrase, football/coffee/pumpkin imagery; tee and tank variants. No design-specific review count established."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 8,
+      "listing_id": "4392320293",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Make a collective animal noun sound like an unfinished crime; the small bird group resolves the double reading.",
+        "adjustable": "Choose a different genuinely ambiguous category word and a scene that resolves both readings.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Crow affinity and terse visual style may independently attract buyers.",
+      "follow_up": {
+        "google_shopping_query": "attempted murder two crows shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; LightInTheBox; Chowdaheadz",
+          "Two-crow wording family. Shopping showed 54 reviews on Chowdaheadz ladies offer; opened general tee has reviews, not assumed identical SKU."
+        ],
+        "product_page": [
+          "https://www.chowdaheadz.com/products/attempted-murder-t-shirt",
+          "Chowdaheadz product page confirms crow-crime pun and contains customer review entries. Do not transfer the ladies-card 54-review count to this SKU."
+        ],
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 9,
+      "listing_id": "4520342710",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Humanize an imposing elusive creature through a delicate, familiar action.",
+        "adjustable": "Creature and gentle action; preserve a credible contrast in scale or temperament.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Cryptid fandom and tender illustration may dominate the cognitive contrast.",
+      "follow_up": {
+        "google_shopping_query": "bigfoot blowing dandelion shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; Walmart/LiuJun; Silver Lake T-shirts",
+          "Titles explicitly repeat Bigfoot blowing dandelion. Artwork equivalence outside Etsy not fully verified."
+        ],
+        "product_page": [
+          "https://silverlaketshirts.com/products/bigfoot-blowing-dandelion-shirt-funny-nature-tee-shirt",
+          "Silver Lake direct product page opened; same subject/action title. No design-specific demand total established."
+        ],
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 10,
+      "listing_id": "1869942869",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Set up an offer of competence, then reverse its promised outcome into self-deprecating failure.",
+        "adjustable": "Helpful setup and negative outcome; preserve the delayed reversal.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Self-deprecating identity and familiar wording may drive appeal.",
+      "follow_up": {
+        "google_shopping_query": "give me a minute I can make it worse shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Target and other offers; Walmart/ZwinEasy; LightInTheBox",
+          "Same failure-reversal phrase; Google showed 1 and 7 reviews on separate offers, scope unverified."
+        ],
+        "product_page": [
+          "https://www.crazydogtshirts.com/products/if-you-just-give-me-a-minute-i-think-i-can-make-it-worse-mens-t-shirt",
+          "Crazy Dog direct page opened; same maker as Etsy, so distribution corroboration rather than another independent creator."
+        ],
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 11,
+      "listing_id": "1881564632",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Rename ordinary pet care using the language of an illicit occupation.",
+        "adjustable": "Caregiving routine and charged occupational label; include the cue that restores the benign reading.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Pet-owner identity alone could explain interest.",
+      "follow_up": {
+        "google_shopping_query": "treat dealer paw shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Target/Ryker's Apparel; Walmart seller unresolved/Noira Thread; Walmart/Prime & Plain",
+          "Same paw-and-treat phrase with typographic variations visually observed. Product panel remained loading; no destination attributed."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 12,
+      "listing_id": "4560136400",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Answer a color-preference question with a whole season, letting its palette justify the category substitution.",
+        "adjustable": "Preference category and encompassing experience; visual evidence must justify the category shift.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Autumn identity and foliage palette may explain the appeal.",
+      "follow_up": {
+        "google_shopping_query": "fall is my favorite color trees shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart seller unresolved/RISEN JUDY; Peachy Sunday; Walmart seller unresolved",
+          "Same favorite-color wording and tree imagery; two Walmart cards do not prove two sellers."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 13,
+      "listing_id": "4460204664",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Project a familiar historical religious practice into the present to imply that current conduct deserves correction.",
+        "adjustable": "Culturally familiar figure and present-day intervention; audience must know the historical practice.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Religious affiliation or agreement with the implied criticism may dominate.",
+      "follow_up": {
+        "google_shopping_query": "if Paul were here we would be getting a letter shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart/Tims Essentials; Etsy seller unresolved; Walmart/xiaohaoyuan",
+          "Same Paul-letter phrase; product-specific review evidence unknown."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 14,
+      "listing_id": "4389101655",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Literalize a spiritual walking metaphor and undercut ideal conduct with everyday clumsiness.",
+        "adjustable": "Aspirational idiom and concrete failure; maintain both figurative and literal readings.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Faith identity and cute sequential animal art may be stronger drivers.",
+      "follow_up": {
+        "google_shopping_query": "walking by faith tripping constantly goose shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart/Spanish for Babies and Toddlers; Pam's Hallmark/Simply Southern; Jane/The Inky Potato",
+          "Same walking/tripping phrase; goose stated in two titles, not all artwork verified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 15,
+      "listing_id": "4507059638",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Reveal the gift giver as the source of the wearer's exaggerated testimonial, turning self-description into affectionate ventriloquism.",
+        "adjustable": "Relationship, exaggerated testimonial and giver reveal; keep the speaker switch.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Spouse gifting and personalization may dominate.",
+      "follow_up": {
+        "google_shopping_query": "spoiled grumpy old man awesome wife she bought me this shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.zazzle.com/yes_im_a_spoiled_grumpy_old_man_of_freaking_wife_t_shirt-235631220570231310?srsltid=AU7gw4XTzobeQaw4xNjQTNOlZ5BdYXlB1GcNq5e40bU1j24KCewfNTRT",
+          "GOUPClub phrase-family variant. Final she-bought-it reveal not confirmed on this variant. Displayed 32,249 total reviews not accepted as design-specific."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 16,
+      "listing_id": "4512925271",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Expand practical alternatives into poetic impossible advisers, making a preference feel like an abundant worldview.",
+        "adjustable": "Practical and impossible advisers; preserve accumulating repeated syntax.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Anti-AI sentiment or editorial typography may be sufficient to attract buyers.",
+      "follow_up": {
+        "google_shopping_query": "instead of asking ai ask a librarian ocean shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy/careandresist; TeePublic seller unresolved; Walmart/HCD Commerce",
+          "Related librarian alternatives, Keep Calm, and summer-reading results. No match to entire ask-list; not evidence of exact-expression spread."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 17,
+      "listing_id": "4570793560",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Give an animal an exaggerated human reaction so the wearer can externalize bewilderment.",
+        "adjustable": "Animal, recognizable emotion and matching gesture.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Raccoon imagery and internet phrase familiarity may dominate.",
+      "follow_up": {
+        "google_shopping_query": "what is even happening raccoon shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.etsy.com/listing/4549488965/what-is-even-happening-shirt-unisex",
+          "Separate listing by GlamGalorex2 confirms same raccoon expression; independent invention and sales unknown."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 18,
+      "listing_id": "4546246703",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Stage an ordinary family role's entrance as a grand medieval arrival.",
+        "adjustable": "Everyday family role, ceremonial arrival and incongruous vehicle or mount.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Aunt gifting or ornate cat illustration may dominate.",
+      "follow_up": {
+        "google_shopping_query": "hear ye fun aunt has arrived cat knight shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "onholdfile.com; eBay/ntoladr_0; Walmart seller unresolved/ACIVTO",
+          "Same aunt-knight-cat wording; merchant legitimacy and independent sales unverified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 19,
+      "listing_id": "1876593662",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Use an innocent animal scene to support a second, adult slang reading.",
+        "adjustable": "A different innocent scene with a coherent second slang reading; do not merely swap the animal.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Adult novelty gifting may dominate the layered interpretation.",
+      "follow_up": {
+        "google_shopping_query": "clean beaver gets more wood shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Unethical Threads; HaneenShirt; Ferizia",
+          "Same beaver/wood double entendre; bathing source versus log-holding variant in title. No sales totals."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 20,
+      "listing_id": "4520338918",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Make the object of a hobby perform the hobby itself.",
+        "adjustable": "Hobby subject and its recognizable human tool; keep the object becoming the participant.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Bird affinity and hobby identity may explain interest.",
+      "follow_up": {
+        "google_shopping_query": "this is my birding shirt bird binoculars",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; Etsy/CosmicCoastDesign; Zazzle seller unresolved",
+          "First title matches source; other results are birding/cardio and binocular variants, not exact mechanism corroboration."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 21,
+      "listing_id": "4347191679",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Let a mischievous animal insist on a flattering self-description, creating a playful mismatch.",
+        "adjustable": "Flattering self-claim and visibly unruly proxy; preserve the contradiction.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Familiar phrase recognition and raccoon affinity may dominate.",
+      "follow_up": {
+        "google_shopping_query": "first of all I am a delight raccoon shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Ziror; Walmart seller unresolved/Babyfami; Ziror",
+          "Same delight-raccoon phrase; repeated Ziror offer counted once as merchant, not independent corroboration."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 22,
+      "listing_id": "4328368012",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Pair an alarming transformation word with an ordinary moral baseline to challenge how the label is applied.",
+        "adjustable": "Charged label and disarming ordinary cause; supporting examples must fit the stated cause.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Political agreement and values signalling may dominate.",
+      "follow_up": {
+        "google_shopping_query": "radicalized by basic decency shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Hilarious Humanitarian; The Sunflower Market; Polka Dots Old Town Boutique",
+          "Same decency phrase, floral variant stated. Google showed 17 reviews for Hilarious Humanitarian, scope not independently checked."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 23,
+      "listing_id": "1226210217",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Borrow a hazard warning to celebrate a group's recurring social behavior.",
+        "adjustable": "Warning convention, group and recurring harmless social behavior.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Group trip purchases and personalization may dominate.",
+      "follow_up": {
+        "google_shopping_query": "warning the girls are drinking again shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart seller unresolved/Sassalilly; shopdixiegrace.com; Mitten Littles Shop",
+          "Same warning phrase across shirt and crewneck; no verified outside demand count."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 24,
+      "listing_id": "4569299033",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Turn a casual exclamation into the literal break shown by the character's body.",
+        "adjustable": "Exclamation and physical event that literally realizes it.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Halloween demand and skeleton illustration may dominate.",
+      "follow_up": {
+        "google_shopping_query": "oh snap skeleton arm halloween shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart/Top Tees Apparel; Old Glory; Gnarytees.com",
+          "Oh Snap skeleton family; exact detached-arm scene not verified on all cards. Google Old Glory card showed 1 review."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 25,
+      "listing_id": "4351766406",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Use booked as both a full schedule and a supply of books to frame reading as a seasonal commitment.",
+        "adjustable": "Ambiguous scheduling language and pastime evidence; preserve both meanings.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Book identity and autumn decoration may dominate.",
+      "follow_up": {
+        "google_shopping_query": "all booked for fall shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart/Insite Marketing LLC; Cozy Books Corner; TheLibraryCloset",
+          "Same booked-for-fall phrase with reading/pumpkin context."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 26,
+      "listing_id": "4540699858",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Extend a real conservation appeal to imaginary inhabitants, combining stewardship with wonder.",
+        "adjustable": "Real protective appeal, imagined beneficiaries and recognizable habitat.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Conservation identity and cryptid enthusiasm may dominate.",
+      "follow_up": {
+        "google_shopping_query": "protect national parks where legends roam free cryptid shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://shop.tiktok.com/us/pdp/unisex-heavy-cotton-tee-classic-fit-made-in-usa-cold-wash/1732556137656651844",
+          "TikTok product page repeats both park/legends lines; seller identity and independent demand unresolved; no original-creator claim."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 27,
+      "listing_id": "4541170444",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Apply a consumer-review format to humanity to express social exhaustion.",
+        "adjustable": "Review interface and an ordinarily unreviewable subject; keep the mismatch legible.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Social-exhaustion identity may attract without format novelty.",
+      "follow_up": {
+        "google_shopping_query": "people absolute nightmare would not recommend shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart seller unresolved; Walmart/Union Corp.; Etsy seller unresolved",
+          "Same one-star people-review wording. Marketplace-card multiplicity not independent sellers by default."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 28,
+      "listing_id": "4499414775",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Resolve a slang double meaning through an absurd charitable explanation.",
+        "adjustable": "A different ambiguous term, literal activity and absurd beneficiary; both readings must resolve.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Adult novelty and frog art may dominate.",
+      "follow_up": {
+        "google_shopping_query": "growing my bush donate men going bald frog shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Sunfrog Shirts; eBay/fnico_merca; Etsy seller unresolved",
+          "Same frog/gardening donation gag. No outside sales evidence verified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 29,
+      "listing_id": "1850985059",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Reframe a person's age as collectible vintage status.",
+        "adjustable": "Year or age and object-quality vocabulary; period styling is adjustable support.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Birthday gifting and retro appearance may dominate the simple metaphor.",
+      "follow_up": {
+        "google_shopping_query": "vintage 1976 shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy/KatydidsShop; Walmart/Pocketful Deals; Etsy seller unresolved",
+          "Vintage-year and limited-edition variants. Similar age revaluation, not identical artwork."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 30,
+      "listing_id": "4518627480",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Contrast a morbid impatient question with a calm domestic coffee ritual, using a death-associated bird as speaker.",
+        "adjustable": "Morbid anticipation and calm domestic ritual; preserve tonal contrast without selecting a real target.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Political sentiment supplied by listing context may dominate.",
+      "follow_up": {
+        "google_shopping_query": "is he dead yet crow coffee shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.etsy.com/listing/4499663895/is-he-dead-yet-vintage-dark-crow-t-shirt",
+          "Crow-coffee phrase variant with text beneath bird rather than on mug; seller identity not used for distinct-store count."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 31,
+      "listing_id": "1584939189",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Describe an aging person as a durable antique machine with a gently qualified condition report.",
+        "adjustable": "Age and condition-report terms; retain the person-as-durable-object mapping.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Milestone gifting may explain demand independently.",
+      "follow_up": {
+        "google_shopping_query": "built 80 years ago original unrestored shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Sleeping Angel Treasures; Kohl's; Kooskadoo",
+          "All captured titles refer to built in the 80s/eighties, not 80 years old. Related condition-report mechanism, no exact age-expression corroboration."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 32,
+      "listing_id": "1832678787",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Turn a formal milestone announcement into a certificate of release from responsibility.",
+        "adjustable": "Milestone and formal announcement convention with a blunt release clause.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Retirement gifting and year personalization may dominate.",
+      "follow_up": {
+        "google_shopping_query": "officially retired 2026 not my problem anymore shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart seller unresolved/Babyfami; Etsy/SunAiArt; Walmart seller unresolved/SIXLON",
+          "Same retirement/not-my-problem wording, US-flag variation stated."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 33,
+      "listing_id": "4557707921",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Make a dog's ordinary love of bones into the literal cause of a skeleton's predicament.",
+        "adjustable": "Pet habit and a fantastical body vulnerable to that habit; show cause and chase clearly.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Dog-breed identity and Halloween illustration may dominate.",
+      "follow_up": {
+        "google_shopping_query": "cattle dog stealing skeleton arm shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "TShirtGang; Walmart seller unresolved/DibaInk; Etsy/RabbitPrint",
+          "First title explicitly lost arm; others dog/skeleton theme. Do not assume each shows stolen limb."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 34,
+      "listing_id": "4545646748",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Respell an age through golf sounds, then use a golf standard as reassurance about aging.",
+        "adjustable": "Age/hobby pairing only when a natural sound match exists; supporting vocabulary must agree.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Milestone golf gifting may dominate.",
+      "follow_up": {
+        "google_shopping_query": "fore tee and still on par shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "SBS T Shop; SaltyMoonDog; Swing Epic",
+          "Same fore-tee/on-par expression across named merchants."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 35,
+      "listing_id": "4476230476",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Reuse modern shorthand's dictionary format with unexpected age-related expansions.",
+        "adjustable": "Recognizable shorthand and coherent unexpected expansions for another audience.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Age-based gifting and readable list content may dominate.",
+      "follow_up": {
+        "google_shopping_query": "80 year old texting code shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Walmart/KP.Giftstore; Silver Lake T-shirts; Walmart/Tapco LLC",
+          "Senior texting-code family; wording inside glossary not compared line by line. Google Silver Lake card showed 5 reviews."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 36,
+      "listing_id": "4545423365",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Exaggerate losing a balloon into losing the limb holding it, then respond with understatement.",
+        "adjustable": "Everyday loss and impossible attached consequence; preserve causal visual readability.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Skeleton imagery or understated profanity may dominate.",
+      "follow_up": {
+        "google_shopping_query": "well shit skeleton balloon arm shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.teepublic.com/t-shirt/98547087-funny-skeleton-detached-arm-with-red-balloon",
+          "TeePublic/suncord product describes skeleton losing arm to balloon; same visual event, wording equivalence not required."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 37,
+      "listing_id": "4534156964",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Turn a bad-behavior idiom into a food homophone reinforced by a sausage-associated dog and festival scene.",
+        "adjustable": "Idiom and homophone with a mutually reinforcing visual context.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Dachshund and festival identity may dominate.",
+      "follow_up": {
+        "google_shopping_query": "dachshund on my wurst behavior shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://onlinestore.bavarianinn.com/products/grasel-graphics-inc-wurst-behavior-t-shirt-20101699?srsltid=AU7gw4V6Va0gvGqyDNZvLFy5ZRxIQnw6hN__lae-aGDM5HEzxJuQTQcl",
+          "Bavarian Inn product titled Wurst Behavior and describes dachshund for German festivals. Exact source illustration not established."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 38,
+      "listing_id": "4575837353",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Exploit an animal's elongated shape to build a playful taxonomy of another category.",
+        "adjustable": "Two categories with real shape correspondences; vary multiple labeled transformations.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Food-and-pet overlap and illustration craft may dominate.",
+      "follow_up": {
+        "google_shopping_query": "pasta pups dachshund shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "GullPrint; Woot/BuddyTees; eBay seller unresolved",
+          "Same Pasta Pups title; no original-creator or sales claim."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 39,
+      "listing_id": "4519735923",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Pretend an unrelated historical catastrophe proves the importance of an everyday behavior.",
+        "adjustable": "Known consequence and deliberately absurd proposed cause; keep the inference visibly comic.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Dinosaur appeal or agreement with emotional openness may dominate.",
+      "follow_up": {
+        "google_shopping_query": "dinosaurs did not talk about feelings shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "TeePublic seller unresolved; Walmart seller unresolved/Elune Studio; Etsy seller unresolved",
+          "Same dinosaur-feelings setup; full terminal line/art not checked on each offer."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 40,
+      "listing_id": "4538595884",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Literalize a slang expression of enthusiasm while making the pictured group demonstrate belonging.",
+        "adjustable": "Enthusiasm idiom and literal object that can also enact the value.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Inclusion signalling or friendly food characters may dominate.",
+      "follow_up": {
+        "google_shopping_query": "inclusion is my jam shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; TeePublic seller unresolved; Etsy/SpeedifyCreations",
+          "Same jam phrase and related spread-inclusion variant; not independent mechanism proof."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 41,
+      "listing_id": "1642764713",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Deny that a hobby can become excessive, offering the wearer playful permission to indulge.",
+        "adjustable": "Hobby and ordinary criticism of excess; preserve the playful universal denial.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Direct reading identity and floral art may dominate; mechanism is borderline.",
+      "follow_up": {
+        "google_shopping_query": "there is no such thing as too many books shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy/SellerDurmaz; Etsy/HMDesignShirt; Ziror",
+          "Same too-many-books expression, floral treatment. Google cards showed 1 and 2 reviews, not audited."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 42,
+      "listing_id": "673969093",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Give an animal a human task for which its unusual anatomy becomes a comic advantage.",
+        "adjustable": "Animal trait and task that materially benefits from it; anatomy must explain the choice.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Drummer or octopus affinity and rendering quality may dominate.",
+      "follow_up": {
+        "google_shopping_query": "octopus playing drums shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://radiusdrums.com/product/octopus-playing-drums-3-4-sleeve-raglan-shirt/?srsltid=AU7gw4V-9t9-EoXkke5enC5RY186hOpt96qk2Mc4JbUEcrCXg8JgfSck",
+          "Radius Drums product describes purple octopus playing drums on raglan: related visual operation, different treatment; no sales evidence."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 43,
+      "listing_id": "4536169832",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Make elusive monsters into ordinary library patrons, reversing fear into relatable concentration.",
+        "adjustable": "Folklore beings and mundane shared activity; preserve the expectation reversal.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Cryptid and book-interest overlap may dominate.",
+      "follow_up": {
+        "google_shopping_query": "shhh we are trying to read cryptids shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "VanceMade; TheRetroTee; TheRetroTee",
+          "Same cryptid-reading phrase; repeated sizes/colors at TheRetroTee are one merchant."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 44,
+      "listing_id": "4515694977",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Borrow a heroic battle-call structure to dramatize a professional routine.",
+        "adjustable": "Professional routine, recognizable specialist prop and grand rallying language.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Occupation identity and frog fashion may dominate.",
+      "follow_up": {
+        "google_shopping_query": "we reinforce at dawn frog shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Blu Prism; Sunioso; YounesClothing",
+          "First two are read-at-dawn and thrift-at-dawn variants; third explicitly matches first/then frog reinforcement."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 45,
+      "listing_id": "1699055020",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Turn the garment into an oversized everyday package, making the wearer resemble the loved ingredient.",
+        "adjustable": "Generic everyday package and a wearable surface; retain package recognition without brand trade dress.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Food identity and conspicuous yellow color may dominate.",
+      "follow_up": {
+        "google_shopping_query": "salted butter wrapper shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Tees2urdoor; thecottagemeadow; The Red Rival",
+          "Same salted-butter concept; one displayed foreign Canadian price alongside USD. US search locale does not mean all merchants are US."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 46,
+      "listing_id": "4558731708",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Replace a ghost's expected fright with recognizable morning exhaustion and pet care.",
+        "adjustable": "Supernatural subject and ordinary exhausted routine; preserve mood mismatch.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Pug ownership, coffee and seasonal imagery may dominate.",
+      "follow_up": {
+        "google_shopping_query": "meh ghost holding pug coffee shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "TeePublic seller unresolved; TeePublic seller unresolved; Etsy seller unresolved",
+          "First two same ghost/pug idea on different garments; third pug with coffee lacks ghost. Distinct merchant count unresolved."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 47,
+      "listing_id": "4534527818",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Invoke an imagined alternative authority while leaving the objection unstated for the reader to supply.",
+        "adjustable": "Imagined alternative authority and deliberately incomplete objection.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Political agreement alone may explain interest; inference is moderate.",
+      "follow_up": {
+        "google_shopping_query": "the matriarchy would never shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; TeePublic seller unresolved; TikTok Shop seller unresolved",
+          "Same counterfactual phrase on crop and T-shirt; artwork and seller independence not verified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 48,
+      "listing_id": "4542193675",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Extend a social courtesy normally addressed to human residents to nearby wildlife.",
+        "adjustable": "Human courtesy and nonhuman recipients; visible habitat must clarify the extension.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Ecological advocacy and botanical illustration may dominate.",
+      "follow_up": {
+        "google_shopping_query": "respect the locals pollinators shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy seller unresolved; TikTok Shop seller unresolved; Etsy seller unresolved",
+          "Same/close pollinator-locals phrase. TikTok title embeds original Etsy listing ID; possible syndicated offer, not independent creator."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 49,
+      "listing_id": "4546590948",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Frame bargain hunting as a heroic expedition with treasure and a rallying cry.",
+        "adjustable": "Ordinary hobby, expedition framing and recognizable trophy object.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Thrifting identity and frog imagery may dominate.",
+      "follow_up": {
+        "google_shopping_query": "we thrift at dawn frog shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Sunioso; Katy Trail Collections; Etsy seller unresolved",
+          "Same thrift-at-dawn expression; first title specifies lamp, scarf and bag. Google Etsy card showed 8 reviews."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 50,
+      "listing_id": "4454980926",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Turn an internal self-management task into a literal cheerful outing.",
+        "adjustable": "Internal task and literal travel scene; keep the departure wording connected.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Goose trend, scooter charm or self-care identification may dominate.",
+      "follow_up": {
+        "google_shopping_query": "off to regulate emotions goose scooter shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Etsy/ComfyGiftStop; Walmart seller unresolved/Elune Studio; Shein seller unresolved",
+          "Same emotion/scooter-goose expression across titles. Google first card showed 1 review, scope unverified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 51,
+      "listing_id": "1820549867",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Recast the device for stopping an activity as a sign of giving up, inverting a virtue into a playful excuse.",
+        "adjustable": "Stopping device and perseverance language within a harmless activity; keep the inverted virtue.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Wine gifting and familiar phrase recognition may dominate.",
+      "follow_up": {
+        "google_shopping_query": "corks are for quitters shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": [
+          "Crazy Dog TShirts; Street 50; Ultras Sportswear",
+          "Same corks/quitting phrase. Google Crazy Dog card showed 1 review, not merchant-verified."
+        ],
+        "product_page": null,
+        "status": "Readable organic Shopping capture; offer-level limitations apply"
+      }
+    },
+    {
+      "source_number": 52,
+      "listing_id": "1858722276",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "Moderate mechanism interpretation; visible source grounded",
+      "ingredients": {
+        "required": "Present an alarming, socially inappropriate disclosure in an unusually calm everyday-shirt voice.",
+        "adjustable": "Clearly absurd extreme disclosure and unusually understated voice.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Shock novelty alone may dominate; extraction confidence is moderate.",
+      "follow_up": {
+        "google_shopping_query": "I have rabies shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.teepublic.com/t-shirt/69642828-i-have-rabies",
+          "TeePublic/CraftElle offers same phrase; product-specific reviews not established."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 53,
+      "listing_id": "1302581484",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Begin a normal list of likes, then sharply ration human inclusion to reveal social selectivity.",
+        "adjustable": "Warm interests, delayed human qualification and comically precise small number.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Cat/coffee identity or introversion may dominate.",
+      "follow_up": {
+        "google_shopping_query": "I like cats coffee maybe three people shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.zazzle.com/i_like_cats_and_coffee_and_maybe_3_people_t_shirt-256003154924059875",
+          "Zazzle/Nabil Designs same phrase. Reviews explicitly include similar products; approximately 15K total excluded from design-specific evidence."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 54,
+      "listing_id": "1447485606",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Change a familiar music-affiliation phrase through a homophone to express solidarity with censored books.",
+        "adjustable": "Affiliation formula, sound substitution and visual evidence of the new referent.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Advocacy agreement and book recognition may dominate.",
+      "follow_up": {
+        "google_shopping_query": "I am with the banned books shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://bookshopbabes.com/",
+          "Primary merchant catalog lists I'm with the Banned; homepage mixes reviews of many products. Only catalog/phrase-family availability used, not 13 reviews as a design count."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 55,
+      "listing_id": "4528769482",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Pitch a tiny organism's extraordinary reputation using exaggerated product-advertising conventions.",
+        "adjustable": "Unexpected subject, boastful feature language and a recognizable advertisement structure.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Tardigrade enthusiasm and retro graphic style may dominate.",
+      "follow_up": {
+        "google_shopping_query": "tardigrade we survive everything so you do not have to shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.threadless.com/shop/@itshypernova/design/tardigrade-live-tiny-die-never",
+          "It's Hypernova: Live Tiny Die Never is a related resilience boast, not the source's mock feature-ad expression. No exact external match verified."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 56,
+      "listing_id": "4373246142",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Apply an epic departure announcement to an improbable tiny animal cavalry.",
+        "adjustable": "Small rider, improbable mount and grand expedition language.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Frog/goose imagery or embroidered texture may dominate.",
+      "follow_up": {
+        "google_shopping_query": "we ride at dawn frog goose shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.ebay.com/itm/800437732069",
+          "RETROWASH APPAREL offers printed frog/goose phrase variant; page displays 1 sold. Seller 141 feedback count is separate. Not the source's embroidery."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 57,
+      "listing_id": "4378932075",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Translate a grand call to resist authority into a pet's petty everyday refusal.",
+        "adjustable": "Grand resistance language and a petty ordinary refusal.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Cat affinity and anti-authority sentiment may dominate.",
+      "follow_up": {
+        "google_shopping_query": "become ungovernable cat biting hand shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.target.com/p/-/A-1005927879",
+          "OrnamentallyYou cat-biting-hand variant; product page displayed 5 stars and 1 rating. Narrow product-family evidence only."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 58,
+      "listing_id": "4537335683",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Reinterpret familiar nuisance behavior as deliberate scientific calculation.",
+        "adjustable": "Familiar nuisance and a technical hidden-intention explanation.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Cat ownership and science identity may dominate.",
+      "follow_up": {
+        "google_shopping_query": "what cats really think physics shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://www.etsy.com/listing/4355700959/funny-cat-physics-humor-design-what-cats",
+          "Separate SilvioDesignStudio product page confirms same cat-physics title. Full graphic and independent demand not established."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 59,
+      "listing_id": "4525021899",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Split a job title around an animal sound and depict the resulting hybrid literally.",
+        "adjustable": "Role name containing a natural animal sound, with costume and prop completing both readings.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Wedding/officiant gifting may dominate.",
+      "follow_up": {
+        "google_shopping_query": "o fish iant wedding fish shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          "https://bridefits.com/products/funny-officiant-gift-for-fisherman-o-fish-iant-legalizer-of-love-shirt-wedding-officiant-shirt-minister-shirt-organizer-tee?srsltid=AU7gw4UInlMS6g_Ts4EVOwsQrHr5XAH3hr07QPYIqWPEj47VtuSlYiTe",
+          "BrideFits description explicitly confirms formal fish, ceremony book and pun. Live viewer counter not treated as demand."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    },
+    {
+      "source_number": 60,
+      "listing_id": "4450602330",
+      "version": "1.0",
+      "maturity": "CANDIDATE",
+      "confidence": "High source grounding; mechanism interpretive",
+      "ingredients": {
+        "required": "Start with a familiar shocking boast, then add an impossible means to create a second incongruous reveal.",
+        "adjustable": "Taboo setup and surprising impossible means; preserve delayed reveal, not exact source content.",
+        "optional": "Typeface, texture, palette and placement are optional unless needed to make the required relationship legible. Source-specific props can be omitted only when the essential relation survives.",
+        "prohibited": "Exact source wording, illustration, distinctive layout, seller marks and close visual substitutions. Do not rely on branded character or package trade dress."
+      },
+      "alternative_explanation": "Shock gifting and bright typography may dominate; no production endorsement.",
+      "follow_up": {
+        "google_shopping_query": "LucyKentPrint adult anatomical joke shirt",
+        "locale": "US / English; mostly USD; occasional foreign merchant currency",
+        "organic_offers": null,
+        "product_page": [
+          null,
+          "Seller/listing-ID fallback search did not establish a useful independent product source. External spread and demand remain unknown."
+        ],
+        "status": "No readable Shopping capture; web fallback documented"
+      }
+    }
+  ],
+  "screening": {
+    "displayed_positions": 392,
+    "organic_bestseller_occurrences": 192,
+    "unique_details_inspected": 70,
+    "new_selected": 55,
+    "detail_skips": [
+      [
+        "4568022482",
+        "Every Child Matters",
+        "Direct cause statement with supporting feather image; no additional transformation identified."
+      ],
+      [
+        "4330351152",
+        "Cozy fall words",
+        "Seasonal word list and graphic treatment; no separately identifiable mechanism."
+      ],
+      [
+        "4545941098",
+        "Fellowship of Wing",
+        "Franchise-dependent expression."
+      ],
+      [
+        "4526611054",
+        "Fall favorite color",
+        "Near-identical expression/art recurrence; not a new design count."
+      ],
+      [
+        "4566110490",
+        "What is even happening",
+        "Same raccoon expression family/reprint; not another count."
+      ],
+      [
+        "4586029765",
+        "Black Folks Don't",
+        "Direct advocacy with supporting imagery; no additional transformation selected. No judgment on its importance or commercial merit."
+      ],
+      [
+        "4542328224",
+        "Autumn leaves and coffee",
+        "Seasonal collage/direct preference statement."
+      ],
+      [
+        "4310800296",
+        "True story, sister had a baby",
+        "Recognizable franchise cartoon figure central to the expression."
+      ],
+      [
+        "4539312983",
+        "Better in the 90s",
+        "Direct nostalgia statement and typography."
+      ],
+      [
+        "4527384402",
+        "Occupational Therapy",
+        "Occupation lettering treatment."
+      ],
+      [
+        "4524530104",
+        "Respect your mother / disco ball",
+        "Visual referent too ambiguous to ground a distinct mechanism; provisional graphic-led skip."
+      ],
+      [
+        "1840616244",
+        "Life happens, quilting helps",
+        "Direct hobby-benefit statement; no additional transformation identified."
+      ],
+      [
+        "1741291319",
+        "Women in science",
+        "Informational tribute/icon catalog; no additional mechanism selected."
+      ],
+      [
+        "4527538439",
+        "Raptor Stories",
+        "Branded bird graphic; no additional mechanism selected."
+      ],
+      [
+        "4536320371",
+        "Occupational therapy icons",
+        "Direct identity and supporting icons."
+      ]
+    ],
+    "scope": "Card/title triage preceded detail inspection; not every nonselected card was opened. Repeated cards are not unique designs."
+  },
+  "grouping": [
+    [
+      "Expectation and tone mismatch",
+      [
+        1,
+        10,
+        15,
+        21,
+        30,
+        46,
+        52,
+        53,
+        60
+      ],
+      "Let a reassuring claim, familiar voice or normal setup collide with an incongruous image or ending. These remain distinct submechanisms: self-image contradiction, delayed reversal, speaker reveal and deadpan shock."
+    ],
+    [
+      "Reframing identity or value",
+      [
+        3,
+        11,
+        12,
+        22,
+        29,
+        31,
+        41,
+        48,
+        51
+      ],
+      "Borrow a label or judgment from another domain to change how an ordinary role, age, preference or behavior feels. Preserve the particular mapping; these are not interchangeable slogans."
+    ],
+    [
+      "Double meaning and literalization",
+      [
+        4,
+        8,
+        14,
+        19,
+        24,
+        25,
+        28,
+        34,
+        35,
+        37,
+        40,
+        54,
+        59
+      ],
+      "Activate two readings through image, homophone, word split or alternate expansion. Some need visible action; others need insider vocabulary."
+    ],
+    [
+      "Everyday activity as grand action",
+      [
+        6,
+        18,
+        44,
+        49,
+        56,
+        57
+      ],
+      "Elevate minor discomfort, routine work, hobby or pet resistance using heroic or ceremonial language and imagery."
+    ],
+    [
+      "Borrowed formats",
+      [
+        5,
+        23,
+        27,
+        32,
+        45,
+        55
+      ],
+      "Move an award, warning, review, certificate, package or advertisement into an unexpected subject. Format recognition does much of the work."
+    ],
+    [
+      "Human roles and animal traits",
+      [
+        9,
+        17,
+        20,
+        42,
+        43
+      ],
+      "Make an animal or cryptid act as an emotional proxy or take on an incongruous human role. In the drummer, unusual anatomy supplies a task advantage."
+    ],
+    [
+      "Visual recombination and consequences",
+      [
+        33,
+        36,
+        38,
+        50
+      ],
+      "Build a scene where a familiar trait, object shape or abstract phrase produces a surprising physical relationship."
+    ],
+    [
+      "Implied explanation or counterfactual",
+      [
+        13,
+        26,
+        39,
+        47,
+        58
+      ],
+      "Ask the viewer to supply a missing explanation, imagined alternative or comic cause. The interpretation must not become a factual claim."
+    ],
+    [
+      "Grammar escalation",
+      [
+        2
+      ],
+      "Intensify a familiar refusal by breaking expected comparative grammar."
+    ],
+    [
+      "Seasonal phrase relocation",
+      [
+        7
+      ],
+      "Transfer a familiar festive frame to another ritual bundle."
+    ],
+    [
+      "Poetic accumulation",
+      [
+        16
+      ],
+      "Use a repeated list to expand from practical examples to imaginative or impossible ones."
+    ]
+  ],
+  "operator_review": {
+    "reviewer": "Codex acting as Creative Director/operator; not independent",
+    "date": "2026-10-06",
+    "timing": "Retrospective first-five and full-55 review at batch end; planned immediate five-card checkpoint missed.",
+    "outcome": "Passed as candidate extraction with disclosed limits; no corroboration upgrades.",
+    "corrections": [
+      "Distinguished octopus search Bestseller from detail Etsy's Pick.",
+      "Confirmed T-shirt variant for main sweatshirt mockup.",
+      "Preserved pooled mixed-design/personalized listing evidence.",
+      "Removed pooled marketplace ratings from design-specific demand claims.",
+      "Added required/adjustable/optional/prohibited ingredient hypotheses and alternatives.",
+      "Separated near/exact reprints from distinct expressions sharing a mechanism."
+    ]
   }
 }
