@@ -1,5 +1,5 @@
 ---
-title: R012 — Six initial concepts from ranked audience material — humor-first test
+title: R012 — Eight initial concepts from ranked audience material — humor-first test
 owner: Creative Director
 date: 2026-10-19
 status: Draft — Founder concept review
@@ -13,7 +13,7 @@ status: Draft — Founder concept review
 
 Preserve approved positioning: apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters. Working line: “For people who find things. And reasons to keep them.” Naming remains separate; these concepts require no brand name or live-site change.
 
-The research bank and recognizability methodology are merged. The initial ranking is a provisional estimate, not measured familiarity. Handoff is clear for this small concept round with nonblocking recognition uncertainty. The Founder subsequently prioritized humor for this test. Use missed-find regret, transport constraints, and collection completion versus continued desire, two approaches each. E004 is a documented exception to recognition order: its lower estimated audience breadth is accepted for a clearer comic contradiction. The recognition ranking itself is unchanged. Nostalgia-led material is held for a later round.
+The research bank and recognizability methodology are merged. The initial ranking is a provisional estimate, not measured familiarity. Handoff is clear for this small concept round with nonblocking recognition uncertainty. The Founder subsequently prioritized humor for this test. The Founder then restored nostalgia to the first set: use four material groups, two approaches each, for eight concepts. Preserve C01–C06 and add nostalgia as C07–C08. E004 is a documented exception to recognition order: its lower estimated audience breadth is accepted for a clearer comic contradiction. The recognition ranking itself is unchanged. Nostalgia-led material is included as a warmer comparison; humor remains the main evaluation criterion.
 
 All shirt wording and staging below are creative inventions, not participant quotations, validated shared feelings or factual accounts. These are written concepts with essential visual directions, not rendered artwork or production approval. TRACE recipes remain candidates. Existing marketplace phrasing/originality has not been screened; do that for selected concepts before production. Do not copy source artwork, captions, licensed motifs or recognizable branded kitchenware patterns.
 
@@ -127,6 +127,42 @@ All shirt wording and staging below are creative inventions, not participant quo
 
 **Risk / kill condition:** Phrase is familiar and potentially crowded; no originality clearance claimed. If it reads as mental-health commentary, travel merchandise, groceries, or requires explaining the eggplant's weight, hold it.
 
+## C07 — The eight-dollar time machine
+
+**Proposed shirt copy**
+> TIME MACHINE  
+> $8
+
+**Visual:** A used yellow mixing bowl with a hanging price tag. A small scene within the bowl suggests adult and child hands cooking at a kitchen table. No branded kitchenware pattern or logo.
+
+**Evidence:** E005: a replacement bowl evokes family cooking memories despite not being the original object. Price and pictured scene are invented, not reported facts.
+
+**Audience / recognition prerequisite:** Vintage hunters who find a familiar household object that brings back a family kitchen. Does not assume that everyone shares happy childhood memories.
+
+**TRACE:** [TRM-063 — category substitution makes an enthusiasm tangible](trace/mechanisms/TRM-Catalog-048-070.md#trm-063). The ordinary bowl is classified as a time machine; emotional return to a remembered kitchen supplies the bridge.
+
+**Intended turn / wearer value:** A cheap, ordinary find offers an extraordinary journey. Expected effect is warm surprise or a smile; strong laughter is not assumed.
+
+**Risk / kill condition:** Could be generic nostalgia or require too much visual explanation. The sale tag and used object must retain the discovery context. Compare warmth with humor rather than treating them as equivalent.
+
+## C08 — Secondhand object, firsthand memories
+
+**Proposed shirt copy**
+> PREVIOUS OWNER: SOMEONE ELSE  
+> CHILDHOOD MEMORIES: MINE
+
+**Visual:** A simple two-field inventory card next to used nesting bowls with a sale tag. No prestigious auction-house styling or factual provenance claim.
+
+**Evidence:** E005: a replacement set evokes memories of a mother's bowls even though it is not her original set. Wording and staging are inventions, not quotations.
+
+**Audience / recognition prerequisite:** Finders who recognize their own past in an object from another household.
+
+**TRACE:** [TRM-002 — formal record for an informal experience](trace/mechanisms/TRM-002-Formal-Record-Informal-Experience.md). Ownership documentation unexpectedly records private memories as an attribute of a newly found object.
+
+**Intended turn / wearer value:** Physical ownership history belongs to a stranger; emotional familiarity belongs to the finder. Dry paradox and warm recognition rather than a guaranteed joke.
+
+**Risk / kill condition:** May be touching but insufficiently funny or wearable. Include as the Founder-requested nostalgic comparison; do not advance solely because the underlying insight is sound.
+
 ## Creative evaluation and recommendation
 
 | Concept | Recognition hypothesis | Comic approach | Main unresolved risk | Initial disposition |
@@ -137,11 +173,13 @@ All shirt wording and staging below are creative inventions, not participant quo
 | C04 | Duplicate find rationalization | Dictionary definition turns excess into preparedness | Joke may feel forced or judgmental | Rewrite/drop first if weak |
 | C05 | Find cannot fit in car | Failed practical test ends in approval | Generic buying-excess reading | Lead transport review |
 | C06 | Attachment and carrying difficulty | Emotional burden becomes physical weight | Familiar phrase; image dependence | Exploratory visual challenger |
+| C07 | Household object evokes a family kitchen | Cheap bowl becomes time machine | Warmth may exceed humor | Nostalgic comparison |
+| C08 | Replacement object evokes personal memories | Ownership record includes private memory | Insightful rather than funny | Nostalgic comparison |
 
-**Humor-first steering, October 19:** The Founder explicitly prioritized humorous materials for this test while drafting was underway. Replace the two nostalgia-led proposals with E004 collection-completion material. Keep E005 in the ranked bank for later; do not retrospectively lower its recognition estimate. E004 ranks below E019, E009 and E003, but offers a distinct, source-backed contradiction instead of another missed-opportunity variation or an account primarily demonstrating restraint. This is a creative selection judgment, not evidence that E004 is funnier to customers.
+**Humor-first steering, October 19:** The Founder explicitly prioritized humorous materials for this test while drafting was underway. Initially replace nostalgia with E004 collection-completion material. The Founder subsequently asked to restore nostalgia and expand to four material groups, so the final first set includes both E004 and E005. Do not retrospectively lower E005's recognition estimate. E004 ranks below E019, E009 and E003, but offers a distinct, source-backed contradiction instead of another missed-opportunity variation or an account primarily demonstrating restraint. This is a creative selection judgment, not evidence that E004 is funnier to customers.
 
-C01, C03 and C05 are the initial text-first leads. C02 and C06 depend on their visuals; C04 is the most exaggerated rationale and should not advance just to fill a slot. These are six candidates for review, not six approved designs. No concept has been audience-tested.
+C01, C03 and C05 are the initial text-first leads. C02 and C06 depend on their visuals; C04 is the most exaggerated rationale and should not advance just to fill a slot. These are eight candidates for review, not eight approved designs. No concept has been audience-tested.
 
 **Founder review:** Does the premise produce a laugh or clear comic surprise without reading the explanation? Does it feel specific to a treasure hunter or collector? Would someone wear it? Warmth, familiarity and cleverness alone do not satisfy this round's humor priority. Choose advance, rewrite or drop; do not force a winner from every group.
 
-This round stops at six written concepts with essential visual directions. No artwork, live publishing, originality clearance or market test is claimed.
+This round stops at eight written concepts with essential visual directions. No artwork, live publishing, originality clearance or market test is claimed.
