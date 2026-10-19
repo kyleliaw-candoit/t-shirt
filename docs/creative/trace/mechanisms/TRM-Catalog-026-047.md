@@ -496,6 +496,14 @@ v1.0 · CANDIDATE · Families: F01
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-043](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-043): A broad liking statement narrows sharply when it reaches social company.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).
+
 <a id="trm-041"></a>
 
 ## TRM-041 — Attractive invitation followed by a dark shared-location qualifier

@@ -298,6 +298,14 @@ v1.0 · CANDIDATE · Families: F08
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
 
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-035](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-035): A familiar decline complaint is explained by an absurdly brutal missing custom.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).
+
 <a id="trm-057"></a>
 
 ## TRM-057 — Nuisance reinterpreted as technical competence
@@ -361,6 +369,14 @@ v1.0 · CANDIDATE · Families: F09
 **Separate assessments:** the cited observations support this proposed relationship; grouping and portability remain interpretive. Commercial support is limited to source listing signals and the [credited pairs](../pilots/TRACE-Etsy-120-Evidence.json); there is no sales-causality claim. Independent review assessed the documented conditions and source fit; no rendered concept test or new marketplace inspection was performed. See the [review record](../pilots/TRACE-Etsy-120-Independent-Review.md).
 
 **Revision:** v1.0, 2026-10-06 — extracted from individual source decodes; concrete conditions and failure boundary recorded. Score and coverage are maintained separately so another offer does not silently upgrade creative maturity.
+
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-031](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-031): The sentence demonstrates the neglect it jokingly advocates while grammatically escalating preference.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).
 
 <a id="trm-059"></a>
 

@@ -71,3 +71,10 @@ v1.0, 2026-10-06: separated shape correspondence from the broad visual-recombina
 Avoid the source's horse/cone-as-horn/qualified-magic combination and cosmetic substitutions. The new source's artwork and badge were inspected during this expansion; the historical pasta source was not newly re-inspected. The explanation remains a candidate interpretation, commercial evidence remains listing-specific, and visual transfer to a new audience remains untested.
 
 Revision v1.1, 2026-10-06: added a clearly distinguished single-pair correspondence; preserved the stronger conditions required for a taxonomy. Scores and seller-coverage limits are in the [expansion evidence](../pilots/TRACE-Etsy-120-Evidence.json).
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-015](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-015): One hand shape reads simultaneously as a finger count and a Roman numeral.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).

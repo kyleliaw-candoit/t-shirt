@@ -47,6 +47,20 @@ v1.1 · CANDIDATE · Families: F03
 **Independent review revision — v1.1, 2026-10-06:** Added source04’s literal bone cue after checking its original pilot record. It fits dual reading, not TRM-007’s creature-name condition.
 
 
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-008](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-008): A success idiom also describes the action associated with the historical subject.
+- [H2-021](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-021): Execution refers both to carrying out a plan and the subject's lethal association.
+- [H2-032](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-032): A familiar pleasant phrase is reinterpreted through a name and ends in an ominous consequence.
+- [H2-033](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-033): A modern idiom gains its literal reading from the depicted historical action.
+- [H2-044](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-044): A garment term gets a second concrete military reading.
+- [H2-046](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-046): An ambiguous compliment activates a literal hidden referent and causes accidental disclosure.
+- [H2-080](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-080): A subject's technical term becomes the everyday reason for withholding a joke about that subject.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).
+
 <a id="trm-005"></a>
 
 ## TRM-005 — Phonetic reinterpretation resolved by context
@@ -94,6 +108,16 @@ v1.1 · CANDIDATE · Families: F03
 
 **Independent review revision — v1.1, 2026-10-06:** Title and conditions now cover source69’s word split, source70’s blend and source102’s text-only insertion. These are labeled variants of a broad operational recipe, not fourteen interchangeable executions. Substitution/insertion: 34,37,54,59,78,92,93,94,102,113,118; segmentation/blending: 69,70,98. Do not compare its score as if breadth equaled the narrower spatial recipes.
 
+
+
+
+**2026-10-19 source supplement — HISTOREE-002; conditions/version unchanged:**
+
+- [H2-005](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-005): The authority of wisdom packaging collapses into mundane mediocrity; name sound supplies a secondary joke.
+- [H2-038](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-038): Sound resemblance changes an expected success prediction into historical foreshadowing.
+- [H2-048](../brand-studies/HISTOREE-002-Source-Decodes.md#h2-048): A missed opportunity is expressed through the role's near-sounding activity.
+
+Seller-controlled collection placement only; no unit-sales, cross-seller independence or maturity upgrade claimed. Do not reuse the linked source captions, artwork or distinctive combinations. Existing Etsy scores remain unchanged. [Study and retained evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md).
 
 <a id="trm-006"></a>
 
