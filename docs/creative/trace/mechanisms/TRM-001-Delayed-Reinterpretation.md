@@ -61,3 +61,9 @@ This is review sketch A2, an unvalidated application assumption about discovery 
 v1.0, 2026-10-06: platform-independent handoff derived from sources 10/53 and the Creative Director review. Added concrete conditions, separate evidence dimensions and Founder clarification that mechanism overlap is acceptable. Source records remain unchanged.
 
 [Shared index](README.md) · [Usability review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md)
+
+## Expansion navigation — 2026-10-06
+
+This parent card remains a teaching abstraction. The scored operational variants are [TRM-039 — counterproductive help](TRM-Catalog-026-047.md#trm-039), [TRM-040 — late restriction](TRM-Catalog-026-047.md#trm-040), [TRM-041 — shared-location qualifier](TRM-Catalog-026-047.md#trm-041), [TRM-042 — non-excuse](TRM-Catalog-026-047.md#trm-042), [TRM-043 — quotation anticlimax](TRM-Catalog-026-047.md#trm-043), [TRM-044 — speaker reveal](TRM-Catalog-026-047.md#trm-044), and [TRM-068 — impossible means](TRM-Catalog-048-070.md#trm-068). Existing source10/53 readings are preserved. TRM-001 is not added to their scores or family totals.
+
+Navigation addendum only; v1.0 operation unchanged. No independent review or production approval implied.

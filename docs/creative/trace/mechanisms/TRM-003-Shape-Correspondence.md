@@ -1,6 +1,6 @@
 ---
 id: TRM-003
-version: 1.0
+version: 1.1
 title: Shape correspondence across categories
 primary_family: Visual recombination and consequences
 secondary_families: []
@@ -42,7 +42,7 @@ Start with two recognizable categories connected to the identity context. Find r
 
 **Avoid copying:** the labeled dachshund-as-pasta chart, its particular silhouettes, pasta/dog pairings and arrangement. Replacing dachshunds with another pet while retaining the same food taxonomy and visual construction may remain a close derivative. Choose a materially new category relationship and construction.
 
-This single source supports CANDIDATE status. Outside offers of the same Pasta Pups expression do not supply independent mechanism applications.
+The original single-source release supported CANDIDATE status. Outside offers of the same Pasta Pups expression do not supply independent mechanism applications.
 
 ## Illustrative application — not source evidence
 
@@ -63,3 +63,11 @@ The Founder found the review sketches consistent with their mechanisms. However,
 v1.0, 2026-10-06: separated shape correspondence from the broad visual-recombination family. Required geometry and multiple mappings for a taxonomy are explicit; optional labels are conditional. Added Founder clarification permitting overlap.
 
 [Shared index](README.md) · [Usability review](../reviews/TRACE-Mechanism-Usability-Review-2026-10-06.md)
+
+## v1.1 additional grounding — makeshift feature
+
+[Source117 — makeshift magical horse](../pilots/TRACE-Etsy-120-Source-Decodes.md#source-117), listing4536145316, visibly uses a traffic cone's taper as an improvised horn. Both ordinary object and mythical feature remain recognizable in the same geometry. It supports the basic one-pair operation; it does not supply a second multi-example taxonomy. The additional [TRM-037](TRM-Catalog-026-047.md#trm-037) reading captures the makeshift aspiration, so both relationships can be credited without requiring exclusivity.
+
+Avoid the source's horse/cone-as-horn/qualified-magic combination and cosmetic substitutions. The new source's artwork and badge were inspected during this expansion; the historical pasta source was not newly re-inspected. The explanation remains a candidate interpretation, commercial evidence remains listing-specific, and visual transfer to a new audience remains untested.
+
+Revision v1.1, 2026-10-06: added a clearly distinguished single-pair correspondence; preserved the stronger conditions required for a taxonomy. Scores and seller-coverage limits are in the [expansion evidence](../pilots/TRACE-Etsy-120-Evidence.json).
