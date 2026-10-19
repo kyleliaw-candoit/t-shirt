@@ -2,7 +2,7 @@
 title: Creative Director Methodology
 owner: Creative Director
 status: Proposed
-version: 0.3
+version: 0.4
 last_updated: 2026-10-19
 reviewed_by: Founder pending
 ---
@@ -204,14 +204,14 @@ Do not reopen unrelated brand questions.
 
 For every identity group, the Creative Director must assess the full available audience material bank and rank materials by **how commonly recognizable they are estimated to be within the intended audience**, before selecting material for territories or applying TRACE recipes. This requirement applies beyond R012 and to later material-bank updates.
 
-**Sequence:** source-backed facts, episodes, shared knowledge and feelings → recognizability ranking → creative priority → fitting mechanisms/recipes → concepts → creative evaluation → market learning.
+**Sequence:** source-backed facts, episodes, shared knowledge and feelings → recognizability ranking → creative priority → explicit material analysis → recipe-based and free concept exploration → clarity and audience-connection check → separate appeal judgments → benchmark comparison → market learning.
 
 1. **Define the audience and material.** State the intended identity and relevant subgroups/settings. For every entry, identify the specific fact or experience the audience must recognize and the prior knowledge required. Preserve concrete details; do not make a story appear broadly recognizable by reducing it to a generic human feeling.
 2. **Assess the complete bank.** Do not shortlist only previously highlighted examples. Use independent recurrence, breadth across intended audience segments/settings, and required background knowledge to justify the order. Distinguish ease of understanding from evidence of actual familiarity. Technical accuracy establishes a fact, not how many people know it.
 3. **Produce an ordered ranking with confidence.** Record rank (ties allowed), stable evidence IDs/source links, recognizable material, intended audience/subgroup, rationale, confidence, and limitations. Separate confidence in source accuracy from confidence in recognition. Label desk assessments as provisional estimates; do not invent prevalence percentages, composite scores, or precision unsupported by evidence. Where evidence cannot distinguish entries, use ties or mark their ordering uncertain.
 4. **Respect source dependence.** Multiple entries from one author, page or prompted discussion are not independent corroboration. Note selection bias and isolated anecdotes. Group related situations for creative planning while preserving every entry's traceability; do not count variations of one experience as separate creative directions automatically.
 5. **Resolve only decision-relevant gaps.** Request targeted corroboration from the Research Analyst when it could change priority, with comparable effort across comparable candidates. Do not restart broad market research or delay indefinitely. Thin evidence remains uncertain rather than becoming a universal claim or automatic rejection.
-6. **Use rank to set creative priority.** Begin with the most recognizable material and apply suitable TRACE mechanisms. Record the material ID, recognition prerequisite, intended audience and intended comic or expressive turn for each concept. Mechanism frequency informs exploration but does not override fit. Preserve narrower specialist material for explicitly targeted concepts; document why any lower-ranked material advances ahead of higher-ranked material.
+6. **Use rank to set creative priority.** Begin with the most recognizable material and follow §7's material analysis, recipe-based and free exploration workflow. Record the material ID, recognition prerequisite, intended audience and intended comic or expressive turn for each concept. Mechanism frequency informs exploration but does not override fit. Preserve narrower specialist material for explicitly targeted concepts; document why any lower-ranked material advances ahead of higher-ranked material.
 7. **Evaluate outcomes separately.** Recognition does not prove humor, wearability or purchase interest. When audience testing is authorized, test recognition without explaining the reference, then evaluate the finished concept's humor/appeal separately; MVV supplies behavioral evidence. Update the ranking when new evidence changes it.
 
 **Ownership and checkpoint:** Research Analyst supplies evidence and targeted gap filling; Creative Director owns the recognition assessment and concept priority. Include the ranking and limitations in the existing Founder creative review rather than adding an automatic separate approval gate. Keep a dated ranking with the identity's creative records so future sessions can reuse and revise it.
@@ -299,6 +299,23 @@ Every concept should answer:
 
 > **Why would this specific person want to wear this rather than merely agree with it?**
 
+## 7.1 Provisional Working Process — Every Identity Group
+
+After the recognizability ranking, use one workflow with two generation routes:
+
+> **Material analysis → recipe-based and free exploration → clarity and audience-connection check → separate appeal judgments → benchmark comparison.**
+
+This is the working default for every intended identity group or target audience, not a guarantee of quality. It follows the Founder's October 19, 2026 review of the [R012 three-approach comparison](../creative/R012-Process-Comparison-Results-2026-10-19.md). That small, shared-author exercise produced material-dependent results; it did not establish a universally superior method. No recurring three-way experiment or fixed concept quota is required.
+
+1. **Analyze the selected material before writing.** Record its source ID, specific experience or fact, intended audience, and recognition prerequisite. Identify useful expectations, contradictions, changes in decisions or feelings, or emotional significance. Preserve the details that make it distinctive. Distinguish source facts from interpretation and invented staging; do not turn a sequence into an unsupported causal claim. A warm observation need not be forced into a contradiction.
+2. **Explore two routes.** Deliberately try several fitting TRACE recipes and also develop ideas freely from the material without requiring a recipe match. Record which route produced a candidate. For recipe applications, name the recipe and verify its essential conditions; for free drafting, do not retrofit a recipe to justify the result. Recipe frequency informs exploration but does not override fit or quality. Stop when there is enough meaningful variety to select strong work, not after an arbitrary volume target.
+3. **Check clarity and audience connection before crediting cleverness.** Evaluate only the proposed copy and essential visual, without the research summary or an explanation of the joke. Ask: Can a new viewer understand the situation? **Is the connection to the intended identity group or target audience apparent from the copy and visual, without our explanation?** Does the surprise or emotional payoff survive without knowing the source story? The connection may come through recognizable behavior, objects, setting, language or shared experience; it need not explicitly name the group. Do not supply missing context on the concept's behalf or assume that an internal visual label makes that context visible.
+4. **Judge outcomes separately.** Evaluate humor, emotional appeal, and desire to wear the shirt as separate dimensions. Recognition is necessary context, not proof of any of these outcomes. State the intended response: a strong warm concept need not be funny, while a humor-led concept must do more than feel familiar or clever. Do not combine these judgments into a mechanical score.
+5. **Compare against the strongest existing concepts.** Use a benchmark with the same intended response, not a warmth score as a humor benchmark. Advance stronger candidates, rewrite promising but unclear executions, and hold or drop weak ones. A material group may produce no winner. Strong material does not rescue weak execution, and artwork should not conceal a weak premise.
+6. **Calibrate judgment through review.** Record the Creative Director's assessment before Founder feedback when comparing judgment. Preserve original wording, ratings, reasons and first impressions; record revisions separately. Discuss whether differences concern comprehension, audience relevance, surprise, tone, emotional appeal, wearability, or use of the rating scale. Neither rater is assumed correct, and Founder preference is not customer validation. Carry useful lessons into subsequent selection and test whether they improve it.
+
+Keep the record concise: source and recognizable material, audience, specific tension or emotional significance, route/recipe if used, copy and essential visual, clarity concerns, separate appeal judgments, and benchmark disposition. Use the existing Founder checkpoints rather than introducing a new mandatory approval layer.
+
 ---
 
 # 8. Production Realism
@@ -374,6 +391,12 @@ A design should normally clear all of these gates:
 ## Recognition
 
 Would the intended customer understand why this is about them rather than merely about the category?
+
+Apply §7.1's clarity check to the copy and visual alone: is the situation understandable, and is the connection to the intended identity group or target audience apparent without our explanation? Recheck on the actual rendered shirt; an informative written visual direction is not proof that the resulting image communicates it.
+
+## Intended Response
+
+Evaluate humor, emotional appeal and desire to wear separately. Judge the concept against its intended response and a suitable benchmark. Do not treat a high emotional-appeal score as demonstrated humor, or any internal score as purchase evidence. If ratings are used, label the dimension and preserve qualitative reasons; avoid a composite score.
 
 ## Wearability
 
