@@ -2,6 +2,8 @@
 
 ## Final Community Research Report
 
+> **October 19, 2026 evidence supplement:** See the [research audit, sourced audience material bank, coverage assessment, and Creative Director handoff](R012-audience-evidence/README.md). Original research and scores are preserved. The supplement identifies provenance gaps and separates audience evidence from creative hypotheses; it adds no new market validation.
+
 **Research ID:** R012  
 **Community:** Antiques Treasure Hunters  
 **Status:** Final  
