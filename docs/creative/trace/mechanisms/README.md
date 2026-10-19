@@ -4,6 +4,12 @@ Owner: Creative Director. Updated: 2026-10-06. Shared handoff release: 1.2 (inde
 
 This is the **platform-independent home** for reusable mechanisms. Etsy, Amazon and DTC scans supply evidence to this library; their source records remain in their scan files. Platform names do not appear in recipe IDs.
 
+## HistoreeTees humor supplement — proposed release 1.3
+
+The [HISTOREE-002 five-page study](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md) visually inspects 80 shirts and retains 53 candidate source interpretations. It adds [21 candidate operations, TRM-072–092](TRM-Catalog-072-092.md), and links sources to six existing recipes. The proposed active catalog contains **89 candidates** (68 existing + 21 additions); the historical 68-recipe Etsy ranking below remains unchanged and does not rank the new DTC entries.
+
+This is an operator-reviewed supplement awaiting Founder merge approval, not a new independent review or commercial validation. Humor is an overlapping navigation lens: reader hindsight, understatement, borrowed formats, scale changes, viewpoint shifts and wordplay. See [all source decodes](../brand-studies/HISTOREE-002-Source-Decodes.md) and the [retained image evidence](../brand-studies/HISTOREE-002-Humor-Study-2026-10-19.md#capture-and-evidence-strength). The historical Historee study is preserved separately; current TRACE rules govern this new analysis.
+
 ## Expansion release — 60 additional sources
 
 The [120-source report](../pilots/TRACE-Etsy-120-Report.md) adds 60 new source expressions, reconciles seller evidence and maps 113 non-tentative interpretations. Seven historical borderline interpretations remain withheld. Source lists and scores are in the [evidence ledger](../pilots/TRACE-Etsy-120-Evidence.json).
