@@ -2,8 +2,8 @@
 title: Creative Director Methodology
 owner: Creative Director
 status: Proposed
-version: 0.2
-last_updated: 2026-09-25
+version: 0.3
+last_updated: 2026-10-19
 reviewed_by: Founder pending
 ---
 
@@ -174,7 +174,7 @@ Use one of three dispositions:
 
 The brief is complete and internally consistent enough for creative work.
 
-Proceed immediately to Creative Territory development.
+Proceed to the required material recognizability ranking in §5.6, then Creative Territory development.
 
 ### Clear With Non-Blocking Questions
 
@@ -200,9 +200,29 @@ Do not reopen unrelated brand questions.
 
 ---
 
+## 5.6 Required for Every Identity — Rank Material Recognizability Before Concepts
+
+For every identity group, the Creative Director must assess the full available audience material bank and rank materials by **how commonly recognizable they are estimated to be within the intended audience**, before selecting material for territories or applying TRACE recipes. This requirement applies beyond R012 and to later material-bank updates.
+
+**Sequence:** source-backed facts, episodes, shared knowledge and feelings → recognizability ranking → creative priority → fitting mechanisms/recipes → concepts → creative evaluation → market learning.
+
+1. **Define the audience and material.** State the intended identity and relevant subgroups/settings. For every entry, identify the specific fact or experience the audience must recognize and the prior knowledge required. Preserve concrete details; do not make a story appear broadly recognizable by reducing it to a generic human feeling.
+2. **Assess the complete bank.** Do not shortlist only previously highlighted examples. Use independent recurrence, breadth across intended audience segments/settings, and required background knowledge to justify the order. Distinguish ease of understanding from evidence of actual familiarity. Technical accuracy establishes a fact, not how many people know it.
+3. **Produce an ordered ranking with confidence.** Record rank (ties allowed), stable evidence IDs/source links, recognizable material, intended audience/subgroup, rationale, confidence, and limitations. Separate confidence in source accuracy from confidence in recognition. Label desk assessments as provisional estimates; do not invent prevalence percentages, composite scores, or precision unsupported by evidence. Where evidence cannot distinguish entries, use ties or mark their ordering uncertain.
+4. **Respect source dependence.** Multiple entries from one author, page or prompted discussion are not independent corroboration. Note selection bias and isolated anecdotes. Group related situations for creative planning while preserving every entry's traceability; do not count variations of one experience as separate creative directions automatically.
+5. **Resolve only decision-relevant gaps.** Request targeted corroboration from the Research Analyst when it could change priority, with comparable effort across comparable candidates. Do not restart broad market research or delay indefinitely. Thin evidence remains uncertain rather than becoming a universal claim or automatic rejection.
+6. **Use rank to set creative priority.** Begin with the most recognizable material and apply suitable TRACE mechanisms. Record the material ID, recognition prerequisite, intended audience and intended comic or expressive turn for each concept. Mechanism frequency informs exploration but does not override fit. Preserve narrower specialist material for explicitly targeted concepts; document why any lower-ranked material advances ahead of higher-ranked material.
+7. **Evaluate outcomes separately.** Recognition does not prove humor, wearability or purchase interest. When audience testing is authorized, test recognition without explaining the reference, then evaluate the finished concept's humor/appeal separately; MVV supplies behavioral evidence. Update the ranking when new evidence changes it.
+
+**Ownership and checkpoint:** Research Analyst supplies evidence and targeted gap filling; Creative Director owns the recognition assessment and concept priority. Include the ranking and limitations in the existing Founder creative review rather than adding an automatic separate approval gate. Keep a dated ranking with the identity's creative records so future sessions can reuse and revise it.
+
+This requirement records the Founder's October 19, 2026 direction arising from the R012 material-bank review. It does not establish that the provisional R012 ranking measures audience prevalence.
+
+---
+
 # 6. Creative Territory Development
 
-Once Gate 1 is clear, develop a small set of distinct Creative Territories, normally **3–5** when the evidence supports that range.
+Once Gate 1 is clear and the §5.6 material ranking is recorded, develop a small set of distinct Creative Territories, normally **3–5** when the evidence supports that range.
 
 A Creative Territory is not merely a visual style.
 
@@ -390,7 +410,7 @@ The Creative Director is **not done** when territories, slogans, or moodboards e
 For the first working cycle, default deliverables are:
 
 1. **Brand Handoff Integrity Check**
-2. **Creative Problem Brief / reconstructed assignment**
+2. **Creative Problem Brief / reconstructed assignment**, including the full material recognizability ranking (§5.6)
 3. **Creative Territory Set**
 4. **Selected Product Concepts**
 5. **Production Design** for concepts advancing toward MVV
@@ -440,7 +460,7 @@ The Creative Director should understand MVV but must not design backward solely 
 
 The sequence is:
 
-> **Brand Handoff Integrity → Creative Territories → Product Concepts → Product-Realistic Execution → MVV → Creative Learning**
+> **Brand Handoff Integrity → Material Recognizability Ranking → Creative Territories → Product Concepts → Product-Realistic Execution → MVV → Creative Learning**
 
 MVV primarily supplies evidence about Creative Territory and Design / Execution hypotheses.
 
@@ -509,7 +529,7 @@ Customer-facing brand:
 
 Before producing R012 Creative Territories, the Creative Director must complete **Gate 1 — Handoff Integrity** against the approved R012 Brand Hypothesis Brief and upstream evidence.
 
-If the handoff is clear, proceed directly into a small set of distinct Creative Territories.
+If the handoff is clear, rank the full available material bank under §5.6, then develop a small set of distinct Creative Territories in that priority order.
 
 The initial goal is not a broad lifestyle collection.
 
