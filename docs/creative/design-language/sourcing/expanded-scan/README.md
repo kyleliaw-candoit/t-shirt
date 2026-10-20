@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 73 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 78 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -12,12 +12,12 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
 | Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
-| Life is Good | 20 | 5 | Batch 001; next position 12 |
+| Life is Good | 20 | 10 | Batch 002; next position 22 |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **73** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **78** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -116,3 +116,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - Bee source exhausted at 8/20. Next source: Life is Good. Keep total target 220 until Founder decides how to address the 12-slot shortfall; do not silently reallocate.
 
 - [Life is Good batch 001](batches/LIG-001.md): cumulative 73/220 source records. Accepted positions 1,5,8,10,11 (DLS-LIG-005–009). Positions 2,3,4,6 are solid shirts without a central design, excluded from graphic design scan. Position 7 excluded: design continues onto sleeve. Position 9 repeats Pumpkin Cats artwork from 8 on another cut/color. Next candidate 12, Solid Vee.
+
+- [Life is Good batch 002](batches/LIG-002.md): cumulative 78/220 source records. Accepted positions 13,15,16,19,21 (DLS-LIG-010–014). Position 12 solid tee excluded; positions 14,17,18 have sleeve graphics, excluded; 20 sleep pants excluded. Position 16 is different artwork from position 11 despite sharing wording. Next position 22.
