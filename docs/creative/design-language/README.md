@@ -27,6 +27,12 @@ For each candidate family, maintain a visual recipe card containing:
 
 Preserve source provenance and the exact commercial signal (for example, seller-controlled best-seller collection placement). Such placement does not establish unit sales, persistence or a causal effect of the visual style. Separate observed source patterns from analyst hypotheses and new application choices. Learn relationships rather than copying distinctive source art or caption/layout combinations.
 
+## Audience fit and two-stage selection
+
+[Agreed decision](sourcing/Audience-Fit-and-Two-Stage-Selection.md): admit useful sources to discovery, then judge fit for each specific audience/material/concept application. Recipe cards retain source context, proposed audience fit, mismatch conditions and application evidence. Identity recognition and aesthetic desirability are distinct. A source’s popularity does not establish universal transfer.
+
+[Initial-slot source cards](sourcing/initial-eight/README.md): one SimplyCuteTees and four The Bee & The Fox designs; three SimplyCuteTees slots open, with original images and commercial-signal records. These are discovery sources, not validated recipes.
+
 ## Application and calibration
 
 Select recipes according to the semantic work required by the material and concept, following the Playbook. Apply them to original content and inspect the actual shirt, including cut, fabric appearance, color, print scale and placement. Check whether a first-time viewer can understand the situation and identity connection without the research explanation.
@@ -49,3 +55,8 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 ## Deferred work
 
 Review DLR-002 v2 and the researched source mix, then capture the broader discovery set. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+
+
+### Front-only launch constraint — October 19 clarification
+
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/initial-eight/README.md).

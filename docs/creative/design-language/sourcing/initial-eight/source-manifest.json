@@ -1,0 +1,225 @@
+[
+  {
+    "id": "DLS-BEE-001",
+    "title": "Mama Bird Shirt for Women",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 7261569921,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/mama-bird-shirt",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 1,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-001",
+    "observed_visuals": "Rounded heavy serif, two compact centered lines, black on cream, no illustration.",
+    "listed_garment_and_unknowns": "Fitted crewneck; 100% cotton; white or natural options (seller-listed).",
+    "observed_marketing_context": "Motherhood identity; retro-casual styling visible.",
+    "transfer_hypothesis": "Short self-identification could suit a retro-oriented subgroup. Food or hunting context must be clear in original wording or a new cue; this source does not establish either audience\u2019s taste.",
+    "limitations": "Hair overlaps the print; tucked/layered styling is not a crop specification.",
+    "candidate_relationship": "Compact rounded-serif declaration",
+    "images": [
+      {
+        "path": "assets/DLS-BEE-001-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/files/338A2992-4.jpg?v=1712685027",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/files/338A2992-4.jpg?v=1712685027&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "06c081bc439bdeaceda72d920774ecefcf919c11f021546df07ccf7543a59a44"
+      },
+      {
+        "path": "assets/DLS-BEE-001-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/mamabird_shirt_thebee_thefox-67.jpg?v=1712685027",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/mamabird_shirt_thebee_thefox-67.jpg?v=1712685027&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "529f290013d5662ed9156b345ceb398ee3c3773045aca584cb6dfb8ddfd3be26"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence"
+  },
+  {
+    "id": "DLS-BEE-002",
+    "title": "Here's to Strong Women Shirt",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 3962595803159,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/heres-to-strong-women",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 6,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-002",
+    "observed_visuals": "Tall condensed capitals, small introduction above two dominant lines, grey on pale ground; broad chest block without a frame.",
+    "listed_garment_and_unknowns": "Fitted crewneck; 100% cotton; sage/off-white with grey ink (seller-listed).",
+    "observed_marketing_context": "Women\u2019s solidarity message and women\u2019s apparel positioning.",
+    "transfer_hypothesis": "Useful comparison to DLR-001: softened contrast and fitted light garment change its voice. A strong identity message may account for appeal more than typography.",
+    "limitations": "Lighting shifts apparent garment color; no exact print dimensions.",
+    "candidate_relationship": "Condensed statement on pale fitted tee",
+    "images": [
+      {
+        "path": "assets/DLS-BEE-002-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/Here_stoStrongWomen_crewneck_TheBee_TheFox_-58.jpg?v=1620261882",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/Here_stoStrongWomen_crewneck_TheBee_TheFox_-58.jpg?v=1620261882&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "d839324f23f2ddc058bdfa401d893de18213bea978942c25cec934f9ebd8fa57"
+      },
+      {
+        "path": "assets/DLS-BEE-002-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/The_Bee_The_Fox-354_b309d6d9-3823-432d-b740-0cb2622097f8.jpg?v=1620261882",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/The_Bee_The_Fox-354_b309d6d9-3823-432d-b740-0cb2622097f8.jpg?v=1620261882&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "24fe018c763d9604e7ba3c1a6cdb2353bcc1a255a73e831e8ee076fddab2eeee"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence"
+  },
+  {
+    "id": "DLS-BEE-003",
+    "title": "Feel Your Feelings | Fitted Ringer",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 7118420541635,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/feel-your-feelings",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 7,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-003",
+    "observed_visuals": "Chunky rounded mixed-case letters form a staggered three-line mass; light lettering echoes collar and sleeve trim.",
+    "listed_garment_and_unknowns": "Fitted ringer; 100% cotton; seller calls color plum, photograph appears warm rust under its lighting.",
+    "observed_marketing_context": "Emotional self-expression with deliberately retro styling.",
+    "transfer_hypothesis": "Test for audiences that want a warm playful voice; not an automatic match for every nostalgic or food concept. Long explanatory copy would disrupt the compact mass.",
+    "limitations": "Do not infer ink color or actual blank color from warm lifestyle lighting.",
+    "candidate_relationship": "Playful type coordinated with ringer trim",
+    "images": [
+      {
+        "path": "assets/DLS-BEE-003-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-7.jpg?v=1648056729",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-7.jpg?v=1648056729&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "1e9d170e6027f52c5267a8eb52774310b28ddb818e7f59cbce802e887e5ac3cd"
+      },
+      {
+        "path": "assets/DLS-BEE-003-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-13.jpg?v=1648056729",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-13.jpg?v=1648056729&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "85bde71d979e26b61f23ccc5758b267fb44101f74373249a9f78e472324e9ad0"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence"
+  },
+  {
+    "id": "DLS-BEE-004",
+    "title": "Peace Sign Fitted Ringer for Women",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 6846680596675,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/peace-sign-t-shirt",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 8,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-004",
+    "observed_visuals": "One oversized light peace symbol, open interior, no copy; light collar and cuffs repeat the mark\u2019s color on warm ground.",
+    "listed_garment_and_unknowns": "Fitted ringer; rust with white trim; 100% cotton (seller-listed).",
+    "observed_marketing_context": "Peace/hippie association explicitly present in product positioning.",
+    "transfer_hypothesis": "A single-symbol treatment needs an equally recognizable identity cue; replacing it with an ambiguous object loses the immediate read.",
+    "limitations": "Symbol meaning and style are intertwined; no evidence that unrelated symbols sell.",
+    "candidate_relationship": "Single hero symbol with coordinated trim",
+    "images": [
+      {
+        "path": "assets/DLS-BEE-004-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize1.jpg?v=1635695461",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize1.jpg?v=1635695461&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "4ef7ab4c8883b8675a8d4dce4b4a943978ca616137d18f142fb534ec26c3baeb"
+      },
+      {
+        "path": "assets/DLS-BEE-004-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize2.jpg?v=1635695461",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize2.jpg?v=1635695461&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "20a3d194fb5581bcaf5be62c395664e833659aea9450b3049443585382a4ae12"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence"
+  },
+  {
+    "id": "DLS-SCT-005",
+    "title": "Girlie Girl Lulu Mac Polka Dot Comfort Colors T-Shirt",
+    "seller": "SimplyCuteTees",
+    "brand": "Girlie Girl",
+    "product_id": 8174315503663,
+    "product_url": "https://www.simplycutetees.com/collections/best-selling/products/girlie-girl-lulu-mac-polka-dot-comfort-colors-t-shirt",
+    "collection_url": "https://www.simplycutetees.com/collections/best-selling",
+    "page": 1,
+    "collection_position": 25,
+    "sort": "default; not verified sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "available_at_capture": true,
+    "retrieved_at_utc": "2026-10-20",
+    "stage_1": "admitted: visible front graphic",
+    "stage_2": "untested for a target concept",
+    "observed_visuals": "Broad collegiate arch in pale outlined slab capitals with pink polka-dot fill, on bright pink crewneck. Type itself is the graphic.",
+    "listed_garment_and_unknowns": "Seller names Comfort Colors and relaxed fit. Exact fiber and weight unknown; visible short sleeve crewneck.",
+    "observed_marketing_context": "Brand-name fashion statement; seller positions as nostalgic/retro casual apparel. Actual buyer demographics unknown.",
+    "transfer_hypothesis": "Patterned collegiate lettering may suit a playful subgroup, but branding can explain appeal. Pattern must not undermine the new concept\u2019s reading hierarchy. No evidence of fit for either treasure hunters or Asian-food lovers yet.",
+    "limitations": "Front graphic visible; no back image or explicit blank-back confirmation. Admitted for study of front placement, not proof of an otherwise unprinted garment. Only primary view retained; brand affinity confound.",
+    "images": [
+      {
+        "path": "assets/DLS-SCT-005.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0423/1713/files/imgi_6_samb2oa31rxkpwncfvhl_1024x1024_10c75ac5-4fc9-4d08-a139-dd34dee54418.png?v=1771394671",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0423/1713/files/imgi_6_samb2oa31rxkpwncfvhl_1024x1024_10c75ac5-4fc9-4d08-a139-dd34dee54418.png?v=1771394671&width=800",
+        "dimensions": [
+          800,
+          800
+        ],
+        "sha256": "c11cab5257305d2bdf6e1c3240777e7788476402c47ad29d2fed96ff28d1a0b3"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence"
+  }
+]

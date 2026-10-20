@@ -2,7 +2,7 @@
 title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
-version: 0.2
+version: 0.3
 last_updated: 2026-10-19
 ---
 
@@ -403,6 +403,14 @@ Before selecting a recipe, ask: **Without our research or explanation, what can 
 
 Balance explanation with visual economy. More illustration is not automatically better; solve the missing information with the smallest effective cue, without forcing a scene around every joke. A typography-led design is not inherently more wearable, nor an illustration-led design inherently more explanatory. Fit depends on the material, concept, audience and execution.
 
+## 11.2 Audience-dependent aesthetic fit
+
+A clear identity cue does not establish that the target audience wants to wear the visual treatment. Select a recipe for the specific audience subgroup, material, concept and garment. Aesthetic fit can differ between identities and within the same identity; a regional or women-oriented source is neither universally suitable nor automatically disqualified.
+
+Use two stages: admit commercially signaled, visually useful sources to discovery; then assess suitability separately for each application. Source success may reflect the subject, treatment, their fit, branding or other factors. Do not treat bestseller status as proof that the style transfers. Record observed source context, proposed transfer and actual application evidence separately. Preserve and calibrate both comprehension and aesthetic-fit judgments.
+
+See the [decision and record fields](../creative/design-language/sourcing/Audience-Fit-and-Two-Stage-Selection.md) and [initial-slot source cards](../creative/design-language/sourcing/initial-eight/README.md).
+
 ## 12. Design Preflight
 
 Before founder review, answer:
@@ -421,6 +429,8 @@ Before founder review, answer:
 12. What can be removed without losing essential meaning or identity cues?
 13. Does the hierarchy match the meaning and rhythm, including equivalent setups and a distinct payoff where appropriate?
 14. Is every essential visual cue prominent and specific enough for a first-time viewer without explanation?
+
+15. Is this visual treatment desirable for the specific target audience/subgroup, beyond making its identity recognizable? What supports that judgment?
 
 Use judgment, not a numerical score.
 
@@ -466,3 +476,8 @@ Do not promote one successful execution choice into a universal rule without evi
 ## October 19, 2026 calibration
 
 The [CAR: WRONG pilot review](../creative/design-language/reviews/2026-10-19-CAR-WRONG.md) records the Founder's assessment that both provisional recipe applications were proper/good T-shirt designs, the unequal setup hierarchy in design #2, and the risk of essential graphics being too small in design #1. These observations motivate the working guidance above; they are not customer validation or proof that either recipe is universally superior. Preserve initial Creative Director assessments so later feedback can improve diagnosis without rewriting history.
+
+
+### Front-only launch constraint — October 19 clarification
+
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](../creative/design-language/sourcing/initial-eight/README.md).

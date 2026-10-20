@@ -1,8 +1,12 @@
 # Repeatable sourcing for the image-native design-language bank
 
-Research date: October 19, 2026, America/Chicago (October 20 UTC) · Owner: Creative Director · Recommendation for the next discovery batch; 24–30 designs not yet collected
+Research date: October 19, 2026, America/Chicago (October 20 UTC) · Owner: Creative Director · Recommendation for the next discovery batch; five front-print designs now collected; broader 24–30-design set incomplete
 
-## Recommendation
+## Current update — two additional sources
+
+The Founder authorized four initial slots each for SimplyCuteTees and The Bee & The Fox. [Initial-slot source cards](initial-eight/README.md) and the [two-stage audience-fit decision](Audience-Fit-and-Two-Stage-Selection.md) implement that update. The earlier 12/6/6/4 allocation below is historical, not the current total; rebalance the remaining roughly 20 slots before completing a 28-shirt set. No assumption that Life is Good or HistoreeTees purchasers are predominantly male has been established.
+
+## Original recommendation (allocation superseded)
 
 Use four repeatable routes: **Etsy item-level Bestseller listings, Life is Good's Best Sellers collection, SnorgTees' Best Sellers collection, and HistoreeTees' Current Best Sellers / Greatest Hits collections.** Target 28 distinct visual designs: 12 Etsy, 6 Life is Good, 6 SnorgTees, 4 HistoreeTees. This allocation is a proposed diversity control, not a market-share estimate, a mandatory future quota or a promise that all candidates will qualify.
 
@@ -70,7 +74,7 @@ Give a design its own record when visual execution materially differs, even if w
 
 Keep a stable source register containing entry URLs, retrieval method, query/filter/sort settings, pages visited, candidate IDs, duplicate groups and the last completed location. On the next pass, recheck page 1 for changes, then continue past inspected coverage; use item IDs rather than position alone to avoid duplicates when order changes. Append dated observations when badges, collections or images change. Preserve historical captures rather than overwriting them.
 
-Expand within the same four routes according to missing visual capabilities or garment treatments. If one route is exhausted or persistently inaccessible, document that fact before adding a new source. Collection size and popularity labels do not establish how many eligible designs remain.
+Expand within the registered routes according to missing visual capabilities or garment treatments. If one route is exhausted or persistently inaccessible, document that fact before adding a new source. Collection size and popularity labels do not establish how many eligible designs remain.
 
 ## Deliverable and checkpoint
 
@@ -89,3 +93,13 @@ Next execution produces 24–30 complete source records, a visual contact sheet,
 - [6DollarShirts category probe](https://www.6dollarshirts.com/collections/mens-t-shirts).
 
 All sourcing recommendations and sampling controls above are analyst proposals derived from these access checks, not platform claims or findings about causal demand.
+
+
+### Front-only launch constraint — October 19 clarification
+
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](initial-eight/README.md).
+
+
+## Added source — Sloth Hiking Club
+
+Founder requested inclusion on October 19 for its male, female and gender-neutral design range. Official [Bestsellers collection](https://slothhikingclub.com/collections/frontpage) is accessible with pagination. Use seller collection membership as the commercial proxy; the title does not verify unit sales, ranking or sales by gender. Founder’s range assessment informs sampling; classify observed design/garment presentation without assuming purchaser demographics. Require front graphics and physical tees, then archive images and specifications as with the other routes. Source added; individual scan and allocation pending. This does not silently replace the three open SimplyCuteTees slots.
