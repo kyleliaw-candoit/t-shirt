@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-20",
+  "route": "https://www.snorgtees.com/collections/best-sellers",
+  "feed": "https://www.snorgtees.com/collections/best-sellers/products.json?limit=100",
+  "ordering": "default collection order, first displayed page verified against feed",
+  "records": [
+    {
+      "position": 1,
+      "product_id": 7198231462020,
+      "title": "Per My Last Email Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/per-my-last-email-mens-classic-tee"
+    },
+    {
+      "position": 2,
+      "product_id": 7141516476548,
+      "title": "Mordor Fun Run Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/mordor-fun-run-mens-classic-tee"
+    },
+    {
+      "position": 3,
+      "product_id": 7145547759748,
+      "title": "You Matter Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/you-matter-mens-classic-tee"
+    },
+    {
+      "position": 4,
+      "product_id": 7145908142212,
+      "title": "Axolotl Questions Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/axolotl-questions-mens-classic-tee"
+    },
+    {
+      "position": 5,
+      "product_id": 7142061867140,
+      "title": "Animals Of The World Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/animals-of-the-world-mens-classic-tee"
+    },
+    {
+      "position": 6,
+      "product_id": 8231212875908,
+      "title": "Strange Women Lying In Ponds Sword Distribution Co Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/strange-women-lying-in-ponds-sword-distribution-co-mens-classic-tee"
+    },
+    {
+      "position": 7,
+      "product_id": 7245322354820,
+      "title": "Get In Loser We're Going To Attempt To Ford The River Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/get-in-loser-were-going-to-attempt-to-ford-the-river-mens-classic-tee"
+    },
+    {
+      "position": 8,
+      "product_id": 7255225106564,
+      "title": "Kenobi's High Ground Coffee Co Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/kenobis-high-ground-coffee-co-mens-classic-tee"
+    },
+    {
+      "position": 9,
+      "product_id": 7188607172740,
+      "title": "River Styx Rafting Adventures Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/river-styx-rafting-adventures-mens-classic-tee"
+    },
+    {
+      "position": 10,
+      "product_id": 7299396993156,
+      "title": "Attempted Murder Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/attempted-murder-mens-classic-tee"
+    },
+    {
+      "position": 11,
+      "product_id": 7158355394692,
+      "title": "Hedgehogs Can't Share Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/hedgehogs-cant-share-mens-classic-tee"
+    },
+    {
+      "position": 12,
+      "product_id": 7141558419588,
+      "title": "I'm Not Procrastinating, It's A Side Quest Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/im-not-procrastinating-its-a-side-quest-mens-classic-tee"
+    },
+    {
+      "position": 13,
+      "product_id": 7149791084676,
+      "title": "Synonym Roll Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/synonym-roll-mens-classic-tee"
+    },
+    {
+      "position": 14,
+      "product_id": 7142547193988,
+      "title": "Jurassic Trail Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/jurassic-trail-mens-classic-tee"
+    },
+    {
+      "position": 15,
+      "product_id": 8181809676420,
+      "title": "The Universal Cat Distribution System Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/the-universal-cat-distribution-system-mens-classic-tee"
+    },
+    {
+      "position": 16,
+      "product_id": 7163333378180,
+      "title": "Inconceivable Definition Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/inconceivable-definition-mens-classic-tee"
+    },
+    {
+      "position": 17,
+      "product_id": 7142785417348,
+      "title": "My Plants Are Rooting For Me Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/my-plants-are-rooting-for-me-mens-classic-tee"
+    },
+    {
+      "position": 18,
+      "product_id": 7140832542852,
+      "title": "Wibbly Wobbly Timey Wimey Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/wibbly-wobbly-timey-wimey-mens-classic-tee"
+    },
+    {
+      "position": 19,
+      "product_id": 7145205792900,
+      "title": "Baseball Positions Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/baseball-positions-mens-classic-tee"
+    },
+    {
+      "position": 20,
+      "product_id": 7181160480900,
+      "title": "Visit Sark Chasm Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/visit-sark-chasm-mens-classic-tee"
+    },
+    {
+      "position": 21,
+      "product_id": 7142031720580,
+      "title": "Pompeii Floor is Lava Championship Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/pompeii-floor-is-lava-championship-mens-classic-tee"
+    },
+    {
+      "position": 22,
+      "product_id": 8166964461700,
+      "title": "Human From The 1900's Please Be Patient Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/human-from-the-1900s-please-be-patient-mens-classic-tee"
+    },
+    {
+      "position": 23,
+      "product_id": 10028844482692,
+      "title": "Fear Is The Mind Killer Cat Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/fear-is-the-mind-killer-cat-mens-classic-tee"
+    },
+    {
+      "position": 24,
+      "product_id": 7145184362628,
+      "title": "You Can Certainly Try Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/you-can-certainly-try-mens-classic-tee"
+    },
+    {
+      "position": 25,
+      "product_id": 7145540944004,
+      "title": "Starry Invasion Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/starry-invasion-mens-classic-tee"
+    },
+    {
+      "position": 26,
+      "product_id": 7226979352708,
+      "title": "Rebel Scum Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/rebel-scum-mens-classic-tee"
+    },
+    {
+      "position": 27,
+      "product_id": 7183974465668,
+      "title": "Existing Solely Out Of Spite Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/existing-solely-out-of-spite-mens-classic-tee"
+    },
+    {
+      "position": 28,
+      "product_id": 7168859275396,
+      "title": "Dear Math, I'm Not A Therapist Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/dear-math-im-not-a-therapist-mens-classic-tee"
+    },
+    {
+      "position": 29,
+      "product_id": 7142557352068,
+      "title": "Fluent In Fowl Language Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/fluent-in-fowl-language-mens-classic-tee"
+    },
+    {
+      "position": 30,
+      "product_id": 7158384197764,
+      "title": "Back In My Day We Had Nine Planets Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/back-in-my-day-we-had-nine-planets-mens-classic-tee"
+    },
+    {
+      "position": 31,
+      "product_id": 7163302117508,
+      "title": "No Cat Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/no-cat-mens-classic-tee"
+    },
+    {
+      "position": 32,
+      "product_id": 7130761461892,
+      "title": "It's Dangerous To Go Alone Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/its-dangerous-to-go-alone-mens-classic-tee"
+    },
+    {
+      "position": 33,
+      "product_id": 7159828906116,
+      "title": "Oxford Comma Appreciation Society Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/oxford-comma-appreciation-society-mens-classic-tee"
+    },
+    {
+      "position": 34,
+      "product_id": 7145188851844,
+      "title": "Big Wave Cats Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/big-wave-cats-mens-classic-tee"
+    },
+    {
+      "position": 35,
+      "product_id": 7141293326468,
+      "title": "This Is Not A Moon Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/this-is-not-a-moon-mens-classic-tee"
+    },
+    {
+      "position": 36,
+      "product_id": 7261380509828,
+      "title": "Golly What A Day Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/golly-what-a-day-mens-classic-tee"
+    },
+    {
+      "position": 37,
+      "product_id": 7157195669636,
+      "title": "Woman Inherits The Earth Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/woman-inherits-the-earth-mens-classic-tee"
+    },
+    {
+      "position": 38,
+      "product_id": 7170928902276,
+      "title": "The Assassins Failed Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/the-assassins-failed-mens-classic-tee"
+    },
+    {
+      "position": 39,
+      "product_id": 7162531774596,
+      "title": "Typical Daily Meals Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/typical-daily-meals-mens-classic-tee"
+    },
+    {
+      "position": 40,
+      "product_id": 10054128238724,
+      "title": "More Trash Can Less Trash Can't Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/more-trash-can-less-trash-cant-mens-classic-tee"
+    },
+    {
+      "position": 41,
+      "product_id": 7145191506052,
+      "title": "Writtin Directino Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/writtin-directino-mens-classic-tee"
+    },
+    {
+      "position": 42,
+      "product_id": 7148686016644,
+      "title": "I Studied The Blade Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/i-studied-the-blade-mens-classic-tee"
+    },
+    {
+      "position": 43,
+      "product_id": 7147367661700,
+      "title": "My Unyielding Melancholy Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/my-unyielding-melancholy-mens-classic-tee"
+    },
+    {
+      "position": 44,
+      "product_id": 7147336695940,
+      "title": "Can I Pet That Dog? Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/can-i-pet-that-dog-mens-classic-tee"
+    },
+    {
+      "position": 45,
+      "product_id": 7145567256708,
+      "title": "Un Deux Trois Cat Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/un-deux-trois-cat-mens-classic-tee"
+    },
+    {
+      "position": 46,
+      "product_id": 8168846655620,
+      "title": "Sometimes Fancy Always Schmancy Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/sometimes-fancy-always-schmancy-mens-classic-tee"
+    },
+    {
+      "position": 47,
+      "product_id": 7141340971140,
+      "title": "Comfy Clothes & Murder Shows Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/comfy-clothes-murder-shows-mens-classic-tee"
+    },
+    {
+      "position": 48,
+      "product_id": 7215412248708,
+      "title": "Gelatinous Cube Loves To Hug Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/gelatinous-cube-loves-to-hug-mens-classic-tee"
+    },
+    {
+      "position": 49,
+      "product_id": 7289610961028,
+      "title": "Just One More Chapter Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/just-one-more-chapter-mens-classic-tee"
+    },
+    {
+      "position": 50,
+      "product_id": 7274516807812,
+      "title": "Actually All Of My Systems Are Nervous Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/actually-all-of-my-systems-are-nervous-mens-classic-tee"
+    },
+    {
+      "position": 51,
+      "product_id": 7145222340740,
+      "title": "Antisocial Butterfly Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/antisocial-butterfly-mens-classic-tee"
+    },
+    {
+      "position": 52,
+      "product_id": 7231124832388,
+      "title": "Irrational But Well Rounded Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/irrational-but-well-rounded-mens-classic-tee"
+    },
+    {
+      "position": 53,
+      "product_id": 7148741427332,
+      "title": "Snaxolotl Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/snaxolotl-mens-classic-tee"
+    },
+    {
+      "position": 54,
+      "product_id": 7145537896580,
+      "title": "Chaotic Neutral Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/chaotic-neutral-mens-classic-tee"
+    },
+    {
+      "position": 55,
+      "product_id": 7204357013636,
+      "title": "Cool Story Bro, Needs More Dragons Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/cool-story-bro-needs-more-dragons-mens-classic-tee"
+    },
+    {
+      "position": 56,
+      "product_id": 7178520526980,
+      "title": "Actually This Is My 2nd Rodeo Men's Classic Tee",
+      "url": "https://www.snorgtees.com/products/actually-this-is-my-2nd-rodeo-mens-classic-tee"
+    }
+  ]
+}

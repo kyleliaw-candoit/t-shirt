@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Recovery checkpoint created. Expanded collection has not started.
+Status: Collection started. Five front-design references documented; all five have unverified back placement. No family synthesis started.
 
 ## Approved scope
 
@@ -13,11 +13,11 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
-| SnorgTees | 20 | 0 | Verify current bestseller route from preserved source research |
+| SnorgTees | 20 | 5 | Batch 001; next position 7; back placement unverified for all five |
 | HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **0** | **Collection pending** |
+| **Total source-level slots** | **220** | **5** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -56,7 +56,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 
 ## Resume procedure — read first after interruption
 
-1. Inspect the current remote branch `docs/design-language-expanded-scan`, its PR and latest commits. Check whether it has since merged; never overwrite newer work.
+1. Inspect the current remote branch `docs/design-language-expanded-collection`, its PR and latest commits. Check whether it has since merged; never overwrite newer work.
 2. Read this checkpoint, the latest batch manifests and any pending records. Reconcile the table against remotely verified records/images, not conversational claims.
 3. Verify the last batch's files and cursor. Repair only missing/partial records; preserve stable IDs and evidence dates. Never restart completed source scans automatically.
 4. Resume at the first unresolved candidate, using both its URL and recorded position. Rankings may move: record a new snapshot and reconcile IDs rather than treating an old page number as immutable.
@@ -68,3 +68,15 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - Baseline: PR #133 merged at `07cf652cc047de2c63bbddc0209d8ab69b44435d`; pilot and 28-design research are preserved on main.
 - Initial checkpoint: this plan and zero-progress table only. No new product scans, image captures, or recipe families are claimed complete.
 - Next concrete action: reconcile the existing 28 records with source registers, then establish the first source's current ordered discovery route. The current turn establishes the recovery plan; it does not claim background execution after the response ends.
+
+## Founder execution instructions — 2026-10-20
+
+- Continue collection on Astra Medium. **Pause before any comparison across collected designs or recipe-family development and remind the Founder to switch to Astra Extra High.** Do not start synthesis until that handoff occurs.
+- Explicitly announce when execution stops, whether work is still active, the durable checkpoint and what remains. Never imply background work continues after a final response. Report blockers requiring Founder attention promptly; continue other authorized work when possible.
+
+## Expanded execution checkpoint
+
+- PR #135 merged at `951d8864a06b9e4ad992f9cbf4ae3b273b035afc`.
+- [Snorg batch 001](batches/SNORG-001.md): five records, including two carried forward and three new. All five are front-design references with unverified backs; zero independently confirmed blank-back products. The table counts documented research records, not verified front-only merchandise.
+- Source-level records: 5/220. Within-batch distinct artworks: 5. Cross-source unique total not established.
+- Resume at Snorg position 7. No attention is required from the Founder at this checkpoint.
