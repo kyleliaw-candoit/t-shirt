@@ -1,0 +1,66 @@
+{
+  "research_date_local": "2026-10-19",
+  "timezone": "America/Chicago",
+  "status": "Source routes researched; discovery batch not collected",
+  "target_total": 28,
+  "routes": [
+    {
+      "route_id": "ETSY",
+      "source": "Etsy",
+      "entry_url": "https://www.etsy.com/market/bestselling_tshirts",
+      "evidence_required": "item Bestseller badge",
+      "proposed_design_count": 12,
+      "access_check": "Direct listing probe succeeds; general search retrieval failed; verify badge individually",
+      "last_completed_scan_location": null,
+      "admitted_design_ids": []
+    },
+    {
+      "route_id": "LIG",
+      "source": "Life is Good",
+      "entry_url": "https://lifeisgood.com/collections/best-sellers",
+      "evidence_required": "seller Best Sellers collection",
+      "proposed_design_count": 6,
+      "access_check": "Indexed collection rich; direct collection extraction partly dynamic; product detail accessible",
+      "last_completed_scan_location": null,
+      "admitted_design_ids": []
+    },
+    {
+      "route_id": "SNORG",
+      "source": "SnorgTees",
+      "entry_url": "https://www.snorgtees.com/collections/best-sellers",
+      "evidence_required": "seller Best Sellers collection",
+      "proposed_design_count": 6,
+      "access_check": "Pages 1 and 2 and product probe accessible",
+      "last_completed_scan_location": null,
+      "admitted_design_ids": []
+    },
+    {
+      "route_id": "HISTOREE",
+      "source": "HistoreeTees",
+      "entry_url": "https://historeetees.com/collections/recent-best-sellers",
+      "evidence_required": "seller Current Best Sellers collection",
+      "proposed_design_count": 4,
+      "access_check": "Current and Greatest Hits routes accessible; historical captures retained",
+      "last_completed_scan_location": null,
+      "admitted_design_ids": []
+    }
+  ],
+  "future_record_fields": [
+    "retrieved_at",
+    "query",
+    "locale",
+    "sort",
+    "page",
+    "position",
+    "product_id",
+    "variant",
+    "badge_or_collection_snapshot",
+    "image_urls",
+    "image_paths",
+    "image_hashes",
+    "dimensions",
+    "specification_provenance",
+    "admission_reason",
+    "duplicate_group"
+  ]
+}

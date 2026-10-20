@@ -44,8 +44,8 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 [CAR: WRONG review and judgment calibration](reviews/2026-10-19-CAR-WRONG.md) contains source identifiers, original assessments and feedback. Both candidates remain provisional and limited to one seller. Neither is a fixed template or a proven purchase formula.
 
-**Publication status:** this update establishes the bank's format and preserves the decisions. The visual pilot was generated and reviewed in this session, but its full image package remains in local commit `61df149` on `docs/design-language-pilot`; the earlier shell push failed authentication. This is not yet a complete published image-native bank. Publish the exact reviewed assets later without regeneration and link them here. Do not treat this text summary as a replacement for the images.
+**Publication status:** [Pilot 01 visual package](pilot-01/README.md) now contains the reviewed source captures, neutral diagrams, original artwork and garment previews, prompts and frozen assessments. [Revision comparison](pilot-01/revision-review.html) adds the combined-setup treatment of DLR-002 without replacing either original design. Recipes remain provisional. See the [source-route research](sourcing/2026-10-19-Source-Strategy.md) before selecting the broader discovery batch.
 
 ## Deferred work
 
-Publish the reviewed visual package; correct DLR-002's setup hierarchy; then review the revision before expanding methodology. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+Review DLR-002 v2 and the researched source mix, then capture the broader discovery set. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
