@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 153 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 158 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -11,13 +11,13 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 |---|---:|---:|---|
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
-| Zazzle | 40 | 25 | ZZ-women batch 001; next position 7 |
+| Zazzle | 40 | 30 | ZZ-women batch 002; next position 14 |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **153** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **158** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -148,3 +148,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [ZZ-men batch 004](batches/ZZ-men-004.md): cumulative 148/220. Accepted30,31,32,34,39. Excluded33 visible custom-text placeholder,35 custom-message placeholder,36 and37 visible back graphics,38 custom family reunion. Generic catchphrase/allusion designs retained; no licensed character depicted. Men's quota complete at39.
 
 - [ZZ-women batch 001](batches/ZZ-women-001.md): cumulative 153/220. Women's Popular route: excluded1 licensed Grinch. Accepted2–6. Same phrase-family or typography resemblance alone is not exact-artwork duplication; copy variants remain flagged for later reconciliation, not clustered now.
+
+- [ZZ-women batch 002](batches/ZZ-women-002.md): cumulative 158/220. Accepted7,8,9,11,13. Excluded10 licensed Peanuts;12 visible farm-name personalization. Bad Witch9 shares typography/flourish template with Good Witch2 but changes wording; retained as explicit copy variant, not evidence of independent family breadth.
