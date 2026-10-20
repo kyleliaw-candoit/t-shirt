@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 168 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 173 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -9,15 +9,15 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
-| Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
+| Etsy | 40 | 5 | Batch001; next card11; individual badges verified |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
-| Zazzle | 40 | 40 | ZZ-women batch 004; next position 26 |
+| Zazzle | 40 | 40 | Allocation collected:20 men +20 women; backs unverified |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **168** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **173** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -154,3 +154,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [ZZ-women batch 003](batches/ZZ-women-003.md): cumulative 163/220. Accepted14,16–19. Excluded15 licensed Sesame Street character. Complete predefined text designs retained; no demographic inference from women's merchandising route.
 
 - [ZZ-women batch 004](batches/ZZ-women-004.md): cumulative 168/220. Accepted21–25. Excluded20 custom photo collage. Women's quota complete at25; later positions unneeded. Zazzle40 complete; global exact-artwork reconciliation pending.
+
+- [Etsy batch 001](batches/ETSY-001.md): cumulative 173/220. Skipped sponsored positions1–4. Accepted5,6,7,9,10 with live Bestseller badges. Position8 lacks badge and is outside count. Position9 primary gallery shows sweatshirt; selected explicit Adult T-Shirt thumbnail2 and retained that tee image. Collection title alone is not ranking evidence.
