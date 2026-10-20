@@ -1,0 +1,608 @@
+{
+  "route": "https://slothhikingclub.com/collections/frontpage",
+  "date": "2026-10-20",
+  "sort": "default",
+  "feed": "https://slothhikingclub.com/collections/frontpage/products.json?limit=100",
+  "records": [
+    {
+      "position": 1,
+      "product_id": 8282263519431,
+      "title": "Out Of Breath T-shirt",
+      "url": "https://slothhikingclub.com/products/out-of-breath-t-shirt"
+    },
+    {
+      "position": 2,
+      "product_id": 8282589429959,
+      "title": "Go Outside  T-shirt",
+      "url": "https://slothhikingclub.com/products/go-outside-t-shirt"
+    },
+    {
+      "position": 3,
+      "product_id": 8296097054919,
+      "title": "Meese T-shirt",
+      "url": "https://slothhikingclub.com/products/meese-t-shirt"
+    },
+    {
+      "position": 4,
+      "product_id": 8669816062151,
+      "title": "Blowing Wishes T-Shirt",
+      "url": "https://slothhikingclub.com/products/blowing-wishes-t-shirt"
+    },
+    {
+      "position": 5,
+      "product_id": 8281083216071,
+      "title": "Sunrise Pines T-shirt",
+      "url": "https://slothhikingclub.com/products/sunrise-pines-t-shirt"
+    },
+    {
+      "position": 6,
+      "product_id": 8282572488903,
+      "title": "Haven't Been Everywhere T-shirt",
+      "url": "https://slothhikingclub.com/products/havent-been-everywhere-t-shirt"
+    },
+    {
+      "position": 7,
+      "product_id": 8281069748423,
+      "title": "Bad Knees T-shirt",
+      "url": "https://slothhikingclub.com/products/bad-knees-t-shirt"
+    },
+    {
+      "position": 8,
+      "product_id": 8289128382663,
+      "title": "Stump Of Life T-shirt",
+      "url": "https://slothhikingclub.com/products/stump-of-life-t-shirt"
+    },
+    {
+      "position": 9,
+      "product_id": 8296101413063,
+      "title": "Funky Peace T-shirt",
+      "url": "https://slothhikingclub.com/products/funky-peace-t-shirt"
+    },
+    {
+      "position": 10,
+      "product_id": 8289179238599,
+      "title": "I Love Peeing Outside T-shirt",
+      "url": "https://slothhikingclub.com/products/i-love-peeing-outside-t-shirt"
+    },
+    {
+      "position": 11,
+      "product_id": 8652969509063,
+      "title": "Slow Hiking Society Snail T-Shirt",
+      "url": "https://slothhikingclub.com/products/slow-hiking-society-snail-t-shirt"
+    },
+    {
+      "position": 12,
+      "product_id": 8282257227975,
+      "title": "Take A Hike T-shirt",
+      "url": "https://slothhikingclub.com/products/take-a-hike-t-shirt"
+    },
+    {
+      "position": 13,
+      "product_id": 8282263748807,
+      "title": "Paths In Life T-shirt",
+      "url": "https://slothhikingclub.com/products/paths-in-life-t-shirt"
+    },
+    {
+      "position": 14,
+      "product_id": 8289145553095,
+      "title": "Water Color Forest T-shirt",
+      "url": "https://slothhikingclub.com/products/water-color-forest-t-shirt"
+    },
+    {
+      "position": 15,
+      "product_id": 8457755885767,
+      "title": "Campfire Friends T-Shirt",
+      "url": "https://slothhikingclub.com/products/campfire-friends-t-shirt"
+    },
+    {
+      "position": 16,
+      "product_id": 8283684765895,
+      "title": "I'm Lichen It T-shirt",
+      "url": "https://slothhikingclub.com/products/im-lichen-it-t-shirt"
+    },
+    {
+      "position": 17,
+      "product_id": 8282838991047,
+      "title": "Earth Laughs In Flowers T-shirt",
+      "url": "https://slothhikingclub.com/products/earth-laughs-in-flowers-t-shirt"
+    },
+    {
+      "position": 18,
+      "product_id": 8303803039943,
+      "title": "Bear Reflection T-Shirt",
+      "url": "https://slothhikingclub.com/products/bear-reflection-t-shirt"
+    },
+    {
+      "position": 19,
+      "product_id": 8297866592455,
+      "title": "Fox Spirit T-Shirt",
+      "url": "https://slothhikingclub.com/products/fox-spirit-t-shirt"
+    },
+    {
+      "position": 20,
+      "product_id": 8296108687559,
+      "title": "Still Plays Outside T-shirt",
+      "url": "https://slothhikingclub.com/products/still-plays-outside-t-shirt"
+    },
+    {
+      "position": 21,
+      "product_id": 8303635693767,
+      "title": "If It Involves Hiking And Dogs T-Shirt",
+      "url": "https://slothhikingclub.com/products/if-it-involves-hiking-and-dogs-t-shirt"
+    },
+    {
+      "position": 22,
+      "product_id": 8281070436551,
+      "title": "Meowntains T-shirt",
+      "url": "https://slothhikingclub.com/products/meowntains-t-shirt"
+    },
+    {
+      "position": 23,
+      "product_id": 8303633858759,
+      "title": "Birds & Flowers T-Shirt",
+      "url": "https://slothhikingclub.com/products/birds-flowers-t-shirt"
+    },
+    {
+      "position": 24,
+      "product_id": 8289107804359,
+      "title": "Sky Above T-shirt",
+      "url": "https://slothhikingclub.com/products/sky-above-t-shirt"
+    },
+    {
+      "position": 25,
+      "product_id": 8296730853575,
+      "title": "Another Half Mile Or So T-shirt",
+      "url": "https://slothhikingclub.com/products/another-half-mile-or-so-t-shirt"
+    },
+    {
+      "position": 26,
+      "product_id": 8296719679687,
+      "title": "Hide & Seek Champion T-shirt",
+      "url": "https://slothhikingclub.com/products/hide-seek-champion-t-shirt"
+    },
+    {
+      "position": 27,
+      "product_id": 8289136836807,
+      "title": "Wild Flowers T-shirt",
+      "url": "https://slothhikingclub.com/products/wild-flowers-t-shirt"
+    },
+    {
+      "position": 28,
+      "product_id": 8296791376071,
+      "title": "Banjo Bear T-shirt",
+      "url": "https://slothhikingclub.com/products/banjo-bear-t-shirt"
+    },
+    {
+      "position": 29,
+      "product_id": 8282546667719,
+      "title": "Think Outside T-shirt",
+      "url": "https://slothhikingclub.com/products/thinking-outside-t-shirt"
+    },
+    {
+      "position": 30,
+      "product_id": 8282856652999,
+      "title": "Passing Encouraged T-shirt",
+      "url": "https://slothhikingclub.com/products/passing-encouraged-t-shirt"
+    },
+    {
+      "position": 31,
+      "product_id": 8303805661383,
+      "title": "It's Another Half Mile Or So T-Shirt",
+      "url": "https://slothhikingclub.com/products/its-another-half-mile-or-so-t-shirt"
+    },
+    {
+      "position": 32,
+      "product_id": 8296770207943,
+      "title": "I Hate People T-shirt",
+      "url": "https://slothhikingclub.com/products/i-hate-people-t-shirt"
+    },
+    {
+      "position": 33,
+      "product_id": 8556945309895,
+      "title": "Escape Button T-Shirt",
+      "url": "https://slothhikingclub.com/products/203-png"
+    },
+    {
+      "position": 34,
+      "product_id": 8282526220487,
+      "title": "Bear Spirit T-shirt",
+      "url": "https://slothhikingclub.com/products/bear-spirit-t-shirt"
+    },
+    {
+      "position": 35,
+      "product_id": 8282843250887,
+      "title": "Check Engine Light T-shirt",
+      "url": "https://slothhikingclub.com/products/check-engine-light-t-shirt"
+    },
+    {
+      "position": 36,
+      "product_id": 8559265972423,
+      "title": "Sloth Hiker Definition T-Shirt",
+      "url": "https://slothhikingclub.com/products/sloth-hiker-definition-t-shirt"
+    },
+    {
+      "position": 37,
+      "product_id": 8638713200839,
+      "title": "Black Bear Tips T-Shirt",
+      "url": "https://slothhikingclub.com/products/black-bear-tips-t-shirt"
+    },
+    {
+      "position": 38,
+      "product_id": 8472981471431,
+      "title": "F-Caw-F I'm Hiking T-shirt",
+      "url": "https://slothhikingclub.com/products/f-caw-f-im-hiking-t-shirt"
+    },
+    {
+      "position": 39,
+      "product_id": 8556943900871,
+      "title": "Honest Mistake T-Shirt",
+      "url": "https://slothhikingclub.com/products/178-png"
+    },
+    {
+      "position": 40,
+      "product_id": 8281075712199,
+      "title": "Stay Wild T-shirt",
+      "url": "https://slothhikingclub.com/products/stay-wild-t-shirt"
+    },
+    {
+      "position": 41,
+      "product_id": 8303626027207,
+      "title": "Two Owls T-Shirt",
+      "url": "https://slothhikingclub.com/products/two-owls-t-shirt"
+    },
+    {
+      "position": 42,
+      "product_id": 8297866330311,
+      "title": "Moose Spirit T-shirt",
+      "url": "https://slothhikingclub.com/products/moose-spirit-t-shirt"
+    },
+    {
+      "position": 43,
+      "product_id": 8303843705031,
+      "title": "Take Me To The Mountains Script T-Shirt",
+      "url": "https://slothhikingclub.com/products/take-me-to-the-mountains-script-t-shirt"
+    },
+    {
+      "position": 44,
+      "product_id": 8289123762375,
+      "title": "Camp Quit T-shirt",
+      "url": "https://slothhikingclub.com/products/camp-quit-t-shirt"
+    },
+    {
+      "position": 45,
+      "product_id": 8599377576135,
+      "title": "Big Trout T-Shirt",
+      "url": "https://slothhikingclub.com/products/big-trout-t-shirt"
+    },
+    {
+      "position": 46,
+      "product_id": 8292823105735,
+      "title": "Sorry Can't Hiking Bye T-shirt",
+      "url": "https://slothhikingclub.com/products/sorry-cant-hiking-bye-t-shirt"
+    },
+    {
+      "position": 47,
+      "product_id": 8669687906503,
+      "title": "Bigfoot Selfie T-Shirt",
+      "url": "https://slothhikingclub.com/products/bigfoot-selfie-t-shirt"
+    },
+    {
+      "position": 48,
+      "product_id": 8282604044487,
+      "title": "Not All Who Wander Are Lost T-shirt",
+      "url": "https://slothhikingclub.com/products/not-all-who-wander-are-lost-t-shirt"
+    },
+    {
+      "position": 49,
+      "product_id": 8289103052999,
+      "title": "Forest T-shirt",
+      "url": "https://slothhikingclub.com/products/forest-t-shirt"
+    },
+    {
+      "position": 50,
+      "product_id": 8669687120071,
+      "title": "Teddy & Bigfoot Arm Wrestling T-Shirt",
+      "url": "https://slothhikingclub.com/products/teddy-bigfoot-arm-wrestling-t-shirt"
+    },
+    {
+      "position": 51,
+      "product_id": 8298379018439,
+      "title": "National Parks Of The USA T-Shirt",
+      "url": "https://slothhikingclub.com/products/national-parks-of-the-usa-t-shirt"
+    },
+    {
+      "position": 52,
+      "product_id": 8289115766983,
+      "title": "I Like Mountains T-shirt",
+      "url": "https://slothhikingclub.com/products/i-like-mountains-t-shirt"
+    },
+    {
+      "position": 53,
+      "product_id": 8282620362951,
+      "title": "When We Get There T-shirt",
+      "url": "https://slothhikingclub.com/products/when-we-get-there-t-shirt"
+    },
+    {
+      "position": 54,
+      "product_id": 8457559146695,
+      "title": "Gracefully Clumsy T-Shirt",
+      "url": "https://slothhikingclub.com/products/gracefully-clumsy-t-shirt"
+    },
+    {
+      "position": 55,
+      "product_id": 8282609647815,
+      "title": "I'd Hike That T-shirt",
+      "url": "https://slothhikingclub.com/products/id-hike-that-t-shirt"
+    },
+    {
+      "position": 56,
+      "product_id": 8289220559047,
+      "title": "Early Morning Walk T-shirt",
+      "url": "https://slothhikingclub.com/products/early-morning-walk-t-shirt"
+    },
+    {
+      "position": 57,
+      "product_id": 8457720266951,
+      "title": "Instant Regret T-Shirt",
+      "url": "https://slothhikingclub.com/products/instant-regret-t-shirt"
+    },
+    {
+      "position": 58,
+      "product_id": 8556943474887,
+      "title": "Group Hug T-Shirt",
+      "url": "https://slothhikingclub.com/products/111-png"
+    },
+    {
+      "position": 59,
+      "product_id": 8294589989063,
+      "title": "A Hole T-shirt",
+      "url": "https://slothhikingclub.com/products/a-hole-t-shirt"
+    },
+    {
+      "position": 60,
+      "product_id": 8297866756295,
+      "title": "Buffalo Spirit T-Shirt",
+      "url": "https://slothhikingclub.com/products/buffalo-spirit-t-shirt"
+    },
+    {
+      "position": 61,
+      "product_id": 8281082396871,
+      "title": "Lone Pine T-shirt",
+      "url": "https://slothhikingclub.com/products/lone-pine-t-shirt"
+    },
+    {
+      "position": 62,
+      "product_id": 8457485615303,
+      "title": "I'll Catch Up T-Shirt",
+      "url": "https://slothhikingclub.com/products/ill-catch-up-t-shirt"
+    },
+    {
+      "position": 63,
+      "product_id": 8296088273095,
+      "title": "Bear Attack Tip T-shirt",
+      "url": "https://slothhikingclub.com/products/bear-attack-tip-t-shirt"
+    },
+    {
+      "position": 64,
+      "product_id": 8289121075399,
+      "title": "Explore Heart Beat T-shirt",
+      "url": "https://slothhikingclub.com/products/explore-t-shirt-1"
+    },
+    {
+      "position": 65,
+      "product_id": 8559250440391,
+      "title": "Bee T-Shirt",
+      "url": "https://slothhikingclub.com/products/bee-t-shirt"
+    },
+    {
+      "position": 66,
+      "product_id": 8289168031943,
+      "title": "Aztec T-shirt",
+      "url": "https://slothhikingclub.com/products/aztec-t-shirt"
+    },
+    {
+      "position": 67,
+      "product_id": 8284203516103,
+      "title": "Wander T-shirt",
+      "url": "https://slothhikingclub.com/products/wander-t-shirt"
+    },
+    {
+      "position": 68,
+      "product_id": 8635411005639,
+      "title": "They Didn't See Us T-Shirt",
+      "url": "https://slothhikingclub.com/products/they-didnt-see-us-t-shirt"
+    },
+    {
+      "position": 69,
+      "product_id": 8303593062599,
+      "title": "Bear Mountain T-Shirt",
+      "url": "https://slothhikingclub.com/products/bear-mountain-t-shirt"
+    },
+    {
+      "position": 70,
+      "product_id": 8599370858695,
+      "title": "Roaming Kitty T-Shirt",
+      "url": "https://slothhikingclub.com/products/roaming-kitty-t-shirt"
+    },
+    {
+      "position": 71,
+      "product_id": 8298608427207,
+      "title": "Mountain Of National Parks T-Shirt",
+      "url": "https://slothhikingclub.com/products/mountain-of-national-parks-t-shirt"
+    },
+    {
+      "position": 72,
+      "product_id": 8282578518215,
+      "title": "Adventure T-shirt",
+      "url": "https://slothhikingclub.com/products/adventure-t-shirt"
+    },
+    {
+      "position": 73,
+      "product_id": 8282558300359,
+      "title": "Mountain Sunset T-shirt",
+      "url": "https://slothhikingclub.com/products/mountain-sunset-t-shirt"
+    },
+    {
+      "position": 74,
+      "product_id": 8289115177159,
+      "title": "Protect Our National Parks T-shirt",
+      "url": "https://slothhikingclub.com/products/protect-our-national-parks-t-shirt"
+    },
+    {
+      "position": 75,
+      "product_id": 8559245623495,
+      "title": "Mushrooms T-Shirt",
+      "url": "https://slothhikingclub.com/products/mushrooms-t-shirt"
+    },
+    {
+      "position": 76,
+      "product_id": 8289104101575,
+      "title": "White Pines T-shirt",
+      "url": "https://slothhikingclub.com/products/white-pines-t-shirt"
+    },
+    {
+      "position": 77,
+      "product_id": 8294588448967,
+      "title": "Spiders Everywhere T-shirt",
+      "url": "https://slothhikingclub.com/products/spiders-everywhere-t-shirt"
+    },
+    {
+      "position": 78,
+      "product_id": 8296784232647,
+      "title": "Go Outside To Look Inside T-shirt",
+      "url": "https://slothhikingclub.com/products/go-outside-to-look-inside-t-shirt"
+    },
+    {
+      "position": 79,
+      "product_id": 8281119752391,
+      "title": "Cherry Blossoms T-shirt",
+      "url": "https://slothhikingclub.com/products/cherry-blossoms-t-shirt"
+    },
+    {
+      "position": 80,
+      "product_id": 8599368990919,
+      "title": "Pinecone T-Shirt",
+      "url": "https://slothhikingclub.com/products/pinecone-t-shirt"
+    },
+    {
+      "position": 81,
+      "product_id": 8282600603847,
+      "title": "Go Outside Bunny T-shirt",
+      "url": "https://slothhikingclub.com/products/go-outside-bunny-t-shirt"
+    },
+    {
+      "position": 82,
+      "product_id": 8296084996295,
+      "title": "Adventure Script T-shirt",
+      "url": "https://slothhikingclub.com/products/adventure-script-t-shirt"
+    },
+    {
+      "position": 83,
+      "product_id": 8457818013895,
+      "title": "Mountain Lover T-Shirt",
+      "url": "https://slothhikingclub.com/products/mountain-lover-t-shirt"
+    },
+    {
+      "position": 84,
+      "product_id": 8457534767303,
+      "title": "Funky Sloth T-Shirt",
+      "url": "https://slothhikingclub.com/products/funky-sloth-t-shirt"
+    },
+    {
+      "position": 85,
+      "product_id": 8292667457735,
+      "title": "Wiener Dog Mountain T-shirt",
+      "url": "https://slothhikingclub.com/products/wiener-dog-mountain-t-shirt"
+    },
+    {
+      "position": 86,
+      "product_id": 8599373381831,
+      "title": "Grumpy Bear T-Shirt",
+      "url": "https://slothhikingclub.com/products/grumpy-bear-t-shirt"
+    },
+    {
+      "position": 87,
+      "product_id": 8289164427463,
+      "title": "Frolicking Bear T-shirt",
+      "url": "https://slothhikingclub.com/products/frolicking-bear-t-shirt"
+    },
+    {
+      "position": 88,
+      "product_id": 8652974063815,
+      "title": "Look Up T-Shirt T-Shirt",
+      "url": "https://slothhikingclub.com/products/look-up-t-shirt-t-shirt"
+    },
+    {
+      "position": 89,
+      "product_id": 8457750184135,
+      "title": "Sunset Mountain Top T-Shirt",
+      "url": "https://slothhikingclub.com/products/sunset-mountain-top-t-shirt"
+    },
+    {
+      "position": 90,
+      "product_id": 8457436430535,
+      "title": "Listen To The Trees T-Shirt",
+      "url": "https://slothhikingclub.com/products/listen-to-the-trees-t-shirt"
+    },
+    {
+      "position": 91,
+      "product_id": 8599361749191,
+      "title": "Box Turtle T-Shirt",
+      "url": "https://slothhikingclub.com/products/box-turtle-t-shirt"
+    },
+    {
+      "position": 92,
+      "product_id": 8281372524743,
+      "title": "Rad Moose T-shirt",
+      "url": "https://slothhikingclub.com/products/rad-moose-t-shirt"
+    },
+    {
+      "position": 93,
+      "product_id": 8471967563975,
+      "title": "Dam Project T-shirt",
+      "url": "https://slothhikingclub.com/products/dam-project-t-shirt"
+    },
+    {
+      "position": 94,
+      "product_id": 8556943737031,
+      "title": "Punch People T-Shirt",
+      "url": "https://slothhikingclub.com/products/148-png"
+    },
+    {
+      "position": 95,
+      "product_id": 8282781843655,
+      "title": "Hiking Is Not For Everyone T-shirt",
+      "url": "https://slothhikingclub.com/products/hiking-is-not-for-everyone-t-shirt"
+    },
+    {
+      "position": 96,
+      "product_id": 8303587885255,
+      "title": "Visit Nature T-Shirt",
+      "url": "https://slothhikingclub.com/products/visit-nature-t-shirt"
+    },
+    {
+      "position": 97,
+      "product_id": 8282781712583,
+      "title": "No Shortcuts T-shirt",
+      "url": "https://slothhikingclub.com/products/no-shortcuts-t-shirt"
+    },
+    {
+      "position": 98,
+      "product_id": 8282253066439,
+      "title": "Take Me To The Mountains T-shirt",
+      "url": "https://slothhikingclub.com/products/take-me-to-the-mountains-t-shirt"
+    },
+    {
+      "position": 99,
+      "product_id": 8599367876807,
+      "title": "Mushroom Circus T-Shirt",
+      "url": "https://slothhikingclub.com/products/mushroom-circus-t-shirt"
+    },
+    {
+      "position": 100,
+      "product_id": 8556943573191,
+      "title": "Enjoy T-Shirt",
+      "url": "https://slothhikingclub.com/products/134-png"
+    }
+  ]
+}

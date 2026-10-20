@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 40 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 45 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -16,8 +16,8 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
-| Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **40** | **Collection in progress; front-only merchandise not certified** |
+| Sloth Hiking Club | 20 | 5 | Batch 001; next position 6; backs unverified |
+| **Total source-level slots** | **220** | **45** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -98,3 +98,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [HistoreeTees batch 004](batches/HISTOREE-004.md): cumulative 40/220 source records; resume this source at position 21. Backs remain unverified.
 
 - HistoreeTees allocation reached: 20 references, 17 new and three carried forward. Current first 20 follow direct live HTML order; cached page discrepancy resolved and saved. History Is Importanter at position 23 remains supplementary. Next source: Sloth Hiking Club, reconcile the saved four IDs against current frontpage order.
+
+- [Sloth Hiking Club batch 001](batches/SLOTH-001.md): cumulative 45/220 source records; resume this source at position 6. Backs remain unverified.
