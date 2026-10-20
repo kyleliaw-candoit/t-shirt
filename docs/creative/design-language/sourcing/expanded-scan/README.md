@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 88 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 93 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -10,14 +10,14 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
-| Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
+| Redbubble | 40 | 5 | RB-men batch 001; next position 8 |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **88** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **93** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -122,3 +122,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Life is Good batch 003](batches/LIG-003.md): cumulative 83/220 source records. Accepted positions 23–27 (DLS-LIG-015–019). Position 22 repeats cauldron artwork from 16. Position 23 depicts the seller’s own Jake-style brand mascot, not an identified third-party licensed character; brand familiarity remains an explicit appeal confound.
 
 - [Life is Good batch 004](batches/LIG-004.md): cumulative 88/220 source records. Accepted 29,30,32,35,36 (DLS-LIG-020,021,022,001 carry-forward,023). Position 28 excluded: all-over pattern including sleeves. 31 repeats Daisy artwork; 33 and 34 pants excluded. First 20 eligible reached at displayed position 36.
+
+- [RB-men batch 001](batches/RB-men-001.md): cumulative 93/220. Accepted positions 2,3,4,6,7 as DLS-RB-001–005. Position 1 held outside count: Dune franchise creature/setting imagery, boundary with licensed-character exclusion. Position 5 excluded: identifiable Muppet characters. Browser media saves succeeded for first twelve images; later downloads require recovery before counting.
