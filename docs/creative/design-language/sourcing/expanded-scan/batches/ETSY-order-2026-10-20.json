@@ -1,5 +1,9 @@
+Warning: truncated output (original token count: 31868)
+Total output lines: 967
+
 {
   "route": "https://www.etsy.com/market/bestselling_tshirts",
+  "page2": "https://www.etsy.com/market/bestselling_tshirts?ref=pagination&page=2",
   "sort": "Relevancy",
   "records": [
     {
@@ -269,158 +273,340 @@
       "url": "https://www.etsy.com/listing/4533656446/we-read-at-dawn-tshirt-bookish-funny?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALTa28e134827604236893efb4d642280ee29a7881d&click_sum=8d880b34&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-14&sr_prefetch=1&pf_from=market&pro=1&sts=1"
     },
     {
-      "alt": "Party Deer Heavy Metal Sense Of Humor Best Seller Funny Meme Top Gift Tee T Shirt T1522",
-      "image": "https://i.etsystatic.com/35700421/r/il/011bf0/8357929369/il_300x300.8357929369_dt0n.jpg",
-      "position": 39,
-      "text": "Party Deer Heavy Metal Sense Of Humor Best Seller Funny Meme Top Gift Tee T Shirt T1522 Ad by Etsy seller Ad from Etsy seller (1.3k) Sale Price $8.09 $8.09 $16.19 Original Price $16.19 (50% off)",
-      "url": "https://www.etsy.com/listing/1896032215/party-deer-heavy-metal-sense-of-humor?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALTc562802a345f2f830a5442d4822a96eb932a9f88&click_sum=d51e79d8&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-15&sr_prefetch=1&pf_from=market&pro=1"
+      "alt": "Party Deer Heavy Metal Sense Of Humo…11868 tokens truncated…=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-15&sr_prefetch=1&pf_from=market&pro=1&frs=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTf98b3cbeb8d2d0d58c09f476d56b8bded9be2d17"
     },
     {
-      "alt": "May include: Dark gray t-shirt featuring a skeleton design with colorful flowers and the text \"EZEKIEL 37:1-10\" and \"DRY BONES COME TO LIFE\". The shirt has a vintage wash.",
-      "image": "https://i.etsystatic.com/61984425/r/il/0afc6c/7821331250/il_300x300.7821331250_i0zt.jpg",
-      "position": 40,
-      "text": "Ezekiel 37 Dry Bones Come To Life Shirt, Christian Skeleton Floral Tee, Retro Scripture Hoodie, Vintage Faith Sweatshirt, Gift for Mom Ad by Etsy seller Ad from Etsy seller (86) Sale Price $4.75 $4.75 $9.50 Original Price $9.50 (50% off)",
-      "url": "https://www.etsy.com/listing/4474409766/ezekiel-37-dry-bones-come-to-life-shirt?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALT39fd1f7e7ac64b7239ab990cdbf223cc45609d8a&click_sum=134e84d6&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-16&sr_prefetch=1&pf_from=market&pro=1&sts=1"
-    },
-    {
-      "alt": "May include: Ivory-colored t-shirt featuring a dancing raccoon illustration in blue. The text \"FIRST OF ALL I'M A DELIGHT\" is printed above and below the raccoon. The shirt is from Hollis Design Co.",
-      "image": "https://i.etsystatic.com/15773291/r/il/b28872/7084548658/il_300x300.7084548658_3nrq.jpg",
-      "position": 41,
-      "text": "First of All, I'm a Delight Shirt Funny Raccoon Tshirt Sarcastic Quote Shirt Sarcasm Shirt Funny Animal Raccoon Tee Humor Graphic T-Shirt (10.2k) Sale Price $15.99 $15.99 $31.98 Original Price $31.98 (50% off)",
-      "url": "https://www.etsy.com/listing/4347191679/first-of-all-im-a-delight-shirt-funny?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT8c5b8824ef3a571015f772ded88e833d293e7f53&click_sum=a691de0a&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-25&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT8c5b8824ef3a571015f772ded88e833d293e7f53"
-    },
-    {
-      "alt": "May include: A charcoal gray oversized t-shirt featuring a graphic print of a blue whale and a person in the ocean. The text reads GET IN LOSER WE'RE DOING GOD'S WILL JONAH 1:17. The design includes lightning bolts and a red border frame.",
-      "image": "https://i.etsystatic.com/23382249/c/1007/1007/221/34/il/5a73af/8416966569/il_300x300.8416966569_fyne.jpg",
-      "position": 42,
-      "text": "Get In Loser T-Shirt, Christian Humor Tee, Comfort Colors Faith Shirt, Funny Bible Verse (2.3k) Sale Price $7.65 $7.65 $16.99 Original Price $16.99 (55% off)",
-      "url": "https://www.etsy.com/listing/4550004509/get-in-loser-t-shirt-christian-humor-tee?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT927e3322476eba896d30b6928a0765b58628791f&click_sum=dce6efa6&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-26&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT927e3322476eba896d30b6928a0765b58628791f"
-    },
-    {
-      "alt": "May include: Military green t-shirt with a graphic featuring a hobbit door, a wizard, and the text \"FOR THOSE LOOKING TO SHARE IN AN ADVENTURE SECOND BREAKFAST CLUB.\" A silver necklace with a star pendant rests on the shirt.",
-      "image": "https://i.etsystatic.com/61992435/r/il/6f406d/8037981426/il_300x300.8037981426_sr40.jpg",
-      "position": 43,
-      "text": "Second Breakfast Club Shirt, Adventure Bookish T-shirt, Fantasy Book Lover Top, Middle-Earth Fan Inspired Apparel, Cottagecore Sweatshirt (561) Sale Price $14.29 $14.29 $25.98 Original Price $25.98 (45% off)",
-      "url": "https://www.etsy.com/listing/4455963769/second-breakfast-club-shirt-adventure?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTbdce54c5f37c1b7b340f70ade542a3a70ab75d2a&click_sum=75164865&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-27&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTbdce54c5f37c1b7b340f70ade542a3a70ab75d2a"
-    },
-    {
-      "alt": "May include: A sage green short-sleeve t-shirt featuring a graphic of a tabby kitten kneading dough on a wooden board next to a mixing bowl. The text reads KITTY BISCUITS BAKERY and WE KNEAD EM YOU NEED EM. The shirt has a crew neck and a Comfort Colors label.",
-      "image": "https://i.etsystatic.com/54799842/r/il/ef5604/6904704626/il_300x300.6904704626_c8zz.jpg",
-      "position": 44,
-      "text": "Comfort Colors Cat Shirt Funny Cat Shirt Sourdough Shirt Cat Meme Shirt Cat T Shirt Biscuit Shirt Bakery Tee Kitty Lover Gift Tee (6.4k) Sale Price $17.04 $17.04 $30.98 Original Price $30.98 (45% off)",
-      "url": "https://www.etsy.com/listing/4313706552/comfort-colors-cat-shirt-funny-cat-shirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT4d79742be08c2000447a747c3c3cc7626f0ad24c&click_sum=f9e48870&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-28&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT4d79742be08c2000447a747c3c3cc7626f0ad24c"
-    },
-    {
-      "alt": "May include: A charcoal gray short-sleeve t-shirt featuring a white graphic print of a cat sitting among flowers inside a rectangular frame. The text BE KIND & DO GOOD is printed in white above and below the cat illustration.",
-      "image": "https://i.etsystatic.com/44579498/r/il/74f1f3/8746417987/il_300x300.8746417987_tm93.jpg",
-      "position": 45,
-      "text": "Be Kind & Do Good Comfort Colors Shirt, Positive Graphic Tee, Kindness Floral Cat Crop Top (1.1k) Sale Price $25.50 $25.50 $34.00 Original Price $34.00 (25% off)",
-      "url": "https://www.etsy.com/listing/4597949218/be-kind-do-good-comfort-colors-shirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT118113c774304da1b5a1e8a2bbf53b7b2393a0c6&click_sum=7b5d0a38&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-29&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT118113c774304da1b5a1e8a2bbf53b7b2393a0c6"
-    },
-    {
-      "alt": "May include: Green t-shirt with the text \"SUPPORT PUBLIC LIBRARIES\" in large, distressed white letters. The shirt has a crew neck and rolled-up sleeves. The fabric has a slightly faded appearance.",
-      "image": "https://i.etsystatic.com/5268423/c/1488/1488/52/226/il/aabad9/7329008422/il_300x300.7329008422_8wgt.jpg",
-      "position": 46,
-      "text": "Library Shirt, Support Public Libraries, Librarian TShirt, Gift for Reader, Reading T Shirt, Book Lover T-Shirt, Bookworm, Bibliophile Gifts (5.7k) Sale Price $23.00 $23.00 $30.67 Original Price $30.67 (25% off)",
-      "url": "https://www.etsy.com/listing/4394005075/library-shirt-support-public-libraries?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT35e0f6c5b51cf795a185dd6931089465000b5e8b&click_sum=d0bf72e9&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-30&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT35e0f6c5b51cf795a185dd6931089465000b5e8b"
-    },
-    {
-      "alt": "May include: Dark gray t-shirt featuring a cartoon penguin holding a knife. The penguin is black, white, and brown. The text \"FLIGHT WAS NEVER AN OPTION\" is printed below the penguin.",
-      "image": "https://i.etsystatic.com/64452272/r/il/7f2f88/8117534543/il_300x300.8117534543_jqgv.jpg",
-      "position": 47,
-      "text": "Flight Was Never An Option Shirt, Funny Penguin Knife Tee, Sarcastic Dark Humor Gift, Retro Penguin Punk Graphic Comfort Chaotic T-shirt (133) Sale Price $15.94 $15.94 $28.99 Original Price $28.99 (45% off)",
-      "url": "https://www.etsy.com/listing/4512475221/flight-was-never-an-option-shirt-funny?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT82efdf0dcabe4605e181ea630958393575e2a29a&click_sum=0c3af079&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-31&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT82efdf0dcabe4605e181ea630958393575e2a29a"
-    },
-    {
-      "alt": "Funny Raccoon Shirt, My Only Competition Is Me Tee, Comfort Colors Graphic Shirt, Sarcastic Animal T-Shirt, Confidence Humor Tee",
-      "image": "https://i.etsystatic.com/68118899/r/il/4e95e8/8706873328/il_300x300.8706873328_fvs4.jpg",
-      "position": 48,
-      "text": "Funny Raccoon Shirt, My Only Competition Is Me Tee, Comfort Colors Graphic Shirt, Sarcastic Animal T-Shirt, Confidence Humor Tee Sale Price $11.00 $11.00 $20.00 Original Price $20.00 (45% off)",
-      "url": "https://www.etsy.com/listing/4598928282/funny-raccoon-shirt-my-only-competition?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT95cb9c1b57133fde43bad595a396b2610ffd09b9&click_sum=48739e11&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-32&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT95cb9c1b57133fde43bad595a396b2610ffd09b9"
-    },
-    {
-      "alt": "May include: A beige sweatshirt with a graphic of a skull drinking a can of soda. The text \"'til death.\" is printed below the skull.",
-      "image": "https://i.etsystatic.com/53238164/r/il/981f47/6414183939/il_300x300.6414183939_5p8a.jpg",
-      "position": 49,
-      "text": "Diet Coke Vanilla Skull Sweatshirt, Funny Coke Lover Shirt Ad by Etsy seller Ad from Etsy seller (1k) Sale Price $10.44 $10.44 $18.99 Original Price $18.99 (45% off)",
-      "url": "https://www.etsy.com/listing/1813080909/diet-coke-vanilla-skull-sweatshirt-funny?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALT6418e3f724301378cb59a7a06cea966bb6f6e72e&click_sum=e2ed64da&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-17&sr_prefetch=1&pf_from=market&pro=1"
+      "alt": "May include: A black t-shirt with a white graphic of a skeleton reading a book in a graveyard. The text \"Read in Peace\" is printed below the graphic.",
+      "image": "https://i.etsystatic.com/23829589/r/il/028df6/6812009476/il_600x600.6812009476_e1hs.jpg",
+      "page": 2,
+      "page_position": 24,
+      "position": 84,
+      "text": "Comfort Colors® Bookish Shirt, Book Lover Clothing, Reading Shirt, Gifts for Readers, Banned Books Shirt (25.2k) Sale Price $15.99 $15.99 $31.98 Original Price $31.98 (50% off)",
+      "url": "https://www.etsy.com/listing/1704731930/comfort-colors-bookish-shirt-book-lover?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT89be38d00823d7f254a6df1b134c987d1324711f&click_sum=824a8ef2&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-16&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT89be38d00823d7f254a6df1b134c987d1324711f"
     },
     {
       "alt": "May include: An ivory-colored t-shirt featuring a black ink-style illustration of an owl perched on a branch. To the right of the owl, the text reads, God is still working on my facial expressions. The shirt has a crew neckline and short sleeves.",
       "image": "https://i.etsystatic.com/61992435/r/il/4a9cf3/8586730499/il_300x300.8586730499_k4ij.jpg",
-      "position": 50,
+      "page": 2,
+      "page_position": 25,
+      "position": 85,
       "text": "God Is Still Working on My Facial Expressions Shirt, Funny Owl Comfort Colors Tee, Sarcastic Christian Graphic T-Shirt, Faith Humor Sweater Ad by Etsy seller Ad from Etsy seller (561) Sale Price $14.29 $14.29 $25.98 Original Price $25.98 (45% off)",
-      "url": "https://www.etsy.com/listing/4577353677/god-is-still-working-on-my-facial?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALT1b08a196c2fec240c7e5a39801050a62e0173f0d&click_sum=1743da80&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-18&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+      "url": "https://www.etsy.com/listing/4577353677/god-is-still-working-on-my-facial?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALTaeca92451d07675fa57444fa7d836b4ba5175433&click_sum=10cb657e&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-9&sr_prefetch=1&pf_from=market&pro=1&sts=1"
     },
     {
-      "alt": "May include: Black sweatshirt with an orange graphic of a witch flying on a broomstick with a black cat. The text reads \"Why yes, actually I can drive a stick.\"",
-      "image": "https://i.etsystatic.com/23129626/c/1494/1494/223/102/il/96d282/5083870429/il_300x300.5083870429_7rwn.jpg",
-      "position": 51,
-      "text": "Funny Halloween Shirt: Witch Driving Stick, Women's Halloween Party Tee Ad by Etsy seller Ad from Etsy seller (22.3k) Sale Price $7.69 $7.69 $13.99 Original Price $13.99 (45% off)",
-      "url": "https://www.etsy.com/listing/1511442895/funny-halloween-shirt-witch-driving?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALT8d1c82d990747fab35de720b5d4901f1f63e678b&click_sum=e1257ae1&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-19&sr_prefetch=1&pf_from=market&pro=1"
+      "alt": "May include: Moss green Comfort Colors t-shirt with the phrase \"Off to commit mom foolery\" and a cartoon frog riding a scooter. The frog wears a pointed hat. A gold necklace is draped on the shirt.",
+      "image": "https://i.etsystatic.com/55988496/r/il/ce716e/7237945997/il_300x300.7237945997_hu6y.jpg",
+      "page": 2,
+      "page_position": 26,
+      "position": 86,
+      "text": "Mama Frog Comfort Colors Shirt Off to Commit Mom Foolery TShirt Funny Frog Scooter Gift For Mom Funny Mama Shirt Pregnancy Announcement Tee Ad by Etsy seller Ad from Etsy seller (1.9k) Sale Price $20.17 $20.17 $40.34 Original Price $40.34 (50% off)",
+      "url": "https://www.etsy.com/listing/4367653278/mama-frog-comfort-colors-shirt-off-to?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALTcb6c962c8fb259b389f25377be1d326e59361a76&click_sum=bb1238a5&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-10&sr_prefetch=1&pf_from=market&pro=1&sts=1"
     },
     {
-      "alt": "May include: A charcoal gray crew neck t-shirt featuring a centered graphic of a black cat lying on its back within a light gray square. Below the cat, white text reads: due to not wanting to, i will not. thanks. The shirt has short sleeves.",
-      "image": "https://i.etsystatic.com/65724345/r/il/7bdc96/8245690942/il_300x300.8245690942_1wc3.jpg",
-      "position": 52,
-      "text": "Due To Not Wanting To I Will Not Thanks Shirt, Funny Cat Tee, Sarcastic Quote Shirt, Introvert Shirt, Mood Shirt, Cat Lover Gift Ad by Etsy seller Ad from Etsy seller (19) Sale Price $15.19 $15.19 $18.99 Original Price $18.99 (20% off)",
-      "url": "https://www.etsy.com/listing/4537001084/due-to-not-wanting-to-i-will-not-thanks?click_key=Eux-h2gToSzZeCRJ5gzJsXX8G709%3ALT40daa37222a5060f55643aba760fd6124fa95b73&click_sum=7acae227&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699302-1-20&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+      "alt": "Sarcastic Adult Joke Sweatshirt, And Here We Fucking Go Again I Mean Good Morning Sweater, Adult Humor Shirt, Funny Inspirational Crewneck",
+      "image": "https://i.etsystatic.com/23783648/c/1459/1459/206/81/il/e13ee5/5819510094/il_300x300.5819510094_c66d.jpg",
+      "page": 2,
+      "page_position": 27,
+      "position": 87,
+      "text": "Sarcastic Adult Joke Sweatshirt, And Here We Fucking Go Again I Mean Good Morning Sweater, Adult Humor Shirt, Funny Inspirational Crewneck Ad by Etsy seller Ad from Etsy seller (22.3k) Sale Price $7.29 $7.29 $14.58 Original Price $14.58 (50% off)",
+      "url": "https://www.etsy.com/listing/1691183311/sarcastic-adult-joke-sweatshirt-and-here?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT494031a5059f25ac585ce3dab8e694100e141891&click_sum=163750b3&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-11&sr_prefetch=1&pf_from=market&pro=1&sts=1"
     },
     {
-      "alt": "May include: Ivory-colored t-shirt with the words \"Tired Moms Coffee Club\" in red and blue. The design includes a coffee mug, a coffee pot, and floral accents. The phrase \"all day every day\" is also included.",
-      "image": "https://i.etsystatic.com/31500090/c/1886/1886/43/113/il/71ddbb/7896375366/il_300x300.7896375366_ovbi.jpg",
-      "position": 53,
-      "text": "Tired Moms Coffee Club Shirt, Mom Life T-shirt, Coffee Lover Gift, Caffeinated Mama Tee, Iced Coffee Lover (1.6k) Sale Price $15.53 $15.53 $23.90 Original Price $23.90 (35% off)",
-      "url": "https://www.etsy.com/listing/4486104985/tired-moms-coffee-club-shirt-mom-life-t?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTce89de0a4df0638c6c0c2aa3cd005a26f92e1004&click_sum=c8d94d2a&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-33&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTce89de0a4df0638c6c0c2aa3cd005a26f92e1004"
+      "alt": "May include: A light green short-sleeve t-shirt featuring the white text \"there was Jesus\" and black text \"in the waiting\", \"in the hurting\", \"in the searching\", and \"in the healing\" with four black butterfly illustrations printed on the front.",
+      "image": "https://i.etsystatic.com/11771807/c/796/796/109/61/il/02a985/8463012664/il_300x300.8463012664_5g1d.jpg",
+      "page": 2,
+      "page_position": 28,
+      "position": 88,
+      "text": "There Was Jesus Comfort Colors Shirt, Christian Faith Butterfly Graphic Tee Ad by Etsy seller Ad from Etsy seller (29.3k) Sale Price $14.95 $14.95 $19.93 Original Price $19.93 (25% off)",
+      "url": "https://www.etsy.com/listing/4566826995/there-was-jesus-comfort-colors-shirt?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT7da8ca7935126df7f7573f2c971e7e79372a9574&click_sum=c2601e48&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-12&sr_prefetch=1&pf_from=market&pro=1&sts=1"
     },
     {
-      "alt": "May include: A charcoal gray t-shirt featuring a graphic print of Bigfoot, a Mothman, and the Loch Ness Monster sitting in a library reading books. The text above reads Shhh... and the text below reads We're Trying to Read in a vintage font.",
-      "image": "https://i.etsystatic.com/56479756/c/1615/1615/346/255/il/f618b0/8239393540/il_300x300.8239393540_3ok7.jpg",
-      "position": 54,
-      "text": "Shhh We're Trying to Read Cryptid T-Shirt, Bigfoot Mothman Nessie Bookish Tee, Funny Book Lover Gift, Dark Academia Reading Librarian Gift (1.6k) Sale Price $15.90 $15.90 $39.75 Original Price $39.75 (60% off)",
-      "url": "https://www.etsy.com/listing/4536169832/shhh-were-trying-to-read-cryptid-t-shirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT427ae12d8504ef3e3ecfd923805a53a9e8d19795&click_sum=274346ad&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-34&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT427ae12d8504ef3e3ecfd923805a53a9e8d19795"
+      "alt": "May include: A green t-shirt with the word \"FERAL\" printed in large, distressed black letters. The shirt is a heather green color and has a crew neck. The brand name \"Legendary Apparel\" is visible in the top left corner.",
+      "image": "https://i.etsystatic.com/20858268/r/il/8ff950/7335625309/il_300x300.7335625309_ce76.jpg",
+      "page": 2,
+      "page_position": 29,
+      "position": 89,
+      "text": "Feral Shirt Funny Shirt Gift Vintage Graphic Tee Trendy Distressed Feral Tee Sarcastic Quote Tee (6.4k) Sale Price $10.72 $10.72 $19.50 Original Price $19.50 (45% off)",
+      "url": "https://www.etsy.com/listing/4337753849/feral-shirt-funny-shirt-gift-vintage?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT78bfce439dfe5b634263df9e87c25cf0c9cefcd5&click_sum=9268c429&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-17&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT78bfce439dfe5b634263df9e87c25cf0c9cefcd5"
     },
     {
-      "alt": "Comfort Colors Off To Make A Mess Shirt, Artist Goose Tee, Funny Painter Gift, Cute Art Student Tshirt, Painting Lover Gift Art Teacher Gift",
-      "image": "https://i.etsystatic.com/64636955/c/2252/2252/356/160/il/6ca23d/8045277357/il_300x300.8045277357_a4bq.jpg",
-      "position": 55,
-      "text": "Comfort Colors Off To Make A Mess Shirt, Artist Goose Tee, Funny Painter Gift, Cute Art Student Tshirt, Painting Lover Gift Art Teacher Gift (73) Sale Price $10.99 $10.99 $21.98 Original Price $21.98 (50% off)",
-      "url": "https://www.etsy.com/listing/4488371090/comfort-colors-off-to-make-a-mess-shirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTbb5399ba10efa3bb8bc1b6e10cfda621726762ed&click_sum=b25f08bd&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-35&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTbb5399ba10efa3bb8bc1b6e10cfda621726762ed"
+      "alt": "May include: An ivory t-shirt featuring a graphic of a skeleton dancing in a field of orange and white flowers with butterflies. The text reads DRY BONES COME ALIVE and EZEKIEL 37:5. The shirt is displayed with light blue jeans, a tan hat, and a necklace.",
+      "image": "https://i.etsystatic.com/59307143/c/2678/2678/163/201/il/4f4632/8364230368/il_300x300.8364230368_2w1g.jpg",
+      "page": 2,
+      "page_position": 30,
+      "position": 90,
+      "text": "Dry Bones Come Alive Shirt, Ezekiel 37:5 Christian Shirt, Dancing Skeleton Comfort Colors Tee, Bible Verse Fall Halloween Gift for Women (154) Sale Price $14.99 $14.99 $29.98 Original Price $29.98 (50% off)",
+      "url": "https://www.etsy.com/listing/4553285639/dry-bones-come-alive-shirt-ezekiel-375?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTdf7c5a6449a73e2f36d38469fda48fccc6edda57&click_sum=7baac00a&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-18&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTdf7c5a6449a73e2f36d38469fda48fccc6edda57"
     },
     {
-      "alt": "May include: A cream-colored t-shirt with a Comfort Colors brand label at the neckline. The shirt features a teal graphic of a pigeon holding a book, with the text \"reading is coo\" printed in teal below the illustration of the bird.",
-      "image": "https://i.etsystatic.com/41704368/r/il/81e74d/8290409723/il_300x300.8290409723_4bgl.jpg",
-      "position": 56,
-      "text": "English Teacher Pigeon Shirt, Comfort Colors Reading T-shirt, Funny Book Lover Gift (3.7k) Sale Price $21.74 $21.74 $28.99 Original Price $28.99 (25% off)",
-      "url": "https://www.etsy.com/listing/4535149216/english-teacher-pigeon-shirt-comfort?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT263a656769c68889ad57b1f959b34f6c5a76c8de&click_sum=605c46b1&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-36&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT263a656769c68889ad57b1f959b34f6c5a76c8de"
+      "alt": "May include: Cream-colored t-shirt featuring a graphic design with a stack of books, a teacup, and eyeglasses. The design includes the words \"BOOK LOVER\" and botanical elements. The shirt is short-sleeved.",
+      "image": "https://i.etsystatic.com/57381886/c/2702/2702/53/219/il/dad9a2/7897979917/il_300x300.7897979917_90jl.jpg",
+      "page": 2,
+      "page_position": 31,
+      "position": 91,
+      "text": "Comfort Colors Book Lover Shirt - Book Lover Gift T-Shirt - Bookish Tee - Librarian Shirt (3.2k) Sale Price $12.99 $12.99 $25.99 Original Price $25.99 (50% off)",
+      "url": "https://www.etsy.com/listing/4478736929/comfort-colors-book-lover-shirt-book?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT7fbbdc1e18837567051cf97bf0afa1f567afcb75&click_sum=ab056751&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-19&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT7fbbdc1e18837567051cf97bf0afa1f567afcb75"
     },
     {
-      "alt": "May include: Cream-colored t-shirt featuring a whimsical illustration of a frog riding a bicycle, wearing a red and white polka-dotted hat. The text \"Off to cause a kerfuffle\" is printed below the image. The shirt is knotted at the bottom.",
-      "image": "https://i.etsystatic.com/54218318/c/1639/1639/659/180/il/ceeeaf/7064311905/il_300x300.7064311905_kty8.jpg",
-      "position": 57,
-      "text": "Off to Cause a Kerfuffle Frog Tshirt, Sarcastic Shirts, Funny Sayings, Adult Humor Shirt, Frog Meme Shirt, Mental Health Shirt, Funny Shirts (2k) Sale Price $7.75 $7.75 $11.07 Original Price $11.07 (30% off)",
-      "url": "https://www.etsy.com/listing/4334740351/off-to-cause-a-kerfuffle-frog-tshirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTa66bcae33c8f8b140ab0739f864646071ba0df3f&click_sum=d276c3b0&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-37&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTa66bcae33c8f8b140ab0739f864646071ba0df3f"
+      "alt": "May include: A cream-colored short-sleeve t-shirt featuring a black line drawing of a cat wearing a wizard hat and holding a magic wand. The text HOCUS POCUS is printed above the cat, and the text I CANNOT FOCUS is printed below the cat.",
+      "image": "https://i.etsystatic.com/61483876/c/1025/1025/84/87/il/5d40ad/8254137124/il_300x300.8254137124_kfve.jpg",
+      "page": 2,
+      "page_position": 32,
+      "position": 92,
+      "text": "Hocus Pocus I Cannot Focus T-Shirt • Funny Cat Wizard Design • Sarcastic Graphic Shirt • ADHD Humor Gift • Unisex S-XXL (56) Sale Price $21.12 $21.12 $28.17 Original Price $28.17 (25% off)",
+      "url": "https://www.etsy.com/listing/4538151424/hocus-pocus-i-cannot-focus-t-shirt-funny?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT84262b90c64893ba291d7d160997f70488bf1e61&click_sum=7f65c636&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-20&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT84262b90c64893ba291d7d160997f70488bf1e61"
     },
     {
-      "alt": "Comfort Colors® I&#39;m With The Banned Shirt, Banned Books T-Shirt, Librarian Shirt, Bookworm Shirt, Read Banned Books, Gift for Book Lover",
-      "image": "https://i.etsystatic.com/24297700/c/2590/2590/206/0/il/2b1308/7495978649/il_300x300.7495978649_tlt3.jpg",
-      "position": 58,
-      "text": "Comfort Colors® I'm With The Banned Shirt, Banned Books T-Shirt, Librarian Shirt, Bookworm Shirt, Read Banned Books, Gift for Book Lover (10.7k) Sale Price $9.63 $9.63 $19.27 Original Price $19.27 (50% off)",
-      "url": "https://www.etsy.com/listing/1871825754/comfort-colors-im-with-the-banned-shirt?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTf87e9d654613167a9adc245d1517870a0f376ec1&click_sum=a5a348ec&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-38&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTf87e9d654613167a9adc245d1517870a0f376ec1"
+      "alt": "May include: A charcoal gray short-sleeve t-shirt with the white text 'my cardio is doing puzzles' printed on the front. The shirt features a Comfort Colors brand label at the inner neckline, indicating size S-P-CH and 100% cotton material.",
+      "image": "https://i.etsystatic.com/60861813/r/il/48f509/8747215051/il_300x300.8747215051_kn1g.jpg",
+      "page": 2,
+      "page_position": 33,
+      "position": 93,
+      "text": "Comfort Colors My Cardio Is Doing Puzzles Shirt - Custom Text Tee - Funny Puzzle Lover Shirt - Jigsaw Puzzle Tee - Puzzle Gift For Her (62) Sale Price $12.85 $12.85 $23.36 Original Price $23.36 (45% off)",
+      "url": "https://www.etsy.com/listing/4598024233/comfort-colors-my-cardio-is-doing?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTc1f31c4e3cf94ebb5a620274621e1e7b0506458b&click_sum=19444b3a&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-21&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTc1f31c4e3cf94ebb5a620274621e1e7b0506458b"
     },
     {
-      "alt": "May include: A coral-colored t-shirt with a graphic of three white cartoon geese, one tripping. Text reads \"WALKING BY FAITH tripping constantly.\" A gold necklace and a brown hat are also visible.",
-      "image": "https://i.etsystatic.com/57909639/r/il/a923fa/7347346523/il_300x300.7347346523_6j23.jpg",
-      "position": 59,
-      "text": "Comfort Colors® Walking by Faith Tripping Constantly, Inspirational Shirt, Christian Shirt, Minimal Christian Shirt for Women, Religious Tee (832) Sale Price $9.34 $9.34 $26.70 Original Price $26.70 (65% off)",
-      "url": "https://www.etsy.com/listing/4389101655/comfort-colors-walking-by-faith-tripping?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALTc885383f7dbcef927ef69791d24e3ea4ac1b387f&click_sum=0a012d4f&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-39&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALTc885383f7dbcef927ef69791d24e3ea4ac1b387f"
+      "alt": "Comfort Colors® Is He Dead Yet Shirt, Raven Crow Coffee Shirt, Black Crow Anti Trump Protest Shirt, Funny Crow Coffee Shirt, Botanical Crow",
+      "image": "https://i.etsystatic.com/56857834/r/il/799a59/8328306334/il_300x300.8328306334_i2b5.jpg",
+      "page": 2,
+      "page_position": 34,
+      "position": 94,
+      "text": "Comfort Colors® Is He Dead Yet Shirt, Raven Crow Coffee Shirt, Black Crow Anti Trump Protest Shirt, Funny Crow Coffee Shirt, Botanical Crow (788) Sale Price $22.84 $22.84 $38.07 Original Price $38.07 (40% off)",
+      "url": "https://www.etsy.com/listing/4518627480/comfort-colors-is-he-dead-yet-shirt?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT00f8ae58a42d54608abc6ef8f6f4d40a368b79ae&click_sum=890bb2b6&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-22&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT00f8ae58a42d54608abc6ef8f6f4d40a368b79ae"
     },
     {
-      "alt": "May include: A cream-colored short-sleeve t-shirt featuring a central graphic with the text \"I find your lack of whimsy disturbing.\" The design includes a black raven, a moth, a snail, a beetle, a mushroom, and floral vines in dark tones.",
-      "image": "https://i.etsystatic.com/62194007/c/1231/1231/175/73/il/10507b/8417919581/il_300x300.8417919581_mefk.jpg",
-      "position": 60,
-      "text": "Lack of Whimsy Crow Fall Shirt, Witchy Apparel, Autumn Shirt, Fall T-shirt, Halloween Shirt, Comfort Colors®, Mystical Shirt, Celestial Moth (85) Sale Price $11.80 $11.80 $23.60 Original Price $23.60 (50% off)",
-      "url": "https://www.etsy.com/listing/4554158839/lack-of-whimsy-crow-fall-shirt-witchy?click_key=21f8cf90-bc97-492e-a199-c67bd2004de7%3ALT1b73f7f94af230ab2d3cd982220946ba9769d602&click_sum=05c828ba&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-699303-1-40&sr_prefetch=1&pf_from=market&pro=1&content_source=21f8cf90-bc97-492e-a199-c67bd2004de7%253ALT1b73f7f94af230ab2d3cd982220946ba9769d602"
+      "alt": "May include: Ivory-colored t-shirt with a graphic design featuring a whale, waves, and the text \"GET IN - LOSER, WE'RE DOING GOD'S WILL, Jonah 1:17\" in red and blue. The shirt has a vintage, distressed look.",
+      "image": "https://i.etsystatic.com/65563982/c/900/900/113/170/il/675b37/7994707864/il_300x300.7994707864_ksvk.jpg",
+      "page": 2,
+      "page_position": 35,
+      "position": 95,
+      "text": "Get In Loser Comfort Colors® Shirt: We’re Doing God’s Will T-Shirt (137) Sale Price $12.37 $12.37 $24.75 Original Price $24.75 (50% off)",
+      "url": "https://www.etsy.com/listing/4501103456/get-in-loser-comfort-colors-shirt-were?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT82855f2c0bdd61dc721003a93e7e9fbe05a1772f&click_sum=6f0abaed&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-23&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT82855f2c0bdd61dc721003a93e7e9fbe05a1772f"
+    },
+    {
+      "alt": "May include: A white t-shirt featuring a black line art illustration of a scarecrow wearing a yellow hat, a pumpkin, a dog, and a bare tree with falling leaves. A tag attached to the shirt reads COMFORT COLORS Short & Long Sleeve.",
+      "image": "https://i.etsystatic.com/45532686/c/1760/1760/215/310/il/2b6e50/8219846940/il_300x300.8219846940_3ni6.jpg",
+      "page": 2,
+      "page_position": 36,
+      "position": 96,
+      "text": "Minimalist Halloween Scarecrow Dog Tree Pumpkin Shirt, Comfort Colors, Cottagecore Fall Outfit, Pumpkin Patch Tee Vintage Autumn Long Sleeve (886) Sale Price $21.60 $21.60 $27.00 Original Price $27.00 (20% off)",
+      "url": "https://www.etsy.com/listing/4533485200/minimalist-halloween-scarecrow-dog-tree?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT1f4dd2866da33e3f0ca8bcbe23a92289317b08f5&click_sum=4c4a40a8&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-24&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT1f4dd2866da33e3f0ca8bcbe23a92289317b08f5"
+    },
+    {
+      "alt": "May include: A heather gray crewneck sweatshirt featuring a graphic of Santa Claus, a bear, a reindeer, a snowman, and a gingerbread person facing away. The text reads WE WISH YOU NOTHING BUTT A MERRY CHRISTMAS in red, green, and black lettering.",
+      "image": "https://i.etsystatic.com/65585722/c/1904/1904/86/0/il/763d08/8553977515/il_300x300.8553977515_g357.jpg",
+      "page": 2,
+      "page_position": 37,
+      "position": 97,
+      "text": "Funny Christmas Sweatshirt, Christmas Santa Shirt, Merry Christmas Sweater, Holiday Season Crewneck, Gingerbread T-shirt, Christmas Gift Ad by Etsy seller Ad from Etsy seller (88) Sale Price $7.49 $7.49 $14.99 Original Price $14.99 (50% off)",
+      "url": "https://www.etsy.com/listing/4572937083/funny-christmas-sweatshirt-christmas?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT88b32faf25323241f393f6d805f9d2f48d98c993&click_sum=e86b5e7b&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-13&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+    },
+    {
+      "alt": "May include: A charcoal gray t-shirt featuring a white skeleton graphic. The skeleton is missing an arm, which is shown floating separately while holding a single red balloon. The text \"Well, shit...\" is printed in white below the skeleton.",
+      "image": "https://i.etsystatic.com/62584732/r/il/ee0f4a/8382912057/il_300x300.8382912057_9vk3.jpg",
+      "page": 2,
+      "page_position": 38,
+      "position": 98,
+      "text": "Comfort Colors Skeleton Lost Balloon, Well Shit Funny Skeleton Tee, Dark Humor Halloween T-Shirt Ad by Etsy seller Ad from Etsy seller (388) $19.10",
+      "url": "https://www.etsy.com/listing/4549279421/comfort-colors-skeleton-lost-balloon?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT27a7b2715383054fb13cdf845aab131bd1af11a0&click_sum=ea622406&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-14&sr_prefetch=1&pf_from=market&sts=1"
+    },
+    {
+      "alt": "May include: A beige crewneck sweatshirt featuring a graphic print of Snoopy and Woodstock sitting on top of a red doghouse surrounded by stacks of open and closed books, with a small red mug and a black desk lamp placed near the base of the house.",
+      "image": "https://i.etsystatic.com/64948429/r/il/70ec90/8389712877/il_300x300.8389712877_feij.jpg",
+      "page": 2,
+      "page_position": 39,
+      "position": 99,
+      "text": "Book Lover Shirt, Reading Dog Shirt, Library Tee, Bookworm Shirt, Reader Gift, Cozy Reading Shirt, Teacher Shirt Ad by Etsy seller Ad from Etsy seller (427) Sale Price $10.14 $10.14 $16.90 Original Price $16.90 (40% off)",
+      "url": "https://www.etsy.com/listing/4510658257/book-lover-shirt-reading-dog-shirt?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT1e78e412425bedcec128c5d36f642f932afacdc4&click_sum=7b85ae03&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-15&sr_prefetch=1&pf_from=market&pro=1"
+    },
+    {
+      "alt": "Party Deer Heavy Metal Sense Of Humor Best Seller Funny Meme Top Gift Tee T Shirt T1522",
+      "image": "https://i.etsystatic.com/35700421/r/il/011bf0/8357929369/il_300x300.8357929369_dt0n.jpg",
+      "page": 2,
+      "page_position": 40,
+      "position": 100,
+      "text": "Party Deer Heavy Metal Sense Of Humor Best Seller Funny Meme Top Gift Tee T Shirt T1522 Ad by Etsy seller Ad from Etsy seller (1.3k) Sale Price $8.09 $8.09 $16.19 Original Price $16.19 (50% off)",
+      "url": "https://www.etsy.com/listing/1896032215/party-deer-heavy-metal-sense-of-humor?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT4e7075336583bdcd5775666e6262f0f909410ba5&click_sum=ea7df14c&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-16&sr_prefetch=1&pf_from=market&pro=1"
+    },
+    {
+      "alt": "May include: An ivory-colored crew neck t-shirt featuring a graphic of a black cat lying on its back. The cat has its front paws raised to form a heart shape, with a small red heart icon positioned directly above its paws. The shirt has a Comfort Colors label.",
+      "image": "https://i.etsystatic.com/65030945/r/il/222217/8518895302/il_600x600.8518895302_tptf.jpg",
+      "page": 2,
+      "page_position": 41,
+      "position": 101,
+      "text": "Comfort Colors® Cute Black Cat Heart Paws Shirt, I Love Cats T-Shirt, Funny Kitten Lover Shirt, Retro Black Cat Mom Tee, Trendy Animal Tee (408) Sale Price $9.35 $9.35 $17.00 Original Price $17.00 (45% off)",
+      "url": "https://www.etsy.com/listing/4574688344/comfort-colors-cute-black-cat-heart-paws?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTdf9098345a7e315b5c933ba439327e38b62776a9&click_sum=c0039762&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-25&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTdf9098345a7e315b5c933ba439327e38b62776a9"
+    },
+    {
+      "alt": "May include: A charcoal gray crew neck t-shirt featuring a graphic of a small bird holding black binoculars. The text \"this is my birding shirt\" is printed in white above the bird. The shirt has a Comfort Colors brand label at the inner neckline.",
+      "image": "https://i.etsystatic.com/65826913/c/2000/2000/0/0/il/adef51/8125421326/il_300x300.8125421326_cdxg.jpg",
+      "page": 2,
+      "page_position": 42,
+      "position": 102,
+      "text": "This Is My Birding Shirt, Funny Bird Watcher Tee, Binocular Bird Top, Ornithology Lover Gift, Nature Hobby Apparel, Cute Bird Lover Shirt (88) Sale Price $9.99 $9.99 $19.98 Original Price $19.98 (50% off)",
+      "url": "https://www.etsy.com/listing/4520338918/this-is-my-birding-shirt-funny-bird?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTd98b825ee98758405fdc4e8b63a6829ebd0fb773&click_sum=d7a208f1&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-26&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTd98b825ee98758405fdc4e8b63a6829ebd0fb773"
+    },
+    {
+      "alt": "May include: A blue crew neck t-shirt featuring a graphic of a brown tabby cat holding an iced coffee. Below the cat, the text reads: due to not wanting to, i will not. thanks. The shirt has a Comfort Colors brand label at the inner neckline.",
+      "image": "https://i.etsystatic.com/28590603/r/il/2bf383/8440031853/il_300x300.8440031853_h4tp.jpg",
+      "page": 2,
+      "page_position": 43,
+      "position": 103,
+      "text": "Comfort Colors® Due To Not Wanting To I Will Not Thanks Shirt, Funny Cat Graphic Tee, Sarcastic Quote Shirt, Funny Cat Lover Gift (23.7k) Sale Price $7.85 $7.85 $14.27 Original Price $14.27 (45% off)",
+      "url": "https://www.etsy.com/listing/4557164075/comfort-colors-due-to-not-wanting-to-i?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTcf099ed406baff7f08759a7643e87fc177bed61f&click_sum=f965bc82&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-27&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTcf099ed406baff7f08759a7643e87fc177bed61f"
+    },
+    {
+      "alt": "May include: An ivory t-shirt featuring a colorful graphic print of various insects, flowers, and leaves surrounding the black text: THE WORLD IS CRUEL, THEREFORE I WON'T BE. The shirt has a crew neckline and a Comfort Colors brand label at the collar.",
+      "image": "https://i.etsystatic.com/66800860/r/il/a8a6ec/8472016712/il_300x300.8472016712_9uer.jpg",
+      "page": 2,
+      "page_position": 44,
+      "position": 104,
+      "text": "The World Is Cruel Therefore I Wont Be Comfort Colors® T-Shirt, Kindness Bug Sweatshirt (33) Sale Price $15.75 $15.75 $21.00 Original Price $21.00 (25% off)",
+      "url": "https://www.etsy.com/listing/4568125092/the-world-is-cruel-therefore-i-wont-be?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT162e5b5cb50bd763d0a8ea6d074853fbf7293867&click_sum=4ceb128a&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-28&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT162e5b5cb50bd763d0a8ea6d074853fbf7293867"
+    },
+    {
+      "alt": "Kindness Shirt: Cartoon Elephant and Piggie Tee",
+      "image": "https://i.etsystatic.com/34398466/c/1552/1552/241/316/il/8dbf3d/7887258411/il_300x300.7887258411_k1dx.jpg",
+      "page": 2,
+      "page_position": 45,
+      "position": 105,
+      "text": "Kindness Shirt: Cartoon Elephant and Piggie Tee (1.5k) Sale Price $8.99 $8.99 $17.99 Original Price $17.99 (50% off)",
+      "url": "https://www.etsy.com/listing/4384720858/be-kind-shirt-in-a-world-where-you-can?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT97d3d02ec48a3150229fe3c45e20d3ca19182e9e&click_sum=464dffa4&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-29&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT97d3d02ec48a3150229fe3c45e20d3ca19182e9e"
+    },
+    {
+      "alt": "May include: A charcoal gray t-shirt featuring a graphic of a frog wearing a wizard hat and robe, riding a snail while holding a star-tipped wand. The text above the frog reads, Off to cause a kerfuffle. The shirt has a crew neck and short sleeves.",
+      "image": "https://i.etsystatic.com/65106313/r/il/5ed948/8350964507/il_300x300.8350964507_jkmc.jpg",
+      "page": 2,
+      "page_position": 46,
+      "position": 106,
+      "text": "Whimsical Frog Snail Comfort Colors Shirt, Magical Wizard Frog Riding Snail Top, Fantasy Kerfuffle Gift (684) Sale Price $11.99 $11.99 $23.98 Original Price $23.98 (50% off)",
+      "url": "https://www.etsy.com/listing/4544779009/whimsical-frog-snail-comfort-colors?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT237bcbfc6d34ff8e6fcf595952af10faf570aeb4&click_sum=10e6c2d9&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-30&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT237bcbfc6d34ff8e6fcf595952af10faf570aeb4"
+    },
+    {
+      "alt": "May include: An ivory t-shirt featuring a graphic of six otters in various Halloween costumes, including a ghost, vampire, pumpkin, mummy, skeleton, and monster. The text below the otters reads, \"JUST A SPOOKY OTTER\" in black capital letters.",
+      "image": "https://i.etsystatic.com/63611410/r/il/ffefde/8232298554/il_300x300.8232298554_h5wl.jpg",
+      "page": 2,
+      "page_position": 47,
+      "position": 107,
+      "text": "Spooky Otter Halloween T-Shirt, Funny Animal Autumn Tee, Cute Costume Fall Shirt for Women, Men & Kids (111) Sale Price $7.99 $7.99 $15.98 Original Price $15.98 (50% off)",
+      "url": "https://www.etsy.com/listing/4535258878/spooky-otter-halloween-t-shirt-funny?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT8402a720299437ef73d72f01e931d1e22df4aedf&click_sum=60e79ff3&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-31&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT8402a720299437ef73d72f01e931d1e22df4aedf"
+    },
+    {
+      "alt": "May include: A heather mauve t-shirt with the text \"Let the journey begin. I'm off the clock. Officially Retired. Every day is a weekend.\" printed in white.",
+      "image": "https://i.etsystatic.com/50510931/c/2217/2217/330/37/il/ba3f86/6734066886/il_300x300.6734066886_hzof.jpg",
+      "page": 2,
+      "page_position": 48,
+      "position": 108,
+      "text": "Retirement Shirt, Officially Retired Shirt, Womens Retirement, Teacher Retirement, Coworker Gift, Retirement Party Tee,Let The Journey Begin (3.7k) Sale Price $7.09 $7.09 $12.89 Original Price $12.89 (45% off)",
+      "url": "https://www.etsy.com/listing/1877462244/retirement-shirt-officially-retired?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT873bc3761f08b1a8424a7cddaa63b8c1bf24bfc4&click_sum=6b0ab659&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-32&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT873bc3761f08b1a8424a7cddaa63b8c1bf24bfc4"
+    },
+    {
+      "alt": "May include: An espresso-colored short-sleeve t-shirt featuring a graphic print of four anthropomorphic books with smiling faces, pumpkins, a mug of hot cocoa, and falling autumn leaves. The shirt has a crew neckline and a Comfort Colors brand label.",
+      "image": "https://i.etsystatic.com/44641615/c/1851/1851/278/102/il/a0fb30/8443511107/il_300x300.8443511107_ho4t.jpg",
+      "page": 2,
+      "page_position": 49,
+      "position": 109,
+      "text": "Cozy Book Lover T-Shirt: Autumn Reading, Coffee Shirt, Reader Outfit, Fall Teacher Shirt, Back to School, Pumpkin Tee Ad by Etsy seller Ad from Etsy seller (138) Sale Price $10.46 $10.46 $20.92 Original Price $20.92 (50% off)",
+      "url": "https://www.etsy.com/listing/4557667958/cozy-book-lover-t-shirt-autumn-reading?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT2c2b6315221443bd5252f7e91c42333fae449051&click_sum=c64db8f4&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-17&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+    },
+    {
+      "alt": "Comfort Colors Moon Child Shirt, Celestial Boho Graphic Tee, Vintage Psychedelic Moon T Shirt, 70s Retro Hippie Tee, Mystical Shirt",
+      "image": "https://i.etsystatic.com/52108997/r/il/81cdc9/8565685805/il_300x300.8565685805_qeja.jpg",
+      "page": 2,
+      "page_position": 50,
+      "position": 110,
+      "text": "Comfort Colors Moon Child Shirt, Celestial Boho Graphic Tee, Vintage Psychedelic Moon T Shirt, 70s Retro Hippie Tee, Mystical Shirt Ad by Etsy seller Ad from Etsy seller (97) Sale Price $23.36 $23.36 $29.20 Original Price $29.20 (20% off)",
+      "url": "https://www.etsy.com/listing/4555391662/comfort-colors-moon-child-shirt?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT33d1c35bb3935869c177dc1ffbb0af88d74f45fb&click_sum=d189b2b3&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-18&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+    },
+    {
+      "alt": "May include: Dark gray t-shirt with a skeleton graphic wearing sunglasses and holding a drink. The text on the shirt reads, \"I asked myself if I'm okay, and we both started laughing.\"",
+      "image": "https://i.etsystatic.com/49505750/c/1818/1818/114/94/il/657afb/7735106375/il_300x300.7735106375_b5sz.jpg",
+      "page": 2,
+      "page_position": 51,
+      "position": 111,
+      "text": "I Asked Myself If I'm Okay Skeleton Comfort Colors® T-Shirt, Snarky Sarcastic Funny Mental Health Shirt, Vintage Distressed Graphic Tee Ad by Etsy seller Ad from Etsy seller (7.2k) Sale Price $13.99 $13.99 $27.98 Original Price $27.98 (50% off)",
+      "url": "https://www.etsy.com/listing/4454224241/i-asked-myself-if-im-okay-skeleton?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT35409348655ca5968d0e1aade9be8d5ecf2a048a&click_sum=47742197&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-19&sr_prefetch=1&pf_from=market&pro=1&sts=1"
+    },
+    {
+      "alt": "May include: A charcoal gray short-sleeve t-shirt featuring a graphic of a person in a cowboy hat riding a tiger while holding a lasso. The text I WILL SUCCEED BECAUSE I AM INSANE is printed in white arched lettering above and below the illustration.",
+      "image": "https://i.etsystatic.com/28590603/r/il/05df3e/8666267003/il_300x300.8666267003_ely1.jpg",
+      "page": 2,
+      "page_position": 52,
+      "position": 112,
+      "text": "I Will Succeed Because I Am Insane Shirt, Sarcastic Quote Shirt, Cowgirl Tiger T-shirt, Unhinged Meme Tee, Weird Western Graphic Ad by Etsy seller Ad from Etsy seller (23.7k) Sale Price $18.85 $18.85 $34.27 Original Price $34.27 (45% off)",
+      "url": "https://www.etsy.com/listing/4587704479/i-will-succeed-because-i-am-insane-shirt?click_key=EuEANtNkyWFB9mtkJ6qpxeL6hi2a%3ALT8f18260828f8c2019a4939a42a753a7b65533686&click_sum=a072a5de&ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419140-2-20&sr_prefetch=1&pf_from=market&pro=1"
+    },
+    {
+      "alt": "May include: A charcoal gray crew neck t-shirt featuring the off-white text I'M ACTUALLY QUITE TALL FOR A HOBBIT centered on the chest. The lettering is flanked by two thin horizontal lines with a small circular detail in the center of each line.",
+      "image": "https://i.etsystatic.com/63834985/r/il/8aa206/8114597018/il_300x300.8114597018_qcep.jpg",
+      "page": 2,
+      "page_position": 53,
+      "position": 113,
+      "text": "I'm Actually Quite Tall For A Hobbit Shirt, Funny Fantasy Lover Tee, Hobbit Inspired Gift, Geek Humor T-Shirt (17) Sale Price $14.39 $14.39 $23.98 Original Price $23.98 (40% off)",
+      "url": "https://www.etsy.com/listing/4518815987/im-actually-quite-tall-for-a-hobbit?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT5ea1fc2258fad0ada40f50e39cc8115a75933687&click_sum=613acbbb&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-33&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT5ea1fc2258fad0ada40f50e39cc8115a75933687"
+    },
+    {
+      "alt": "May include: A charcoal gray t-shirt featuring a graphic of a raccoon wearing a baseball cap, sunglasses, and a stethoscope around its neck while holding an iced coffee. The text below the graphic reads, literally just a nurse practitioner.",
+      "image": "https://i.etsystatic.com/16554837/r/il/394907/8488388135/il_300x300.8488388135_1dtf.jpg",
+      "page": 2,
+      "page_position": 54,
+      "position": 114,
+      "text": "Comfort Colors Nurse Practitioner Raccoon Shirt, New NP Tee, Registered Nurse Appreciation T-Shirt, NP Thank You Gift, Nurse life, Student (11.1k) Sale Price $14.62 $14.62 $18.28 Original Price $18.28 (20% off)",
+      "url": "https://www.etsy.com/listing/4563811983/comfort-colors-nurse-practitioner?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT19459510a89533cc5c9ad75794875df591522c6c&click_sum=c52a587f&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-34&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT19459510a89533cc5c9ad75794875df591522c6c"
+    },
+    {
+      "alt": "May include: A moss green crewneck t-shirt featuring a graphic of five dogs in Halloween costumes, including a ghost, mummy, pumpkin, skeleton, and Frankenstein. The text Pit Boo is printed below the dogs. The shirt has a Comfort Colors label.",
+      "image": "https://i.etsystatic.com/65607674/r/il/fb2fd1/8564740761/il_300x300.8564740761_sc8g.jpg",
+      "page": 2,
+      "page_position": 55,
+      "position": 115,
+      "text": "Pit Bull Halloween Shirt, Pitbull Halloween T-Shirt, Pit Boo Shirt, Halloween Dog Shirt, Pit Bull Mom Gift, Comfort Colors (22) Sale Price $13.44 $13.44 $28.00 Original Price $28.00 (52% off)",
+      "url": "https://www.etsy.com/listing/4571574587/pit-bull-halloween-shirt-pitbull?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTf986e659c2190347d653c4429c59195862a54103&click_sum=190dd56b&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-35&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTf986e659c2190347d653c4429c59195862a54103"
+    },
+    {
+      "alt": "May include: A pale yellow t-shirt featuring a graphic of a black cat wearing pink glasses resting on a stack of colorful books. The text reads: PUBLIC LIBRARIES ARE THE ONLY DATA CENTERS I SUPPORT. The shirt is layered over blue denim fabric.",
+      "image": "https://i.etsystatic.com/54841834/r/il/8d9962/8394339666/il_300x300.8394339666_2pe9.jpg",
+      "page": 2,
+      "page_position": 56,
+      "position": 116,
+      "text": "Public libraries are the only Data Centers I support: Anti AI shirt, Reject AI slop, Support Human Artists, Book Lover shirt gift, Cat Tee (3.6k) Sale Price $10.49 $10.49 $20.99 Original Price $20.99 (50% off)",
+      "url": "https://www.etsy.com/listing/4557464883/public-libraries-are-the-only-data?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTd55e48b237c8980307313e0d54fa3c3790fbf013&click_sum=7b62460e&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-36&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTd55e48b237c8980307313e0d54fa3c3790fbf013"
+    },
+    {
+      "alt": "May include: A charcoal gray crew neck t-shirt featuring a graphic of a raccoon wearing a white ghost costume, black sunglasses, and holding a plastic cup with an orange straw. An orange jack-o'-lantern sits on the ground next to the raccoon.",
+      "image": "https://i.etsystatic.com/63617955/r/il/7cfc5c/8588887633/il_300x300.8588887633_f3ty.jpg",
+      "page": 2,
+      "page_position": 57,
+      "position": 117,
+      "text": "Ghost Raccoon Coffee Shirt, Funny Halloween Iced Coffee T-Shirt, Spooky Season Graphic Tee, Halloween Coffee Lover Gift (83) Sale Price $15.94 $15.94 $28.99 Original Price $28.99 (45% off)",
+      "url": "https://www.etsy.com/listing/4577665372/ghost-raccoon-coffee-shirt-funny?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALTba2c3fbf0ffcb064d3efdb2626344b4def59719f&click_sum=2b5a93b1&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-37&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALTba2c3fbf0ffcb064d3efdb2626344b4def59719f"
+    },
+    {
+      "alt": "May include: An ivory short-sleeve t-shirt featuring a black graphic print of a person in armor holding a sword and a book, surrounded by roses. Below the illustration, the text reads \"Defend the Public Library\" in a bold, black serif font.",
+      "image": "https://i.etsystatic.com/58478795/r/il/4bd8cf/8425253601/il_300x300.8425253601_unye.jpg",
+      "page": 2,
+      "page_position": 58,
+      "position": 118,
+      "text": "Defend Public Library shirt, vintage funny Knight meme shirt, Bookish medieval Comfort colors Tshirt (182) Sale Price $12.42 $12.42 $22.59 Original Price $22.59 (45% off)",
+      "url": "https://www.etsy.com/listing/4555187308/defend-public-library-shirt-vintage?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT895d56db73d2bc3b4e71411abf1114991162b25b&click_sum=09e3aac7&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-38&sr_prefetch=1&pf_from=market&pro=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT895d56db73d2bc3b4e71411abf1114991162b25b"
+    },
+    {
+      "alt": "Is He Dead Yet Shirt, Comfort Colors® Raven Crow Coffee Shirt, Halloween Black Crow Anti Trump Protest Shirt, Political T-shirt",
+      "image": "https://i.etsystatic.com/59258606/c/2427/2427/0/41/il/a85d6f/8080340290/il_300x300.8080340290_bbya.jpg",
+      "page": 2,
+      "page_position": 59,
+      "position": 119,
+      "text": "Is He Dead Yet Shirt, Comfort Colors® Raven Crow Coffee Shirt, Halloween Black Crow Anti Trump Protest Shirt, Political T-shirt (1.9k) Sale Price $11.70 $11.70 $25.99 Original Price $25.99 (55% off)",
+      "url": "https://www.etsy.com/listing/4363139916/is-he-dead-yet-shirt-comfort-colors?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT546eb20505713639aed175a0bf29e55576f98eac&click_sum=7741af8f&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-39&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT546eb20505713639aed175a0bf29e55576f98eac"
+    },
+    {
+      "alt": "May include: A light green t-shirt featuring a graphic of five pigeons in various shades of gray and white. The shirt has a crew neckline and a Comfort Colors brand label on the inside collar. A thin silver chain necklace rests on the fabric.",
+      "image": "https://i.etsystatic.com/52406129/r/il/4a539b/8562267204/il_300x300.8562267204_pmye.jpg",
+      "page": 2,
+      "page_position": 60,
+      "position": 120,
+      "text": "Pigeon Shirt, Colorful City Bird T-Shirt, Bird Lover Gift, Flock of Pigeons Tee, Urban Wildlife Birder Sweatshirt (805) Sale Price $14.29 $14.29 $21.99 Original Price $21.99 (35% off)",
+      "url": "https://www.etsy.com/listing/4577274270/beautiful-pigeon?click_key=3943e5da-35d5-48e9-b755-5942bbfdb0a7%3ALT0d3da0873f0c06d88edd7846e8ec828da4e25e6a&click_sum=abed5b6d&ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=bestselling+tshirts&ref=search_grid-419141-2-40&sr_prefetch=1&pf_from=market&pro=1&sts=1&content_source=3943e5da-35d5-48e9-b755-5942bbfdb0a7%253ALT0d3da0873f0c06d88edd7846e8ec828da4e25e6a"
     }
   ]
 }
