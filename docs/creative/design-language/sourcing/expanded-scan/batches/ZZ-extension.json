@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DLS-ZZ-041",
+    "position": 40,
+    "route": "https://www.zazzle.com/c/mens+tshirts",
+    "image_sha256": "487414bff7ca1bbe56066aa9c34f080af9ad14de33fedf8123d735b101976f0f"
+  },
+  {
+    "id": "DLS-ZZ-042",
+    "position": 41,
+    "route": "https://www.zazzle.com/c/mens+tshirts",
+    "image_sha256": "f61fc9107c5ea02274ceae5878b051c8e363dd85a485546ce291f07c1b4d8b29"
+  },
+  {
+    "id": "DLS-ZZ-043",
+    "position": 27,
+    "route": "https://www.zazzle.com/c/womens%2Btshirts",
+    "image_sha256": "251bbc43f34c4105be089ca8ac2ccd68d18d50d7fea3cb94315e6f187f8237e8"
+  },
+  {
+    "id": "DLS-ZZ-044",
+    "position": 28,
+    "route": "https://www.zazzle.com/c/womens%2Btshirts",
+    "image_sha256": "fb1d63fe496cb9f172c4e9565174f86202f5eedc3b965d071e6efd847ad5f352"
+  }
+]
