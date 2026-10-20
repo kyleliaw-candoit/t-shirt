@@ -1,0 +1,21 @@
+{
+  "url": "https://www.thebeeandthefox.com/collections/best-sellers",
+  "retrieved_at_utc": "2026-10-20",
+  "method": "Public collection HTML, default order; unique collection-specific product hrefs; excludes navigation and other collections. Positions are not sales ranks.",
+  "html_sha256": "d66050b4a70149dfe3f582fabbc0a82033067c29e13a70695530ac0b4e28b962",
+  "product_urls_in_observed_order": [
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/mama-bird-shirt",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/tough-as-a-mother-sweatshirt",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/tough-as-a-mother",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/it-took-me-40-years-to-look-this-good-unisex",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/do-no-harm-but-take-no-shit-shirt",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/heres-to-strong-women",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/feel-your-feelings",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/peace-sign-t-shirt",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/feel-your-feelings-fitted-ringer",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/soul-shine-fitted-ringer",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/the-future-is-inclusive-shirt",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/do-no-harm-take-no-shit-sock",
+    "https://www.thebeeandthefox.com/collections/best-sellers/products/do-no-harm-but-take-no-shit-unisex-sweatshirt"
+  ]
+}

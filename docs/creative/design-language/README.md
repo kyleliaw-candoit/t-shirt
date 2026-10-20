@@ -27,6 +27,12 @@ For each candidate family, maintain a visual recipe card containing:
 
 Preserve source provenance and the exact commercial signal (for example, seller-controlled best-seller collection placement). Such placement does not establish unit sales, persistence or a causal effect of the visual style. Separate observed source patterns from analyst hypotheses and new application choices. Learn relationships rather than copying distinctive source art or caption/layout combinations.
 
+## Audience fit and two-stage selection
+
+[Agreed decision](sourcing/Audience-Fit-and-Two-Stage-Selection.md): admit useful sources to discovery, then judge fit for each specific audience/material/concept application. Recipe cards retain source context, proposed audience fit, mismatch conditions and application evidence. Identity recognition and aesthetic desirability are distinct. A source’s popularity does not establish universal transfer.
+
+[Completed 28-design discovery batch](sourcing/discovery-28/README.md): four each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. Images, garment observations, source evidence and limitations are preserved. These are discovery sources, not validated recipes.
+
 ## Application and calibration
 
 Select recipes according to the semantic work required by the material and concept, following the Playbook. Apply them to original content and inspect the actual shirt, including cut, fabric appearance, color, print scale and placement. Check whether a first-time viewer can understand the situation and identity connection without the research explanation.
@@ -44,8 +50,13 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 [CAR: WRONG review and judgment calibration](reviews/2026-10-19-CAR-WRONG.md) contains source identifiers, original assessments and feedback. Both candidates remain provisional and limited to one seller. Neither is a fixed template or a proven purchase formula.
 
-**Publication status:** this update establishes the bank's format and preserves the decisions. The visual pilot was generated and reviewed in this session, but its full image package remains in local commit `61df149` on `docs/design-language-pilot`; the earlier shell push failed authentication. This is not yet a complete published image-native bank. Publish the exact reviewed assets later without regeneration and link them here. Do not treat this text summary as a replacement for the images.
+**Publication status:** [Pilot 01 visual package](pilot-01/README.md) now contains the reviewed source captures, neutral diagrams, original artwork and garment previews, prompts and frozen assessments. [Revision comparison](pilot-01/revision-review.html) adds the combined-setup treatment of DLR-002 without replacing either original design. Recipes remain provisional. See the [source-route research](sourcing/2026-10-19-Source-Strategy.md) before selecting the broader discovery batch.
 
 ## Deferred work
 
-Publish the reviewed visual package; correct DLR-002's setup hierarchy; then review the revision before expanding methodology. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+Compare the completed discovery images and develop provisional visual family cards, then test suitable families on original concepts. DLR-002 v2 remains available for review. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+
+
+### Front-only launch constraint — October 19 clarification
+
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/discovery-28/README.md).

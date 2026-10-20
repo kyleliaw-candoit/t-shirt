@@ -1,0 +1,11 @@
+{
+  "date_local": "2026-10-19",
+  "timezone": "America/Chicago",
+  "method": "built-in image_gen edit",
+  "input": "assets/DLR-002-shirt.png",
+  "output": "assets/DLR-002-shirt-v2.png",
+  "prompt": "Edit target: the supplied on-body charcoal T-shirt photo. Make a precise typography hierarchy revision to this original collegiate emblem graphic. Replace the upper arched 'HEIGHT: PERFECT.' with a single continuous upper arc reading exactly 'WIDTH & HEIGHT: PERFECT.' All words on this upper arc have equal cap height and weight in the existing cream collegiate slab serif lettering. Remove the small 'WIDTH: PERFECT.' line beneath the illustration entirely, leaving garment negative space there. Preserve the prominent lower 'CAR: WRONG.' line as the payoff, the cabinet and open hatchback illustration, teal and cream colors, orange taillights, flank marks, overall graphic footprint and chest placement as closely as possible. Keep the same shirt, model, pose, folds, lighting, camera and background. Do not add objects, copy, borders or scenery. Goal: one coherent setup with equally weighted WIDTH and HEIGHT, followed by the surprising CAR verdict. Keep upper text comfortably legible, avoid cramming or changing the font voice.",
+  "git_blob_sha": "81fe128c7e1d0588407155f2fc49436e0d14d556",
+  "status": "Review draft; Founder feedback pending; mockup only",
+  "original_images_preserved": true
+}
