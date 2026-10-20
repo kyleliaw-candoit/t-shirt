@@ -48,4 +48,4 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 ## Deferred work
 
-Publish the reviewed visual package; correct DLR-002's setup hierarchy; then review the revision before expanding methodology. Kittl remains shelved. No new 120-shirt study, automated clustering exercise, production release or market test is authorized by this documentation update.
+Publish the reviewed visual package; correct DLR-002's setup hierarchy; then review the revision before expanding methodology. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
