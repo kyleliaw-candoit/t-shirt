@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection paused at the source-allocation checkpoint. 208/220 front-design references saved and verified; backs unverified. Seven source allocations complete; Bee & The Fox shortfall12 requires allocation decision. No family synthesis started.
+Status: Collection resumed with Founder-approved reallocation2026-10-20.212/220 references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -9,15 +9,15 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
-| Etsy | 40 | 40 | Complete; individual Bestseller badges; stopped page3/card7 (cumulative127) |
-| Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
-| Zazzle | 40 | 40 | Allocation collected:20 men +20 women; backs unverified |
+| Etsy | 44 | 44 | Batch009; next card141; individual badges verified |
+| Redbubble | 44 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
+| Zazzle | 44 | 40 | Allocation collected:20 men +20 women; backs unverified |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
-| The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
+| The Bee & The Fox | 8 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **208** | **Paused:12-slot allocation decision** |
+| **Total source-level slots** | **220** | **212** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -173,4 +173,8 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 
 ## Current handoff
 
-See [collection checkpoint and decision](Collection-Checkpoint-208.md). Execution is paused after the published verification checkpoint, not running in the background. Do not start comparisons or recipe-family development until the Founder has been reminded to switch Astra Medium to Astra Extra High.
+See [collection checkpoint and decision](Collection-Checkpoint-208.md). Historical checkpoint: Founder subsequently approved the12-slot reallocation; collection resumed. Do not start comparisons or recipe-family development until the Founder has been reminded to switch Astra Medium to Astra Extra High.
+
+- [Etsy batch 009](batches/ETSY-009.md): cumulative 212/220. Founder approved reallocation2026-10-20: Etsy44, Redbubble44, Zazzle44, Bee8; total220 unchanged. Accepted131,132,137,140 with listing-level Bestseller badges.129,130,138 no badge; sponsored133–136 skipped;139 excluded visible Snoopy character. Etsy expanded allocation complete at page3/card20(cumulative140).
+
+Founder approved 2026-10-20: replace unavailable12 Bee slots with4 additional each Etsy/Redbubble/Zazzle. New targets44/44/44/8; other source targets unchanged, total220.
