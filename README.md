@@ -11,6 +11,7 @@
 # Documentation Map
 
 - [Company operating methodologies](docs/company/)
+- [Rice Fed Humans case study](docs/case-studies/Rice-Fed-Humans-Case-Study.md) (Research Analyst, Strategy Advisor, Brand Manager)
 - [Business partner mandate](docs/company/Business-Partner-Mandate.md) and [October 19 onboarding snapshot](docs/onboarding/2026-10-19-Business-Partner-Snapshot.md)
 - [TRACE bestseller creative-intelligence methodology](docs/company/TRACE-Bestseller-Creative-Intelligence-Methodology.md)
 - [TRACE-PILOT-001 evidence and debrief](docs/creative/trace/pilots/TRACE-PILOT-001.md)
