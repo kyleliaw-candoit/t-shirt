@@ -1,0 +1,70 @@
+# Expanded design-language scan — plan and recovery checkpoint
+
+Updated: 2026-10-20 (America/Chicago)
+Status: Recovery checkpoint created. Expanded collection has not started.
+
+## Approved scope
+
+This supersedes the equal 20-per-source allocation in [the earlier decision](../2026-10-20-Expanded-Scan-Decision.md). The Founder accepted deeper marketplace sampling to improve visual-language discovery, then requested interruption-safe planning.
+
+| Source | Target | Verified expanded records | Status / next action |
+|---|---:|---:|---|
+| Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
+| Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
+| Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
+| Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
+| SnorgTees | 20 | 0 | Verify current bestseller route from preserved source research |
+| HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
+| The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
+| Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
+| **Total source-level slots** | **220** | **0** | **Collection pending** |
+
+The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
+
+SimplyCuteTees' four examples remain supplementary. Boredwalk is deferred. Preserve all [28 initial discovery designs](../discovery-28/README.md); do not repeat their completed analysis. Reuse records when encountered in the ordered scan, preserving original evidence dates and recording current route membership separately. Initial curated designs outside the ordered scan remain supplementary.
+
+## Execution plan
+
+1. Reconcile existing records and establish each source's exact route, ordering, evidence type and collection cursor before collection. Consult [source strategy](../2026-10-19-Source-Strategy.md) and [screening/continuation](../discovery-28/Screening-and-Continuation.md).
+2. Collect in batches of up to five accepted designs. Log inspected exclusions and pending candidates as well, so low-yield sources do not require repeated screening. Commit partial progress at a source change, access blocker or planned stop even if five are not accepted.
+3. Save source images, evidence and concise visual/garment observations with stable record IDs. Use the actual images for analysis; descriptions are supporting records, not substitutes.
+4. Compare within and across sources at the allocation checkpoint. Keep tentative overlapping groups, boundary examples and outliers; distinguish subject similarity from visual relationships.
+5. Expand selectively in batches of ten if new relationships continue appearing or family boundaries remain uncertain. Record the reason; do not silently change quotas or replace an inaccessible source.
+6. Develop annotated recipe cards and neutral reconstructions, then application tests using the same audience/material/concept. Separate observation, transfer hypothesis and Founder/customer evaluation.
+
+## Eligibility and evidence
+
+- Front-only graphics; exclude known back graphics and back logos. Missing back views mean uncertainty, not proof of a blank back; retain placement evidence and unresolved cases explicitly.
+- Exclude customization-dependent templates, licensed characters and celebrities. An optional editing button does not disqualify a complete predefined design. Illustration-only designs are eligible.
+- Follow displayed order rather than choosing only attractive examples. Preserve category, query, filters, sort, position, date and page/cursor.
+- Etsy listing Bestseller badges, seller-designated brand collections, Redbubble Best Selling ordering and Zazzle Popular are distinct commercial proxies, not interchangeable audited sales rankings.
+- Recolors/cuts do not create new distinct artwork counts. Retain relevant garment differences and duplicate links.
+- Track creator concentration and recurrence within each source and across independent creators; unknown authorship stays unknown. Do not use pooled frequencies as an estimate of market prevalence or visual quality.
+- Audience-fit judgments are contextual hypotheses. Commercially signaled examples alone cannot establish that visual treatment caused sales.
+
+## Batch record and completion rule
+
+For each batch, retain under this directory:
+
+- `records/<stable-id>.md`: source, creator/brand, product URL, route and ordering, observed commercial evidence/date, eligibility and placement checks, image paths/hashes, garment facts versus unknowns, visual relationships, duplicate/carry-forward links, and status.
+- `images/`: retained evidence images; reference existing repository images rather than duplicating identical files.
+- `batches/<source>-<batch>.md`: inspected candidates and dispositions, accepted IDs, unresolved IDs, last fully inspected item/page/position, next candidate/page, access limitations and changes in ordering.
+
+A batch is complete only when images and records exist remotely, hashes/references and counts have been checked, and the source cursor is saved. Update this checkpoint's progress table and append the batch path to the recovery log in the same commit as the batch where possible. Do not mark uploads, tool attempts or unverified local files as completed work.
+
+Record the resulting commit SHA in the PR progress summary after verification. If interrupted before updating that summary, the remote commit plus verified batch manifest is authoritative. Do not trust a session checklist over repository evidence.
+
+## Resume procedure — read first after interruption
+
+1. Inspect the current remote branch `docs/design-language-expanded-scan`, its PR and latest commits. Check whether it has since merged; never overwrite newer work.
+2. Read this checkpoint, the latest batch manifests and any pending records. Reconcile the table against remotely verified records/images, not conversational claims.
+3. Verify the last batch's files and cursor. Repair only missing/partial records; preserve stable IDs and evidence dates. Never restart completed source scans automatically.
+4. Resume at the first unresolved candidate, using both its URL and recorded position. Rankings may move: record a new snapshot and reconcile IDs rather than treating an old page number as immutable.
+5. If source access fails, log the exact blocker and continue an independent accessible source; do not silently lower eligibility or fabricate completion.
+6. Commit and verify each batch, then update progress. Keep the PR unmerged until Founder approval.
+
+## Recovery log
+
+- Baseline: PR #133 merged at `07cf652cc047de2c63bbddc0209d8ab69b44435d`; pilot and 28-design research are preserved on main.
+- Initial checkpoint: this plan and zero-progress table only. No new product scans, image captures, or recipe families are claimed complete.
+- Next concrete action: reconcile the existing 28 records with source registers, then establish the first source's current ordered discovery route. The current turn establishes the recovery plan; it does not claim background execution after the response ends.
