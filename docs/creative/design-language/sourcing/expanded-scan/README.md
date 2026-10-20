@@ -13,11 +13,11 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
-| SnorgTees | 20 | 15 | Batch 003; next position 18; back placement unverified |
+| SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **15** | **Collection in progress; front-only merchandise not certified** |
+| **Total source-level slots** | **220** | **20** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -84,3 +84,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Snorg batch 002](batches/SNORG-002.md): cumulative 10/220 source records. Latest cursor supersedes earlier entries: resume position 13. All backs remain unverified.
 
 - [Snorg batch 003](batches/SNORG-003.md): cumulative 15/220 source records. Latest cursor supersedes earlier entries: resume position 18. All backs remain unverified.
+
+- [Snorg batch 004](batches/SNORG-004.md): cumulative 20/220 source records. Latest cursor supersedes earlier entries: resume position 24. All backs remain unverified.
+
+- Snorg allocation reached: 20 front-design records (17 new, 3 carried forward), plus one held franchise-object boundary at position 18. Existing Oxford Comma at position 33 remains supplementary outside this ordered allocation. Next source: HistoreeTees, establish current ordered recent-best-sellers route and reconcile prior IDs. No need to expand Snorg past its allocation unless a collected reference is subsequently ineligible.
