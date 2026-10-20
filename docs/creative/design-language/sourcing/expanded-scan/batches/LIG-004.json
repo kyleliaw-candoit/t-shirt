@@ -1,0 +1,37 @@
+[
+  {
+    "id": "DLS-LIG-020",
+    "position": 29,
+    "image_sha256": "f5523a25bbce7f9e9e3bcaf41f69b96b4df2d9b98c98983497568ae45edaa8c3",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-LIG-021",
+    "position": 30,
+    "image_sha256": "12782c1c05e4287b351d3ba6e9312e63daa473aaafc000e0ef444675e68910ad",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-LIG-022",
+    "position": 32,
+    "image_sha256": "afd368adcb30b37dd588ea7182be01a69d31d7c94764a4e502ee09f3cdf413bf",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-LIG-001",
+    "position": 35,
+    "image_sha256": "40c75f77df05fd7b05e52ca1d837b9a75627875ec0e207d52746705087533045",
+    "carry_forward": true,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-LIG-023",
+    "position": 36,
+    "image_sha256": "10b44c706be905a85ec0af833cb1e2d3e5fafa72f862afac34e08e89715aee99",
+    "carry_forward": false,
+    "back_status": "unverified"
+  }
+]
