@@ -1,0 +1,42 @@
+[
+  {
+    "position": 1,
+    "id": "DLS-SNORG-001",
+    "product_id": 7198231462020,
+    "image_sha256": "d2bf83753669a0e015889456eaff26f170a11f7feecb76dad6835024e20c43cc",
+    "back_status": "unverified",
+    "carry_forward": true
+  },
+  {
+    "position": 3,
+    "id": "DLS-SNORG-005",
+    "product_id": 7145547759748,
+    "image_sha256": "8ca261625f4e8ee661658d0f758f8f9dde2eb2d2845ca2539a68fa39fc8b9a31",
+    "back_status": "unverified",
+    "carry_forward": false
+  },
+  {
+    "position": 4,
+    "id": "DLS-SNORG-002",
+    "product_id": 7145908142212,
+    "image_sha256": "dd6f663193ca49d8eb21061253ac37e1803a79cb4e08394f2203f7588b021c1a",
+    "back_status": "unverified",
+    "carry_forward": true
+  },
+  {
+    "position": 5,
+    "id": "DLS-SNORG-006",
+    "product_id": 7142061867140,
+    "image_sha256": "586f17cfccd3016bb812dc629deb4cf6d48204e2d51e4f2824f04e8a7f17f1bb",
+    "back_status": "unverified",
+    "carry_forward": false
+  },
+  {
+    "position": 6,
+    "id": "DLS-SNORG-007",
+    "product_id": 8231212875908,
+    "image_sha256": "647c67543a675ec26ae99041e0546a4c6620c2a1d4b46234f3f384d7795fe9f5",
+    "back_status": "unverified",
+    "carry_forward": false
+  }
+]
