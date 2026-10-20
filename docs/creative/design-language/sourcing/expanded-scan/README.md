@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 113 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 118 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -10,14 +10,14 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
-| Redbubble | 40 | 25 | RB-women batch 001; next position 28 |
+| Redbubble | 40 | 30 | RB-women batch 002; next position 34 |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **113** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **118** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -132,3 +132,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [RB-men batch 004](batches/RB-men-004.md): cumulative 108/220. Accepted positions 18,19,20,23,24 as DLS-RB-016–020. Position 21 held: Star Wars franchise vehicles/setting boundary; position 22 excluded: Kenny G celebrity depiction. Men's route reached 20 distinct accepted artworks at position 24.
 
 - [RB-women batch 001](batches/RB-women-001.md): cumulative 113/220. Women's route positions 2,3,4,6–18,20,21 repeat artwork already collected in men's route; stable IDs retained via matching artwork IDs in route roster, no extra count for cuts. Positions 1 and 19 inherit franchise-object holds; 5 Muppet excluded. Position 22 Cathulhu held for fictional-character/parody eligibility boundary. Accepted 23–27 as DLS-RB-021–025, first five additional distinct artworks from women’s route. Gender category is not evidence of buyer gender or a distinct visual market.
+
+- [RB-women batch 002](batches/RB-women-002.md): cumulative 118/220. Accepted 28,29,30,31,33 as DLS-RB-026–030. Position 32 held: film-character-associated name/moth design; ambiguous boundary rather than a silent broadened exclusion. Position 33 is retained despite an explicit rectangular collage composition; collection does not filter by current taste.
