@@ -13,11 +13,11 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
-| SnorgTees | 20 | 10 | Batch 002; next position 13; back placement unverified |
+| SnorgTees | 20 | 15 | Batch 003; next position 18; back placement unverified |
 | HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **10** | **Collection in progress; front-only merchandise not certified** |
+| **Total source-level slots** | **220** | **15** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -82,3 +82,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - Resume at Snorg position 7. No attention is required from the Founder at this checkpoint.
 
 - [Snorg batch 002](batches/SNORG-002.md): cumulative 10/220 source records. Latest cursor supersedes earlier entries: resume position 13. All backs remain unverified.
+
+- [Snorg batch 003](batches/SNORG-003.md): cumulative 15/220 source records. Latest cursor supersedes earlier entries: resume position 18. All backs remain unverified.
