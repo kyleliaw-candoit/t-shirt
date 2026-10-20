@@ -2,8 +2,8 @@
 title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
-version: 0.1
-last_updated: 2026-08-14
+version: 0.2
+last_updated: 2026-10-19
 ---
 
 # Creative Director T-shirt Design Playbook
@@ -202,7 +202,7 @@ Often communicates:
 - energy,
 - visual dominance.
 
-Choose scale because it supports the idea and desired emotional tone.
+Choose scale because it supports the idea and desired emotional tone. Essential information must remain visible: restraint is not an improvement if shrinking the graphic makes the concept or audience connection incomprehensible.
 
 ### Working menswear heuristic: restraint for gender-neutral / male-leaning designs
 
@@ -245,6 +245,12 @@ Carries the primary emotional or semantic statement.
 Secondary detail that rewards closer viewing.
 
 Typography may serve more than one role, but the hierarchy should remain clear.
+
+### Match visual hierarchy to semantic relationships
+
+Ask whether size, weight, position, contrast and reading order match the meaning and rhythm of the concept. Parallel setup statements should normally receive equivalent visual weight; a payoff may deserve emphasis. Equal weight does not require identical placement or exact font size. Merge parallel clauses where doing so preserves meaning and improves reading. Do not let a recipe's layout impose unintended differences in importance.
+
+This is one judgment among many, not a universal equal-lines rule or a substitute for typography quality, composition, color, illustration, identity relevance and garment fit.
 
 ---
 
@@ -387,6 +393,16 @@ Texture is used as decoration rather than communicating material, history, or pr
 
 ---
 
+## 11.1 Select recipes by the job of copy and graphics
+
+Before selecting a recipe, ask: **Without our research or explanation, what can a first-time viewer understand from the shirt itself?** Identify what the copy states and what the viewer must see to understand the object, action, relationship and intended identity group.
+
+- If copy communicates the concept and identity on its own, typography-led execution can carry the design; supporting art may be optional.
+- If understanding depends on a visual cue, choose or adapt a recipe that gives the illustration enough prominence and clarity to do that work. Essential imagery is not mere decoration.
+- Recheck the actual rendered shirt. A graphic specified in a brief may be too small, generic or ambiguous in execution. Do not count a written explanation as visible context.
+
+Balance explanation with visual economy. More illustration is not automatically better; solve the missing information with the smallest effective cue, without forcing a scene around every joke. A typography-led design is not inherently more wearable, nor an illustration-led design inherently more explanatory. Fit depends on the material, concept, audience and execution.
+
 ## 12. Design Preflight
 
 Before founder review, answer:
@@ -402,13 +418,18 @@ Before founder review, answer:
 9. What is textured or aged, and why?
 10. Does the artwork feel designed for the garment?
 11. Would the shirt still be desirable if the concept mattered slightly less?
-12. What can be removed?
+12. What can be removed without losing essential meaning or identity cues?
+13. Does the hierarchy match the meaning and rhythm, including equivalent setups and a distinct payoff where appropriate?
+14. Is every essential visual cue prominent and specific enough for a first-time viewer without explanation?
 
 Use judgment, not a numerical score.
 
 ---
 
 ## 13. Research Use
+
+The [design-language recipe bank](../creative/design-language/README.md) documents our image-native discovery workflow, visual recipe structure and application records. Use the images as the primary reference; lightweight attributes support comparison and retrieval rather than replacing visual study. Keep mechanism recipes and design-language recipes separately identified. Select and adapt visual relationships to the new concept instead of copying source artwork.
+
 
 External apparel study should be used to learn mechanisms and design grammar, not to imitate proprietary artwork.
 
@@ -440,3 +461,8 @@ A heuristic can be revised when:
 - a new reusable design mechanism proves valuable.
 
 Do not promote one successful execution choice into a universal rule without evidence.
+
+
+## October 19, 2026 calibration
+
+The [CAR: WRONG pilot review](../creative/design-language/reviews/2026-10-19-CAR-WRONG.md) records the Founder's assessment that both provisional recipe applications were proper/good T-shirt designs, the unequal setup hierarchy in design #2, and the risk of essential graphics being too small in design #1. These observations motivate the working guidance above; they are not customer validation or proof that either recipe is universally superior. Preserve initial Creative Director assessments so later feedback can improve diagnosis without rewriting history.

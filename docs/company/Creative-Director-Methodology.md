@@ -2,7 +2,7 @@
 title: Creative Director Methodology
 owner: Creative Director
 status: Proposed
-version: 0.4
+version: 0.5
 last_updated: 2026-10-19
 reviewed_by: Founder pending
 ---
@@ -368,6 +368,19 @@ Each production design should resolve, at minimum:
 - print-method assumptions where material.
 
 Evaluate the shirt as a product rather than artwork in isolation.
+
+## 9.1 Design-language recipes and judgment
+
+Use **image-native discovery supported by lightweight structured attributes** to develop reusable visual recipes. The [design-language recipe bank](../creative/design-language/README.md) owns the discovery workflow, visual record structure and candidate status. Keep these execution recipes distinct from TRACE concept/mechanism recipes: a mechanism explains the expressive turn; a design-language recipe guides how typography, graphics, color, composition and garment work together.
+
+The bank serves two goals: (1) translate material plus creative concept into original, desirable shirts; (2) develop Creative Director taste and judgment through recorded assessments, Founder feedback and subsequent applications. Recipe use supports judgment; it does not guarantee quality or purchase interest.
+
+Before selecting or adapting a recipe, determine what the copy communicates on its own and what essential information the graphic must supply. Choose a recipe able to perform those jobs. Recheck comprehension and the connection to the intended identity group on the actual shirt, without explaining the research. Apply the [T-shirt Design Playbook](Creative-Director-Tshirt-Design-Playbook.md), including semantic hierarchy, illustration quality, typography, color, composition, scale, garment fit and overall desirability. No single check replaces the others.
+
+When calibrating judgment, preserve the initial assessment and append feedback and revisions separately under §7.1. Distinguish a well-designed shirt from demonstrated desire to own it. The [October 19 pilot review](../creative/design-language/reviews/2026-10-19-CAR-WRONG.md) motivates these working changes; two executions do not establish general recipe reliability.
+
+## 9.2 Execution review
+
 
 Ask:
 
