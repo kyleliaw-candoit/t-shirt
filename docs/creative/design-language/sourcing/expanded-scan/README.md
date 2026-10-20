@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 143 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 148 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -11,13 +11,13 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 |---|---:|---:|---|
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
-| Zazzle | 40 | 15 | ZZ-men batch 003; next position 30 |
+| Zazzle | 40 | 20 | ZZ-men batch 004; next position 40 |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **143** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **148** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -144,3 +144,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [ZZ-men batch 002](batches/ZZ-men-002.md): cumulative 138/220. Accepted 8,10,12,16,21. Excluded 6 custom text,7 name/photo,9 custom pet photo,11 team name,13 year placeholder,14 visible back print,15 visible your-text-here placeholder,17 custom photos,18 custom family text,19 visible custom-text placeholders,20 custom name/year. Positions 15 and 19 inspected visually rather than excluding from title alone.
 
 - [ZZ-men batch 003](batches/ZZ-men-003.md): cumulative 143/220. Accepted 23,25,26,27,29. Excluded 22 visible back print,24 licensed Grinch design,28 artwork recolor of25 (same antler/phrase composition). Back status of accepted references remains unverified.
+
+- [ZZ-men batch 004](batches/ZZ-men-004.md): cumulative 148/220. Accepted30,31,32,34,39. Excluded33 visible custom-text placeholder,35 custom-message placeholder,36 and37 visible back graphics,38 custom family reunion. Generic catchphrase/allusion designs retained; no licensed character depicted. Men's quota complete at39.
