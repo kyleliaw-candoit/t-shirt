@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection started. Five front-design references documented; all five have unverified back placement. No family synthesis started.
+Status: Collection in progress. 10 front-design references documented; back placement unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -13,11 +13,11 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Redbubble | 40 | 0 | T-shirts → Men's/Women's → Best Selling; 20 eligible unique designs per route |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
-| SnorgTees | 20 | 5 | Batch 001; next position 7; back placement unverified for all five |
+| SnorgTees | 20 | 10 | Batch 002; next position 13; back placement unverified |
 | HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **5** | **Collection in progress; front-only merchandise not certified** |
+| **Total source-level slots** | **220** | **10** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -80,3 +80,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Snorg batch 001](batches/SNORG-001.md): five records, including two carried forward and three new. All five are front-design references with unverified backs; zero independently confirmed blank-back products. The table counts documented research records, not verified front-only merchandise.
 - Source-level records: 5/220. Within-batch distinct artworks: 5. Cross-source unique total not established.
 - Resume at Snorg position 7. No attention is required from the Founder at this checkpoint.
+
+- [Snorg batch 002](batches/SNORG-002.md): cumulative 10/220 source records. Latest cursor supersedes earlier entries: resume position 13. All backs remain unverified.
