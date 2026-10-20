@@ -22,12 +22,12 @@ Additional IDs:ETSY045–048, RB041–044, ZZ041–044. Redbubble/Zazzle each ad
 
 ## Verification and boundaries
 
--220 record files; every retained image link resolves, recorded image hashes match, and all batch JSON parses.
--Each published batch was fetched from remote GitHub and compared byte for byte. Final checkpoint/index also verified after publication.
--Front artwork visually observed. Unseen backs remain unverified; no claim that every garment has a blank back.
--220 is the source-level collection count, not yet the globally deduplicated artwork total. Exact-artwork checks across each marketplace's two routes prevent recolors/cuts being counted twice. Copy/template variants are noted; global reconciliation awaits the analysis phase.
--Etsy uses Relevancy discovery plus listing-level Bestseller badges, not a global top-selling rank. Redbubble Best Selling and Zazzle Popular are distinct marketplace signals. Seller collection membership is another signal; none establishes causal design effectiveness.
--Original commercial, attribution, mockup and seasonal limitations in [the earlier checkpoint](Collection-Checkpoint-208.md) remain applicable. Zazzle creator attribution is incomplete. Garment proportions are approximate, not production measurements.
+- 220 record files; every retained image link resolves, recorded image hashes match, and all batch JSON parses.
+- Each published batch was fetched from remote GitHub and compared byte for byte. Final checkpoint/index also verified after publication.
+- Front artwork visually observed. Unseen backs remain unverified; no claim that every garment has a blank back.
+- 220 is the source-level collection count, not yet the globally deduplicated artwork total. Exact-artwork checks across each marketplace's two routes prevent recolors/cuts being counted twice. Copy/template variants are noted; global reconciliation awaits the analysis phase.
+- Etsy uses Relevancy discovery plus listing-level Bestseller badges, not a global top-selling rank. Redbubble Best Selling and Zazzle Popular are distinct marketplace signals. Seller collection membership is another signal; none establishes causal design effectiveness.
+- Original commercial, attribution, mockup and seasonal limitations in [the earlier checkpoint](Collection-Checkpoint-208.md) remain applicable. Zazzle creator attribution is incomplete. Garment proportions are approximate, not production measurements.
 
 ## Next execution:explicit model-switch pause
 
