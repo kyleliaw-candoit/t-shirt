@@ -1,0 +1,37 @@
+[
+  {
+    "id": "DLS-ZZ-001",
+    "position": 1,
+    "route": "ZZ-men",
+    "image_sha256": "7f2ae160305f4844a300975f6df11d01091a40b31139c1c1f1d98496e89dac4b",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-ZZ-002",
+    "position": 2,
+    "route": "ZZ-men",
+    "image_sha256": "d5c721781d32b1c0966310db2ad914dde0c149d9e816cfe3f36f22dba81c726c",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-ZZ-003",
+    "position": 3,
+    "route": "ZZ-men",
+    "image_sha256": "857c9f39299d6581dd8296e41cac6577bc1b92924d7e6c4364ef32ca477ce9bd",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-ZZ-004",
+    "position": 4,
+    "route": "ZZ-men",
+    "image_sha256": "4d3d766652ece4df081ea8d388601b09bc3a29994d1ff37ee60fd7752e1bd478",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-ZZ-005",
+    "position": 5,
+    "route": "ZZ-men",
+    "image_sha256": "bc956497d835eeb0656379139a2c536556bb393f4a1f4164847bdd4e4c400549",
+    "back_status": "unverified"
+  }
+]
