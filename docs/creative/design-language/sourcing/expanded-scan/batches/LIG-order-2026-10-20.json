@@ -1,0 +1,183 @@
+{
+  "route": "https://lifeisgood.com/collections/best-sellers?sortBy=best_sellers&sortOrder=descending",
+  "date": "2026-10-20",
+  "sort": "Best sellers",
+  "method": "Live browser DOM; 262 products, page 1. Feed order differs; roster transcribed from displayed cards.",
+  "records": [
+    {
+      "position": 1,
+      "handle": "womens-moon-flower-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/112534_1_727e04f8-69e7-4278-9661-2383bbf6ec96_640x.jpg?v=1742935279"
+    },
+    {
+      "position": 2,
+      "handle": "womens-solid-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/62593_1_67334da7-b322-48af-8776-7e2c35fefadf_640x.jpg?v=1738874704"
+    },
+    {
+      "position": 3,
+      "handle": "womens-solid-long-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/73983_1_640x.jpg?v=1738875115"
+    },
+    {
+      "position": 4,
+      "handle": "womens-solid-short-sleeve-boxy-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/86072_1_640x.jpg?v=1738874705"
+    },
+    {
+      "position": 5,
+      "handle": "womens-winter-wolf-long-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/129974_1_640x.jpg?v=1756398346"
+    },
+    {
+      "position": 6,
+      "handle": "mens-solid-short-sleeve-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/66324_1_640x.jpg?v=1739976102"
+    },
+    {
+      "position": 7,
+      "handle": "womens-autumn-tree-leaves-long-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/158605_1_640x.jpg?v=1785517769"
+    },
+    {
+      "position": 8,
+      "handle": "womens-pumpkin-cats-short-sleeve-crusher-boxy-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R05740_1_640x.jpg?v=1787852157"
+    },
+    {
+      "position": 9,
+      "handle": "womens-pumpkin-cats-crusher-lite-shrunken-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R05743_1_640x.jpg?v=1787852157"
+    },
+    {
+      "position": 10,
+      "handle": "womens-lig-daisy-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/131710_1_806d1d2f-7585-442d-9560-427285dbf3bd_640x.jpg?v=1753110488"
+    },
+    {
+      "position": 11,
+      "handle": "womens-hobbies-short-sleeve-crusher-boxy-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/174814_1_640x.jpg?v=1783606115"
+    },
+    {
+      "position": 12,
+      "handle": "womens-solid-short-sleeve-vee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/68102_1_640x.jpg?v=1770654905"
+    },
+    {
+      "position": 13,
+      "handle": "mens-big-mountains-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/87044_1.jpg?v=1756407985"
+    },
+    {
+      "position": 14,
+      "handle": "womens-retro-scaredy-cats-long-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/191372_1.jpg?v=1785951974"
+    },
+    {
+      "position": 15,
+      "handle": "womens-patchwork-fox-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/201322_1.jpg?v=1785336321"
+    },
+    {
+      "position": 16,
+      "handle": "womens-god-forbid-women-have-hobbies-cauldron-short-sleeve-crusher-boxy-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R04757_1.jpg?v=1786649628"
+    },
+    {
+      "position": 17,
+      "handle": "womens-autumn-tree-leaves-long-sleeve-crusher-tee-1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/175711_1.jpg?v=1761146228"
+    },
+    {
+      "position": 18,
+      "handle": "womens-retro-floral-long-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/177006_1.jpg?v=1762782446"
+    },
+    {
+      "position": 19,
+      "handle": "womens-be-weird-who-cares-stack-crusher-lite-shrunken-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R07452_1.jpg?v=1789578874"
+    },
+    {
+      "position": 20,
+      "handle": "womens-deep-burgundy-check-plaid-classic-sleep-pant",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/171477_1.jpg?v=1786644234"
+    },
+    {
+      "position": 21,
+      "handle": "womens-dragonfly-heart-short-sleeve-crusher-vee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/113221_1_e3436b5d-b47b-48cc-9f59-7409627d3d98.jpg?v=1765729518"
+    },
+    {
+      "position": 22,
+      "handle": "womens-god-forbid-women-have-hobbies-cauldron-crusher-lite-shrunken-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/192735_1.jpg?v=1775495674"
+    },
+    {
+      "position": 23,
+      "handle": "mens-out-of-office-forever-short-sleeve-crusher-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/155116_1.jpg?v=1792163963"
+    },
+    {
+      "position": 24,
+      "handle": "womens-sun-water-tie-dye-short-sleeve-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/191554_1_d1b5d708-5585-4a50-9cca-95be123e83c2.jpg?v=1779815103"
+    },
+    {
+      "position": 25,
+      "handle": "womens-respect-your-mother-globe-crusher-lite-shrunken-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R05567_1.jpg?v=1787235443"
+    },
+    {
+      "position": 26,
+      "handle": "mens-today-is-a-good-day-mountain-hike-short-sleeve-crusher-lite-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/105826_1_9938e6de-e1ec-4389-81a2-cb7286fa991e.jpg?v=1737570485"
+    },
+    {
+      "position": 27,
+      "handle": "womens-everyone-relax-art-degree-crusher-lite-shrunken-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/R04749_1.jpg?v=1786649248"
+    },
+    {
+      "position": 28,
+      "handle": "womens-paw-floral-pattern-crusher-lite-easy-vee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/153356_1.jpg?v=1771276273"
+    },
+    {
+      "position": 29,
+      "handle": "womens-fall-walk-long-sleeve-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/173066_1.jpg?v=1783539788"
+    },
+    {
+      "position": 30,
+      "handle": "womens-easy-tiger-short-sleeve-crusher-boxy-tee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/193171_1.jpg?v=1776194094"
+    },
+    {
+      "position": 31,
+      "handle": "womens-lig-daisy-short-sleeve-crusher-vee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/184509_1.jpg?v=1768403748"
+    },
+    {
+      "position": 32,
+      "handle": "womens-fall-favorite-color-flowers-short-sleeve-crusher-tee-2",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/201313_1.jpg?v=1785337070"
+    },
+    {
+      "position": 33,
+      "handle": "womens-solid-flex-pant",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/153220_1.jpg?v=1770907419"
+    },
+    {
+      "position": 34,
+      "handle": "womens-solid-crusher-flex-jogger",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/153227_1.jpg?v=1776862263"
+    },
+    {
+      "position": 35,
+      "handle": "womens-celtic-heart-short-sleeve-crusher-vee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/158831_1.jpg?v=1743001332"
+    }
+  ]
+}
