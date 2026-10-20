@@ -1,0 +1,181 @@
+{
+  "method": "Contact sheets are labeled resized derivatives of retained source images; detail crops use coordinates in families.json; neutral structural diagrams and cards are independently assembled with Pillow. Originals remain unchanged.",
+  "renderer": "scripts/render_cards.py (requires Pillow, DejaVu Sans/Serif and URW Bookman fonts)",
+  "assets": [
+    {
+      "file": "assets/DLF-001-card.jpg",
+      "sha256": "03ebc42f155d396c67f114158f2d2a7facbf9909fc63a64102dcaa24b9de681f",
+      "bytes": 436416
+    },
+    {
+      "file": "assets/DLF-001-detail.jpg",
+      "sha256": "e7c77404ae1f99e3a4ba4bbcbab831c1ec51cbb5d9f2ab0fdec2ea37bdb46f7d",
+      "bytes": 39373
+    },
+    {
+      "file": "assets/DLF-001-neutral.png",
+      "sha256": "75366a5f3d0f64f517e81dc931ba9b8a4f98d114bdab460296cf90fc0b2aeb83",
+      "bytes": 11484
+    },
+    {
+      "file": "assets/DLF-002-card.jpg",
+      "sha256": "35d158ea3bd9b32fd6ba458144d7ead77cc6f1db1e3ea97604dab61aca068a63",
+      "bytes": 427237
+    },
+    {
+      "file": "assets/DLF-002-detail.jpg",
+      "sha256": "1dac1d67e414fb025271e0af693e1f10e9777ac94f4fc7a1cae0e7f0fcf023a9",
+      "bytes": 6870
+    },
+    {
+      "file": "assets/DLF-002-neutral.png",
+      "sha256": "10974a8f02576919d9112d947a824d67092184bcf3f12c8bbe98a69156dfa620",
+      "bytes": 5078
+    },
+    {
+      "file": "assets/DLF-003-card.jpg",
+      "sha256": "0ac4a9ce7e4a84109abf3eebd6c4291507bdc1d91998d98d185cea232900501f",
+      "bytes": 483345
+    },
+    {
+      "file": "assets/DLF-003-detail.jpg",
+      "sha256": "28a0dfa31ffb453cd481db30049ee34ad4bed51052aae2318df314bb19452173",
+      "bytes": 42704
+    },
+    {
+      "file": "assets/DLF-003-neutral.png",
+      "sha256": "77d7878d0c504dbbcc868650a6ebe0795d485df8a55c273323f9ed79e4b55e3d",
+      "bytes": 9345
+    },
+    {
+      "file": "assets/DLF-004-card.jpg",
+      "sha256": "2e9221eba9ede20f3f77c528b54c079e690a8a3b21659a83c24cf6b60a116e9a",
+      "bytes": 492006
+    },
+    {
+      "file": "assets/DLF-004-detail.jpg",
+      "sha256": "10bf3132a40d961a145939ea27f9375b019699b2d2359dcabbf5d98b6c5dc9ef",
+      "bytes": 107030
+    },
+    {
+      "file": "assets/DLF-004-neutral.png",
+      "sha256": "954810ca1cd4c5ab38c72b1174dd56531633df88bdd5d76913224847b0daa784",
+      "bytes": 9128
+    },
+    {
+      "file": "assets/DLF-005-card.jpg",
+      "sha256": "7235bcf2fb4720910ba6bb808781e6361d0de075a01eb16aa4e15382e05e6335",
+      "bytes": 447669
+    },
+    {
+      "file": "assets/DLF-005-detail.jpg",
+      "sha256": "2c1ed341b5d4135d85f2784c309835679876aa64d9ab9d93d00c9b3e5f2b5437",
+      "bytes": 25168
+    },
+    {
+      "file": "assets/DLF-005-neutral.png",
+      "sha256": "ddc47f648548569df7e10d2fbaad340216ff73d93d7adc5c7057c32914efb286",
+      "bytes": 10157
+    },
+    {
+      "file": "assets/DLF-006-card.jpg",
+      "sha256": "b40cb39d9f3bab9461990c4d7f8bdace2cdac74401ef93d36a070b9e0901d9dd",
+      "bytes": 482066
+    },
+    {
+      "file": "assets/DLF-006-detail.jpg",
+      "sha256": "b5f0925876c9227ebb99db174474551fdc61979cdf25e58373ac65eca491a243",
+      "bytes": 36058
+    },
+    {
+      "file": "assets/DLF-006-neutral.png",
+      "sha256": "1eee9048c36701c43ca590735f66e82b8ac27bed7474ac224cbfeb8335592cda",
+      "bytes": 6029
+    },
+    {
+      "file": "assets/DLF-007-card.jpg",
+      "sha256": "0b11ee0e24ff24896f14dfd3939c4e45de3cdbc03a2499fa6bc3337c92373feb",
+      "bytes": 441397
+    },
+    {
+      "file": "assets/DLF-007-detail.jpg",
+      "sha256": "e2d8d4e5f6c9547b17d657052059f482e90a2f8c9a7f2acb8df029c258a15b5a",
+      "bytes": 19248
+    },
+    {
+      "file": "assets/DLF-007-neutral.png",
+      "sha256": "d4b7f7910b9b6477fbf9ea529bc437e621512ef3fce846917d0a715ba58311f3",
+      "bytes": 4046
+    },
+    {
+      "file": "assets/DLF-008-card.jpg",
+      "sha256": "ec32bc6f58c60466254f1c689463696394a1440bf9755392151e23a6ad435303",
+      "bytes": 442441
+    },
+    {
+      "file": "assets/DLF-008-detail.jpg",
+      "sha256": "f4cd9d6ad58afb729ead8319bdbdbe615237e7dc922ddc66404d25520b63e909",
+      "bytes": 4755
+    },
+    {
+      "file": "assets/DLF-008-neutral.png",
+      "sha256": "16671d3c40d8e171f023ffef5d33811db6f4c37a68dda5374652ffa5cd7badf7",
+      "bytes": 6385
+    },
+    {
+      "file": "assets/sheet-01.jpg",
+      "sha256": "fa42b882dabbc5f25bb414cb474eb38e48a82b83837fd00f846a887c63a856ad",
+      "bytes": 318201
+    },
+    {
+      "file": "assets/sheet-02.jpg",
+      "sha256": "95b792a3c7745491d7b077818c466e581508a0b4a38c4a87c38ed23d67a4cfad",
+      "bytes": 368159
+    },
+    {
+      "file": "assets/sheet-03.jpg",
+      "sha256": "4e4ae52971a9c1657d9292705b78afafd969ea25671c0291f84706fd5727b0cc",
+      "bytes": 324857
+    },
+    {
+      "file": "assets/sheet-04.jpg",
+      "sha256": "c57e3352f9b1536a7424b671a60304194e45fde8ffeb1e31f07f06234fac4fe1",
+      "bytes": 230284
+    },
+    {
+      "file": "assets/sheet-05.jpg",
+      "sha256": "b47f17eb5f1e21647ce172dbab4ba504b67dbc3cff847333e89589f29703376c",
+      "bytes": 206473
+    },
+    {
+      "file": "assets/sheet-06.jpg",
+      "sha256": "f1098ff65ab5fffba86afab447f58628936508606108d6e5454d93b239b7dc04",
+      "bytes": 196476
+    },
+    {
+      "file": "assets/sheet-07.jpg",
+      "sha256": "9d0eb3e2f1258da658ef28675a80655fe121c4dab6d69f6c0013636d11aaf861",
+      "bytes": 242541
+    },
+    {
+      "file": "assets/sheet-08.jpg",
+      "sha256": "7850805c98aa3dc1f781e4ce8dda1c048f720fc8821a790ed66f314e7711b90a",
+      "bytes": 397633
+    },
+    {
+      "file": "assets/sheet-09.jpg",
+      "sha256": "9dcbfe2b6f36cb6835f4fecb5d2b822af3c187a5d1a2b729cd745745af521cc3",
+      "bytes": 250653
+    },
+    {
+      "file": "assets/sheet-10.jpg",
+      "sha256": "e30ce8791fe426a563220e52d7357500fb9061faba73c5e807fc3b7b76ebc9f9",
+      "bytes": 310466
+    },
+    {
+      "file": "assets/sheet-11.jpg",
+      "sha256": "36124c1f52f6a6688f8be2ea73e9600e31a9ccc337fcf969f3dddc5d0fae83d6",
+      "bytes": 292185
+    }
+  ]
+}

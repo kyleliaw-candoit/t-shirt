@@ -52,9 +52,15 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 **Publication status:** [Pilot 01 visual package](pilot-01/README.md) now contains the reviewed source captures, neutral diagrams, original artwork and garment previews, prompts and frozen assessments. [Revision comparison](pilot-01/revision-review.html) adds the combined-setup treatment of DLR-002 without replacing either original design. Recipes remain provisional. See the [source-route research](sourcing/2026-10-19-Source-Strategy.md) before selecting the broader discovery batch.
 
+## Expanded discovery and application — October 20, 2026
+
+The [220-reference collection](sourcing/expanded-scan/Collection-Complete-220.md), merged in PR136, has now been visually compared. [Discovery 01](discovery-01/README.md) proposes eight provisional families with full source references, annotated detail crops, approximate measured relationships, palette roles, neutral structural diagrams, essential/flexible guidance and garment/audience constraints. The [review log](discovery-01/Review-Log.md) covers all 220 references; [reconciliation](discovery-01/Reconciliation.md) distinguishes repeated artwork, shared wording and repeated templates.
+
+[CAR: WRONG round 02](applications/CAR-WRONG-02/README.md) applies heritage and playful families to the same audience/material/concept. It preserves both original attempts, a self-directed revision and a [frozen pre-Founder assessment](applications/CAR-WRONG-02/assessment.md). DLF family IDs supplement rather than replace the historical DLR-001/002 pilot. None is promoted to purchase-validated status.
+
 ## Deferred work
 
-Compare the completed discovery images and develop provisional visual family cards, then test suitable families on original concepts. DLR-002 v2 remains available for review. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+Collect Founder feedback on the family interpretations and new applications, then test transfer on another material/concept. The original DLR-002 v2 remains available for review. Kittl remains shelved. No production release or market test is included.
 
 
 ### Front-only launch constraint — October 19 clarification
