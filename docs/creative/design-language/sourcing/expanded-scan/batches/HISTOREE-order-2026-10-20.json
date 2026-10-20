@@ -1,0 +1,608 @@
+{
+  "route": "https://historeetees.com/collections/recent-best-sellers",
+  "date": "2026-10-20",
+  "sort": "default",
+  "feed": "https://historeetees.com/collections/recent-best-sellers/products.json?limit=100",
+  "records": [
+    {
+      "position": 1,
+      "product_id": 7574352789728,
+      "title": "Cross A River On Xmas T-Shirt",
+      "url": "https://historeetees.com/products/cross-a-river-on-xmas-t-shirt"
+    },
+    {
+      "position": 2,
+      "product_id": 7767179854048,
+      "title": "Custer Uh-Oh T-Shirt",
+      "url": "https://historeetees.com/products/custer-uh-oh-t-shirt"
+    },
+    {
+      "position": 3,
+      "product_id": 7556924932320,
+      "title": "Lincoln One Star Review T-Shirt",
+      "url": "https://historeetees.com/products/lincoln-one-star-review-t-shirt"
+    },
+    {
+      "position": 4,
+      "product_id": 7554574483680,
+      "title": "Study History T-Shirt",
+      "url": "https://historeetees.com/products/study-history-white-t-shirt"
+    },
+    {
+      "position": 5,
+      "product_id": 7986377883872,
+      "title": "Not a Crook T-Shirt",
+      "url": "https://historeetees.com/products/not-a-crook-t-shirt"
+    },
+    {
+      "position": 6,
+      "product_id": 7554223636704,
+      "title": "That's Due Tomorrow T-Shirt",
+      "url": "https://historeetees.com/products/thats-due-tomorrow-t-shirt"
+    },
+    {
+      "position": 7,
+      "product_id": 9686938943712,
+      "title": "Flying Tigers T-Shirt",
+      "url": "https://historeetees.com/products/flying-tigers-t-shirt"
+    },
+    {
+      "position": 8,
+      "product_id": 9946046628064,
+      "title": "USS Johnston In Harm's Way T-Shirt",
+      "url": "https://historeetees.com/products/uss-johnston-in-harms-way-t-shirt"
+    },
+    {
+      "position": 9,
+      "product_id": 7583755010272,
+      "title": "Mediocrates T-Shirt",
+      "url": "https://historeetees.com/products/mediocrates-meh-t-shirt"
+    },
+    {
+      "position": 10,
+      "product_id": 10039924392160,
+      "title": "Enterprise Tour Of Duty T-Shirt",
+      "url": "https://historeetees.com/products/enterprise-tour-of-duty-t-shirt"
+    },
+    {
+      "position": 11,
+      "product_id": 7554227110112,
+      "title": "DB Cooper T-Shirt",
+      "url": "https://historeetees.com/products/db-cooper-t-shirt"
+    },
+    {
+      "position": 12,
+      "product_id": 7681309376736,
+      "title": "It's Only Treason If You Lose T-Shirt",
+      "url": "https://historeetees.com/products/treason-if-you-lose-t-shirt"
+    },
+    {
+      "position": 13,
+      "product_id": 9998180810976,
+      "title": "USS Samuel B. Roberts - Last Stand off Samar T-Shirt",
+      "url": "https://historeetees.com/products/uss-samuel-b-roberts-last-stand-off-samar-t-shirt"
+    },
+    {
+      "position": 14,
+      "product_id": 7585218298080,
+      "title": "Voltaire Absurdities T-Shirt",
+      "url": "https://historeetees.com/products/voltaire-absurdities-t-shirt"
+    },
+    {
+      "position": 15,
+      "product_id": 8291193749728,
+      "title": "Roanoke T-Shirt",
+      "url": "https://historeetees.com/products/roanoke-t-shirt"
+    },
+    {
+      "position": 16,
+      "product_id": 7986394333408,
+      "title": "General Patton T-Shirt",
+      "url": "https://historeetees.com/products/general-patton-t-shirt"
+    },
+    {
+      "position": 17,
+      "product_id": 8231293714656,
+      "title": "Pompeii \"Fun\" Run T-Shirt",
+      "url": "https://historeetees.com/products/pompeii-fun-run-t-shirt"
+    },
+    {
+      "position": 18,
+      "product_id": 7644709814496,
+      "title": "Pickett Do What Now T-Shirt",
+      "url": "https://historeetees.com/products/george-pickett-t-shirt"
+    },
+    {
+      "position": 19,
+      "product_id": 9686945497312,
+      "title": "Doolittle Raid T-Shirt",
+      "url": "https://historeetees.com/products/doolittle-raid-t-shirt"
+    },
+    {
+      "position": 20,
+      "product_id": 7583760089312,
+      "title": "Titanic Swim Team T-Shirt",
+      "url": "https://historeetees.com/products/titanic-swim-team-t-shirt"
+    },
+    {
+      "position": 21,
+      "product_id": 7749706121440,
+      "title": "Chamberlain T-Shirt",
+      "url": "https://historeetees.com/products/chamberlain-t-shirt"
+    },
+    {
+      "position": 22,
+      "product_id": 8041557852384,
+      "title": "Donner Party Restaurant Review T-Shirt",
+      "url": "https://historeetees.com/products/donner-party-restaurant-review-t-shirt"
+    },
+    {
+      "position": 23,
+      "product_id": 7554244575456,
+      "title": "History Is Importanter T-Shirt",
+      "url": "https://historeetees.com/products/history-is-importanter-t-shirt"
+    },
+    {
+      "position": 24,
+      "product_id": 7560249704672,
+      "title": "Roman Walks Into a Bar T-Shirt",
+      "url": "https://historeetees.com/products/roman-walks-into-a-bar-white-t-shirt"
+    },
+    {
+      "position": 25,
+      "product_id": 9271412064480,
+      "title": "Six Frigates T-Shirt",
+      "url": "https://historeetees.com/products/six-frigates-t-shirt"
+    },
+    {
+      "position": 26,
+      "product_id": 7834149716192,
+      "title": "It's OK If You Don't Like History T-Shirt",
+      "url": "https://historeetees.com/products/its-ok-if-you-dont-like-history-t-shirt-1"
+    },
+    {
+      "position": 27,
+      "product_id": 7588512039136,
+      "title": "Destroyed Ourselves Lincoln T-Shirt",
+      "url": "https://historeetees.com/products/destroyed-ourselves-lincoln-t-shirt"
+    },
+    {
+      "position": 28,
+      "product_id": 9857820426464,
+      "title": "Duck And Cover T-Shirt",
+      "url": "https://historeetees.com/products/duck-and-cover-t-shirt"
+    },
+    {
+      "position": 29,
+      "product_id": 7554356871392,
+      "title": "Don't Make Me Repeat Myself T-Shirt",
+      "url": "https://historeetees.com/products/dont-make-me-repeat-myself-t-shirt"
+    },
+    {
+      "position": 30,
+      "product_id": 7563907039456,
+      "title": "Booker T Washington T-Shirt",
+      "url": "https://historeetees.com/products/booker-t-washington-t-shirt"
+    },
+    {
+      "position": 31,
+      "product_id": 7986212077792,
+      "title": "Edmund Fitzgerald T-Shirt",
+      "url": "https://historeetees.com/products/edmund-fitzgerald-t-shirt"
+    },
+    {
+      "position": 32,
+      "product_id": 9721439322336,
+      "title": "250th Anniversary Soldier T-Shirt",
+      "url": "https://historeetees.com/products/250th-anniversary-soldier-t-shirt"
+    },
+    {
+      "position": 33,
+      "product_id": 9909446344928,
+      "title": "Porsche Tiger T-Shirt",
+      "url": "https://historeetees.com/products/porsche-tiger-t-shirt"
+    },
+    {
+      "position": 34,
+      "product_id": 10002798706912,
+      "title": "Cross A River On Xmas Back Print T-Shirt",
+      "url": "https://historeetees.com/products/cross-a-river-on-xmas-back-print-t-shirt"
+    },
+    {
+      "position": 35,
+      "product_id": 10051637969120,
+      "title": "To Hell And Back - Audie Murphy T-Shirt",
+      "url": "https://historeetees.com/products/to-hell-and-back-audie-murphy-t-shirt"
+    },
+    {
+      "position": 36,
+      "product_id": 7585317978336,
+      "title": "Teddy Riding Moose T-Shirt",
+      "url": "https://historeetees.com/products/tr-moose-t-shirt"
+    },
+    {
+      "position": 37,
+      "product_id": 10078437081312,
+      "title": "Mount Rushmore As Seen From South Dakota T-Shirt",
+      "url": "https://historeetees.com/products/mount-rushmore-as-seen-from-south-dakota-t-shirt"
+    },
+    {
+      "position": 38,
+      "product_id": 10094190657760,
+      "title": "Cowpens Scoreboard T-Shirt",
+      "url": "https://historeetees.com/products/cowpens-scoreboard-t-shirt"
+    },
+    {
+      "position": 39,
+      "product_id": 7583748522208,
+      "title": "Like A Regular Teacher T-Shirt",
+      "url": "https://historeetees.com/products/like-a-normal-teacher-but-cooler"
+    },
+    {
+      "position": 40,
+      "product_id": 7585315946720,
+      "title": "Trojan Horse Pinata T-Shirt",
+      "url": "https://historeetees.com/products/trojan-horse-t-shirt"
+    },
+    {
+      "position": 41,
+      "product_id": 7971418046688,
+      "title": "Columbus Don't Be Flat T-Shirt",
+      "url": "https://historeetees.com/products/columbus-dont-be-flat-t-shirt"
+    },
+    {
+      "position": 42,
+      "product_id": 9716719255776,
+      "title": "Island Hopping T-Shirt",
+      "url": "https://historeetees.com/products/island-hopping-t-shirt"
+    },
+    {
+      "position": 43,
+      "product_id": 9892996088032,
+      "title": "Russia In Winter T-Shirt",
+      "url": "https://historeetees.com/products/russia-in-winter-t-shirt"
+    },
+    {
+      "position": 44,
+      "product_id": 9993848553696,
+      "title": "Swamp Fox World Tour T-Shirt",
+      "url": "https://historeetees.com/products/swamp-fox-world-tour-t-shirt"
+    },
+    {
+      "position": 45,
+      "product_id": 10037681488096,
+      "title": "Grey Ghost T-Shirt",
+      "url": "https://historeetees.com/products/grey-ghost-t-shirt"
+    },
+    {
+      "position": 46,
+      "product_id": 10110418911456,
+      "title": "The War Ended On Her Deck T-Shirt",
+      "url": "https://historeetees.com/products/the-war-ended-on-her-deck-t-shirt"
+    },
+    {
+      "position": 47,
+      "product_id": 7568891707616,
+      "title": "We The People Flag T-Shirt",
+      "url": "https://historeetees.com/products/we-the-people-t-shirt"
+    },
+    {
+      "position": 48,
+      "product_id": 7905004912864,
+      "title": "Flags Of The Revolution T-Shirt",
+      "url": "https://historeetees.com/products/flags-of-the-revolution-t-shirt"
+    },
+    {
+      "position": 49,
+      "product_id": 9705816457440,
+      "title": "Freeze Tag T-Shirt",
+      "url": "https://historeetees.com/products/freeze-tag-t-shirt"
+    },
+    {
+      "position": 50,
+      "product_id": 9716736360672,
+      "title": "Francis Marion T-Shirt",
+      "url": "https://historeetees.com/products/francis-marion-t-shirt"
+    },
+    {
+      "position": 51,
+      "product_id": 10000687038688,
+      "title": "USS Texas - Improvise Adapt Overcome Flood T-Shirt",
+      "url": "https://historeetees.com/products/uss-texas-improvise-adapt-overcome-flood-t-shirt"
+    },
+    {
+      "position": 52,
+      "product_id": 10002876563680,
+      "title": "Rome Wasn't Built in a Day T-Shirt",
+      "url": "https://historeetees.com/products/rome-wasnt-built-in-a-day-t-shirt"
+    },
+    {
+      "position": 53,
+      "product_id": 10109930864864,
+      "title": "Imperceptible Encroachments T-Shirt",
+      "url": "https://historeetees.com/products/imperceptible-encroachments-t-shirt"
+    },
+    {
+      "position": 54,
+      "product_id": 7568883089632,
+      "title": "SPQR T-Shirt",
+      "url": "https://historeetees.com/products/spqr-t-shirt"
+    },
+    {
+      "position": 55,
+      "product_id": 7574557524192,
+      "title": "Titanic What The Hell Was That T-Shirt",
+      "url": "https://historeetees.com/products/titanic-what-the-hell-was-that-t-shirt"
+    },
+    {
+      "position": 56,
+      "product_id": 7583757959392,
+      "title": "Favorite Tank Top T-Shirt",
+      "url": "https://historeetees.com/products/tank-top-t-shirt"
+    },
+    {
+      "position": 57,
+      "product_id": 7962840465632,
+      "title": "Iron Brigade T-Shirt",
+      "url": "https://historeetees.com/products/iron-brigade-t-shirt"
+    },
+    {
+      "position": 58,
+      "product_id": 8042005561568,
+      "title": "Pluto Never Forget T-Shirt",
+      "url": "https://historeetees.com/products/pluto-never-forget-t-shirt"
+    },
+    {
+      "position": 59,
+      "product_id": 9231360131296,
+      "title": "Revolutionary Flag 250 T-Shirt",
+      "url": "https://historeetees.com/products/revolutionary-flag-250-t-shirt"
+    },
+    {
+      "position": 60,
+      "product_id": 9982367039712,
+      "title": "Taffy 3 - They Charged Anyway T-Shirt",
+      "url": "https://historeetees.com/products/taffy-3-they-charged-anyway-t-shirt"
+    },
+    {
+      "position": 61,
+      "product_id": 10010245464288,
+      "title": "Puff the Magic Dragon T-Shirt",
+      "url": "https://historeetees.com/products/puff-the-magic-dragon-t-shirt"
+    },
+    {
+      "position": 62,
+      "product_id": 7591734935776,
+      "title": "Floor is Lava T-Shirt",
+      "url": "https://historeetees.com/products/floor-is-lava-t-shirt"
+    },
+    {
+      "position": 63,
+      "product_id": 7835523580128,
+      "title": "Too Cool For British Rule T-Shirt",
+      "url": "https://historeetees.com/products/too-cool-for-british-rule-t-shirt-2"
+    },
+    {
+      "position": 64,
+      "product_id": 9721443320032,
+      "title": "Miracle on Ice T-Shirt",
+      "url": "https://historeetees.com/products/miracle-on-ice-t-shirt"
+    },
+    {
+      "position": 65,
+      "product_id": 9800328315104,
+      "title": "USS Washington at Guadalcanal T-Shirt",
+      "url": "https://historeetees.com/products/uss-washington-at-guadalcanal-t-shirt-1"
+    },
+    {
+      "position": 66,
+      "product_id": 9834731995360,
+      "title": "Sybil Ludington T-Shirt",
+      "url": "https://historeetees.com/products/sybil-ludington-t-shirt"
+    },
+    {
+      "position": 67,
+      "product_id": 9992234860768,
+      "title": "Custer's Last Order T-Shirt",
+      "url": "https://historeetees.com/products/custers-last-order-t-shirt"
+    },
+    {
+      "position": 68,
+      "product_id": 10002798936288,
+      "title": "Doolittle Raid Back Print T-Shirt",
+      "url": "https://historeetees.com/products/doolittle-raid-back-print-t-shirt"
+    },
+    {
+      "position": 69,
+      "product_id": 7626499260640,
+      "title": "Teddy Speech T-Shirt",
+      "url": "https://historeetees.com/products/teddy-speech-t-shirt"
+    },
+    {
+      "position": 70,
+      "product_id": 7640511873248,
+      "title": "Happy Treason Day T-Shirt",
+      "url": "https://historeetees.com/products/happy-treason-day-t-shirt"
+    },
+    {
+      "position": 71,
+      "product_id": 7904981876960,
+      "title": "Sparta - If T-Shirt",
+      "url": "https://historeetees.com/products/sparta-if-t-shirt"
+    },
+    {
+      "position": 72,
+      "product_id": 8042530996448,
+      "title": "Davy Crockett T-Shirt",
+      "url": "https://historeetees.com/products/davy-crockett-t-shirt"
+    },
+    {
+      "position": 73,
+      "product_id": 9933254426848,
+      "title": "The Original Boy Band T-Shirt",
+      "url": "https://historeetees.com/products/the-original-boy-band-t-shirt"
+    },
+    {
+      "position": 74,
+      "product_id": 9934568489184,
+      "title": "Bonnie and Clyde - That Oughta Do It T-Shirt",
+      "url": "https://historeetees.com/products/bonnie-and-clyde-that-oughta-do-it-t-shirt"
+    },
+    {
+      "position": 75,
+      "product_id": 9939172458720,
+      "title": "You're Welcome T-Shirt",
+      "url": "https://historeetees.com/products/youre-welcome-t-shirt"
+    },
+    {
+      "position": 76,
+      "product_id": 10002798772448,
+      "title": "Custer Uh-Oh Back Print T-Shirt",
+      "url": "https://historeetees.com/products/custer-uh-oh-back-print-t-shirt"
+    },
+    {
+      "position": 77,
+      "product_id": 10046897586400,
+      "title": "Who Needs Air Cover T-Shirt",
+      "url": "https://historeetees.com/products/who-needs-air-cover-t-shirt"
+    },
+    {
+      "position": 78,
+      "product_id": 15397071716576,
+      "title": "Saratoga 1777 T-Shirt",
+      "url": "https://historeetees.com/products/saratoga-1777-t-shirt"
+    },
+    {
+      "position": 79,
+      "product_id": 7568879386848,
+      "title": "Keep Calm and Cite Your Sources T-Shirt",
+      "url": "https://historeetees.com/products/keep-calm-white-t-shirt"
+    },
+    {
+      "position": 80,
+      "product_id": 7582811160800,
+      "title": "Martin Luther Nailed It T-Shirt",
+      "url": "https://historeetees.com/products/martin-luther-nailed-it-t-shirt-1"
+    },
+    {
+      "position": 81,
+      "product_id": 7582823416032,
+      "title": "Well Behaved Women T-Shirt",
+      "url": "https://historeetees.com/products/well-behaved-women-t-shirt"
+    },
+    {
+      "position": 82,
+      "product_id": 7583765397728,
+      "title": "We the People T-Shirt",
+      "url": "https://historeetees.com/products/we-the-people-3-t-shirt"
+    },
+    {
+      "position": 83,
+      "product_id": 7590627803360,
+      "title": "Teutoburg Forest T-Shirt",
+      "url": "https://historeetees.com/products/teutoberg-forest-t-shirt"
+    },
+    {
+      "position": 84,
+      "product_id": 7591703118048,
+      "title": "Skulls of Their Enemies T-Shirt",
+      "url": "https://historeetees.com/products/skulls-of-enemies-t-shirt"
+    },
+    {
+      "position": 85,
+      "product_id": 7922480447712,
+      "title": "Nuts T-Shirt",
+      "url": "https://historeetees.com/products/nuts-t-shirt"
+    },
+    {
+      "position": 86,
+      "product_id": 7971207938272,
+      "title": "Fight On The Seas And Beaches T-Shirt",
+      "url": "https://historeetees.com/products/fight-on-the-seas-and-beaches-t-shirt"
+    },
+    {
+      "position": 87,
+      "product_id": 8216058233056,
+      "title": "Sisyphus Fitness Plan T-Shirt",
+      "url": "https://historeetees.com/products/sisyphus-fitness-plan-t-shirt"
+    },
+    {
+      "position": 88,
+      "product_id": 9636018585824,
+      "title": "1776 Brexit T-Shirt",
+      "url": "https://historeetees.com/products/1776-brexit-t-shirt"
+    },
+    {
+      "position": 89,
+      "product_id": 9909434548448,
+      "title": "Boaty McBoatface T-Shirt",
+      "url": "https://historeetees.com/products/boaty-mcboatface-t-shirt"
+    },
+    {
+      "position": 90,
+      "product_id": 9919372034272,
+      "title": "We Choose To Go To The Moon T-Shirt",
+      "url": "https://historeetees.com/products/we-choose-to-go-to-the-moon-t-shirt"
+    },
+    {
+      "position": 91,
+      "product_id": 10000669081824,
+      "title": "Mad Jack Churchill T-Shirt",
+      "url": "https://historeetees.com/products/mad-jack-churchill-t-shirt"
+    },
+    {
+      "position": 92,
+      "product_id": 10051605430496,
+      "title": "Flight 19 - Still Out There T-Shirt",
+      "url": "https://historeetees.com/products/flight-19-still-out-there-t-shirt"
+    },
+    {
+      "position": 93,
+      "product_id": 10076188508384,
+      "title": "Back To The Ships T-Shirt",
+      "url": "https://historeetees.com/products/back-to-the-ships-t-shirt"
+    },
+    {
+      "position": 94,
+      "product_id": 10084556832992,
+      "title": "They Saved Him The Trip T-Shirt",
+      "url": "https://historeetees.com/products/they-saved-him-the-trip-t-shirt"
+    },
+    {
+      "position": 95,
+      "product_id": 7556143022304,
+      "title": "Rosa Parks \"Nah\" T-Shirt",
+      "url": "https://historeetees.com/products/rosa-parks-nah-t-shirt-1"
+    },
+    {
+      "position": 96,
+      "product_id": 7575493050592,
+      "title": "Reagan Bush T-Shirt",
+      "url": "https://historeetees.com/products/reagan-bush-t-shirt"
+    },
+    {
+      "position": 97,
+      "product_id": 7575494426848,
+      "title": "Rosie T-Shirt",
+      "url": "https://historeetees.com/products/rosie-t-shirt"
+    },
+    {
+      "position": 98,
+      "product_id": 7575496392928,
+      "title": "Sweat More Bleed Less T-Shirt",
+      "url": "https://historeetees.com/products/sweat-more-bleed-less-t-shirt"
+    },
+    {
+      "position": 99,
+      "product_id": 7588568760544,
+      "title": "Teddy T-Shirt",
+      "url": "https://historeetees.com/products/teddy-roosevelt-t-shirt"
+    },
+    {
+      "position": 100,
+      "product_id": 7681310949600,
+      "title": "Dinosaur T-Shirt",
+      "url": "https://historeetees.com/products/dinosaur-t-shirt"
+    }
+  ]
+}

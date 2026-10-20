@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 10 front-design references documented; back placement unverified. No family synthesis started.
+Status: Collection in progress. 25 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -14,10 +14,10 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
-| HistoreeTees | 20 | 0 | Verify current bestseller route from preserved source research |
+| HistoreeTees | 20 | 5 | Batch 001; next position 6; backs unverified |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **20** | **Collection in progress; front-only merchandise not certified** |
+| **Total source-level slots** | **220** | **25** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -88,3 +88,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Snorg batch 004](batches/SNORG-004.md): cumulative 20/220 source records. Latest cursor supersedes earlier entries: resume position 24. All backs remain unverified.
 
 - Snorg allocation reached: 20 front-design records (17 new, 3 carried forward), plus one held franchise-object boundary at position 18. Existing Oxford Comma at position 33 remains supplementary outside this ordered allocation. Next source: HistoreeTees, establish current ordered recent-best-sellers route and reconcile prior IDs. No need to expand Snorg past its allocation unless a collected reference is subsequently ineligible.
+
+- [HistoreeTees batch 001](batches/HISTOREE-001.md): cumulative 25/220 source records; resume this source at position 6. Backs remain unverified.
