@@ -8,7 +8,8 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Seller: Life is Good; individual designer unknown.
 - Route: https://lifeisgood.com/collections/best-sellers?sortBy=best_sellers&sortOrder=descending
 - Evidence: live browser selected **Best sellers**, 262 collection products, page 1, displayed position 35; observed 2026-10-20. Shopify feed order differs and is not used for positions. Seller ordering is a commercial proxy, not audited unit sales or a disclosed ranking window.
-- Source image: https://cdn.shopify.com/s/files/1/0689/2647/2508/files/158831_1.jpg?v=1743001332
+- Current collection-card image URL (membership check, not the retained file): https://cdn.shopify.com/s/files/1/0689/2647/2508/files/158831_1.jpg?v=1743001332
+- Retained original image, captured in initial discovery on 2026-10-20: https://cdn.shopify.com/s/files/1/0689/2647/2508/files/148629_1.jpg?v=1773063915&width=1000 . Original metadata remains in discovery-28/source-manifest.json; hash below refers to this retained image.
 - SHA-256: `40c75f77df05fd7b05e52ca1d837b9a75627875ec0e207d52746705087533045`. Retained original observed CDN rendition, without alteration; image sizes vary.
 - Eligibility: adult tee, complete predefined graphic; optional customization does not make it template-dependent. No identifiable licensed fictional character or celebrity depicted. Brand equity and subject affinity remain confounds.
 - Placement: front visible; no affirmative blank-back evidence established. Known sleeve graphics and all-over treatments excluded from front-only sample. Do not certify blank backs from missing views.

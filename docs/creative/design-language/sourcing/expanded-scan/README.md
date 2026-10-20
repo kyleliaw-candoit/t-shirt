@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 208 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection paused at the source-allocation checkpoint. 208/220 front-design references saved and verified; backs unverified. Seven source allocations complete; Bee & The Fox shortfall12 requires allocation decision. No family synthesis started.
 
 ## Approved scope
 
@@ -9,7 +9,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
-| Etsy | 40 | 40 | Batch008; next card128; individual badges verified |
+| Etsy | 40 | 40 | Complete; individual Bestseller badges; stopped page3/card7 (cumulative127) |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
 | Zazzle | 40 | 40 | Allocation collected:20 men +20 women; backs unverified |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
@@ -17,7 +17,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **208** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **208** | **Paused:12-slot allocation decision** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -170,3 +170,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Etsy batch 007](batches/ETSY-007.md): cumulative 203/220. Accepted89,90,92,102,103. No badge82–84,91,93,95,96,101. Sponsored85–88,97–100 skipped.94 held outside count: seller explicitly frames current named-public-figure death-related political message; boundary with celebrity/public-figure exclusion requires review, not silently treated as generic crow art.
 
 - [Etsy batch 008](batches/ETSY-008.md): cumulative 208/220. Accepted107,108,114,117 and page3/card7(cumulative127). No badge104,106,115,116,118–120,125,126;105 excluded named Elephant and Piggie characters. Sponsored109–112,121–124 skipped.113 held outside count: named fictional Hobbit identity, franchise boundary.126 also displays National Geographic logo.128 inspected lookahead lacks badge, not needed. Etsy40 quota complete; retained 3-page roster, source is relevance discovery plus individual badges, not top40 sales rank.
+
+## Current handoff
+
+See [collection checkpoint and decision](Collection-Checkpoint-208.md). Execution is paused after the published verification checkpoint, not running in the background. Do not start comparisons or recipe-family development until the Founder has been reminded to switch Astra Medium to Astra Extra High.
