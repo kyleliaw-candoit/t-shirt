@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 103 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 108 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -10,14 +10,14 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
 | Etsy | 40 | 0 | Establish reproducible discovery route and listing-level badge evidence |
-| Redbubble | 40 | 15 | RB-men batch 003; next position 18 |
+| Redbubble | 40 | 20 | RB-men batch 004; next position 25 |
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **103** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **108** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -128,3 +128,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [RB-men batch 002](batches/RB-men-002.md): cumulative 98/220. Accepted positions 8–12 as DLS-RB-006–010. Position 8 is a predefined named support-campaign design, not a blank personalization template; campaign solidarity may dominate purchase intent. No exclusions in this batch. Image-export recovery successful; count only verified files.
 
 - [RB-men batch 003](batches/RB-men-003.md): cumulative 103/220. Accepted positions 13–17 as DLS-RB-011–015. No exclusions in this batch; decorative Japanese characters not independently translated. Designs retained as visual references, not permission to reuse artwork.
+
+- [RB-men batch 004](batches/RB-men-004.md): cumulative 108/220. Accepted positions 18,19,20,23,24 as DLS-RB-016–020. Position 21 held: Star Wars franchise vehicles/setting boundary; position 22 excluded: Kenny G celebrity depiction. Men's route reached 20 distinct accepted artworks at position 24.

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "DLS-RB-016",
+    "route": "RB-men",
+    "position": 18,
+    "creator": "Tobe Fonseca\u00ae",
+    "image_sha256": "91c909bf11c6c060a19aff222120ac9e5dc9f94eb13b8fc2ae5e1f6449db9a23",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-RB-017",
+    "route": "RB-men",
+    "position": 19,
+    "creator": "Steven Rhodes",
+    "image_sha256": "d35967d290ff5ca395c96765e3e1c88a8012a4d7e21b5e10b6f004b02a158b50",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-RB-018",
+    "route": "RB-men",
+    "position": 20,
+    "creator": "chestify",
+    "image_sha256": "3be30eed080baa336778f4ad843b2598288744e33a7fb3d33f21ef14c63347d2",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-RB-019",
+    "route": "RB-men",
+    "position": 23,
+    "creator": "Tingsy",
+    "image_sha256": "c86954012173b6509fdeb3ec9de4e2726912e2ca07de663b16b18849d9ac4dce",
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-RB-020",
+    "route": "RB-men",
+    "position": 24,
+    "creator": "maryedenoa",
+    "image_sha256": "7a55d1f2c2b500e7d9a990a282fb691a97cd2fc083bd679246dc777dc2ff2588",
+    "back_status": "unverified"
+  }
+]
