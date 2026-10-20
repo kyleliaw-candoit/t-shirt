@@ -7,7 +7,7 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Product: https://slothhikingclub.com/products/blowing-wishes-t-shirt
 - Seller: Sloth Hiking Club; individual designer unknown.
 - Route: https://slothhikingclub.com/collections/frontpage — default order, observed 2026-10-20, position 4, displayed page 1. Compact feed roster retained; displayed first-page order checked.
-- Commercial signal: seller-designated Current Best Sellers collection membership, not audited sales or sales rank.
+- Commercial signal: seller-designated Bestsellers collection (default Featured order) membership, not audited sales or sales rank.
 - Source image: https://cdn.shopify.com/s/files/1/0681/7359/4823/files/6ad1df3c-eb50-4d5e-9b8d-1372ba706f1f_f4fb69b3-50f7-47cf-866c-bd081e5da382.webp?v=1775522078
 - Retained SHA-256: `59d436db70e2eed50a3e3ea65a15e3a9607e86b4f400dc35d1bd48750d329021`. Seller CDN rendition requested at width 1000 and format=jpg; source content unchanged, JPEG compression applied by CDN.
 - Eligibility: adult physical tee; complete predefined design. Generic nature/animal subjects; no identified entertainment celebrity or licensed fictional character dependency. Bigfoot is treated as a generic folkloric creature.

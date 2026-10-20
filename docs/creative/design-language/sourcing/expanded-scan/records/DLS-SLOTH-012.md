@@ -7,7 +7,7 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Product: https://slothhikingclub.com/products/i-love-peeing-outside-t-shirt
 - Seller: Sloth Hiking Club; individual designer unknown.
 - Route: https://slothhikingclub.com/collections/frontpage — default order, observed 2026-10-20, position 10, displayed page 1. Compact feed roster retained; displayed first-page order checked.
-- Commercial signal: seller-designated Current Best Sellers collection membership, not audited sales or sales rank.
+- Commercial signal: seller-designated Bestsellers collection (default Featured order) membership, not audited sales or sales rank.
 - Source image: https://cdn.shopify.com/s/files/1/0681/7359/4823/files/165_e7fa4613-2dd3-4010-91be-5df506f0235a.png?v=1738169141
 - Retained SHA-256: `5e13a1cb165fcc3977e46dfe513fcd1c88b3736280500a97b516e56d16f387ad`. Seller CDN rendition requested at width 1000 and format=jpg; source content unchanged, JPEG compression applied by CDN.
 - Eligibility: adult physical tee; complete predefined design. Generic nature/animal subjects; no identified entertainment celebrity or licensed fictional character dependency. Bigfoot is treated as a generic folkloric creature.

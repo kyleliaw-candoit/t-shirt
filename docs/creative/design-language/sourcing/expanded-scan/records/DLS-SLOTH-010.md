@@ -7,7 +7,7 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Product: https://slothhikingclub.com/products/bad-knees-t-shirt
 - Seller: Sloth Hiking Club; individual designer unknown.
 - Route: https://slothhikingclub.com/collections/frontpage — default order, observed 2026-10-20, position 7, displayed page 1. Compact feed roster retained; displayed first-page order checked.
-- Commercial signal: seller-designated Current Best Sellers collection membership, not audited sales or sales rank.
+- Commercial signal: seller-designated Bestsellers collection (default Featured order) membership, not audited sales or sales rank.
 - Source image: https://cdn.shopify.com/s/files/1/0681/7359/4823/files/13_a6915790-4910-4611-a0ab-4ec3dc1438fa.png?v=1737642566
 - Retained SHA-256: `1fc64e2999f76fa15c0a52990e0e6f264f10acc3525b8fec48b33c80c7ec3020`. Seller CDN rendition requested at width 1000 and format=jpg; source content unchanged, JPEG compression applied by CDN.
 - Eligibility: adult physical tee; complete predefined design. Generic nature/animal subjects; no identified entertainment celebrity or licensed fictional character dependency. Bigfoot is treated as a generic folkloric creature.

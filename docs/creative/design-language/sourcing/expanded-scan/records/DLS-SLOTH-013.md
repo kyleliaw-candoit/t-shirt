@@ -7,7 +7,7 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Product: https://slothhikingclub.com/products/slow-hiking-society-snail-t-shirt
 - Seller: Sloth Hiking Club; individual designer unknown.
 - Route: https://slothhikingclub.com/collections/frontpage — default order, observed 2026-10-20, position 11, displayed page 1. Compact feed roster retained; displayed first-page order checked.
-- Commercial signal: seller-designated Current Best Sellers collection membership, not audited sales or sales rank.
+- Commercial signal: seller-designated Bestsellers collection (default Featured order) membership, not audited sales or sales rank.
 - Source image: https://cdn.shopify.com/s/files/1/0681/7359/4823/files/cf4aefe3-c530-4483-b756-a9a025396c10_dc9260a4-ad6e-4475-9712-044d67734d5e.webp?v=1773931055
 - Retained SHA-256: `662be4df483078a74359d8d2505ac55e0228360bf3182a18b48018808bb6280b`. Seller CDN rendition requested at width 1000 and format=jpg; source content unchanged, JPEG compression applied by CDN.
 - Eligibility: adult physical tee; complete predefined design. Generic nature/animal subjects; no identified entertainment celebrity or licensed fictional character dependency. Bigfoot is treated as a generic folkloric creature.

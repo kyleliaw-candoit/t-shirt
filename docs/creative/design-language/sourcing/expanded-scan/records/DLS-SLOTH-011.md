@@ -7,7 +7,7 @@ Status: collected front-design reference; back placement unverified. No recipe c
 - Product: https://slothhikingclub.com/products/stump-of-life-t-shirt
 - Seller: Sloth Hiking Club; individual designer unknown.
 - Route: https://slothhikingclub.com/collections/frontpage — default order, observed 2026-10-20, position 8, displayed page 1. Compact feed roster retained; displayed first-page order checked.
-- Commercial signal: seller-designated Current Best Sellers collection membership, not audited sales or sales rank.
+- Commercial signal: seller-designated Bestsellers collection (default Featured order) membership, not audited sales or sales rank.
 - Source image: https://cdn.shopify.com/s/files/1/0681/7359/4823/files/59_32408bc6-939f-4d5a-abad-85e63fa497ca.png?v=1738651832
 - Retained SHA-256: `832bead0b83b6463293a6596777ab2c6dac17ec7bdeb5b26355228860506400e`. Seller CDN rendition requested at width 1000 and format=jpg; source content unchanged, JPEG compression applied by CDN.
 - Eligibility: adult physical tee; complete predefined design. Generic nature/animal subjects; no identified entertainment celebrity or licensed fictional character dependency. Bigfoot is treated as a generic folkloric creature.

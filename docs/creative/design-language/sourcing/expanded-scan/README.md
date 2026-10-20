@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 55 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 60 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -16,8 +16,8 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
-| Sloth Hiking Club | 20 | 15 | Batch 003; next position 16; backs unverified |
-| **Total source-level slots** | **220** | **55** | **Collection in progress; front-only merchandise not certified** |
+| Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
+| **Total source-level slots** | **220** | **60** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -104,3 +104,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Sloth Hiking Club batch 002](batches/SLOTH-002.md): cumulative 50/220 source records; resume this source at position 11. Backs remain unverified.
 
 - [Sloth Hiking Club batch 003](batches/SLOTH-003.md): cumulative 55/220 source records; resume this source at position 16. Backs remain unverified.
+
+- [Sloth Hiking Club batch 004](batches/SLOTH-004.md): cumulative 60/220 source records; resume this source at position 21. Backs remain unverified.
+
+- Sloth allocation reached: 20 front references, 17 new and three carried forward. Birds & Flowers at position 23 remains supplementary. Collection membership is the signal; its displayed default Featured order is not an asserted sales rank. Next source: The Bee & The Fox.
