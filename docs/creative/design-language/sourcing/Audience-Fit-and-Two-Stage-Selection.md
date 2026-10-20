@@ -12,7 +12,7 @@ A seller-designated bestseller may sell because of subject matter, visual treatm
 
 ## Two stages
 
-1. **Discovery/admission:** Is the source commercially signaled and visually useful? Capture the exact evidence, shirt/graphic relationship and original marketing context. Admit useful contrast even when no current target application is obvious. Four initial slots each for SimplyCuteTees and The Bee & The Fox are authorized. Selection for breadth is not a sales ranking.
+1. **Discovery/admission:** Is the source commercially signaled and visually useful? Capture the exact evidence, shirt/graphic relationship and original marketing context. Admit useful contrast even when no current target application is obvious. The completed discovery batch contains four initial slots each from seven authorized sources. Selection for breadth is not a sales ranking.
 2. **Application selection:** Given a specific identity subgroup, material and concept, does the visual language support comprehension, emotional tone, identity expression and willingness to wear? State the fit hypothesis and evidence, adapt the relationships, inspect the garment result, and preserve feedback. A discovery source is not automatically recommended for every audience.
 
 These are workflow stages, not additional permission gates. Existing candidate/evidence statuses remain separate: observed source context; proposed transfer; application-tested; customer evidence if later available. Never promote internal approval to customer validation.
@@ -30,9 +30,9 @@ For taste calibration, ask both “Can they understand who this is for?” and �
 
 ## Initial execution
 
-[Initial-slot source cards with retained images](initial-eight/README.md) fill four Bee & The Fox slots and one SimplyCuteTees slot; three SimplyCuteTees slots remain open after excluding back prints. This adds visual breadth; it does not yet establish recurring recipe clusters or validated transfer. Next, compare these images with the broader set, identify candidate relationships and test only the promising audience/concept matches. Keep counterexamples and fit failures.
+[The completed 28-design batch](discovery-28/README.md) contains four sources each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. It adds visual breadth without establishing recurring recipe clusters or validated transfer. Next compare the images, identify candidate relationships and test promising audience/concept matches. Keep counterexamples and fit failures.
 
 
 ### Front-only launch constraint — October 19 clarification
 
-POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](initial-eight/README.md).
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](discovery-28/README.md).

@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "DLS-SCT-005",
+    "title": "Girlie Girl Lulu Mac Polka Dot Comfort Colors T-Shirt",
+    "seller": "SimplyCuteTees",
+    "brand": "Girlie Girl",
+    "product_id": 8174315503663,
+    "product_url": "https://www.simplycutetees.com/collections/best-selling/products/girlie-girl-lulu-mac-polka-dot-comfort-colors-t-shirt",
+    "collection_url": "https://www.simplycutetees.com/collections/best-selling",
+    "page": 1,
+    "collection_position": 25,
+    "sort": "default; not verified sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "available_at_capture": true,
+    "retrieved_at_utc": "2026-10-20",
+    "stage_1": "admitted: visible front graphic",
+    "stage_2": "untested for a target concept",
+    "observed_visuals": "Broad collegiate arch in pale outlined slab capitals with pink polka-dot fill, on bright pink crewneck. Type itself is the graphic.",
+    "listed_garment_and_unknowns": "Seller names Comfort Colors and relaxed fit. Exact fiber and weight unknown; visible short sleeve crewneck.",
+    "observed_marketing_context": "Brand-name fashion statement; seller positions as nostalgic/retro casual apparel. Actual buyer demographics unknown.",
+    "transfer_hypothesis": "Patterned collegiate lettering may suit a playful subgroup, but branding can explain appeal. Pattern must not undermine the new concept’s reading hierarchy. No evidence of fit for either treasure hunters or Asian-food lovers yet.",
+    "limitations": "Front graphic visible; no back image or explicit blank-back confirmation. Admitted for study of front placement, not proof of an otherwise unprinted garment. Only primary view retained; brand affinity confound.",
+    "images": [
+      {
+        "path": "../initial-eight/assets/DLS-SCT-005.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0423/1713/files/imgi_6_samb2oa31rxkpwncfvhl_1024x1024_10c75ac5-4fc9-4d08-a139-dd34dee54418.png?v=1771394671",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0423/1713/files/imgi_6_samb2oa31rxkpwncfvhl_1024x1024_10c75ac5-4fc9-4d08-a139-dd34dee54418.png?v=1771394671&width=800",
+        "dimensions": [
+          800,
+          800
+        ],
+        "sha256": "c11cab5257305d2bdf6e1c3240777e7788476402c47ad29d2fed96ff28d1a0b3"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence",
+    "source_route": "SCT",
+    "candidate_relationship": "Pattern-filled collegiate lettering",
+    "evidence_location": "../initial-eight/SCT-collection.json"
+  },
+  {
+    "id": "DLS-SCT-006",
+    "source_route": "SCT",
+    "title": "Southern Couture Soft Collection To The Beach I Go front print T-Shirt",
+    "seller": "SimplyCuteTees",
+    "brand": "Southern Couture",
+    "product_id": 4878455504943,
+    "product_url": "https://www.simplycutetees.com/products/southern-couture-soft-collection-to-the-beach-i-go-front-print-t-shirt",
+    "collection_url": "https://www.simplycutetees.com/collections/best-selling",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SCT-006",
+    "candidate_relationship": "Retro beach lettering and landscape",
+    "observed_visuals": "Cream condensed letters bend around orange/peach sun, teal waves and small stars; warm/cool accents and distressed texture form a tall compact mass.",
+    "observed_garment_relationship": "Charcoal crewneck supplies dark gaps; medium-to-large center-front composition. Cut, fiber and weight not specified.",
+    "listed_garment_and_unknowns": "Charcoal crewneck supplies dark gaps; medium-to-large center-front composition. Cut, fiber and weight not specified.",
+    "observed_marketing_context": "Beach leisure in a Southern lifestyle store.",
+    "transfer_hypothesis": "Test the curved lettering/scene relationship for a relaxed travel or leisure concept; preserve reading order and one dominant scene.",
+    "limitations": "Seller body names a different beach slogan than title/image. Title and image identify this design; do not import the mismatched wording. Small source image limits texture analysis.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SCT-006-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/SC865CH-2T.png?v=1762462944",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/SC865CH-2T.png?v=1762462944&width=1000",
+        "dimensions": [
+          512,
+          512
+        ],
+        "sha256": "812db1a54bc5f3da7acc75576bc71149633ccb047eb4f30fe27adf7a64a97052",
+        "bytes": 179503,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 1716,
+    "feed_page": 7,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SCT-007",
+    "source_route": "SCT",
+    "title": "Southern Attitude Preppy Paisley Mama Bear Front Print T-Shirt",
+    "seller": "SimplyCuteTees",
+    "brand": "Country Life Outfitters",
+    "product_id": 1060926521391,
+    "product_url": "https://www.simplycutetees.com/products/southern-attitude-preppy-paisley-mama-bear-t-shirt",
+    "collection_url": "https://www.simplycutetees.com/collections/best-selling",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SCT-007",
+    "candidate_relationship": "Pattern-filled animal silhouette",
+    "observed_visuals": "Turquoise, magenta and white paisley fills a walking bear; dark script is integrated into its upper body. Decorative complexity sits inside one recognizable contour.",
+    "observed_garment_relationship": "Compact horizontal front graphic on dark heather crewneck; garment remains visible inside and around the silhouette. Fiber and weight unknown.",
+    "listed_garment_and_unknowns": "Compact horizontal front graphic on dark heather crewneck; garment remains visible inside and around the silhouette. Fiber and weight unknown.",
+    "observed_marketing_context": "Motherhood identity and regional/preppy marketing, not measured buyer demographics.",
+    "transfer_hypothesis": "An original patterned silhouette could combine a recognizable identity object with ornamental appeal; test contour recognition before adding copy.",
+    "limitations": "Seller explicitly calls this front print. Single styled/model image; exact cut and blank-back status unverified. This is a different product from the previously excluded back-print Mama Bear.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SCT-007-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/Mama_Bear_Pasley-500x500.jpg?v=1762460381",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/Mama_Bear_Pasley-500x500.jpg?v=1762460381&width=1000",
+        "dimensions": [
+          500,
+          500
+        ],
+        "sha256": "8f2475199d5cc7e7716eb2d96aba30d28f6b0b666dc1f5f1ca5ba2a099bb954f",
+        "bytes": 58779,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 1901,
+    "feed_page": 8,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SCT-008",
+    "source_route": "SCT",
+    "title": "Southern Couture Soft Collection Leave the Judgin' to Jesus front print T-Shirt",
+    "seller": "SimplyCuteTees",
+    "brand": "Southern Couture",
+    "product_id": 4878442528815,
+    "product_url": "https://www.simplycutetees.com/products/southern-couture-soft-collection-leave-the-judgin-to-jesus-front-print-t-shirt",
+    "collection_url": "https://www.simplycutetees.com/collections/best-selling",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SCT-008",
+    "candidate_relationship": "Script and slab statement",
+    "observed_visuals": "Turquoise and peach looping script crosses white slab capitals; the rigid central word anchors two fluid lines. Light distress unifies the lettering.",
+    "observed_garment_relationship": "Medium-large center-front block on charcoal crewneck; dark negative space separates strokes. Seller gives adult sizes; fiber, cut and weight unknown.",
+    "listed_garment_and_unknowns": "Medium-large center-front block on charcoal crewneck; dark negative space separates strokes. Seller gives adult sizes; fiber, cut and weight unknown.",
+    "observed_marketing_context": "Christian message in Southern lifestyle retail; faith affinity may drive demand.",
+    "transfer_hypothesis": "Test contrast between a firm setup and flowing emotional line only when it matches the concept rhythm. Do not assign a script line extra weight without semantic reason.",
+    "limitations": "Front-print title and image agree; only one view. Small brand caption is on the front. No physical print dimensions.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SCT-008-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/SC840CH-2T.png?v=1762462928",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0423/1713/products/SC840CH-2T.png?v=1762462928&width=1000",
+        "dimensions": [
+          512,
+          512
+        ],
+        "sha256": "629fe9538dc94ccc5d9a832ee64c7bd4074cf33315629ea85b539c5dc82be938",
+        "bytes": 157042,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 2014,
+    "feed_page": 9,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-BEE-001",
+    "title": "Mama Bird Shirt for Women",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 7261569921,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/mama-bird-shirt",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 1,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-001",
+    "observed_visuals": "Rounded heavy serif, two compact centered lines, black on cream, no illustration.",
+    "listed_garment_and_unknowns": "Fitted crewneck; 100% cotton; white or natural options (seller-listed).",
+    "observed_marketing_context": "Motherhood identity; retro-casual styling visible.",
+    "transfer_hypothesis": "Short self-identification could suit a retro-oriented subgroup. Food or hunting context must be clear in original wording or a new cue; this source does not establish either audience’s taste.",
+    "limitations": "Hair overlaps the print; tucked/layered styling is not a crop specification.",
+    "candidate_relationship": "Compact rounded-serif declaration",
+    "images": [
+      {
+        "path": "../initial-eight/assets/DLS-BEE-001-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/files/338A2992-4.jpg?v=1712685027",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/files/338A2992-4.jpg?v=1712685027&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "06c081bc439bdeaceda72d920774ecefcf919c11f021546df07ccf7543a59a44"
+      },
+      {
+        "path": "../initial-eight/assets/DLS-BEE-001-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/mamabird_shirt_thebee_thefox-67.jpg?v=1712685027",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/mamabird_shirt_thebee_thefox-67.jpg?v=1712685027&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "529f290013d5662ed9156b345ceb398ee3c3773045aca584cb6dfb8ddfd3be26"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence",
+    "source_route": "BEE",
+    "evidence_location": "../initial-eight/BEE-collection.json"
+  },
+  {
+    "id": "DLS-BEE-002",
+    "title": "Here's to Strong Women Shirt",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 3962595803159,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/heres-to-strong-women",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 6,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-002",
+    "observed_visuals": "Tall condensed capitals, small introduction above two dominant lines, grey on pale ground; broad chest block without a frame.",
+    "listed_garment_and_unknowns": "Fitted crewneck; 100% cotton; sage/off-white with grey ink (seller-listed).",
+    "observed_marketing_context": "Women’s solidarity message and women’s apparel positioning.",
+    "transfer_hypothesis": "Useful comparison to DLR-001: softened contrast and fitted light garment change its voice. A strong identity message may account for appeal more than typography.",
+    "limitations": "Lighting shifts apparent garment color; no exact print dimensions.",
+    "candidate_relationship": "Condensed statement on pale fitted tee",
+    "images": [
+      {
+        "path": "../initial-eight/assets/DLS-BEE-002-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/Here_stoStrongWomen_crewneck_TheBee_TheFox_-58.jpg?v=1620261882",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/Here_stoStrongWomen_crewneck_TheBee_TheFox_-58.jpg?v=1620261882&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "d839324f23f2ddc058bdfa401d893de18213bea978942c25cec934f9ebd8fa57"
+      },
+      {
+        "path": "../initial-eight/assets/DLS-BEE-002-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/The_Bee_The_Fox-354_b309d6d9-3823-432d-b740-0cb2622097f8.jpg?v=1620261882",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/The_Bee_The_Fox-354_b309d6d9-3823-432d-b740-0cb2622097f8.jpg?v=1620261882&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "24fe018c763d9604e7ba3c1a6cdb2353bcc1a255a73e831e8ee076fddab2eeee"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence",
+    "source_route": "BEE",
+    "evidence_location": "../initial-eight/BEE-collection.json"
+  },
+  {
+    "id": "DLS-BEE-003",
+    "title": "Feel Your Feelings | Fitted Ringer",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 7118420541635,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/feel-your-feelings",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 7,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-003",
+    "observed_visuals": "Chunky rounded mixed-case letters form a staggered three-line mass; light lettering echoes collar and sleeve trim.",
+    "listed_garment_and_unknowns": "Fitted ringer; 100% cotton; seller calls color plum, photograph appears warm rust under its lighting.",
+    "observed_marketing_context": "Emotional self-expression with deliberately retro styling.",
+    "transfer_hypothesis": "Test for audiences that want a warm playful voice; not an automatic match for every nostalgic or food concept. Long explanatory copy would disrupt the compact mass.",
+    "limitations": "Do not infer ink color or actual blank color from warm lifestyle lighting.",
+    "candidate_relationship": "Playful type coordinated with ringer trim",
+    "images": [
+      {
+        "path": "../initial-eight/assets/DLS-BEE-003-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-7.jpg?v=1648056729",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-7.jpg?v=1648056729&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "1e9d170e6027f52c5267a8eb52774310b28ddb818e7f59cbce802e887e5ac3cd"
+      },
+      {
+        "path": "../initial-eight/assets/DLS-BEE-003-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-13.jpg?v=1648056729",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/FeelYourFeelings_TheBee_TheFox_-13.jpg?v=1648056729&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "85bde71d979e26b61f23ccc5758b267fb44101f74373249a9f78e472324e9ad0"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence",
+    "source_route": "BEE",
+    "evidence_location": "../initial-eight/BEE-collection.json"
+  },
+  {
+    "id": "DLS-BEE-004",
+    "title": "Peace Sign Fitted Ringer for Women",
+    "seller": "The Bee & The Fox",
+    "brand": "The Bee & The Fox",
+    "product_id": 6846680596675,
+    "product_url": "https://www.thebeeandthefox.com/collections/best-sellers/products/peace-sign-t-shirt",
+    "collection_url": "https://www.thebeeandthefox.com/collections/best-sellers",
+    "collection_position": 8,
+    "page": 1,
+    "sort": "default; not verified as sales rank",
+    "commercial_signal": "seller-designated best-seller collection membership",
+    "retrieved_at_utc": "2026-10-20",
+    "available_at_capture": true,
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-BEE-004",
+    "observed_visuals": "One oversized light peace symbol, open interior, no copy; light collar and cuffs repeat the mark’s color on warm ground.",
+    "listed_garment_and_unknowns": "Fitted ringer; rust with white trim; 100% cotton (seller-listed).",
+    "observed_marketing_context": "Peace/hippie association explicitly present in product positioning.",
+    "transfer_hypothesis": "A single-symbol treatment needs an equally recognizable identity cue; replacing it with an ambiguous object loses the immediate read.",
+    "limitations": "Symbol meaning and style are intertwined; no evidence that unrelated symbols sell.",
+    "candidate_relationship": "Single hero symbol with coordinated trim",
+    "images": [
+      {
+        "path": "../initial-eight/assets/DLS-BEE-004-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize1.jpg?v=1635695461",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize1.jpg?v=1635695461&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "4ef7ab4c8883b8675a8d4dce4b4a943978ca616137d18f142fb534ec26c3baeb"
+      },
+      {
+        "path": "../initial-eight/assets/DLS-BEE-004-1.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize2.jpg?v=1635695461",
+        "requested_url": "https://cdn.shopify.com/s/files/1/1373/5123/products/websize2.jpg?v=1635695461&width=1000",
+        "dimensions": [
+          1000,
+          1500
+        ],
+        "sha256": "20a3d194fb5581bcaf5be62c395664e833659aea9450b3049443585382a4ae12"
+      }
+    ],
+    "launch_placement": "front graphic visibly verified; back printing not required or used as evidence",
+    "source_route": "BEE",
+    "evidence_location": "../initial-eight/BEE-collection.json"
+  },
+  {
+    "id": "DLS-SLOTH-001",
+    "source_route": "SLOTH",
+    "title": "Out Of Breath T-shirt",
+    "seller": "Sloth Hiking Club",
+    "brand": "Printify",
+    "product_id": 8282263519431,
+    "product_url": "https://slothhikingclub.com/products/out-of-breath-t-shirt",
+    "collection_url": "https://slothhikingclub.com/collections/frontpage",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SLOTH-001",
+    "candidate_relationship": "Landscape with typographic punchline",
+    "observed_visuals": "Warm ivory serif headline, teal/orange landscape accents and narrow supporting capitals form a centered outdoor emblem; mountain peaks lift the top edge and small text anchors the bottom.",
+    "observed_garment_relationship": "Black relaxed crewneck; medium-large front graphic with generous surrounding space. Styled flat lay is not evidence of fit on a body.",
+    "listed_garment_and_unknowns": "Seller-listed Comfort Colors 1717: relaxed fit, garment dyed, 100% ring-spun cotton, 6.1 oz/yd². Actual feel and printed result unverified.",
+    "observed_marketing_context": "Outdoor club humor; user proposed this source for audience breadth, not verified segmented sales.",
+    "transfer_hypothesis": "Useful when an original scene must establish identity and short copy supplies the joke. Preserve scene legibility and the payoff hierarchy.",
+    "limitations": "Small supporting copy needs distance testing; outdoor subject and club identity may explain appeal.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SLOTH-001-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/308_974ba71c-8eff-4277-bdc6-a95ad52306be.png?v=1764007479",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/308_974ba71c-8eff-4277-bdc6-a95ad52306be.png?v=1764007479&width=900",
+        "dimensions": [
+          900,
+          900
+        ],
+        "sha256": "3dee791ab8003963f47006edbc297125b217ad8784ac6dda5bdb3f5cf5e3cbe4",
+        "bytes": 611675,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_position": 1,
+    "page": 1,
+    "position_basis": "product-link roster excluding navigation gift card",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SLOTH-002",
+    "source_route": "SLOTH",
+    "title": "Funky Peace T-shirt",
+    "seller": "Sloth Hiking Club",
+    "brand": "Printify",
+    "product_id": 8296101413063,
+    "product_url": "https://slothhikingclub.com/products/funky-peace-t-shirt",
+    "collection_url": "https://slothhikingclub.com/collections/frontpage",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SLOTH-002",
+    "candidate_relationship": "Colorful scene inside a symbol",
+    "observed_visuals": "A peace-hand contour contains patchwork mountains, road, water and sky; saturated yellow, orange, teal and pink are organized by dark outlines. No headline competes with the image.",
+    "observed_garment_relationship": "Large center-front symbol on berry crewneck; shirt color surrounds a sharply bounded silhouette.",
+    "listed_garment_and_unknowns": "Seller-listed Comfort Colors 1717: relaxed fit, garment dyed, 100% ring-spun cotton, 6.1 oz/yd². Actual feel and printed result unverified.",
+    "observed_marketing_context": "Peace/outdoor imagery with bright playful styling.",
+    "transfer_hypothesis": "Test a familiar container shape filled with identity-specific scenes; the outside contour should read first and inner details second.",
+    "limitations": "Many tiny internal details may disappear at actual print size; no evidence this palette fits all outdoor or food audiences.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SLOTH-002-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/62_6005846e-008c-4dd2-a48b-2349862954fd.png?v=1737646091",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/62_6005846e-008c-4dd2-a48b-2349862954fd.png?v=1737646091&width=900",
+        "dimensions": [
+          900,
+          900
+        ],
+        "sha256": "240545d4902823c85314392f8644a45b4cb340a4c2fde46a1787f7c6719dcb96",
+        "bytes": 653044,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_position": 9,
+    "page": 1,
+    "position_basis": "product-link roster excluding navigation gift card",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SLOTH-003",
+    "source_route": "SLOTH",
+    "title": "Water Color Forest T-shirt",
+    "seller": "Sloth Hiking Club",
+    "brand": "Printify",
+    "product_id": 8289145553095,
+    "product_url": "https://slothhikingclub.com/products/water-color-forest-t-shirt",
+    "collection_url": "https://slothhikingclub.com/collections/frontpage",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SLOTH-003",
+    "candidate_relationship": "Tonal forest vignette",
+    "observed_visuals": "Layered teal/navy trees and pale mist create depth with soft edges; vertical trunks contrast with a broader grassy base. No dominant copy.",
+    "observed_garment_relationship": "Medium center-front image on blue crewneck; analogous colors make the design quieter than a high-contrast badge.",
+    "listed_garment_and_unknowns": "Seller-listed Comfort Colors 1717: relaxed fit, garment dyed, 100% ring-spun cotton, 6.1 oz/yd². Actual feel and printed result unverified.",
+    "observed_marketing_context": "Nature appreciation with painterly treatment.",
+    "transfer_hypothesis": "Test soft-edged tonal illustration for a contemplative concept; it is less suitable when three separate verbal beats carry the meaning.",
+    "limitations": "Low-contrast detail can vanish on fabric; photographic appearance does not establish ink process or gradient quality.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SLOTH-003-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/105_1f21f2f2-216a-42a0-a9cf-82773ee93d6f.png?v=1738653391",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/105_1f21f2f2-216a-42a0-a9cf-82773ee93d6f.png?v=1738653391&width=900",
+        "dimensions": [
+          900,
+          900
+        ],
+        "sha256": "2d75ea7304e0a2c195b6214dc96f4556ae84780438f45877761b60d38d534aa2",
+        "bytes": 677033,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_position": 14,
+    "page": 1,
+    "position_basis": "product-link roster excluding navigation gift card",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SLOTH-004",
+    "source_route": "SLOTH",
+    "title": "Birds & Flowers T-Shirt",
+    "seller": "Sloth Hiking Club",
+    "brand": "Printify",
+    "product_id": 8303633858759,
+    "product_url": "https://slothhikingclub.com/products/birds-flowers-t-shirt",
+    "collection_url": "https://slothhikingclub.com/collections/frontpage",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SLOTH-004",
+    "candidate_relationship": "Bird-and-flower silhouette rhythm",
+    "observed_visuals": "Black bird shapes, open wing lines and botanical marks repeat through a tall, loosely oval composition. Empty garment areas separate the motifs; no copy.",
+    "observed_garment_relationship": "Medium-large central image on berry crewneck; flat dark forms contrast with the saturated cloth.",
+    "listed_garment_and_unknowns": "Seller-listed Comfort Colors 1717: relaxed fit, garment dyed, 100% ring-spun cotton, 6.1 oz/yd². Actual feel and printed result unverified.",
+    "observed_marketing_context": "Bird/nature appreciation in an outdoor store.",
+    "transfer_hypothesis": "Test a rhythmic set of original identity objects where recognition can come from the images alone. Vary shape scale without losing a single overall mass.",
+    "limitations": "Fine open lines need print-size review; gender appeal is unmeasured.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SLOTH-004-0.png",
+        "source_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/373_fd9120b4-7f7c-45c2-a182-c9b79679ff24.png?v=1743691747",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0681/7359/4823/files/373_fd9120b4-7f7c-45c2-a182-c9b79679ff24.png?v=1743691747&width=900",
+        "dimensions": [
+          900,
+          900
+        ],
+        "sha256": "6364dfee4185e78511a87a8f1f93489a023da3d14542c6601b3ee2c05e032282",
+        "bytes": 672201,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_position": 23,
+    "page": 1,
+    "position_basis": "product-link roster excluding navigation gift card",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-ETSY-001",
+    "source_route": "ETSY",
+    "title": "Functional Adult",
+    "seller": "theprintshophere",
+    "product_id": "1755533431",
+    "product_url": "https://www.etsy.com/listing/1755533431/funny-shirt-shirt-with-saying-funny",
+    "commercial_signal": "item Bestseller badge observed in retrieved page; see version/freshness qualification",
+    "commercial_evidence_note": "Badge observed in retrieved item page on October 20; no unit count. Selected image is a linked color variant.",
+    "retrieved_at_utc": "2026-10-20",
+    "badge_excerpt": "Bestseller — This item has had a high sales volume over the past 6 months.",
+    "discovery_route": "direct listing from existing source index",
+    "query_or_seed": "source strategy badge example",
+    "page": null,
+    "position": null,
+    "locale": "public English page, US/USD display; no signed-in personalization controlled",
+    "stage_1": "admitted to visual discovery using dated badge observation",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-ETSY-001",
+    "candidate_relationship": "Multicolor ragged-right type stack",
+    "observed_visuals": "Five left-aligned lines of distressed block capitals use rose, ochre, cream, yellow and green. The longest middle line widens the mass; no illustration.",
+    "observed_garment_relationship": "Heather deep-teal short-sleeve crewneck, knotted/styled. Cotton/polyester listed; exact pictured blank and ratio unknown.",
+    "listed_garment_and_unknowns": "Heather deep-teal short-sleeve crewneck, knotted/styled. Cotton/polyester listed; exact pictured blank and ratio unknown.",
+    "observed_marketing_context": "Everyday-adult sarcasm; styling is not buyer-demographic evidence.",
+    "transfer_hypothesis": "Compare with condensed stacks: color and ragged right edge add playfulness, but the concept must remain readable without an explanatory picture.",
+    "limitations": "Badge spans garment variants and optional personalization. Admit only the pictured predefined statement tee; added back printing is an optional service, not part of the selected design.",
+    "launch_placement": "pictured adult short-sleeve front treatment admitted; no back design used",
+    "images": [
+      {
+        "path": "assets/DLS-ETSY-001-0.jpg",
+        "source_url": "https://i.etsystatic.com/25615096/r/il/cf3785/7364794268/il_794xN.7364794268_tqkk.jpg",
+        "requested_url": "https://i.etsystatic.com/25615096/r/il/cf3785/7364794268/il_794xN.7364794268_tqkk.jpg",
+        "dimensions": [
+          794,
+          794
+        ],
+        "sha256": "e2d96ba579e3c958c2c3d7f8c0d9902324e0073029088d9d46186cd5b3a403c0",
+        "bytes": 213418,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "ETSY-evidence.md"
+  },
+  {
+    "id": "DLS-ETSY-002",
+    "source_route": "ETSY",
+    "title": "Garden Office",
+    "seller": "ArtemOpus",
+    "product_id": "1868824178",
+    "product_url": "https://www.etsy.com/listing/1868824178/plants-shirt-100-cotton-comfort-colors",
+    "commercial_signal": "item Bestseller badge observed in retrieved page; see version/freshness qualification",
+    "commercial_evidence_note": "Item-level Bestseller badge observed October 20; original source index used only to locate listing.",
+    "retrieved_at_utc": "2026-10-20",
+    "badge_excerpt": "Bestseller — This item has had a high sales volume over the past 6 months.",
+    "discovery_route": "direct listing from existing source index",
+    "query_or_seed": "TRACE source 76",
+    "page": null,
+    "position": null,
+    "locale": "public English page, US/USD display; no signed-in personalization controlled",
+    "stage_1": "admitted to visual discovery using dated badge observation",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-ETSY-002",
+    "candidate_relationship": "Painterly scene with quiet caption",
+    "observed_visuals": "A thin widely spaced cream serif line sits above a multicolored impressionist garden rectangle. Moss cloth harmonizes with the foliage rather than strongly contrasting it.",
+    "observed_garment_relationship": "Folded moss crewneck; seller lists relaxed garment-dyed Comfort Colors and 100% ring-spun cotton. Full torso proportions cannot be estimated from this folded view.",
+    "listed_garment_and_unknowns": "Folded moss crewneck; seller lists relaxed garment-dyed Comfort Colors and 100% ring-spun cotton. Full torso proportions cannot be estimated from this folded view.",
+    "observed_marketing_context": "Gardening identity and romantic art styling; prior mechanism source 76.",
+    "transfer_hypothesis": "Test an independently illustrated nostalgic scene where the image resolves a short metaphor. The picture must earn its large footprint.",
+    "limitations": "Rectangular art is a useful boundary example for the poster concern; badge does not prove this layout or color caused sales.",
+    "launch_placement": "pictured adult short-sleeve front treatment admitted; no back design used",
+    "images": [
+      {
+        "path": "assets/DLS-ETSY-002-0.jpg",
+        "source_url": "https://i.etsystatic.com/41282159/r/il/31f3bb/6689179088/il_794xN.6689179088_afy1.jpg",
+        "requested_url": "https://i.etsystatic.com/41282159/r/il/31f3bb/6689179088/il_794xN.6689179088_afy1.jpg",
+        "dimensions": [
+          794,
+          794
+        ],
+        "sha256": "cb2f2053c24a966fcd0a7041f34e603c84977b6c8ce0c55bdf0e89cf59247262",
+        "bytes": 217579,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "ETSY-evidence.md"
+  },
+  {
+    "id": "DLS-ETSY-003",
+    "source_route": "ETSY",
+    "title": "Reading Jam",
+    "seller": "UpTopNorth",
+    "product_id": "4329924672",
+    "product_url": "https://www.etsy.com/listing/4329924672/comfort-colors-bookish-shirt-book-lover",
+    "commercial_signal": "item Bestseller badge observed in retrieved page; see version/freshness qualification",
+    "commercial_evidence_note": "Bestseller badge observed in October 20 retrieval; badge is a dated page observation, not permanent status.",
+    "retrieved_at_utc": "2026-10-20",
+    "badge_excerpt": "Bestseller — This item has had a high sales volume over the past 6 months.",
+    "discovery_route": "direct listing from existing source index",
+    "query_or_seed": "TRACE source 68",
+    "page": null,
+    "position": null,
+    "locale": "public English page, US/USD display; no signed-in personalization controlled",
+    "stage_1": "admitted to visual discovery using dated badge observation",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-ETSY-003",
+    "candidate_relationship": "Pattern between serif and script",
+    "observed_visuals": "Coral heavy serif headline and flowing lower script frame a mint pattern of radiating shapes with coral strawberries. Cream garment shows through the repeat.",
+    "observed_garment_relationship": "Folded ivory Comfort Colors crewneck; seller lists 100% ring-spun cotton and true-to-size. Fold prevents reliable print-to-torso measurement.",
+    "listed_garment_and_unknowns": "Folded ivory Comfort Colors crewneck; seller lists 100% ring-spun cotton and true-to-size. Fold prevents reliable print-to-torso measurement.",
+    "observed_marketing_context": "Reading identity with fruit pun and playful retro styling; prior mechanism source 68.",
+    "transfer_hypothesis": "Test patterned imagery only when it helps resolve the original wording; preserve the top-to-bottom reading rhythm and leave space between letters and motifs.",
+    "limitations": "Listing-wide evidence pools colors; brightness is mockup-dependent. No inference that all readers prefer this treatment.",
+    "launch_placement": "pictured adult short-sleeve front treatment admitted; no back design used",
+    "images": [
+      {
+        "path": "assets/DLS-ETSY-003-0.jpg",
+        "source_url": "https://i.etsystatic.com/23829589/r/il/3765a5/6990685286/il_794xN.6990685286_6khy.jpg",
+        "requested_url": "https://i.etsystatic.com/23829589/r/il/3765a5/6990685286/il_794xN.6990685286_6khy.jpg",
+        "dimensions": [
+          794,
+          794
+        ],
+        "sha256": "45633386222839a71fe4400fbf2b39f0ddd3791a2b0e10284d0a1ed96eebbb82",
+        "bytes": 216033,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "ETSY-evidence.md"
+  },
+  {
+    "id": "DLS-ETSY-004",
+    "source_route": "ETSY",
+    "title": "Tabletop Cats",
+    "seller": "DungeonAtelier",
+    "product_id": "4464548308",
+    "product_url": "https://www.etsy.com/listing/4464548308/dnd-cats-shirt-comfort-colors-retro",
+    "commercial_signal": "item Bestseller badge observed in retrieved page; see version/freshness qualification",
+    "commercial_evidence_note": "Initial fetched version (reported crawled three days earlier) displayed Bestseller on October 20; subsequent fetch displayed Etsy’s Pick and no Bestseller. Preserve conflicting observations; current persistent Bestseller status is unconfirmed.",
+    "retrieved_at_utc": "2026-10-20",
+    "badge_excerpt": "Bestseller — This item has had a high sales volume over the past 6 months.",
+    "discovery_route": "site-restricted web search: cat t shirt bestseller",
+    "query_or_seed": "site:etsy.com/listing cat t shirt bestseller",
+    "page": null,
+    "position": null,
+    "locale": "public English page, US/USD display; no signed-in personalization controlled",
+    "stage_1": "admitted to visual discovery using dated badge observation",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-ETSY-004",
+    "candidate_relationship": "Monochrome narrative engraving",
+    "observed_visuals": "Navy engraved/hatching-style cats, dice and tabletop props form one rounded scene on cream cloth. Varied line density creates shading; no dominant caption.",
+    "observed_garment_relationship": "Large central front image on a styled ivory crewneck. Seller lists adult Comfort Colors 1717, relaxed fit, garment dyed, 100% ring-spun cotton.",
+    "listed_garment_and_unknowns": "Large central front image on a styled ivory crewneck. Seller lists adult Comfort Colors 1717, relaxed fit, garment dyed, 100% ring-spun cotton.",
+    "observed_marketing_context": "Cat and tabletop-game interests; seller title invokes D&D. Observed characters are generic cats, not identified licensed characters.",
+    "transfer_hypothesis": "Test original scene storytelling with one ink-like color and open edges; identity should be apparent from actions and props, not a caption added later.",
+    "limitations": "Seller discloses AI-assisted art. Game affiliation and cats may drive appeal. Study the visual relationships only; no licensing claim or reuse permission. Badge spans multiple garment/product formats.",
+    "launch_placement": "pictured adult short-sleeve front treatment admitted; no back design used",
+    "images": [
+      {
+        "path": "assets/DLS-ETSY-004-0.jpg",
+        "source_url": "https://i.etsystatic.com/27988174/r/il/ae4863/7769116512/il_794xN.7769116512_2wf5.jpg",
+        "requested_url": "https://i.etsystatic.com/27988174/r/il/ae4863/7769116512/il_794xN.7769116512_2wf5.jpg",
+        "dimensions": [
+          794,
+          794
+        ],
+        "sha256": "df08b7c561385d022269a554155d609af6e1ac82d44e38f17779d8fe3f1478f4",
+        "bytes": 204574,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "ETSY-evidence.md"
+  },
+  {
+    "id": "DLS-LIG-001",
+    "source_route": "LIG",
+    "title": "Women's Celtic Heart Short Sleeve Crusher Vee",
+    "seller": "Life is Good",
+    "brand": "Life is Good",
+    "product_id": 9918613487932,
+    "product_url": "https://lifeisgood.com/products/womens-celtic-heart-short-sleeve-crusher-vee",
+    "collection_url": "https://lifeisgood.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-LIG-001",
+    "candidate_relationship": "Interlaced heart on a V-neck",
+    "observed_visuals": "Green, mint and teal bands interlace inside a heart containing a shamrock; navy cloth supplies the separations. Small brand lettering follows a band.",
+    "observed_garment_relationship": "Center-front symbol sits below V-neck; compact width leaves clear side space. Seller: classic fit with slight waist shape; solids cotton, heathers 80/20 cotton/poly; garment washed.",
+    "listed_garment_and_unknowns": "Center-front symbol sits below V-neck; compact width leaves clear side space. Seller: classic fit with slight waist shape; solids cotton, heathers 80/20 cotton/poly; garment washed.",
+    "observed_marketing_context": "Women’s product category; Irish/Celtic and affection cues.",
+    "transfer_hypothesis": "Test an original symbol whose internal structure carries identity; neckline and symbol position must be reviewed together.",
+    "limitations": "Symbol recognition and affiliation may account for demand; exact ink colors and print size unknown.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-LIG-001-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/148629_1.jpg?v=1773063915",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/148629_1.jpg?v=1773063915&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "40c75f77df05fd7b05e52ca1d837b9a75627875ec0e207d52746705087533045",
+        "bytes": 98394,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      },
+      {
+        "path": "assets/DLS-LIG-001-detail.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/148629_2.jpg?v=1773063916",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/148629_2.jpg?v=1773063916&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "9011c4e386121c843e68a6d58894f6c71589c67ea2e1d05e93fb05a6223c6de0",
+        "bytes": 406261,
+        "kind": "seller-provided detail view; not a generated reconstruction"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 13,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-LIG-002",
+    "source_route": "LIG",
+    "title": "Women's Antique Plum Blossom Painting Short Sleeve Tee",
+    "seller": "Life is Good",
+    "brand": "Life is Good",
+    "product_id": 9790230364476,
+    "product_url": "https://lifeisgood.com/products/womens-antique-plum-blossom-painting-short-sleeve-crusher-tee",
+    "collection_url": "https://lifeisgood.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-LIG-002",
+    "candidate_relationship": "Antique botanical branch",
+    "observed_visuals": "Naturalistic painted white blossoms and muted sage leaves follow a thin branching stem; tiny script brand mark remains subordinate. No enclosing frame.",
+    "observed_garment_relationship": "Narrow vertical motif on navy crewneck, with substantial cloth visible at both sides. Seller: classic slight-waist shape, garment washed; solids cotton, heathers 80/20 cotton/poly.",
+    "listed_garment_and_unknowns": "Narrow vertical motif on navy crewneck, with substantial cloth visible at both sides. Seller: classic slight-waist shape, garment washed; solids cotton, heathers 80/20 cotton/poly.",
+    "observed_marketing_context": "Women’s category and botanical appreciation.",
+    "transfer_hypothesis": "Promising comparison for object-led nostalgia or quiet appreciation; an original treasured object could carry the focus if its identity is immediately legible.",
+    "limitations": "Adding long copy could destroy the airy treatment; botanical appeal does not establish vintage-hunter preference.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-LIG-002-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/103315_1.jpg?v=1762313839",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/103315_1.jpg?v=1762313839&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "a6b0fd119a22b586547db1ade2b3cea5ac317265f85481fba65b3ca11c38ae60",
+        "bytes": 86067,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      },
+      {
+        "path": "assets/DLS-LIG-002-detail.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/103315_2.jpg?v=1732533480",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/103315_2.jpg?v=1732533480&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "1f8d46295c83faaa3e87d3db02fd1d3a062f967f82ece95e0b3bbd87eb5b3abc",
+        "bytes": 299698,
+        "kind": "seller-provided detail view; not a generated reconstruction"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 17,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-LIG-003",
+    "source_route": "LIG",
+    "title": "Men's Fishscape Short Sleeve Tee",
+    "seller": "Life is Good",
+    "brand": "Life is Good",
+    "product_id": 9790652940604,
+    "product_url": "https://lifeisgood.com/products/mens-fishscape-short-sleeve-crusher-tee",
+    "collection_url": "https://lifeisgood.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-LIG-003",
+    "candidate_relationship": "Horizontal landscape and reflection",
+    "observed_visuals": "Pale trees and their reflection form a long low contour, with a small yellow sun and tiny figure providing accents. Tonal teal changes stay close to the shirt ground.",
+    "observed_garment_relationship": "Shallow horizontal center-front print leaves most torso unprinted. Seller: lightweight jersey with added drape; solids cotton, heathers 80/20 cotton/poly.",
+    "listed_garment_and_unknowns": "Shallow horizontal center-front print leaves most torso unprinted. Seller: lightweight jersey with added drape; solids cotton, heathers 80/20 cotton/poly.",
+    "observed_marketing_context": "Men’s category; fishing/outdoor subject.",
+    "transfer_hypothesis": "Test a restrained panoramic vignette when one scene can carry meaning without explanatory text.",
+    "limitations": "Fine trees and figure may disappear at viewing distance. Product name is not proof that viewers see an additional fish silhouette.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-LIG-003-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/115310_1.jpg?v=1762316573",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/115310_1.jpg?v=1762316573&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "9ffce366e3940517176102e6e9a5d2aa7dca86a464eb1e1c5923c6819103eb06",
+        "bytes": 114266,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      },
+      {
+        "path": "assets/DLS-LIG-003-detail.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/115310_2.jpg?v=1732547107",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/115310_2.jpg?v=1732547107&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "7cda473c2301ec9edb3ffb870c2a7250d01accf294c343ecd5397b77eccb11bd",
+        "bytes": 245603,
+        "kind": "seller-provided detail view; not a generated reconstruction"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 18,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-LIG-004",
+    "source_route": "LIG",
+    "title": "Men's Minimal Palms Short Sleeve Tee",
+    "seller": "Life is Good",
+    "brand": "Life is Good",
+    "product_id": 9968934748476,
+    "product_url": "https://lifeisgood.com/products/mens-minimal-palms-short-sleeve-crusher-tee",
+    "collection_url": "https://lifeisgood.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-LIG-004",
+    "candidate_relationship": "Minimal left-chest landscape",
+    "observed_visuals": "Two thin black palms, short wave strokes and one small sun/dot form a sparse icon; no headline or frame.",
+    "observed_garment_relationship": "Small wearer-left chest placement on sage crewneck; large uninterrupted garment area is central to the effect. Seller: lightweight jersey; solids cotton, heathers 80/20 cotton/poly.",
+    "listed_garment_and_unknowns": "Small wearer-left chest placement on sage crewneck; large uninterrupted garment area is central to the effect. Seller: lightweight jersey; solids cotton, heathers 80/20 cotton/poly.",
+    "observed_marketing_context": "Men’s category; quiet coastal leisure cue.",
+    "transfer_hypothesis": "Test for low-key identity signals or a simple original emblem. A multi-beat joke needing a cabinet/car scene will probably need more visual space.",
+    "limitations": "Tiny placement limits narrative complexity; visible front checked, no claim of measured real-world dimensions.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-LIG-004-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/161486_1.jpg?v=1762326398",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/161486_1.jpg?v=1762326398&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "400a580daa1937f4ee0ae7f7dd875e5abc538d6a145204f04b8708e013396594",
+        "bytes": 103150,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      },
+      {
+        "path": "assets/DLS-LIG-004-detail.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/161486_2.jpg?v=1743084705",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0689/2647/2508/files/161486_2.jpg?v=1743084705&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "225bc718cec45112e9de7f01272061989e1d27c45251ab977528d94613a43110",
+        "bytes": 192860,
+        "kind": "seller-provided detail view; not a generated reconstruction"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 37,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SNORG-001",
+    "source_route": "SNORG",
+    "title": "Per My Last Email Men's Classic Tee",
+    "seller": "SnorgTees",
+    "brand": "SnorgTees.com",
+    "product_id": 7198231462020,
+    "product_url": "https://www.snorgtees.com/products/per-my-last-email-mens-classic-tee",
+    "collection_url": "https://www.snorgtees.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SNORG-001",
+    "candidate_relationship": "Pictogram sequence with separated words",
+    "observed_visuals": "Yellow line figures in a two-by-two grid pair with widely spaced simple capitals; each word belongs to one mini-scene.",
+    "observed_garment_relationship": "Medium front block on royal-blue crewneck; single light color offers strong contrast without a heavy background rectangle.",
+    "listed_garment_and_unknowns": "Seller-listed men’s classic tee, 100% cotton for solid colors; heathers contain polyester (percentage not given). Weight unknown.",
+    "observed_marketing_context": "Work-email sarcasm expressed through action pictograms.",
+    "transfer_hypothesis": "Test four-panel rhythm only when the sequence is understandable instantly; text and action should reinforce each other.",
+    "limitations": "Reading order can break across panels; the source joke is not transferable merely by changing four words.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SNORG-001-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-royal-front-6549659dae57b.jpg?v=1699308969",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-royal-front-6549659dae57b.jpg?v=1699308969&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "d2bf83753669a0e015889456eaff26f170a11f7feecb76dad6835024e20c43cc",
+        "bytes": 102648,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 1,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SNORG-002",
+    "source_route": "SNORG",
+    "title": "Axolotl Questions Men's Classic Tee",
+    "seller": "SnorgTees",
+    "brand": "SnorgTees.com",
+    "product_id": 7145908142212,
+    "product_url": "https://www.snorgtees.com/products/axolotl-questions-mens-classic-tee",
+    "collection_url": "https://www.snorgtees.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SNORG-002",
+    "candidate_relationship": "Cute classroom characters framing a pun",
+    "observed_visuals": "Three pastel axolotls at desks sit between chunky lilac/cyan uppercase lines; small school props connect the scene to the wording.",
+    "observed_garment_relationship": "Broad medium-large front composition on dark navy crewneck; character row and text span similar widths.",
+    "listed_garment_and_unknowns": "Seller-listed men’s classic tee, 100% cotton for solid colors; heathers contain polyester (percentage not given). Weight unknown.",
+    "observed_marketing_context": "Animal cuteness plus classroom/wordplay interests.",
+    "transfer_hypothesis": "Useful when a cute scene must explain an identity-specific pun. Preserve the resolving prop/action, not just the animal.",
+    "limitations": "Cuteness and verbal clarity are separate; tiny desk details and extra lines can clutter a new execution.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SNORG-002-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-navy-front-64d043037ccc7.jpg?v=1691370255",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-navy-front-64d043037ccc7.jpg?v=1691370255&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "dd6f663193ca49d8eb21061253ac37e1803a79cb4e08394f2203f7588b021c1a",
+        "bytes": 74214,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 4,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SNORG-003",
+    "source_route": "SNORG",
+    "title": "Synonym Roll Men's Classic Tee",
+    "seller": "SnorgTees",
+    "brand": "SnorgTees.com",
+    "product_id": 7149791084676,
+    "product_url": "https://www.snorgtees.com/products/synonym-roll-mens-classic-tee",
+    "collection_url": "https://www.snorgtees.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SNORG-003",
+    "candidate_relationship": "Friendly character with curved language",
+    "observed_visuals": "A smiling cinnamon-roll character anchors warm cream/caramel shapes; hand-drawn adjectives curve above, bold geometric capitals below.",
+    "observed_garment_relationship": "Compact center-front mass on red crewneck; rounded character and type form an open badge without a border.",
+    "listed_garment_and_unknowns": "Seller-listed men’s classic tee, 100% cotton for solid colors; heathers contain polyester (percentage not given). Weight unknown.",
+    "observed_marketing_context": "Language pun plus food character.",
+    "transfer_hypothesis": "Test rounded character, short arch and firm lower anchor for a playful concept that has a visible object.",
+    "limitations": "Adjective microcopy competes with the main reading; mascot charm does not prove appeal for every food identity.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SNORG-003-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-cardinal-front-64de851e9f2b4.jpg?v=1750793401",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-cardinal-front-64de851e9f2b4.jpg?v=1750793401&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "170aca537d3bd64bb34f84896922a345e3018a000a0a54599cb0a27ffbec64b1",
+        "bytes": 90522,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 13,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-SNORG-004",
+    "source_route": "SNORG",
+    "title": "Oxford Comma Appreciation Society Men's Classic Tee",
+    "seller": "SnorgTees",
+    "brand": "SnorgTees.com",
+    "product_id": 7159828906116,
+    "product_url": "https://www.snorgtees.com/products/oxford-comma-appreciation-society-mens-classic-tee",
+    "collection_url": "https://www.snorgtees.com/collections/best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-SNORG-004",
+    "candidate_relationship": "Institutional crest for an abstract interest",
+    "observed_visuals": "Large comma inside a striped shield, black laurels and stacked capitals borrow academic/society visual conventions.",
+    "observed_garment_relationship": "Centered medium-large black/white emblem on heather gray crewneck; white sections separate the shield from mottled fabric.",
+    "listed_garment_and_unknowns": "Seller-listed men’s classic tee, 100% cotton for solid colors; heathers contain polyester (percentage not given). Weight unknown.",
+    "observed_marketing_context": "Grammar/language affiliation presented as a club.",
+    "transfer_hypothesis": "Test an original identity emblem with a recognizable central symbol; the institutional styling must support the desired emotional tone.",
+    "limitations": "A crest can look generic if the central symbol or club wording does not identify the audience.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-SNORG-004-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-sport-grey-front-65e21ab383182.jpg?v=1709328340",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0584/1810/2404/files/mens-classic-tee-sport-grey-front-65e21ab383182.jpg?v=1709328340&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "a688f230c69cb090437fea115a7a323d8ab760b17497913ff8de5586a2b629a6",
+        "bytes": 136586,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 33,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-HISTOREE-001",
+    "source_route": "HISTOREE",
+    "title": "History Is Importanter T-Shirt",
+    "seller": "HistoreeTees",
+    "brand": "Printify",
+    "product_id": 7554244575456,
+    "product_url": "https://historeetees.com/products/history-is-importanter-t-shirt",
+    "collection_url": "https://historeetees.com/collections/recent-best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-HISTOREE-001",
+    "candidate_relationship": "Condensed emphasis stack",
+    "observed_visuals": "Distressed white condensed capitals create a tight text mass; two larger subject words alternate with narrower linking lines. No illustration.",
+    "observed_garment_relationship": "Broad center-front block on olive crewneck; garment supplies all inter-line negative space.",
+    "listed_garment_and_unknowns": "Seller-listed Gildan 64000 Softstyle unisex, preshrunk: solid colors cotton; Sport Grey 90/10 cotton/poly; Heather Navy 35/65 cotton/poly. Physical print and fabric unverified.",
+    "observed_marketing_context": "History-versus-English joke; prior pilot anchor H2-031, freshly captured for this batch.",
+    "transfer_hypothesis": "Compare with DLR-001: strongest when copy supplies identity and context itself. Add an original visual cue if first-time comprehension requires it.",
+    "limitations": "This is continuity evidence, not a new independent validation of DLR-001.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-HISTOREE-001-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/MilitaryGreen_History_Is_Importanter_T-Shirt_755f1fd6-0cca-4a94-b501-e078b2de9377.jpg?v=1788627391",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/MilitaryGreen_History_Is_Importanter_T-Shirt_755f1fd6-0cca-4a94-b501-e078b2de9377.jpg?v=1788627391&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "112848e974a3417dd50ddb8f40076b694852e4e0f4282f702d9700442d8c941c",
+        "bytes": 77422,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 23,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-HISTOREE-002",
+    "source_route": "HISTOREE",
+    "title": "Titanic Swim Team T-Shirt",
+    "seller": "HistoreeTees",
+    "brand": "Printify",
+    "product_id": 7583760089312,
+    "product_url": "https://historeetees.com/products/titanic-swim-team-t-shirt",
+    "collection_url": "https://historeetees.com/collections/recent-best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-HISTOREE-002",
+    "candidate_relationship": "Open collegiate team emblem",
+    "observed_visuals": "Arched white slab capitals, small ship silhouette, straight lower line and date capsule create a sports-team emblem with open gaps.",
+    "observed_garment_relationship": "Medium-large central front print on black crewneck; no outer seal enclosing the entire design.",
+    "listed_garment_and_unknowns": "Seller-listed Gildan 64000 Softstyle unisex, preshrunk: solid colors cotton; Sport Grey 90/10 cotton/poly; Heather Navy 35/65 cotton/poly. Physical print and fabric unverified.",
+    "observed_marketing_context": "Historical dark humor; prior pilot anchor H2-009, freshly captured.",
+    "transfer_hypothesis": "Compare with DLR-002: central object can resolve identity while arc/lower anchor organize short copy.",
+    "limitations": "Historical knowledge carries the joke; successful adaptation requires a new resolving object, not automatic text substitution.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-HISTOREE-002-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/Black_Titanic_Swim_Team_T-Shirt_ec05d59c-2f3c-4cd2-aee9-94454aaaf5f5.jpg?v=1791329494",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/Black_Titanic_Swim_Team_T-Shirt_ec05d59c-2f3c-4cd2-aee9-94454aaaf5f5.jpg?v=1791329494&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "2ed235cd6b1d10a8fc45e709d06d66d6b12de4233f1d7ff079a8f56ba46d9588",
+        "bytes": 49214,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 20,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-HISTOREE-003",
+    "source_route": "HISTOREE",
+    "title": "Pompeii \"Fun\" Run T-Shirt",
+    "seller": "HistoreeTees",
+    "brand": "Printify",
+    "product_id": 8231293714656,
+    "product_url": "https://historeetees.com/products/pompeii-fun-run-t-shirt",
+    "collection_url": "https://historeetees.com/collections/recent-best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-HISTOREE-003",
+    "candidate_relationship": "Retro event panel",
+    "observed_visuals": "Warm orange/yellow and teal stripes, volcano and runner silhouettes, block lettering and small event details combine into a distressed rectangular mass.",
+    "observed_garment_relationship": "Large center-front panel on olive crewneck; cloth colors also act as internal dark shapes.",
+    "listed_garment_and_unknowns": "Seller-listed Gildan 64000 Softstyle unisex, preshrunk: solid colors cotton; Sport Grey 90/10 cotton/poly; Heather Navy 35/65 cotton/poly. Physical print and fabric unverified.",
+    "observed_marketing_context": "Historical catastrophe reframed as an event.",
+    "transfer_hypothesis": "Test event graphics when the concept has a recognizable activity and one dominant scene. Keep hierarchy readable on the torso.",
+    "limitations": "Dense rectangular treatment is a boundary case for our poster concern; seller demand does not exempt it from wearability review.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-HISTOREE-003-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/MilitaryGreen_Pompeii_Fun_Run_T-Shirt_e36f2c53-21d7-4622-b99a-e1466b61c29e.jpg?v=1788625746",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/MilitaryGreen_Pompeii_Fun_Run_T-Shirt_e36f2c53-21d7-4622-b99a-e1466b61c29e.jpg?v=1788625746&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "324ea97a6b9a1e32cd2d1b08ac43457f0c2fe0bf5f87218065b12fee4a62d89c",
+        "bytes": 89624,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 17,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  },
+  {
+    "id": "DLS-HISTOREE-004",
+    "source_route": "HISTOREE",
+    "title": "Roanoke T-Shirt",
+    "seller": "HistoreeTees",
+    "brand": "Printify",
+    "product_id": 8291193749728,
+    "product_url": "https://historeetees.com/products/roanoke-t-shirt",
+    "collection_url": "https://historeetees.com/collections/recent-best-sellers",
+    "retrieved_at_utc": "2026-10-20",
+    "commercial_signal": "seller-designated bestseller collection membership; no audited sales rank",
+    "sort": "default order, not verified as sales rank",
+    "stage_1": "admitted to visual discovery",
+    "stage_2": "unassessed for a specific target concept",
+    "duplicate_group": "DLS-HISTOREE-004",
+    "candidate_relationship": "Historical engraving with restrained type",
+    "observed_visuals": "Dark fine-line historical scene sits between a thin serif title and a small lower caption; irregular edges soften the picture boundary.",
+    "observed_garment_relationship": "Centered medium front image on heather-gray crewneck; lower contrast and fine marks create a quieter, more archival impression.",
+    "listed_garment_and_unknowns": "Seller-listed Gildan 64000 Softstyle unisex, preshrunk: solid colors cotton; Sport Grey 90/10 cotton/poly; Heather Navy 35/65 cotton/poly. Physical print and fabric unverified.",
+    "observed_marketing_context": "History knowledge and an archival illustration aesthetic.",
+    "transfer_hypothesis": "Test an original object/scene engraving for a nostalgic subgroup, preserving contrast and a readable silhouette.",
+    "limitations": "Heather texture can obscure fine strokes; source subject knowledge may drive interest more than the drawing style.",
+    "launch_placement": "front graphic visually confirmed; no known back design admitted. This does not certify an unprinted back where no back view exists.",
+    "images": [
+      {
+        "path": "assets/DLS-HISTOREE-004-0.jpg",
+        "source_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/SportsGrey_Roanoke_T-Shirt.jpg?v=1789076897",
+        "requested_url": "https://cdn.shopify.com/s/files/1/0625/2599/7280/files/SportsGrey_Roanoke_T-Shirt.jpg?v=1789076897&width=1000",
+        "dimensions": [
+          1000,
+          1000
+        ],
+        "sha256": "0638fdfbee53eeb3bee2453150400aa0cfc29f172c133b6795bbeb14cb034362",
+        "bytes": 142906,
+        "kind": "seller image, unaltered CDN rendition; mockup/photograph not independently authenticated"
+      }
+    ],
+    "evidence_location": "collection-evidence.json",
+    "collection_feed_position": 15,
+    "feed_page": 1,
+    "position_basis": "default collection JSON feed, not HTML pagination or sales rank",
+    "available_at_capture": true
+  }
+]

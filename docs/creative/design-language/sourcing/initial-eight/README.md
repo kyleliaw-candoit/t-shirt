@@ -1,4 +1,6 @@
-# Initial eight slots — front-print discovery
+# Initial eight slots — historical first checkpoint
+
+**Superseded status:** the [expanded 28-design batch](../discovery-28/README.md) now completes four per seven sources, including all four SimplyCuteTees slots. This page preserves the earlier five-source checkpoint and image paths; its open-slot statements below are historical.
 
 October 19, 2026 session (October 20 UTC). **Five of eight slots filled: four The Bee & The Fox, one SimplyCuteTees. Three SimplyCuteTees slots remain open.** All admitted designs have visible front graphics. The Founder clarified that POD launches with front-only graphics; back-print sources are excluded, not relocated onto the front by assumption.
 

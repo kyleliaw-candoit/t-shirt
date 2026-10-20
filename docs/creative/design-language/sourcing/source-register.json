@@ -1,7 +1,7 @@
 {
   "research_date_local": "2026-10-19",
   "timezone": "America/Chicago",
-  "status": "Five front-print designs admitted; three SimplyCuteTees slots open",
+  "status": "28 initial front-print source designs documented: four per seven sources; Etsy-004 badge-version conflict recorded",
   "target_total": 28,
   "routes": [
     {
@@ -9,44 +9,89 @@
       "source": "Etsy",
       "entry_url": "https://www.etsy.com/market/bestselling_tshirts",
       "evidence_required": "item Bestseller badge",
-      "access_check": "Direct listing probe succeeds; general search retrieval failed; verify badge individually",
-      "last_completed_scan_location": null,
-      "admitted_design_ids": [],
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "admitted_design_ids": [
+        "DLS-ETSY-001",
+        "DLS-ETSY-002",
+        "DLS-ETSY-003",
+        "DLS-ETSY-004"
+      ],
       "historical_proposed_design_count": 12,
-      "proposed_design_count": null
+      "proposed_design_count": 4,
+      "authorized_initial_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "record": "discovery-28/source-manifest.json",
+      "stage_2": "No target-specific application assessed",
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats",
+      "evidence_qualification": "Four item-badge observations; ETSY-004 later rendering lacks Bestseller and instead shows Etsy’s Pick. Persistent current badge unconfirmed."
     },
     {
       "route_id": "LIG",
       "source": "Life is Good",
       "entry_url": "https://lifeisgood.com/collections/best-sellers",
       "evidence_required": "seller Best Sellers collection",
-      "access_check": "Indexed collection rich; direct collection extraction partly dynamic; product detail accessible",
-      "last_completed_scan_location": null,
-      "admitted_design_ids": [],
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "admitted_design_ids": [
+        "DLS-LIG-001",
+        "DLS-LIG-002",
+        "DLS-LIG-003",
+        "DLS-LIG-004"
+      ],
       "historical_proposed_design_count": 6,
-      "proposed_design_count": null
+      "proposed_design_count": 4,
+      "authorized_initial_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "record": "discovery-28/source-manifest.json",
+      "stage_2": "No target-specific application assessed",
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats"
     },
     {
       "route_id": "SNORG",
       "source": "SnorgTees",
       "entry_url": "https://www.snorgtees.com/collections/best-sellers",
       "evidence_required": "seller Best Sellers collection",
-      "access_check": "Pages 1 and 2 and product probe accessible",
-      "last_completed_scan_location": null,
-      "admitted_design_ids": [],
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "admitted_design_ids": [
+        "DLS-SNORG-001",
+        "DLS-SNORG-002",
+        "DLS-SNORG-003",
+        "DLS-SNORG-004"
+      ],
       "historical_proposed_design_count": 6,
-      "proposed_design_count": null
+      "proposed_design_count": 4,
+      "authorized_initial_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "record": "discovery-28/source-manifest.json",
+      "stage_2": "No target-specific application assessed",
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats"
     },
     {
       "route_id": "HISTOREE",
       "source": "HistoreeTees",
       "entry_url": "https://historeetees.com/collections/recent-best-sellers",
       "evidence_required": "seller Current Best Sellers collection",
-      "access_check": "Current and Greatest Hits routes accessible; historical captures retained",
-      "last_completed_scan_location": null,
-      "admitted_design_ids": [],
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "admitted_design_ids": [
+        "DLS-HISTOREE-001",
+        "DLS-HISTOREE-002",
+        "DLS-HISTOREE-003",
+        "DLS-HISTOREE-004"
+      ],
       "historical_proposed_design_count": 4,
-      "proposed_design_count": null
+      "proposed_design_count": 4,
+      "authorized_initial_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "record": "discovery-28/source-manifest.json",
+      "stage_2": "No target-specific application assessed",
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats"
     },
     {
       "route_id": "SCT",
@@ -55,13 +100,20 @@
       "evidence_required": "seller best-seller collection membership",
       "authorized_initial_design_count": 4,
       "admitted_design_ids": [
-        "DLS-SCT-005"
+        "DLS-SCT-005",
+        "DLS-SCT-006",
+        "DLS-SCT-007",
+        "DLS-SCT-008"
       ],
-      "last_completed_scan_location": "Pages 1\u20132 link rosters; selected candidates checked, see exclusions; not full visual sweep",
-      "record": "initial-eight/source-manifest.json",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "record": "discovery-28/source-manifest.json",
       "collection_snapshot": "initial-eight/SCT-collection.json",
-      "stage_2": "No target-specific application approved",
-      "open_initial_slots": 3
+      "stage_2": "No target-specific application assessed",
+      "open_initial_slots": 0,
+      "proposed_design_count": 4,
+      "completed_design_count": 4,
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats",
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits"
     },
     {
       "route_id": "BEE",
@@ -75,10 +127,15 @@
         "DLS-BEE-003",
         "DLS-BEE-004"
       ],
-      "last_completed_scan_location": "Page 1 link roster captured; selected images reviewed. Not a complete visual sweep. Recheck page 1 and resume by product ID.",
-      "record": "initial-eight/source-manifest.json",
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "record": "discovery-28/source-manifest.json",
       "collection_snapshot": "initial-eight/BEE-collection.json",
-      "stage_2": "No target-specific application approved"
+      "stage_2": "No target-specific application assessed",
+      "proposed_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats",
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits"
     },
     {
       "route_id": "SLOTH",
@@ -88,12 +145,22 @@
       "authorized_source": true,
       "source_requested_by": "Founder, October 19, 2026",
       "audience_breadth": "Founder reports good-selling male, female and gender-neutral designs; use as sampling direction, not independently verified customer demographics or segmented sales",
-      "proposed_design_count": null,
-      "admitted_design_ids": [],
-      "last_completed_scan_location": null,
-      "access_check": "Official Bestsellers collection opened; pagination available. No individual source images admitted yet.",
+      "proposed_design_count": 4,
+      "admitted_design_ids": [
+        "DLS-SLOTH-001",
+        "DLS-SLOTH-002",
+        "DLS-SLOTH-003",
+        "DLS-SLOTH-004"
+      ],
+      "last_completed_scan_location": "See discovery-28/Screening-and-Continuation.md; metadata coverage is not a complete visual sweep",
+      "access_check": "Selected product images and evidence captured; see dated record and source-specific limits",
       "launch_constraint": "Front graphics only; exclude back designs",
-      "continuation": "Start page 1, record default order and product IDs; deduplicate garment/color variants and assess visual variety across intended audience presentations."
+      "continuation": "Recheck current evidence by product ID; use preserved rosters and screening decisions to avoid repeats",
+      "authorized_initial_design_count": 4,
+      "completed_design_count": 4,
+      "open_initial_slots": 0,
+      "record": "discovery-28/source-manifest.json",
+      "stage_2": "No target-specific application assessed"
     }
   ],
   "future_record_fields": [
@@ -114,6 +181,9 @@
     "admission_reason",
     "duplicate_group"
   ],
-  "remaining_allocation": "Pending rebalance; original route counts below retained only as historical proposal",
-  "launch_constraint": "Front-only graphics; exclude back-print designs"
+  "remaining_allocation": "All seven four-slot allocations complete; next step image-native comparison and provisional family cards",
+  "launch_constraint": "Front-only graphics; exclude back-print designs",
+  "completed_design_count": 28,
+  "updated_at_utc": "2026-10-20",
+  "current_batch": "discovery-28/README.md"
 }

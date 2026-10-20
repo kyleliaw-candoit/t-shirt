@@ -1,10 +1,12 @@
 # Repeatable sourcing for the image-native design-language bank
 
-Research date: October 19, 2026, America/Chicago (October 20 UTC) · Owner: Creative Director · Recommendation for the next discovery batch; five front-print designs now collected; broader 24–30-design set incomplete
+Research date: October 19, 2026, America/Chicago (October 20 UTC) · Owner: Creative Director · Original acquisition research, updated after the completed 28-design discovery batch
 
-## Current update — two additional sources
+## Current update — seven sources, four each
 
-The Founder authorized four initial slots each for SimplyCuteTees and The Bee & The Fox. [Initial-slot source cards](initial-eight/README.md) and the [two-stage audience-fit decision](Audience-Fit-and-Two-Stage-Selection.md) implement that update. The earlier 12/6/6/4 allocation below is historical, not the current total; rebalance the remaining roughly 20 slots before completing a 28-shirt set. No assumption that Life is Good or HistoreeTees purchasers are predominantly male has been established.
+The Founder requested four initial slots each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. **All 28 are documented in the [discovery batch](discovery-28/README.md).** See [screening/continuation](discovery-28/Screening-and-Continuation.md) and [source register](source-register.json) for the current counts. The earlier 12/6/6/4 allocation below is historical. The [audience-fit decision](Audience-Fit-and-Two-Stage-Selection.md) and front-only launch constraint continue to apply. No purchaser gender split has been established.
+
+One Etsy source has conflicting badge versions; the observed recent badge and later absence are both preserved. Brand collection membership remains a seller-controlled proxy, not an independently verified bestseller rank.
 
 ## Original recommendation (allocation superseded)
 
@@ -41,7 +43,7 @@ Start with the [existing Etsy source index](../../trace/pilots/TRACE-Etsy-120-Ev
 
 For new Etsy candidates, use fixed neutral queries such as “graphic t shirt”, “nature t shirt”, “hobby t shirt” and “funny t shirt”, with US/English/USD settings recorded. Search results only locate candidates; admission requires the listing badge. Skip promoted positions for sampling; a separate directly verified listing can still qualify. Log query, sort, page/position and admission/rejection reason. Where public search is unavailable, use retained listing URLs or site-restricted search to discover direct listing pages, labeling that route. Do not represent fallback retrieval as a complete Etsy search sweep.
 
-For the three brands, start at the named best-seller collection, record its current default order, and follow its actual pagination or load-more navigation. Open the physical adult T-shirt variant for each candidate. Do not invent pagination parameters or assume a default collection order is a sales rank.
+For the brand routes, start at the named best-seller collection, record its current default order, and follow its actual pagination or load-more navigation. Open the physical adult T-shirt variant for each candidate. Do not invent pagination parameters or assume a default collection order is a sales rank.
 
 ### 2. Require commercial evidence plus usable visual evidence
 
@@ -78,11 +80,11 @@ Expand within the registered routes according to missing visual capabilities or 
 
 ## Deliverable and checkpoint
 
-Next execution produces 24–30 complete source records, a visual contact sheet, a source/coverage register and admission log. Then group images and develop approximately four to six candidate cards if the visual evidence supports them. The current task researches the acquisition method; it does not claim those records have already been collected or decoded.
+Next execution produces 24–30 complete source records, a visual contact sheet, a source/coverage register and admission log. Then group images and develop approximately four to six candidate cards if the visual evidence supports them. That acquisition checkpoint is now complete in the linked 28-design batch; family discovery, neutral reconstructions and target applications remain the next work.
 
 ## Primary references checked
 
-- [Etsy badge example: listing 1755533431](https://www.etsy.com/listing/1755533431/funny-shirt-shirt-with-saying-funny) — badge text and linked visual views observed; not yet admitted to the new batch.
+- [Etsy badge example: listing 1755533431](https://www.etsy.com/listing/1755533431/funny-shirt-shirt-with-saying-funny) — now admitted as DLS-ETSY-001 with retained image and variant limitations.
 - [Etsy Bestselling Tshirts market page](https://www.etsy.com/market/bestselling_tshirts) — relevance/keyword route, not admission evidence.
 - [Life is Good Best Sellers](https://lifeisgood.com/collections/best-sellers) and [Men's Best Sellers](https://lifeisgood.com/collections/mens-best-sellers) — collection route, partly dynamic extraction.
 - [Life is Good product-detail probe](https://lifeisgood.com/products/womens-what-am-i-doing-with-my-lives-short-sleeve-crusher-tee) — listed construction/material information accessible; not a new admitted source.
@@ -97,9 +99,9 @@ All sourcing recommendations and sampling controls above are analyst proposals d
 
 ### Front-only launch constraint — October 19 clarification
 
-POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](initial-eight/README.md).
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](discovery-28/README.md).
 
 
 ## Added source — Sloth Hiking Club
 
-Founder requested inclusion on October 19 for its male, female and gender-neutral design range. Official [Bestsellers collection](https://slothhikingclub.com/collections/frontpage) is accessible with pagination. Use seller collection membership as the commercial proxy; the title does not verify unit sales, ranking or sales by gender. Founder’s range assessment informs sampling; classify observed design/garment presentation without assuming purchaser demographics. Require front graphics and physical tees, then archive images and specifications as with the other routes. Source added; individual scan and allocation pending. This does not silently replace the three open SimplyCuteTees slots.
+Founder requested inclusion on October 19 for its male, female and gender-neutral design range. Official [Bestsellers collection](https://slothhikingclub.com/collections/frontpage) is accessible with pagination. Use seller collection membership as the commercial proxy; the title does not verify unit sales, ranking or sales by gender. Founder’s range assessment informs sampling; classify observed design/garment presentation without assuming purchaser demographics. Require front graphics and physical tees, then archive images and specifications as with the other routes. Four front designs now documented in [Sloth source cards](discovery-28/SLOTH.md). SimplyCuteTees also has its own four completed slots.

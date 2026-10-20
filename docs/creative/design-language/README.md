@@ -31,7 +31,7 @@ Preserve source provenance and the exact commercial signal (for example, seller-
 
 [Agreed decision](sourcing/Audience-Fit-and-Two-Stage-Selection.md): admit useful sources to discovery, then judge fit for each specific audience/material/concept application. Recipe cards retain source context, proposed audience fit, mismatch conditions and application evidence. Identity recognition and aesthetic desirability are distinct. A source’s popularity does not establish universal transfer.
 
-[Initial-slot source cards](sourcing/initial-eight/README.md): one SimplyCuteTees and four The Bee & The Fox designs; three SimplyCuteTees slots open, with original images and commercial-signal records. These are discovery sources, not validated recipes.
+[Completed 28-design discovery batch](sourcing/discovery-28/README.md): four each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. Images, garment observations, source evidence and limitations are preserved. These are discovery sources, not validated recipes.
 
 ## Application and calibration
 
@@ -54,9 +54,9 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 ## Deferred work
 
-Review DLR-002 v2 and the researched source mix, then capture the broader discovery set. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+Compare the completed discovery images and develop provisional visual family cards, then test suitable families on original concepts. DLR-002 v2 remains available for review. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
 
 
 ### Front-only launch constraint — October 19 clarification
 
-POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/initial-eight/README.md).
+POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/discovery-28/README.md).
