@@ -1,0 +1,42 @@
+[
+  {
+    "id": "DLS-BEE-001",
+    "position": 1,
+    "product_id": 7261569921,
+    "image_sha256": "06c081bc439bdeaceda72d920774ecefcf919c11f021546df07ccf7543a59a44",
+    "carry_forward": true,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-BEE-005",
+    "position": 3,
+    "product_id": 9767056013,
+    "image_sha256": "c48a63e53cf4d9ff529f7515aa8a871324bc183320dd7e8eeb9cf68161a6acd6",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-BEE-006",
+    "position": 4,
+    "product_id": 6883998957763,
+    "image_sha256": "2540a6630c555e05d5fb361267ef9f8c496ef57effa3cdb25d697fa19d3517af",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-BEE-002",
+    "position": 6,
+    "product_id": 3962595803159,
+    "image_sha256": "d839324f23f2ddc058bdfa401d893de18213bea978942c25cec934f9ebd8fa57",
+    "carry_forward": true,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-BEE-003",
+    "position": 7,
+    "product_id": 7118420541635,
+    "image_sha256": "1e9d170e6027f52c5267a8eb52774310b28ddb818e7f59cbce802e887e5ac3cd",
+    "carry_forward": true,
+    "back_status": "unverified"
+  }
+]
