@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 198 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 203 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -9,7 +9,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
-| Etsy | 40 | 30 | Batch006; next card82; individual badges verified |
+| Etsy | 40 | 35 | Batch007; next card104; individual badges verified |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
 | Zazzle | 40 | 40 | Allocation collected:20 men +20 women; backs unverified |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
@@ -17,7 +17,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **198** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **203** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -166,3 +166,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Etsy batch 005](batches/ETSY-005.md): cumulative 193/220. Accepted53,57,59,60 and page2/card7(cumulative67). No badge48,54–56,58,65,66. Sponsored49–52 and61–64 skipped. Page1 exhausted; page2 roster retained. Generic quote allusion60 retained without licensed character imagery.
 
 - [Etsy batch 006](batches/ETSY-006.md): cumulative 198/220. Accepted69,71,72,78,81.69 adult-tee gallery image2 selected instead of sweatshirt primary. No badge68,77,79,80;70 excluded licensed Super Grover; sponsored73–76 skipped.78 seller-labeled embroidery retained as design-language reference, with process-transfer limitation rather than treating embroidery as DTG-ready.
+
+- [Etsy batch 007](batches/ETSY-007.md): cumulative 203/220. Accepted89,90,92,102,103. No badge82–84,91,93,95,96,101. Sponsored85–88,97–100 skipped.94 held outside count: seller explicitly frames current named-public-figure death-related political message; boundary with celebrity/public-figure exclusion requires review, not silently treated as generic crow art.
