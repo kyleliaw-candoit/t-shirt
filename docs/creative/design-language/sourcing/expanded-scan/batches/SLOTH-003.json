@@ -1,0 +1,42 @@
+[
+  {
+    "id": "DLS-SLOTH-013",
+    "position": 11,
+    "product_id": 8652969509063,
+    "image_sha256": "662be4df483078a74359d8d2505ac55e0228360bf3182a18b48018808bb6280b",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-SLOTH-014",
+    "position": 12,
+    "product_id": 8282257227975,
+    "image_sha256": "114d470b4da68973ffc1ca0429acdc249a30047bc6b61fdd5f53dd08241ae403",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-SLOTH-015",
+    "position": 13,
+    "product_id": 8282263748807,
+    "image_sha256": "ecd54c3bc27d8ddaa792b7dd565f0763ead81ec6df61d87cb5ce932ad21c43f4",
+    "carry_forward": false,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-SLOTH-003",
+    "position": 14,
+    "product_id": 8289145553095,
+    "image_sha256": "2d75ea7304e0a2c195b6214dc96f4556ae84780438f45877761b60d38d534aa2",
+    "carry_forward": true,
+    "back_status": "unverified"
+  },
+  {
+    "id": "DLS-SLOTH-016",
+    "position": 15,
+    "product_id": 8457755885767,
+    "image_sha256": "2798b8aebd7d3a798b627f98c728e06f224e0452427fd47de3f33e27b31a4278",
+    "carry_forward": false,
+    "back_status": "unverified"
+  }
+]
