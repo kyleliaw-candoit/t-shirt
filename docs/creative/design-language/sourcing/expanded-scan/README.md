@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 183 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 188 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -9,7 +9,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 
 | Source | Target | Verified expanded records | Status / next action |
 |---|---:|---:|---|
-| Etsy | 40 | 15 | Batch003; next card33; individual badges verified |
+| Etsy | 40 | 20 | Batch004; next card48; individual badges verified |
 | Redbubble | 40 | 40 | Allocation collected: 20 men + 20 additional women; backs unverified |
 | Zazzle | 40 | 40 | Allocation collected:20 men +20 women; backs unverified |
 | Life is Good | 20 | 20 | Allocation collected; Best sellers sort; backs unverified |
@@ -17,7 +17,7 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **183** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **188** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -160,3 +160,5 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [Etsy batch 002](batches/ETSY-002.md): cumulative 178/220. Accepted12–16 with individual Bestseller badges. Excluded11 personalized teacher name. Generic frog/raccoon images retained; recurring folded-mockup styling noted separately from printed design.
 
 - [Etsy batch 003](batches/ETSY-003.md): cumulative 183/220. Accepted18,19,20,31,32. No badge observed17,21,22,24,29,30; excluded23 Winnie-the-Pooh character. Sponsored25–28 skipped even where badge exists;31 is organic appearance of27, counted once. No global family comparison performed.
+
+- [Etsy batch 004](batches/ETSY-004.md): cumulative 188/220. Accepted34,35,41,46,47. No badge33,42,44,45;36 excluded Wishbone television character. Sponsored37–40 skipped.43 held outside count: named Middle-earth inspiration plus distinctive fantasy doorway/figures; franchise-boundary review needed.47 repeats sponsored28, accepted once at organic appearance.
