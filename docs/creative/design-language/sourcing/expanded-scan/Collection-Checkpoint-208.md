@@ -1,4 +1,6 @@
-# Collection checkpoint:208 of220
+# Historical collection checkpoint:208 of220
+
+Superseded by [completed220 checkpoint](Collection-Complete-220.md). Founder approved the proposed12-slot reallocation2026-10-20; all12 additions have been collected and verified. The decision request and pause below describe the earlier state.
 
 2026-10-20. Collection only; no cross-seller visual comparison, clustering, recipe cards or synthesis performed.
 
