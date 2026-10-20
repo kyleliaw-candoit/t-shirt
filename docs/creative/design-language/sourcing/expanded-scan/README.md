@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 35 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 40 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -14,10 +14,10 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Zazzle | 40 | 0 | Men's/Women's T-shirts → Popular; 20 eligible unique designs per route |
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
-| HistoreeTees | 20 | 15 | Batch 003; next position 16; backs unverified |
+| HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
 | The Bee & The Fox | 20 | 0 | Verify current bestseller route from preserved source research |
 | Sloth Hiking Club | 20 | 0 | Verify current bestseller route from preserved source research |
-| **Total source-level slots** | **220** | **35** | **Collection in progress; front-only merchandise not certified** |
+| **Total source-level slots** | **220** | **40** | **Collection in progress; front-only merchandise not certified** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -94,3 +94,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - [HistoreeTees batch 002](batches/HISTOREE-002.md): cumulative 30/220 source records; resume this source at position 11. Backs remain unverified.
 
 - [HistoreeTees batch 003](batches/HISTOREE-003.md): cumulative 35/220 source records; resume this source at position 16. Backs remain unverified.
+
+- [HistoreeTees batch 004](batches/HISTOREE-004.md): cumulative 40/220 source records; resume this source at position 21. Backs remain unverified.
+
+- HistoreeTees allocation reached: 20 references, 17 new and three carried forward. Current first 20 follow direct live HTML order; cached page discrepancy resolved and saved. History Is Importanter at position 23 remains supplementary. Next source: Sloth Hiking Club, reconcile the saved four IDs against current frontpage order.

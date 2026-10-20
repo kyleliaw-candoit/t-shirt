@@ -1,0 +1,50 @@
+[
+  {
+    "page": 1,
+    "url": "https://historeetees.com/collections/recent-best-sellers?page=1",
+    "observed_date": "2026-10-20",
+    "html_sha256": "2b2f32f538e43cea138b79f4e4784b8256d1d0e9175565bbd9cd57731a0e00cf",
+    "product_paths": [
+      "/products/cross-a-river-on-xmas-t-shirt",
+      "/products/custer-uh-oh-t-shirt",
+      "/products/lincoln-one-star-review-t-shirt",
+      "/products/study-history-white-t-shirt",
+      "/products/not-a-crook-t-shirt",
+      "/products/thats-due-tomorrow-t-shirt",
+      "/products/flying-tigers-t-shirt",
+      "/products/uss-johnston-in-harms-way-t-shirt",
+      "/products/mediocrates-meh-t-shirt",
+      "/products/enterprise-tour-of-duty-t-shirt",
+      "/products/db-cooper-t-shirt",
+      "/products/treason-if-you-lose-t-shirt",
+      "/products/uss-samuel-b-roberts-last-stand-off-samar-t-shirt",
+      "/products/voltaire-absurdities-t-shirt",
+      "/products/roanoke-t-shirt",
+      "/products/general-patton-t-shirt"
+    ]
+  },
+  {
+    "page": 2,
+    "url": "https://historeetees.com/collections/recent-best-sellers?page=2",
+    "observed_date": "2026-10-20",
+    "html_sha256": "0325951e91e6408276d8be47179656379dd31f82db06365fede68c1c201929e6",
+    "product_paths": [
+      "/products/pompeii-fun-run-t-shirt",
+      "/products/george-pickett-t-shirt",
+      "/products/doolittle-raid-t-shirt",
+      "/products/titanic-swim-team-t-shirt",
+      "/products/chamberlain-t-shirt",
+      "/products/donner-party-restaurant-review-t-shirt",
+      "/products/history-is-importanter-t-shirt",
+      "/products/roman-walks-into-a-bar-white-t-shirt",
+      "/products/six-frigates-t-shirt",
+      "/products/its-ok-if-you-dont-like-history-t-shirt-1",
+      "/products/destroyed-ourselves-lincoln-t-shirt",
+      "/products/duck-and-cover-t-shirt",
+      "/products/dont-make-me-repeat-myself-t-shirt",
+      "/products/booker-t-washington-t-shirt",
+      "/products/edmund-fitzgerald-t-shirt",
+      "/products/250th-anniversary-soldier-t-shirt"
+    ]
+  }
+]
