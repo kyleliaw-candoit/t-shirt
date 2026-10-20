@@ -1,7 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
 Updated: 2026-10-20 (America/Chicago)
-Status: Collection in progress. 65 front-design references documented; backs unverified. No family synthesis started.
+Status: Collection in progress. 68 front-design references documented; backs unverified. No family synthesis started.
 
 ## Approved scope
 
@@ -15,9 +15,9 @@ This supersedes the equal 20-per-source allocation in [the earlier decision](../
 | Life is Good | 20 | 0 | Verify current bestseller route from preserved source research |
 | SnorgTees | 20 | 20 | Allocation collected; position 18 held outside count; backs unverified |
 | HistoreeTees | 20 | 20 | Allocation collected; live pages 1–2 verified; backs unverified |
-| The Bee & The Fox | 20 | 5 | Batch 001; next position 8 |
+| The Bee & The Fox | 20 | 8 | Collection exhausted: 8 unique eligible references; shortfall 12 |
 | Sloth Hiking Club | 20 | 20 | Allocation collected; default Featured order in Bestsellers collection; backs unverified |
-| **Total source-level slots** | **220** | **65** | **Collection in progress; source shortfall recorded** |
+| **Total source-level slots** | **220** | **68** | **Collection in progress; source shortfall recorded** |
 
 The men/women split is an operational extension of the earlier balanced-route plan, not a claim about buyer demographics. Globally unique artwork totals must be reported separately after cross-source deduplication.
 
@@ -110,3 +110,7 @@ Record the resulting commit SHA in the PR progress summary after verification. I
 - Sloth allocation reached: 20 front references, 17 new and three carried forward. Birds & Flowers at position 23 remains supplementary. Collection membership is the signal; its displayed default Featured order is not an asserted sales rank. Next source: The Bee & The Fox.
 
 - [Bee batch 001](batches/BEE-001.md): cumulative 65/220 source records. Position 2 excluded: sweatshirt. Position 5 excluded: primary photo directly shows back copy. Positions 1,3,4,6,7 collected.
+
+- [Bee batch 002](batches/BEE-002.md): cumulative 68/220 source records. Positions 8,10,11 collected. Position 9 is the same Feel Your Feelings artwork in green (not counted again). Position 12 socks and position 13 sweatshirt excluded. Collection exhausted at 13; eight unique adult front-design references total, shortfall 12 against target 20.
+
+- Bee source exhausted at 8/20. Next source: Life is Good. Keep total target 220 until Founder decides how to address the 12-slot shortfall; do not silently reallocate.
