@@ -1,6 +1,6 @@
 # Garment, color and controlled placement workflow
 
-Owner: Creative Director · Agreed with Founder: October 21, 2026 (America/Chicago) · Status: agreed working workflow; palette and reference-size decisions pending.
+Owner: Creative Director · Agreed with Founder: October 21, 2026 (America/Chicago) · Status: agreed working workflow; four-color trial palettes recorded; provider mockup reference size still pending verification.
 
 ## Purpose and scope
 
@@ -14,7 +14,7 @@ Start from the intended concept, visual family and design treatment. For this br
 
 Modern or playful artwork does not automatically conflict with 1717. Choose the garment/design combination on its merits. If neither blank is suitable or operationally available, record the mismatch instead of forcing an unsuitable choice; revise the design or revisit the shortlist.
 
-Use the selected blank's actual proportions, provider template and a consistent reference size when rendering. Identify the garment model and reference size explicitly; a generic generated shirt is not a substitute for that geometry. The reference-size convention has not yet been selected.
+Use the selected blank's actual proportions, provider template and a consistent reference size when rendering. Identify the garment model and reference size explicitly; a generic generated shirt is not a substitute for that geometry. Match the reference size to the provider’s actual template/mockup once verified. Do not default to L without evidence. If the provider does not identify the mockup’s garment size, label it unknown rather than presenting the selected order size as proof. Record artwork dimensions in inches independently of garment size, and check the same placement on S, L and 2XL, accounting for the provider’s actual scaling behavior. Distinguish editor dimensions, calculations from a size chart, provider preview geometry and physical sample evidence.
 
 This is an agreed creative default, not a production purchase, sample order or launch approval. Current provider specifications and feasibility still govern the actual product.
 
@@ -22,7 +22,7 @@ This is an agreed creative default, not a production purchase, sample order or l
 
 Preselect a small approved color palette **for each blank**, drawn from the provider's available variants in the intended fulfillment context. Only these approved garment colors should be used for design trials and final color selection.
 
-A starting proposal is approximately 3–4 colors per blank, spanning a dark neutral, a light neutral and one or two suitable muted colors. This is a planning suggestion, not an approved count or actual palette. The two blanks need not share the same colors or color names.
+The Founder approved **four trial colors per blank**, with expansion up to six only when justified. This internal trial palette is separate from the **one or two colorways proposed for each design**. Current working palettes: Comfort Colors 1717 — Pepper, Ivory, Blue Jean, Moss; Gildan 64000 — Black, White, Navy, Sport Grey. Verify current Printful availability in the intended fulfillment context before using a color; use the closest available option when an intended best-selling color is unavailable and record the substitution. The 1717 colors were present in the live catalog during CAR: WRONG round 03; this is not a guarantee of all variant/region stock.
 
 For each design:
 
@@ -79,14 +79,13 @@ An approved palette is a versioned design constraint, not a claim that stock wil
 
 ## Pending decisions and immediate next step
 
-The following remain **undecided**:
+The following remain **open**:
 
-- Actual approved Comfort Colors 1717 colors.
-- Actual approved Gildan 64000 Softstyle colors.
-- Consistent reference size and the corresponding templates/mockup references.
-- Concrete compact/medium dimensions and placement for the next CAR: WRONG execution.
+- Verify the provider mockup reference size and corresponding geometry; explicitly mark unknown until established.
+- Verify Gildan 64000 trial colors/variants in Printful when that blank is used.
+- Select the final CAR: WRONG footprint and one or two colorways after reviewing round 03; then complete production cleanup and a sample check.
 
-Next, choose the two blank palettes and reference-size convention. Then revise CAR: WRONG through this workflow. No colors, garment size, print dimensions or new rendered designs are selected by this documentation change.
+[CAR: WRONG round 03](applications/CAR-WRONG-03/README.md) applies the trial palette and independent artwork sizing. Its compact/medium measurements are application-specific. The provider mockup’s actual reference size remains unresolved; do not silently treat an order-size selection as mockup geometry verification.
 
 ## Decision provenance
 

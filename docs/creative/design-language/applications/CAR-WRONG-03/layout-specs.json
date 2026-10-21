@@ -1,0 +1,122 @@
+[
+  {
+    "design": "A",
+    "variant": "compact",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 0.5,
+      "width": 8.5,
+      "height": 7.2441
+    },
+    "source_pixels": [
+      1343,
+      1171
+    ],
+    "source_visible_bbox": [
+      74,
+      83,
+      1299,
+      1127
+    ],
+    "native_effective_ppi": 144.1,
+    "rendered_canvas_pixels": [
+      1800,
+      2400
+    ],
+    "status": "review only; native source below 150ppi at these widths; not production-ready"
+  },
+  {
+    "design": "A",
+    "variant": "medium",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.0,
+      "top": 0.5,
+      "width": 10.0,
+      "height": 8.5224
+    },
+    "source_pixels": [
+      1343,
+      1171
+    ],
+    "source_visible_bbox": [
+      74,
+      83,
+      1299,
+      1127
+    ],
+    "native_effective_ppi": 122.5,
+    "rendered_canvas_pixels": [
+      1800,
+      2400
+    ],
+    "status": "review only; native source below 150ppi at these widths; not production-ready"
+  },
+  {
+    "design": "B",
+    "variant": "compact",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 0.5,
+      "width": 8.5,
+      "height": 7.4648
+    },
+    "source_pixels": [
+      1344,
+      1170
+    ],
+    "source_visible_bbox": [
+      102,
+      94,
+      1268,
+      1118
+    ],
+    "native_effective_ppi": 137.2,
+    "rendered_canvas_pixels": [
+      1800,
+      2400
+    ],
+    "status": "review only; native source below 150ppi at these widths; not production-ready"
+  },
+  {
+    "design": "B",
+    "variant": "medium",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.0,
+      "top": 0.5,
+      "width": 10.0,
+      "height": 8.7822
+    },
+    "source_pixels": [
+      1344,
+      1170
+    ],
+    "source_visible_bbox": [
+      102,
+      94,
+      1268,
+      1118
+    ],
+    "native_effective_ppi": 116.6,
+    "rendered_canvas_pixels": [
+      1800,
+      2400
+    ],
+    "status": "review only; native source below 150ppi at these widths; not production-ready"
+  }
+]

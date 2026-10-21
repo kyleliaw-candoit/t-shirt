@@ -35,7 +35,7 @@ Preserve source provenance and the exact commercial signal (for example, seller-
 
 ## Garment, color and controlled placement
 
-The [October 21 agreed workflow](Garment-and-Placement-Workflow.md) governs execution from the recipe bank: choose the blank/reference size, develop transparent artwork against an approved garment palette, control complete design dimensions and position, compare placements, select one or two colorways, and verify size behavior and detail. The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Actual palette colors and the reference-size convention are still undecided. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
+The [October 21 agreed workflow](Garment-and-Placement-Workflow.md) governs execution from the recipe bank: choose the blank/reference size, develop transparent artwork against an approved garment palette, control complete design dimensions and position, compare placements, select one or two colorways, and verify size behavior and detail. The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Four-color trial palettes are recorded in the workflow; the actual provider mockup reference size still needs verification. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
 
 ## Application and calibration
 
@@ -70,3 +70,7 @@ Collect Founder feedback on the family interpretations and new applications, the
 ### Front-only launch constraint — October 19 clarification
 
 POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/discovery-28/README.md).
+
+## Measured garment revision — October 21, 2026
+
+[CAR: WRONG round 03](applications/CAR-WRONG-03/README.md) separates transparent artwork from measured print placement, compares compact and medium footprints, records Printful preview evidence and distinguishes verified editor dimensions from unverified mockup reference size. Generated masters remain review drafts; a rendered canvas DPI label does not establish native production quality.
