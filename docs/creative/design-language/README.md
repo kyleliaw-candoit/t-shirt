@@ -33,6 +33,12 @@ Preserve source provenance and the exact commercial signal (for example, seller-
 
 [Completed 28-design discovery batch](sourcing/discovery-28/README.md): four each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. Images, garment observations, source evidence and limitations are preserved. These are discovery sources, not validated recipes.
 
+## Garment, color and controlled placement
+
+The [October 21 agreed six-step workflow](Garment-and-Placement-Workflow.md) governs execution: choose the blank and develop transparent artwork; compare two measured footprints locally; compare four approved colors and select one or two; check comprehension, hierarchy, wearability and S/L/2XL proportions; verify the shortlist in Printful; save the review package. Reusable garment setup is separated from per-design work. **Garment geometry still needs calibration**: exact artwork inches do not establish the actual mockup reference size or garment-relative placement.
+
+The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Four-color trial palettes are recorded in the workflow. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
+
 ## Application and calibration
 
 Select recipes according to the semantic work required by the material and concept, following the Playbook. Apply them to original content and inspect the actual shirt, including cut, fabric appearance, color, print scale and placement. Check whether a first-time viewer can understand the situation and identity connection without the research explanation.
@@ -52,11 +58,30 @@ Use new applications to test transfer and refine essential/flexible boundaries. 
 
 **Publication status:** [Pilot 01 visual package](pilot-01/README.md) now contains the reviewed source captures, neutral diagrams, original artwork and garment previews, prompts and frozen assessments. [Revision comparison](pilot-01/revision-review.html) adds the combined-setup treatment of DLR-002 without replacing either original design. Recipes remain provisional. See the [source-route research](sourcing/2026-10-19-Source-Strategy.md) before selecting the broader discovery batch.
 
+## Expanded discovery and application — October 20, 2026
+
+The [220-reference collection](sourcing/expanded-scan/Collection-Complete-220.md), merged in PR136, has now been visually compared. [Discovery 01](discovery-01/README.md) proposes eight provisional families with full source references, annotated detail crops, approximate measured relationships, palette roles, neutral structural diagrams, essential/flexible guidance and garment/audience constraints. The [review log](discovery-01/Review-Log.md) covers all 220 references; [reconciliation](discovery-01/Reconciliation.md) distinguishes repeated artwork, shared wording and repeated templates.
+
+[CAR: WRONG round 02](applications/CAR-WRONG-02/README.md) applies heritage and playful families to the same audience/material/concept. It preserves both original attempts, a self-directed revision and a [frozen pre-Founder assessment](applications/CAR-WRONG-02/assessment.md). DLF family IDs supplement rather than replace the historical DLR-001/002 pilot. None is promoted to purchase-validated status.
+
 ## Deferred work
 
-Compare the completed discovery images and develop provisional visual family cards, then test suitable families on original concepts. DLR-002 v2 remains available for review. Kittl remains shelved. This documentation update does not include a new 120-shirt study, automated clustering exercise, production release or market test.
+Collect Founder feedback on the family interpretations and new applications, then test transfer on another material/concept. The original DLR-002 v2 remains available for review. Kittl remains shelved. No production release or market test is included.
 
 
 ### Front-only launch constraint — October 19 clarification
 
 POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](sourcing/discovery-28/README.md).
+
+## Measured garment revision — October 21, 2026
+
+[CAR: WRONG round 03](applications/CAR-WRONG-03/README.md) separates transparent artwork from measured print placement, compares compact and medium footprints, records Printful preview evidence and distinguishes verified editor dimensions from unverified mockup reference size. Generated masters remain review drafts; a rendered canvas DPI label does not establish native production quality.
+
+## Collar clearance and Heritage feedback — October 21, 2026
+
+[CAR: WRONG round04](applications/CAR-WRONG-04/README.md) lowers the measured placement, revises Heritage with an arched serif setup and one-color object illustration, and preserves Playful artwork. The [focused nine-reference study](studies/Front-Placement-01/README.md) adds an explicit collar-clearance and vertical-balance check to the canonical workflow. Local geometry remains provisional. Founder’s preference for the arch calibrates this application; it does not make arches mandatory across heritage designs.
+
+
+## Internal spacing and taste calibration — October 21, 2026
+
+The [paired Heritage/Playful review](reviews/2026-10-21-CAR-WRONG-Spacing.md) preserves Founder selection and the distinction between cramped Heritage and acceptable dense Playful. The Playbook and execution workflow now require a concise visual critique of intent, element relationships, two viewing scales and relevant references. [Round05](applications/CAR-WRONG-05/README.md) applies the lesson to Heritage while retaining Playful. These are internal taste and execution learnings, not sales evidence or universal spacing thresholds.

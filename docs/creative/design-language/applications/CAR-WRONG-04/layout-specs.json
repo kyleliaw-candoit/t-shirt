@@ -1,0 +1,140 @@
+[
+  {
+    "design": "A",
+    "variant": "compact-lower",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 1.5,
+      "width": 8.5,
+      "height": 7.2074
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      31,
+      46,
+      1333,
+      1150
+    ],
+    "native_effective_ppi": 153.2,
+    "status": "review draft; no added native detail from canvas resampling"
+  },
+  {
+    "design": "A",
+    "variant": "medium-lower",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.0,
+      "top": 1.5,
+      "width": 10,
+      "height": 8.4793
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      31,
+      46,
+      1333,
+      1150
+    ],
+    "native_effective_ppi": 130.2,
+    "status": "review draft; no added native detail from canvas resampling"
+  },
+  {
+    "design": "A",
+    "variant": "compact-lowest",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 2.0,
+      "width": 8.5,
+      "height": 7.2074
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      31,
+      46,
+      1333,
+      1150
+    ],
+    "native_effective_ppi": 153.2,
+    "status": "review draft; no added native detail from canvas resampling"
+  },
+  {
+    "design": "B",
+    "variant": "compact-lower",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 1.5,
+      "width": 8.5,
+      "height": 7.4648
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      102,
+      94,
+      1268,
+      1118
+    ],
+    "native_effective_ppi": 137.2,
+    "status": "review draft; no added native detail from canvas resampling"
+  },
+  {
+    "design": "B",
+    "variant": "medium-lower",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.0,
+      "top": 1.5,
+      "width": 10,
+      "height": 8.7822
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      102,
+      94,
+      1268,
+      1118
+    ],
+    "native_effective_ppi": 116.6,
+    "status": "review draft; no added native detail from canvas resampling"
+  },
+  {
+    "design": "B",
+    "variant": "compact-lowest",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.75,
+      "top": 2.0,
+      "width": 8.5,
+      "height": 7.4648
+    },
+    "anchor": "top-left of provider print canvas; NOT neckline",
+    "source_visible_bbox": [
+      102,
+      94,
+      1268,
+      1118
+    ],
+    "native_effective_ppi": 137.2,
+    "status": "review draft; no added native detail from canvas resampling"
+  }
+]

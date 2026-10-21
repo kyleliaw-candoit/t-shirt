@@ -1,0 +1,277 @@
+{
+  "version": "CAR-WRONG-03",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 6374,
+      "sha256": "4a41d831f90a5827e966f20436a4c1bba1324c398af7fc04e1e6ca8a9068faf4"
+    },
+    {
+      "path": "assessment.md",
+      "bytes": 3716,
+      "sha256": "73a5ec399c7c36200d4b716b0258323237123ed7a02a88cc2b533f3ef835681c"
+    },
+    {
+      "path": "assets/A-heritage-draft.png",
+      "bytes": 1435660,
+      "sha256": "356c96424c7dd8410f525ec83e0439a076ca9b5282a8ec9e14d678b17ab1c7a3",
+      "dimensions": [
+        1343,
+        1171
+      ]
+    },
+    {
+      "path": "assets/B-playful-draft.png",
+      "bytes": 1325254,
+      "sha256": "bdcb7c6e455d0961024014fd0f0be92484fed11d574a7a3eab280b2c94479604",
+      "dimensions": [
+        1344,
+        1170
+      ]
+    },
+    {
+      "path": "assets/color-comparison.png",
+      "bytes": 356170,
+      "sha256": "10905582b02d716003f4a3bc0495a137275348f8d38e11dffd878d3abcfab970",
+      "dimensions": [
+        1160,
+        925
+      ]
+    },
+    {
+      "path": "assets/color-comparison.svg",
+      "bytes": 1039054,
+      "sha256": "28a55cea82e6d3d7a602d4d3200cf2d3aca0753557e54719cffab82c6a4ac598"
+    },
+    {
+      "path": "assets/placement-comparison.png",
+      "bytes": 355624,
+      "sha256": "cb00080092f57e95e0dced06bacab5a58e7cd4a748f7d8db50bf97525c4e3311",
+      "dimensions": [
+        1160,
+        1330
+      ]
+    },
+    {
+      "path": "assets/placement-comparison.svg",
+      "bytes": 270329,
+      "sha256": "1b5809ca109124047934523c2103cee2025e3ae5c76ead29f1203a5c14110d63"
+    },
+    {
+      "path": "build_layouts.py",
+      "bytes": 1975,
+      "sha256": "4bab8b617816ef36643296697c40f9e2865d17f23d3dbd7e274685316cd9385e"
+    },
+    {
+      "path": "build_review_boards.py",
+      "bytes": 2540,
+      "sha256": "103d25677955aac715e7ac03e397cce651769ff371b38dceaeebf8a584c3b38b"
+    },
+    {
+      "path": "evidence/A-compact-Blue-Jean-controls.jpg",
+      "bytes": 96468,
+      "sha256": "1e61b6bccea7ebc5b097cd781da72e55cb4f4caf558c3c5a75bbc56b903d3aa1",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-compact-Ivory-controls.jpg",
+      "bytes": 94553,
+      "sha256": "a8b5549dbac3254b6a0006c07c0f8ca52ab967d6fcecfa4fa7bcb4c483ff2734",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-compact-Moss-controls.jpg",
+      "bytes": 96606,
+      "sha256": "836ab8cbb97f76734a3405469cd797b8d7674c52981c8bd2623ade27db9d29c9",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-compact-Pepper-Printful.jpg",
+      "bytes": 48463,
+      "sha256": "9238c19bda937140b3514e4900010bb8f7411c222331d43eae84f132178b1f1d",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-compact-Pepper-controls.jpg",
+      "bytes": 97615,
+      "sha256": "c137dbfd8e811dc9015518f1c2e1c0baec83cfe3f42f7197a1e2c0a189314163",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-medium-2XL-controls.jpg",
+      "bytes": 99565,
+      "sha256": "948c172349439eb0e7b784a856c788592dd17cd9341dc3fcaf603457afe960d5",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-medium-L-controls.jpg",
+      "bytes": 99881,
+      "sha256": "3b45b660129ea9314b8de2f549f41aa9084a8ef8de6d90eff239022cdda8a087",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-medium-Pepper-Printful.jpg",
+      "bytes": 50857,
+      "sha256": "1c90f6e006d9381442fc7b43a19b50ab9fea33ef5df32988ea35225bbe4f210e",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/A-medium-S-controls.jpg",
+      "bytes": 99705,
+      "sha256": "b21a2fd809881ac595953a366c1ff780e5239ebee6ec8d601908b1c5c5808182",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-compact-Blue-Jean-controls.jpg",
+      "bytes": 97169,
+      "sha256": "025659143940868ee59970cc53f980c8b66621932cada862f07dc88b9f2d4e3e",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-compact-Ivory-controls.jpg",
+      "bytes": 94664,
+      "sha256": "1c3f85b34604ea9416c194ee92c599ed50afd8c24734f5bd26f09d659938327c",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-compact-Moss-controls.jpg",
+      "bytes": 97418,
+      "sha256": "46e21c0a313cf517af3374a46a9690e2b319d5b9ca13506d4bfab9b16ec53393",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-compact-Pepper-Printful.jpg",
+      "bytes": 49904,
+      "sha256": "a33bd930431aea682105932a1f0f8e60a5af99c6ab08d7af905f943195d7fe07",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-compact-Pepper-controls.jpg",
+      "bytes": 102388,
+      "sha256": "1ef2b4f9d452a220e2f245511e3cd2ecce208247e9298ed931d558a6a757ff6c",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/B-medium-Pepper-Printful.jpg",
+      "bytes": 52060,
+      "sha256": "0ee361fea38b504b382a34876e351a6a26898b122313076cd2fa004b8cce8658",
+      "dimensions": [
+        1363,
+        936
+      ]
+    },
+    {
+      "path": "evidence/verification.md",
+      "bytes": 2812,
+      "sha256": "37120b9f44440d87eff613d5ce447f406deba65deaa4dc6f33727621bc8b3f08"
+    },
+    {
+      "path": "generation-prompts.json",
+      "bytes": 3736,
+      "sha256": "f4a4d02383fe2d278aeac859ba47744081216d21303059608fd76e41913fab7b"
+    },
+    {
+      "path": "layout-specs.json",
+      "bytes": 2183,
+      "sha256": "0562e1b790ebaeafb7f61045318a353ac198b95662acb598ac03d508fd5bf920"
+    },
+    {
+      "path": "layouts/A-compact-12x16.png",
+      "bytes": 1318991,
+      "sha256": "08c28fae1765fd9fd6d3db198628fd11a70ba3a86cd90f98d2a2e7d9c370f771",
+      "dimensions": [
+        1800,
+        2400
+      ]
+    },
+    {
+      "path": "layouts/A-compact-12x16.svg",
+      "bytes": 1914537,
+      "sha256": "2a6f7658e93264bfb2e1ae011be50904fbb4137623fb81e9d51e306945c38e18"
+    },
+    {
+      "path": "layouts/A-medium-12x16.png",
+      "bytes": 1656665,
+      "sha256": "b450e50e9eaa34832f0f7b7d0715450c7086fa14444e532931a37d941467e0d4",
+      "dimensions": [
+        1800,
+        2400
+      ]
+    },
+    {
+      "path": "layouts/A-medium-12x16.svg",
+      "bytes": 1914537,
+      "sha256": "cc35113b272320eafb461e6e874e9ea5beb04956a124b373a54065847be62562"
+    },
+    {
+      "path": "layouts/B-compact-12x16.png",
+      "bytes": 1288044,
+      "sha256": "361893e66048fcf71aeb0ae4b44261cd4f5ff853e07564535a91914c3d5fd7c5",
+      "dimensions": [
+        1800,
+        2400
+      ]
+    },
+    {
+      "path": "layouts/B-compact-12x16.svg",
+      "bytes": 1767330,
+      "sha256": "f760cc37579b3d96bbeb9e1ba35be69923e9e14e9eca5a96a38ca6ca738b33c7"
+    },
+    {
+      "path": "layouts/B-medium-12x16.png",
+      "bytes": 1607105,
+      "sha256": "de343c86f8de72737155e5f1946463a23c2808702012c865c3d5f390144752cc",
+      "dimensions": [
+        1800,
+        2400
+      ]
+    },
+    {
+      "path": "layouts/B-medium-12x16.svg",
+      "bytes": 1767330,
+      "sha256": "799659407a1c23dd0c700b6bfd0ffe31c5f9811f604b9bfb6dd9970f7378857a"
+    }
+  ]
+}

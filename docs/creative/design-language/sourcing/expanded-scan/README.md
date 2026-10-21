@@ -1,5 +1,7 @@
 # Expanded design-language scan — plan and recovery checkpoint
 
+**Subsequent analysis:** [Discovery 01](../../discovery-01/README.md) now compares all 220 retained images, adds global duplicate/template reconciliation and proposes eight provisional families. Source records below preserve their collection-stage observations and status; read the analysis for the later interpretation.
+
 Updated: 2026-10-20 (America/Chicago)
 Status: Collection complete at220/220 source-level references under Founder-approved reallocation. Images and records verified. Analysis paused pending Founder switch to Astra Extra High; no family synthesis started.
 

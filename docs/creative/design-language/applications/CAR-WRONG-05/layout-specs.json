@@ -1,0 +1,23 @@
+{
+  "artwork": "A-heritage-spacing-v2.png",
+  "canvas_inches": [
+    12,
+    16
+  ],
+  "visible_bounds_inches": {
+    "left": 1.75,
+    "top": 1.5,
+    "width": 8.5,
+    "height": 7.2113
+  },
+  "anchor": "provider print-canvas top-left, NOT collar",
+  "native_visible_bbox": [
+    30,
+    44,
+    1336,
+    1152
+  ],
+  "native_effective_ppi": 153.6,
+  "mockup_actual_garment_size": "unknown",
+  "local_geometry": "provisional round04 transform, 17.8 pixels/inch, print origin y=97, center x=303 in a 602px preview; not physically calibrated"
+}

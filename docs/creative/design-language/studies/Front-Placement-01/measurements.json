@@ -1,0 +1,146 @@
+[
+  {
+    "id": "DLS-HISTOREE-011",
+    "source_image_pixels": [
+      1000,
+      1000
+    ],
+    "collar_y": 180,
+    "first_ink_y": 258,
+    "torso_width_x": [
+      188,
+      812
+    ],
+    "width_y": 540,
+    "gap_over_torso_width_percent": 12.5,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-HISTOREE-014",
+    "source_image_pixels": [
+      1000,
+      1000
+    ],
+    "collar_y": 180,
+    "first_ink_y": 255,
+    "torso_width_x": [
+      185,
+      815
+    ],
+    "width_y": 540,
+    "gap_over_torso_width_percent": 11.9,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-HISTOREE-021",
+    "source_image_pixels": [
+      1000,
+      1000
+    ],
+    "collar_y": 180,
+    "first_ink_y": 258,
+    "torso_width_x": [
+      185,
+      815
+    ],
+    "width_y": 540,
+    "gap_over_torso_width_percent": 12.4,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-LIG-005",
+    "source_image_pixels": [
+      640,
+      640
+    ],
+    "collar_y": 116,
+    "first_ink_y": 162,
+    "torso_width_x": [
+      143,
+      498
+    ],
+    "width_y": 350,
+    "gap_over_torso_width_percent": 13.0,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-LIG-009",
+    "source_image_pixels": [
+      640,
+      640
+    ],
+    "collar_y": 181,
+    "first_ink_y": 214,
+    "torso_width_x": [
+      128,
+      518
+    ],
+    "width_y": 400,
+    "gap_over_torso_width_percent": 8.5,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-LIG-019",
+    "source_image_pixels": [
+      2048,
+      2048
+    ],
+    "collar_y": 576,
+    "first_ink_y": 727,
+    "torso_width_x": [
+      422,
+      1626
+    ],
+    "width_y": 1254,
+    "gap_over_torso_width_percent": 12.5,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-RB-002",
+    "source_image_pixels": [
+      600,
+      600
+    ],
+    "collar_y": 109,
+    "first_ink_y": 155,
+    "torso_width_x": [
+      127,
+      473
+    ],
+    "width_y": 340,
+    "gap_over_torso_width_percent": 13.3,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-RB-008",
+    "source_image_pixels": [
+      600,
+      600
+    ],
+    "collar_y": 108,
+    "first_ink_y": 153,
+    "torso_width_x": [
+      127,
+      473
+    ],
+    "width_y": 340,
+    "gap_over_torso_width_percent": 13.0,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  },
+  {
+    "id": "DLS-RB-021",
+    "source_image_pixels": [
+      600,
+      600
+    ],
+    "collar_y": 108,
+    "first_ink_y": 156,
+    "torso_width_x": [
+      127,
+      473
+    ],
+    "width_y": 340,
+    "gap_over_torso_width_percent": 13.9,
+    "measurement": "manual estimate; approximately \u00b12\u20133 percentage points"
+  }
+]

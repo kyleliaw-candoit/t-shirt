@@ -2,8 +2,8 @@
 title: Creative Director Methodology
 owner: Creative Director
 status: Proposed
-version: 0.5
-last_updated: 2026-10-19
+version: 0.6
+last_updated: 2026-10-21
 reviewed_by: Founder pending
 ---
 
@@ -378,6 +378,12 @@ The bank serves two goals: (1) translate material plus creative concept into ori
 Before selecting or adapting a recipe, determine what the copy communicates on its own and what essential information the graphic must supply. Choose a recipe able to perform those jobs. Recheck comprehension and the connection to the intended identity group on the actual shirt, without explaining the research. Apply the [T-shirt Design Playbook](Creative-Director-Tshirt-Design-Playbook.md), including semantic hierarchy, illustration quality, typography, color, composition, scale, garment fit and overall desirability. No single check replaces the others.
 
 When calibrating judgment, preserve the initial assessment and append feedback and revisions separately under §7.1. Distinguish a well-designed shirt from demonstrated desire to own it. The [October 19 pilot review](../creative/design-language/reviews/2026-10-19-CAR-WRONG.md) motivates these working changes; two executions do not establish general recipe reliability.
+
+### Garment, color and placement execution
+
+Follow the [agreed garment and controlled-placement workflow](../creative/design-language/Garment-and-Placement-Workflow.md). Choose the blank and reference size before detailed execution; develop separate transparent artwork in the context of approved garment colors; control the complete design's dimensions and position explicitly; compare compact/medium placements with color held constant; select the strongest one or two colorways; and verify size behavior and print detail. Preserve a reproducible specification. The current R012 brand uses 1717 as its design-stage default and 64000 for a justified conflict; this is not a universal blank rule. The approved four-color trial palettes are recorded in that workflow. Actual photographed reference size and physical garment geometry still need calibration as of October 21, 2026.
+
+Before Founder review, use the [Playbook's short visual critique](Creative-Director-Tshirt-Design-Playbook.md#short-visual-critique-before-founder-review) to judge recipe intent, relationships among elements, artwork/shirt viewing scales and relevant visual references. Save specific observations and tradeoffs alongside paired visual feedback when useful. This extends the existing review, not a new approval gate or numerical scoring system.
 
 ## 9.2 Execution review
 

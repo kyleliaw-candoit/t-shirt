@@ -1,0 +1,32 @@
+[
+  {
+    "file": "assets/A-heritage.png",
+    "sha256": "0fb48d0a862843c2ed527f4fee17502074f08f75615ee333be7518040637a062",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 2698809,
+    "generation_file": "exec-f9762141-b35a-4021-af6f-a19f71efc026.png"
+  },
+  {
+    "file": "assets/B-initial.png",
+    "sha256": "471ade42865d2ae98b6df3d3db210ab6b360c3f3850e9dacafb715dfa0fa9114",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 2740994,
+    "generation_file": "exec-a127ce01-8ba4-44f5-89d6-612d099c4ef1.png"
+  },
+  {
+    "file": "assets/B-revised.png",
+    "sha256": "914050b3d36e1d5e46336b7ba3f58c5a7889ad303b657de0836940680523a514",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 2399502,
+    "generation_file": "exec-f5f7e339-dac5-4676-8a47-15364635336c.png"
+  }
+]

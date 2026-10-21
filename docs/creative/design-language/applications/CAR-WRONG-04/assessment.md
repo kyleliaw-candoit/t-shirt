@@ -1,0 +1,13 @@
+# Creative Director assessment — round04
+
+October 21, 2026. Written after Founder’s round03 critique and in-session preference for the arched Heritage study; before Founder feedback on the selected final pair. These are internal judgments, not customer or purchase evidence.
+
+- **Placement:** one inch lower in the print canvas is a better starting point than round03. Scale and vertical position must be evaluated independently. The local mockup remains provisional; exact physical collar clearance is unverified.
+- **Heritage character:** the restored upper arch forms an emblem around the objects. The classic serif payoff is less block-like than round03’s fat slab. It remains substantial enough to anchor the design; it should not be thinned into fragile hairlines. The straight-stack alternatives lost useful enclosure and rhythm. The very sparse outline trial also became more diagram-like than heritage.
+- **Illustration:** one blue palette helps unite cabinet and car. The cabinet’s curved crown, paneling and tag support the antique-shopping context. The open hatch and size mismatch explain the transport problem. The car is unbranded; avoid new brand-specific trim in cleanup. Some narrow hatching survives and must be simplified before a print sample.
+- **Hierarchy and reading:** width and height stay together at equal weight. The setup remains fairly prominent, while the payoff has a clear lower anchor. Preserve breathing space between crown and setup when rebuilding the final master. At shirt scale, small decorative detail must remain subordinate to object recognition.
+- **Color and wearability:** A on Ivory is strongest. The dark blue and rose do not earn a dark blank alternative in this version. B remains strongest on Pepper, with Moss a credible second choice. The compact footprint leaves useful cloth around both designs; medium is viable for stronger prominence but less restrained on S.
+- **Playful:** Founder’s “looks right” is feedback on its visual treatment. Preserve that artwork, change placement only, and do not reinterpret the praise as approval of round03’s collar distance or production readiness.
+- **Evidence limit:** the nine-reference study supports a direction and an explicit review check. It does not define a universal collar offset, demonstrate a sales effect, or calibrate the provider photo. Nominal S/L/2XL calculations do not establish on-body fit.
+
+Recommended next review: judge the arched Heritage treatment and the lower placement of both designs. After that choice, clean/rebuild the selected art and resolve physical placement through authoritative geometry or a measured sample. Do not repeatedly regenerate approved art merely to move it on the garment.

@@ -8,8 +8,8 @@ primary_users:
   - Strategy Advisor
   - Finance Analyst
 status: Approved operating knowledge; garment choices remain product-specific
-version: 0.1
-last_updated: 2026-09-25
+version: 0.2
+last_updated: 2026-10-21
 reviewed_by: Founder
 ---
 
@@ -280,6 +280,12 @@ This is a hypothesis, not an approved garment decision. The evaluation must chec
 - whether the resulting price supports the validation and contribution model.
 
 Gildan 64000 remains a plausible lower-risk comparator if the objective is a broadly acceptable soft unisex shirt before garment preference is known.
+
+### October 21, 2026 — R012 design-stage preference
+
+The Founder has now agreed to use **Comfort Colors 1717 as the design-stage default** for the current antique/vintage brand. If the proposed treatment meaningfully conflicts with its finish, silhouette, weight, available colors or intended wearer experience, use **Gildan 64000 Softstyle** and record the reason. This advances the earlier evaluation-only position for creative execution; it does not approve a production purchase or remove provider, economics and sample checks.
+
+Follow the [garment, color and controlled-placement workflow](../creative/design-language/Garment-and-Placement-Workflow.md). Each blank will have a small preselected palette of available provider colors. Designs use those palettes and finish with the strongest one or two colorways. Actual colors and the consistent reference size remain pending; no specific palette or size is approved here. Preserve those choices and their verification in product-specific records rather than turning this playbook into a live catalog.
 
 ## 11. Knowledge update policy
 

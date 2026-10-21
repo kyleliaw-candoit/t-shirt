@@ -1,0 +1,658 @@
+[
+  {
+    "n": 1,
+    "name": "Condensed declaration",
+    "core": [
+      "DLS-BEE-001",
+      "DLS-BEE-002",
+      "DLS-ETSY-023",
+      "DLS-ETSY-035",
+      "DLS-HISTOREE-005",
+      "DLS-HISTOREE-008",
+      "DLS-RB-036",
+      "DLS-ZZ-005",
+      "DLS-ZZ-024",
+      "DLS-ZZ-038"
+    ],
+    "bridge": [
+      "DLS-RB-007",
+      "DLS-RB-018",
+      "DLS-RB-022",
+      "DLS-ZZ-009",
+      "DLS-ZZ-035",
+      "DLS-ZZ-036",
+      "DLS-ZZ-043",
+      "DLS-SNORG-005",
+      "DLS-SNORG-020"
+    ],
+    "refs": [
+      "DLS-HISTOREE-008",
+      "DLS-BEE-002",
+      "DLS-ZZ-038"
+    ],
+    "anchor": "DLS-HISTOREE-008",
+    "box": [
+      0.31,
+      0.3,
+      0.7,
+      0.52
+    ],
+    "body": [
+      0.19,
+      0.82
+    ],
+    "palette": [
+      "#eeeae1",
+      "#171717"
+    ],
+    "observed": "Tall, narrow uppercase strokes make a compact, emphatic text mass. Tight line spacing and shared edges create the graphic; one contrasting ink and bare garment keep it legible. Distress appears in some examples, not all.",
+    "essential": "The words must carry the situation. Preserve readable counters, deliberate line rhythm and a coherent text silhouette; emphasis must follow meaning.",
+    "flexible": "Plain or weathered edges; one restrained accent; center or modest offset; moderate to large scale. A small icon can support already clear copy.",
+    "garment": "Observed: crew-neck fronts in light and dark solids, fitted and relaxed silhouettes. A large block needs uninterrupted chest space; do not infer identical fit from identical mockups.",
+    "fit": "A plausible fit for audiences who enjoy direct statements or verbal humor. Fails when the audience or situation exists only in an invisible illustration. CAR: WRONG needs more image evidence than a pure type version supplies.",
+    "failure": "Too many independently enlarged words; illegible condensed counters; a tiny illustration asked to explain the whole premise.",
+    "detail": "Compare repeated vertical strokes and compact leading. Here the setup and body form one text unit; source hierarchy is not automatically the right hierarchy for new copy.",
+    "metric": "Anchor print width is about 62% of visible torso width at print level (0.39 / 0.63 image widths). The total print box is about 1.77 times wider than high. These are manual mockup estimates, not garment specifications.",
+    "proposal": "Try at most one payoff accent. Select line breaks after assigning semantic roles, not by filling a rectangle.",
+    "id": "DLF-001",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-HISTOREE-008",
+      "normalized_artwork_box_xyxy": [
+        0.31,
+        0.3,
+        0.7,
+        0.52
+      ],
+      "pixel_box_xyxy": [
+        310,
+        300,
+        700,
+        520
+      ],
+      "visible_torso_x_limits": [
+        0.19,
+        0.82
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 2,
+    "name": "Quiet vignette and dry caption",
+    "core": [
+      "DLS-ETSY-010",
+      "DLS-ETSY-012",
+      "DLS-ETSY-015",
+      "DLS-ETSY-024",
+      "DLS-ETSY-026",
+      "DLS-ETSY-038",
+      "DLS-ETSY-039",
+      "DLS-HISTOREE-006",
+      "DLS-HISTOREE-007",
+      "DLS-HISTOREE-010",
+      "DLS-HISTOREE-013",
+      "DLS-HISTOREE-018",
+      "DLS-HISTOREE-020",
+      "DLS-RB-005",
+      "DLS-RB-010",
+      "DLS-RB-039",
+      "DLS-ZZ-041"
+    ],
+    "bridge": [
+      "DLS-ETSY-006",
+      "DLS-ETSY-013",
+      "DLS-ETSY-017",
+      "DLS-ETSY-030",
+      "DLS-ETSY-033",
+      "DLS-ETSY-037",
+      "DLS-HISTOREE-012",
+      "DLS-HISTOREE-017",
+      "DLS-LIG-008",
+      "DLS-LIG-019",
+      "DLS-RB-003",
+      "DLS-RB-011",
+      "DLS-RB-021",
+      "DLS-RB-024",
+      "DLS-RB-025",
+      "DLS-RB-038",
+      "DLS-SNORG-015",
+      "DLS-ZZ-007",
+      "DLS-ZZ-019",
+      "DLS-ZZ-027",
+      "DLS-ZZ-042"
+    ],
+    "refs": [
+      "DLS-RB-039",
+      "DLS-ETSY-038",
+      "DLS-HISTOREE-013"
+    ],
+    "anchor": "DLS-RB-039",
+    "box": [
+      0.34,
+      0.27,
+      0.66,
+      0.42
+    ],
+    "body": [
+      0.2,
+      0.8
+    ],
+    "palette": [
+      "#242424",
+      "#d7d4c9"
+    ],
+    "observed": "One isolated figure or object sits in open garment space. A short, plain caption behaves like an aside. The graphic may be line drawing, naturalistic cutout or restrained cartoon; this is a deliberate subtype boundary, not proof those styles are interchangeable.",
+    "essential": "A recognisable silhouette and a short verbal afterthought must work together at modest scale. Empty fabric is part of the composition.",
+    "flexible": "Caption above or below; one ink or a subdued accent; centered placement or a purposeful offset. Figure style is a recorded subtype, chosen for the audience.",
+    "garment": "Observed: mostly solid crew-neck fronts with ample blank torso. Folded Etsy images hide full scale; use whole-shirt references for placement decisions. Tiny left-chest marks are boundary examples, not the default.",
+    "fit": "Useful for quiet, observant humor when a single object supplies the missing context. Less suitable for a sequence, multiple relationships or subtle antique details that disappear when reduced.",
+    "failure": "Confusing restraint with undersizing; a fine drawing that turns into an indistinct spot; a caption so small that the payoff vanishes.",
+    "detail": "The low, horizontal figure and nearby small caption share a single compact footprint. The open space around them does more work than decoration would.",
+    "metric": "Anchor print width is about 53% of visible torso width at print level (0.32 / 0.60). Print aspect ratio is approximately 2.13:1. Small-looking does not mean a tiny measured print.",
+    "proposal": "For a complex material, first simplify the visual relation; do not simply reduce the entire illustration.",
+    "id": "DLF-002",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-RB-039",
+      "normalized_artwork_box_xyxy": [
+        0.34,
+        0.27,
+        0.66,
+        0.42
+      ],
+      "pixel_box_xyxy": [
+        204,
+        162,
+        396,
+        252
+      ],
+      "visible_torso_x_limits": [
+        0.2,
+        0.8
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 3,
+    "name": "Heritage illustrated emblem",
+    "core": [
+      "DLS-ETSY-011",
+      "DLS-ETSY-014",
+      "DLS-ETSY-022",
+      "DLS-HISTOREE-004",
+      "DLS-HISTOREE-011",
+      "DLS-HISTOREE-019",
+      "DLS-ZZ-014",
+      "DLS-ZZ-040",
+      "DLS-SLOTH-005",
+      "DLS-SLOTH-010"
+    ],
+    "bridge": [
+      "DLS-HISTOREE-021",
+      "DLS-SLOTH-001",
+      "DLS-SLOTH-006",
+      "DLS-SLOTH-009",
+      "DLS-SLOTH-013",
+      "DLS-LIG-015",
+      "DLS-SNORG-008",
+      "DLS-SNORG-013",
+      "DLS-RB-002",
+      "DLS-RB-009",
+      "DLS-RB-016"
+    ],
+    "refs": [
+      "DLS-HISTOREE-011",
+      "DLS-ETSY-022",
+      "DLS-ZZ-040"
+    ],
+    "anchor": "DLS-HISTOREE-011",
+    "box": [
+      0.31,
+      0.26,
+      0.7,
+      0.55
+    ],
+    "body": [
+      0.19,
+      0.81
+    ],
+    "palette": [
+      "#e4d4b1",
+      "#383b2f",
+      "#9a6041"
+    ],
+    "observed": "A detailed, recognisable hero sits between a curved or gently spread heading and a compact lower anchor. Serif or slab lettering, engraved or book-illustration marks, muted warm colors and open garment edges suggest a collected or timeworn object.",
+    "essential": "Make the hero the context carrier; give lettering and illustration a shared vintage voice. Keep the outer silhouette open and distinguish headline, image and lower anchor without boxing every part.",
+    "flexible": "Arch may flatten; color may be one ink plus an accent or a few muted fills; fine hatching may simplify. Naturalistic and friendly storybook subtypes must be kept distinct.",
+    "garment": "Observed: pale, heathered and washed-looking solids; crew necks and varied fits. Proposed CAR application: relaxed charcoal crew, warm cream and faded rust. Vintage appearance is visual; actual fabric weight or aging is not inferred.",
+    "fit": "Promising for some antique/vintage hunters because familiar object illustration and aged print can reinforce the subject. Transfer to food lovers needs evidence of their aesthetic fit; the same frame alone is insufficient.",
+    "failure": "A generic badge with no material-specific action; tiny engraved details carrying the joke; ornamental stars and dates added without meaning.",
+    "detail": "Heading, aircraft silhouette and lower date form a wide-to-narrow rhythm. The garment supplies the gaps; there is no enclosing panel.",
+    "metric": "Anchor print width is about 63% of visible torso width at print level (0.39 / 0.62). Print aspect ratio is approximately 1.34:1. Heading occupies roughly the upper fifth of the print box; this is an estimate, not a fixed recipe.",
+    "proposal": "For CAR: WRONG, replace the solitary hero with a clearly related antique cabinet and small open-boot car. Keep the setup at one weight and give the verdict a strong lower anchor.",
+    "id": "DLF-003",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-HISTOREE-011",
+      "normalized_artwork_box_xyxy": [
+        0.31,
+        0.26,
+        0.7,
+        0.55
+      ],
+      "pixel_box_xyxy": [
+        310,
+        260,
+        700,
+        550
+      ],
+      "visible_torso_x_limits": [
+        0.19,
+        0.81
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 4,
+    "name": "Playful lettering and illustration interlock",
+    "core": [
+      "DLS-ETSY-025",
+      "DLS-ETSY-046",
+      "DLS-ETSY-048",
+      "DLS-LIG-021",
+      "DLS-SLOTH-012",
+      "DLS-SLOTH-017",
+      "DLS-SNORG-002",
+      "DLS-SNORG-003",
+      "DLS-SNORG-016",
+      "DLS-ZZ-001",
+      "DLS-ZZ-025"
+    ],
+    "bridge": [
+      "DLS-ETSY-008",
+      "DLS-ETSY-009",
+      "DLS-ETSY-018",
+      "DLS-ETSY-027",
+      "DLS-ETSY-047",
+      "DLS-SNORG-007",
+      "DLS-SNORG-011",
+      "DLS-SNORG-021",
+      "DLS-LIG-017",
+      "DLS-ZZ-009",
+      "DLS-ZZ-016",
+      "DLS-ZZ-017",
+      "DLS-ZZ-023",
+      "DLS-ZZ-030",
+      "DLS-ZZ-033",
+      "DLS-SLOTH-013"
+    ],
+    "refs": [
+      "DLS-ETSY-025",
+      "DLS-SNORG-002",
+      "DLS-LIG-021"
+    ],
+    "anchor": "DLS-ETSY-025",
+    "box": [
+      0.29,
+      0.21,
+      0.84,
+      0.88
+    ],
+    "body": [
+      0.17,
+      0.9
+    ],
+    "palette": [
+      "#eee5d3",
+      "#db5449",
+      "#335f9f"
+    ],
+    "observed": "Broad rounded or irregular lettering shares its footprint with friendly outlined objects. Short copy and imagery nest into each other; two or three strong colors repeat across the unit. Open edges prevent the large composition from becoming a printed rectangle.",
+    "essential": "Copy and image must feel drawn for each other while remaining readable. Match stroke weight and character; repeat palette roles. Give required semantic parts room before adding doodles.",
+    "flexible": "A few rounded serif forms or hand-lettered capitals; light or dark base; two or three main inks; compact or broad silhouette. The illustration may interrupt a line without obscuring words.",
+    "garment": "Observed: roomy and boxy fronts as well as regular crews; examples include ivory, dark navy and saturated color. Broad prints need breathing room inside the torso. Proposed charcoal application changes palette roles while retaining contrast.",
+    "fit": "Promising for audiences who welcome approachable, cheerful humor and visible illustrations. Cute or bubbly treatment may weaken a solemn, austere or understated concept. Gendered store routes do not establish who will like it.",
+    "failure": "Decorative clutter, many competing letter styles, equal emphasis everywhere, or cuteness that hides the actual transport problem.",
+    "detail": "Coral letter masses and cobalt object outlines alternate in one vertical unit. Small secondary handwriting is subordinate; the cups are not a tiny icon beneath a finished headline.",
+    "metric": "Anchor print width is about 75% of visible torso width at print level (0.55 / 0.73). Print aspect ratio is approximately 0.82:1. Main object band spans roughly one third of print height; pose and fabric folds make these coarse estimates.",
+    "proposal": "For CAR: WRONG, fit two equally treated setup ideas into one line, then let the cabinet/car relationship occupy the middle and the punchline anchor the bottom. Omit unrelated flowers or stars.",
+    "id": "DLF-004",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-ETSY-025",
+      "normalized_artwork_box_xyxy": [
+        0.29,
+        0.21,
+        0.84,
+        0.88
+      ],
+      "pixel_box_xyxy": [
+        230,
+        167,
+        667,
+        699
+      ],
+      "visible_torso_x_limits": [
+        0.17,
+        0.9
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 5,
+    "name": "Nostalgic display-letter wordmark",
+    "core": [
+      "DLS-BEE-003",
+      "DLS-BEE-006",
+      "DLS-BEE-007",
+      "DLS-BEE-008",
+      "DLS-LIG-013",
+      "DLS-ZZ-003"
+    ],
+    "bridge": [
+      "DLS-ZZ-021",
+      "DLS-ZZ-028",
+      "DLS-SNORG-012",
+      "DLS-SNORG-020"
+    ],
+    "refs": [
+      "DLS-BEE-003",
+      "DLS-BEE-007",
+      "DLS-LIG-013"
+    ],
+    "anchor": "DLS-BEE-003",
+    "box": [
+      0.39,
+      0.39,
+      0.72,
+      0.52
+    ],
+    "body": null,
+    "palette": [
+      "#803d2c",
+      "#e8d9b8"
+    ],
+    "observed": "Rounded, swollen or swashing display letters create the main image. Close spacing, nested words and warm or softened color pairings supply a nostalgic tone. The Bee & The Fox provides most core examples; other sources support only parts of this combination.",
+    "essential": "Letterform personality and inter-word rhythm must carry the appeal. Preserve counters and joins while making the wordmark a coherent shape.",
+    "flexible": "Bulbous sans, soft serif or ornamental swash are separate subtypes. Ringer trim can echo the ink, but is optional; warm contrast can shift to a cheerful high-contrast pairing.",
+    "garment": "Observed: fitted ringer crews and regular/boxy tees. Trim color can complete the palette. A ringer-specific effect cannot be assumed to survive a plain POD blank unchanged.",
+    "fit": "Useful when the wording itself is the desired identity signal and the audience welcomes nostalgic lettering. Evidence is concentrated in one brand; do not equate that brand audience with all women or antique hunters.",
+    "failure": "Using an arbitrary retro font as the entire recipe; pinched letter counters; decorative swashes that interfere with the reading order.",
+    "detail": "Cream lettering is compact and rounded; nearby collar/sleeve trim repeats the light color. The source is a styled, angled wearer photo, so garment-scale measurement is unreliable.",
+    "metric": "Approximate artwork box aspect ratio: 1.69:1, using 0.33 of image width / 0.13 of image height on a 1000×1500 source. No torso-width ratio is reported because pose and partial occlusion distort it.",
+    "proposal": "Test on short, self-contained copy first. A transport joke requiring a large picture is not the strongest initial transfer test.",
+    "id": "DLF-005",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-BEE-003",
+      "normalized_artwork_box_xyxy": [
+        0.39,
+        0.39,
+        0.72,
+        0.52
+      ],
+      "pixel_box_xyxy": [
+        390,
+        585,
+        720,
+        780
+      ],
+      "visible_torso_x_limits": null,
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 6,
+    "name": "Framed illustrated artifact",
+    "core": [
+      "DLS-ETSY-016",
+      "DLS-ETSY-028",
+      "DLS-ETSY-029",
+      "DLS-ETSY-032",
+      "DLS-RB-027",
+      "DLS-RB-032",
+      "DLS-SNORG-014",
+      "DLS-ZZ-029"
+    ],
+    "bridge": [
+      "DLS-ETSY-020",
+      "DLS-ETSY-031",
+      "DLS-ETSY-042",
+      "DLS-ETSY-043",
+      "DLS-ETSY-044",
+      "DLS-LIG-009",
+      "DLS-RB-001",
+      "DLS-RB-017",
+      "DLS-RB-026",
+      "DLS-RB-030",
+      "DLS-SNORG-009",
+      "DLS-SNORG-019",
+      "DLS-ZZ-008"
+    ],
+    "refs": [
+      "DLS-ZZ-029",
+      "DLS-ETSY-016",
+      "DLS-RB-027"
+    ],
+    "anchor": "DLS-ZZ-029",
+    "box": [
+      0.32,
+      0.27,
+      0.71,
+      0.88
+    ],
+    "body": [
+      0.22,
+      0.82
+    ],
+    "palette": [
+      "#202124",
+      "#dddacf"
+    ],
+    "observed": "An engraved, ornamental or storybook image lives inside a deliberate card-like boundary. A limited palette, integrated title/footer and fine internal pattern make a small illustrated artifact. Photographic panels and bright comic panels are retained as boundaries, not collapsed into this same visual voice.",
+    "essential": "The boundary and interior must belong to one visual system. Maintain a dominant image, readable essential copy and a frame that survives shirt folds.",
+    "flexible": "Rectangle, arch or ornamented perimeter; one or a few muted inks; modest or broad print. Texture may be clean or aged; line density must suit the reproduction size.",
+    "garment": "Observed: solid fronts, including oversized and tucked styles. Tall panels occupy substantial torso height. This family can produce a valid tee, but lower text may disappear into a waistband or fold.",
+    "fit": "Possible for audiences who enjoy collectible, gothic, bookish or decorative imagery. It is not automatically suitable for a quick visual joke or someone seeking a quiet everyday shirt.",
+    "failure": "Defaulting to a poster page with many explanatory blocks; making essential narrative depend on tiny details; mistaking the existence of a border for style similarity.",
+    "detail": "A thin double frame, patterned corners and integrated title anchor the engraved figure. The dark shirt is visible inside the illustration, reducing the sense of a solid pasted rectangle.",
+    "metric": "Anchor print width is about 65% of visible torso width at print level (0.39 / 0.60). Print aspect ratio is approximately 0.64:1. The lower edge approaches the waist in this styled photo; actual printed dimensions are unknown.",
+    "proposal": "Use only when the artifact-like presentation contributes to the identity or emotion. A border is not a cure for weak composition.",
+    "id": "DLF-006",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-ZZ-029",
+      "normalized_artwork_box_xyxy": [
+        0.32,
+        0.27,
+        0.71,
+        0.88
+      ],
+      "pixel_box_xyxy": [
+        158,
+        133,
+        351,
+        435
+      ],
+      "visible_torso_x_limits": [
+        0.22,
+        0.82
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 7,
+    "name": "Faded outdoor color field",
+    "core": [
+      "DLS-HISTOREE-003",
+      "DLS-LIG-010",
+      "DLS-LIG-018",
+      "DLS-RB-015",
+      "DLS-RB-019",
+      "DLS-SLOTH-014",
+      "DLS-ZZ-004",
+      "DLS-ZZ-010",
+      "DLS-ZZ-011",
+      "DLS-ZZ-013",
+      "DLS-ZZ-018"
+    ],
+    "bridge": [
+      "DLS-LIG-016",
+      "DLS-RB-008",
+      "DLS-RB-012",
+      "DLS-RB-029",
+      "DLS-RB-035",
+      "DLS-SLOTH-001",
+      "DLS-SLOTH-003",
+      "DLS-SLOTH-008",
+      "DLS-SLOTH-011",
+      "DLS-SLOTH-019",
+      "DLS-SLOTH-020",
+      "DLS-SLOTH-021",
+      "DLS-SNORG-018"
+    ],
+    "refs": [
+      "DLS-RB-015",
+      "DLS-LIG-018",
+      "DLS-ZZ-010"
+    ],
+    "anchor": "DLS-RB-015",
+    "box": [
+      0.34,
+      0.26,
+      0.67,
+      0.59
+    ],
+    "body": [
+      0.2,
+      0.8
+    ],
+    "palette": [
+      "#262d45",
+      "#e2d7bd",
+      "#ad5e42"
+    ],
+    "observed": "A compact sun, horizon or landscape is reduced into layered shapes or a silhouette window. Cream, muted warm accents and cool/dark ground create a faded outdoor-patch feeling. Some examples add bold captions; the landscape still supplies the visual structure.",
+    "essential": "Clear foreground/background separation and a readable silhouette; a deliberately limited color hierarchy; a bounded scene that remains a shirt-scale unit.",
+    "flexible": "Round window, arched top or open skyline; two to several muted colors; little or substantial copy. Watercolor and neon variations remain boundaries, not interchangeable core recipes.",
+    "garment": "Observed: dark regular crews and lighter casual blanks. The shirt can act as the deepest landscape layer. Changing the blank may require redrawing negative shapes, not merely switching ink color.",
+    "fit": "Strong source context in outdoor interests, with transfers to nostalgia and sport. For unrelated audiences the sun/mountains may be irrelevant decoration; borrow shape relationships only if the new concept needs them.",
+    "failure": "Adding a sunset to every subject; low contrast between successive layers; a background that competes with the required action.",
+    "detail": "The pale circular field contains dark mountains and trees; one rust area provides depth. Outer edges are compact and the base cloth continues through the dark forms.",
+    "metric": "Anchor print width is about 55% of visible torso width at print level (0.33 / 0.60). Print box is approximately square. Source image cannot establish ink count, physical texture or print technique.",
+    "proposal": "For CAR: WRONG, a sunset does no essential semantic work. Keep this family available for a more suitable material instead of forcing it into the current test.",
+    "id": "DLF-007",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-RB-015",
+      "normalized_artwork_box_xyxy": [
+        0.34,
+        0.26,
+        0.67,
+        0.59
+      ],
+      "pixel_box_xyxy": [
+        204,
+        156,
+        402,
+        354
+      ],
+      "visible_torso_x_limits": [
+        0.2,
+        0.8
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  },
+  {
+    "n": 8,
+    "name": "Airy handwritten signature",
+    "core": [
+      "DLS-BEE-005",
+      "DLS-ZZ-015",
+      "DLS-ZZ-022",
+      "DLS-ZZ-034",
+      "DLS-ZZ-037",
+      "DLS-ZZ-039",
+      "DLS-ZZ-044"
+    ],
+    "bridge": [
+      "DLS-ETSY-041",
+      "DLS-SLOTH-018",
+      "DLS-LIG-022",
+      "DLS-ZZ-036"
+    ],
+    "refs": [
+      "DLS-ZZ-034",
+      "DLS-BEE-005",
+      "DLS-ZZ-039"
+    ],
+    "anchor": "DLS-ZZ-034",
+    "box": [
+      0.24,
+      0.34,
+      0.77,
+      0.44
+    ],
+    "body": [
+      0.16,
+      0.86
+    ],
+    "palette": [
+      "#eeeeea",
+      "#242321"
+    ],
+    "observed": "Thin or moderately weighted cursive makes a personal-looking statement with plenty of blank fabric. A single flowing line or a loosely stacked short phrase remains the sole focus. Small left-chest embroidery is a process/placement boundary, not evidence that printed script will behave identically.",
+    "essential": "A clear handwriting rhythm, legible joins and a quiet, single focal unit. Preserve visible contrast despite the relatively light strokes.",
+    "flexible": "Single word or a short multi-line phrase; centered or left-chest position; one contrasting color. Scale must respond to word length and stroke thickness.",
+    "garment": "Observed: light and dark casual crews, fitted/tucked and folded presentations. Folded mockups hide true torso and hem relationships. Do not rely on their styling accessories to make a plain blank desirable.",
+    "fit": "Useful when a personal affiliation or emotionally direct phrase is self-explanatory. Weak initial choice for a situation requiring two objects, spatial comparison or a three-beat reveal.",
+    "failure": "Hairline strokes disappearing in print; illegible joins; personal script mistaken for universal feminine taste; quietness used to justify an unclear concept.",
+    "detail": "Connected low letters form a broad, shallow wordmark. Large surrounding blank space provides the restraint; the knot and styled props are not part of the artwork.",
+    "metric": "Anchor print width is roughly 76% of visible torso width at print level (0.53 / 0.70), but folded edges make that denominator uncertain. Print aspect ratio is approximately 5.3:1. This is shallow, not necessarily physically small.",
+    "proposal": "Test on a concise identity or emotional concept; do not force a cabinet/car drawing into the wordmark just to use the family.",
+    "id": "DLF-008",
+    "status": "provisional visual family / analyst interpretation; not purchase validated",
+    "date": "2026-10-20",
+    "measurement": {
+      "source": "DLS-ZZ-034",
+      "normalized_artwork_box_xyxy": [
+        0.24,
+        0.34,
+        0.77,
+        0.44
+      ],
+      "pixel_box_xyxy": [
+        119,
+        168,
+        380,
+        217
+      ],
+      "visible_torso_x_limits": [
+        0.16,
+        0.86
+      ],
+      "method": "manual visual bounds; denominator is horizontal visible torso width at artwork level, not shoulder/sleeve width; approximately ±5 percentage points for flat mockups, ±10 or more for styled/folded photos",
+      "limitations": "Perspective, folds, occlusion and reproduction may distort ratios. Ranges describe these images, not universal recipe limits."
+    }
+  }
+]
