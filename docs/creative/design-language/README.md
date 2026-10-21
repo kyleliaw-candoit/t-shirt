@@ -35,7 +35,9 @@ Preserve source provenance and the exact commercial signal (for example, seller-
 
 ## Garment, color and controlled placement
 
-The [October 21 agreed workflow](Garment-and-Placement-Workflow.md) governs execution from the recipe bank: choose the blank/reference size, develop transparent artwork against an approved garment palette, control complete design dimensions and position, compare placements, select one or two colorways, and verify size behavior and detail. The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Four-color trial palettes are recorded in the workflow; the actual provider mockup reference size still needs verification. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
+The [October 21 agreed six-step workflow](Garment-and-Placement-Workflow.md) governs execution: choose the blank and develop transparent artwork; compare two measured footprints locally; compare four approved colors and select one or two; check comprehension, hierarchy, wearability and S/L/2XL proportions; verify the shortlist in Printful; save the review package. Reusable garment setup is separated from per-design work. **Garment geometry still needs calibration**: exact artwork inches do not establish the actual mockup reference size or garment-relative placement.
+
+The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Four-color trial palettes are recorded in the workflow. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
 
 ## Application and calibration
 

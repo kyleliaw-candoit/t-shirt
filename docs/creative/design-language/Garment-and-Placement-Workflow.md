@@ -1,94 +1,126 @@
 # Garment, color and controlled placement workflow
 
-Owner: Creative Director · Agreed with Founder: October 21, 2026 (America/Chicago) · Status: agreed working workflow; four-color trial palettes recorded; provider mockup reference size still pending verification.
+Owner: Creative Director · Agreed with Founder: October 21, 2026 (America/Chicago) · Status: six-step routine agreed; four-color trial palettes recorded; reusable garment geometry still needs calibration.
 
 ## Purpose and scope
 
-Turn a selected visual family and creative concept into a reproducible shirt design whose garment, colors, scale and placement are intentional. The [CAR: WRONG round 02](applications/CAR-WRONG-02/README.md) exposed the execution gap: a suitable visual family and a percentage in an image-generation prompt did not reliably produce an appropriate print footprint.
+Turn a selected visual family and creative concept into a reproducible shirt design whose garment, colors, scale and placement are intentional. [CAR: WRONG round 02](applications/CAR-WRONG-02/README.md) showed that an image-generation prompt did not reliably control print footprint. [Round 03](applications/CAR-WRONG-03/README.md) established separate artwork and measured placement, but using Printful for every exploratory comparison made execution unnecessarily slow.
 
-This workflow implements the [Creative Director Methodology](../../company/Creative-Director-Methodology.md), [T-shirt Design Playbook](../../company/Creative-Director-Tshirt-Design-Playbook.md) and [Garment Selection Playbook](../../company/Garment-Selection-Playbook.md). It does not replace their audience, production, financial or sample responsibilities. The process is reusable; the two-blank preference below belongs to the current R012 antique/vintage brand, not every future identity group.
+This workflow implements the [Creative Director Methodology](../../company/Creative-Director-Methodology.md), [T-shirt Design Playbook](../../company/Creative-Director-Tshirt-Design-Playbook.md) and [Garment Selection Playbook](../../company/Garment-Selection-Playbook.md). Their audience, production, financial and sample responsibilities still apply. The routine is reusable; the two-blank preference and palettes below belong to the current R012 antique/vintage brand.
 
-## 1. Select the garment and reference size before detailed execution
+## Agreed routine
 
-Start from the intended concept, visual family and design treatment. For this brand, **Comfort Colors 1717 is the design-stage default**. Evaluate whether the treatment conflicts with its garment finish, silhouette, weight, available colors or intended wearer experience. If a meaningful conflict exists, choose **Gildan 64000 Softstyle** and briefly record why.
+1. Choose the blank and develop transparent artwork.
+2. Compare two measured footprints using the reusable garment layout.
+3. Compare the four approved colors locally and select one or two.
+4. Check comprehension, hierarchy, wearability and proportions across S/L/2XL.
+5. Verify the shortlisted execution in Printful.
+6. Save the review package.
 
-Modern or playful artwork does not automatically conflict with 1717. Choose the garment/design combination on its merits. If neither blank is suitable or operationally available, record the mismatch instead of forcing an unsuitable choice; revise the design or revisit the shortlist.
+**Qualification: our reusable garment geometry still needs calibration.** Exact artwork inches can be recorded now; their relationship to a particular shirt image remains approximate until its geometry is verified. A selected order size does not establish the size of the garment photographed in a generic mockup.
 
-Use the selected blank's actual proportions, provider template and a consistent reference size when rendering. Identify the garment model and reference size explicitly; a generic generated shirt is not a substitute for that geometry. Match the reference size to the provider’s actual template/mockup once verified. Do not default to L without evidence. If the provider does not identify the mockup’s garment size, label it unknown rather than presenting the selected order size as proof. Record artwork dimensions in inches independently of garment size, and check the same placement on S, L and 2XL, accounting for the provider’s actual scaling behavior. Distinguish editor dimensions, calculations from a size chart, provider preview geometry and physical sample evidence.
+## Reusable garment setup and calibration
 
-This is an agreed creative default, not a production purchase, sample order or launch approval. Current provider specifications and feasibility still govern the actual product.
+Build and retain a setup record for each blank, printing method and provider template. This is primarily setup work, reused across designs. Investigate it again when the blank, printing method, template or provider behavior changes, or when preview/sample evidence reveals a mismatch.
 
-## 2. Develop separate artwork in its garment-color context
+The setup record should identify:
 
-Preselect a small approved color palette **for each blank**, drawn from the provider's available variants in the intended fulfillment context. Only these approved garment colors should be used for design trials and final color selection.
+- Blank model, provider/template reference and verification date.
+- Printable canvas, physical units and print-area position relative to garment landmarks.
+- Actual mockup/reference garment size when verified, plus the source of that identification.
+- S, L and 2XL garment measurements and the provider's scaling rules or exceptions.
+- Reusable blank images/layout transforms, approved garment colors and evidence supporting their geometry.
 
-The Founder approved **four trial colors per blank**, with expansion up to six only when justified. This internal trial palette is separate from the **one or two colorways proposed for each design**. Current working palettes: Comfort Colors 1717 — Pepper, Ivory, Blue Jean, Moss; Gildan 64000 — Black, White, Navy, Sport Grey. Verify current Printful availability in the intended fulfillment context before using a color; use the closest available option when an intended best-selling color is unavailable and record the substitution. The 1717 colors were present in the live catalog during CAR: WRONG round 03; this is not a guarantee of all variant/region stock.
+Match the working reference size to Printful's actual template/mockup once verified; do not default to L without evidence. Distinguish editor dimensions, size-chart calculations, provider previews and physical sample evidence. Nominal flat measurements do not establish drape or neckline-to-print-area placement.
 
-For each design:
+**Current calibration status:** round 03 records a 12 × 16 inch 1717 front canvas retained in the editor after S/L/2XL selection. The generic mockup's actual garment size and garment-relative placement remain unresolved. This is partial evidence, not a calibrated reusable garment layout. Until resolved, label local garment relationships as provisional and size-chart comparisons as calculations; do not claim verified size-specific fit.
 
-- Shortlist the strongest colors from the selected blank's approved palette.
-- Develop the artwork against those backgrounds. Garment color contributes contrast, negative space, mood and palette balance from the start.
-- Keep the artwork as a separate transparent-background asset; retain editable typography where practical.
-- Render previews using the selected blank's proportions. Keep the transparent artwork master independent of the garment preview.
-- Allow color-specific ink adjustments where they improve the result, and preserve those versions explicitly.
+Resolve missing geometry through authoritative template information or a measured reference/sample. If the interface provides no new evidence, preserve the uncertainty and pursue a different evidence route instead of repeatedly navigating the same controls. Creative review can proceed with these limits visible; it does not establish production readiness.
 
-Separate artwork does not mean artwork developed without garment context. Do not assume an ink palette works equally well on every approved blank color. A washed or faded appearance should be an intentional treatment, not an accidental loss of legibility.
+## 1. Choose the blank and develop transparent artwork
 
-## 3. Control complete design dimensions and placement explicitly
+For this brand, **Comfort Colors 1717 is the design-stage default**. Evaluate the concept and visual treatment against its finish, silhouette, weight, available colors and intended wearer experience. Choose **Gildan 64000 Softstyle** when there is a meaningful conflict, and record why. A modern or playful style alone does not establish a conflict. If neither blank works, revise the design or revisit the shortlist.
 
-Place the finished copy-and-graphic composition on the selected product template using a layout tool or Printful Design Maker. Set its width, height and position explicitly. Preserve aspect ratio when resizing; if the composition itself is too tall or wide, recompose it rather than distort it.
+Develop artwork in the context of the selected blank's approved colors: garment color contributes contrast, negative space, mood and palette balance. Keep a separate transparent-background master and editable typography where practical. Preserve color-specific ink versions explicitly. Use image generation for artwork and visual treatment; use measured layout for placement. Once artwork is suitable, resizing its garment footprint should not require regenerating it.
 
-Measure the **visible bounds of the complete artwork**, excluding transparent canvas padding. Record units, the placement anchor and its reference point, such as the top of the artwork relative to the neckline or the provider's print-area origin. If a percentage is used for a review preview, state its denominator.
+Current trial palettes:
 
-The maximum printable area is a production boundary, not the desired area to fill. Review vertical length as well as width. Essential graphics must remain large and specific enough to communicate the material and identity.
+| Blank | Four approved trial colors | Availability evidence |
+|---|---|---|
+| Comfort Colors 1717 | Pepper, Ivory, Blue Jean, Moss | Selectable/rendered in Printful during round 03; not an audit of every size/region |
+| Gildan 64000 Softstyle | Black, White, Navy, Sport Grey | Verify current Printful variants when this blank is used |
 
-Use image generation to develop artwork and visual treatment; use measured layout to control the final placement. A prompt requesting a particular percentage is not verification of that placement. Once placement is selected, preserve the artwork and its transform rather than regenerate the entire shirt to make a sizing change.
+These are internal trial palettes. Each design puts forward **one or two** colorways. Expansion to as many as six trial colors requires a reason. If an intended color is unavailable, select the closest suitable available option, record the substitution and update the palette explicitly.
 
-## 4. Compare compact and medium placements on the same garment
+## 2. Compare two measured footprints using the reusable garment layout
 
-Hold the blank, reference size, garment color, artwork and presentation constant while comparing compact and medium footprints. Label each with its actual width, height and placement.
+Compare compact and medium footprints locally using the reusable layout, with its calibration status visible. Hold the blank, reference size or stated unknown size, garment color, artwork and presentation constant.
 
-Inspect the whole shirt and, where available, a proportionally faithful worn view. Judge composition, surrounding cloth, vertical length, hierarchy, comprehension, identity connection and desire to wear. Digital thumbnail inspection does not establish a physical viewing distance or actual fit.
+Set and label the complete composition's **visible width, height and position in inches**, excluding transparent padding. Record the anchor/reference point: for example, top of artwork from the provider print-area origin. Do not relabel that as a neckline offset. State the denominator for any proportional measurement.
 
-Compact and medium are comparison points, not mandatory winners or universal dimensions. If neither works, adjust the placement or composition. Do not make an essential visual cue ineffective merely to reduce print area.
+Preserve aspect ratio; recompose artwork that is too tall or wide instead of distorting it. The maximum print area is a boundary, not a target to fill. Compact and medium are application-specific comparison points, not fixed recipe dimensions or mandatory winners. Preserve essential graphics at a useful scale.
 
-## 5. Select the strongest one or two garment colors
+Inspect the whole shirt and a proportionally faithful worn view when available. Use the same artwork transform for subsequent comparisons. The 8.5-inch and 10-inch widths in CAR: WRONG round 03 are examples, not universal defaults.
 
-At the selected placement, compare the shortlisted garment colors. Keep presentation consistent so color can be judged clearly. If a candidate needs a different ink palette, label that as an artwork/garment colorway rather than pretending only the blank changed.
+## 3. Compare the four approved colors locally and select one or two
 
-Retain **the best one or two colorways**. A second color is optional and should earn its place. If changing colors materially changes apparent weight or hierarchy, recheck placement before finalizing.
+At the preferred footprint, compare all four approved colors using consistent local layouts or cached blank images. Preserve the same artwork and presentation so color differences can be judged clearly. If ink changes are needed, label and retain the resulting artwork/garment colorway.
 
-## 6. Verify the final combinations and preserve a reproducible specification
+Select the strongest one or two combinations. A second color should earn its place. Judge contrast, hierarchy, audience fit, mood and willingness to wear; recheck placement if a color changes the apparent visual weight substantially.
 
-Check the selected combinations across relevant garment sizes and against the provider's actual scaling behavior. Recheck small text, linework, negative spaces, contrast and essential visual cues at the intended physical print size. A garment mockup is a preview, not proof of print fidelity, fit or wash performance; physical sample evaluation remains governed by the Garment Selection Playbook.
+Local color previews support shortlisting, not precise physical color matching. Use provider color references where available and label approximations. Routine exploratory color comparison does not require four separate Printful mockups.
 
-Keep a concise specification with the application record:
+## 4. Check comprehension, hierarchy, wearability and proportions across S/L/2XL
+
+For the shortlisted combinations, assess:
+
+- Whether a first-time viewer understands the material/concept and its connection to the target audience without the research explanation.
+- Whether visual hierarchy matches meaning and rhythm, with appropriate typography, illustration, contrast and negative space.
+- Whether the composition feels desirable to wear, with appropriate width, vertical length and surrounding cloth.
+- Whether essential cues, small text, linework and gaps remain useful at the intended physical print size.
+- How the same placement relates to S, L and 2XL, applying the provider's established scaling behavior.
+
+Reuse established geometry for these design-specific checks instead of repeating the provider investigation. Keep artwork inches independent of garment size; do not proportionally enlarge/reduce the print merely because the shirt size changes unless the provider actually does so. Record any size-specific exception.
+
+Where geometry is still unverified, retain the dimensional checks and state which visual conclusions remain provisional. Selecting three sizes in the editor is not itself a visual fit test. No single check or composite score replaces design judgment.
+
+## 5. Verify the shortlisted execution in Printful
+
+Use Printful for the selected placement and one or two proposed colorways. Compare the uploaded result with the local specification: correct blank, print method, color, visible artwork dimensions, canvas, anchor/position, clipping and relevant size behavior. Check current variant availability for the intended sizes and fulfillment context.
+
+Reuse documented template/scaling evidence unless there is a change or contradiction. If Printful disagrees with the local layout, resolve the discrepancy and update affected comparisons. Use Printful earlier only when a specific feasibility or geometry question would materially change the design.
+
+Check native artwork resolution, transparency, linework and print feasibility independently of the editor's quality badge. Exporting a larger canvas does not recover missing image detail. Preserve unresolved limitations; a provider preview is not proof of printed fidelity, physical fit or wash performance. Physical sample evaluation remains governed by the Garment Selection Playbook.
+
+This step verifies the shortlisted design execution; it does not require every exploratory footprint/color combination to be recreated in Printful.
+
+## 6. Save the review package
+
+Keep a concise, reproducible application record:
 
 | Field | What to preserve |
 |---|---|
 | Design identity | Concept/material IDs, visual family and artwork version |
-| Garment decision | Blank model, reason for any switch from 1717, reference size and provider/template reference |
-| Garment colors | Approved-palette version; selected one or two provider color names/variant references |
-| Artwork | Transparent master, colorway-specific ink changes and preview files |
-| Geometry | Visible-artwork width and height, units, position, anchor/reference point and any size-specific scaling |
-| Comparison | Compact/medium options, chosen placement and reasons; colorway comparison |
-| Review | Creative Director assessment before Founder feedback when calibrating; subsequent feedback and revisions separately |
-| Production status | Provider verification date, remaining feasibility questions and sample evidence/status |
+| Garment decision | Blank, reason for switching from 1717, reference size or explicit unknown, reusable setup version and calibration status |
+| Colors | Approved-palette version, four-color comparison, selected one or two provider color names and any substitutions |
+| Artwork | Transparent master, colorway-specific ink changes and reproducible layout files |
+| Geometry | Visible width/height, units, position, anchor/reference point and size-specific scaling |
+| Comparisons | Compact/medium board, selected footprint and reasons; S/L/2XL checks and evidence limits |
+| Judgment | Creative Director assessment before Founder feedback when calibrating; subsequent feedback and revisions separately |
+| Verification | Printful verification date, final settings and meaningful evidence screenshots; outstanding production/sample issues |
 
-An approved palette is a versioned design constraint, not a claim that stock will remain available. Recheck relevant provider facts when executing; revisit the palette explicitly if availability changes instead of silently substituting colors.
+Save useful decisions and evidence, not every navigation step or operational intermediate. Preserve rejected alternatives when they explain a meaningful tradeoff. Do not overwrite historical assessments or claim that older previews met this revised process.
 
-## Pending decisions and immediate next step
+## Pending work and next review
 
-The following remain **open**:
+- Calibrate the reusable garment geometry, including the provider mockup reference size and garment-relative placement.
+- Verify Gildan 64000 variants when used.
+- Review [CAR: WRONG round 03](applications/CAR-WRONG-03/README.md), choose its footprint and one or two colorways per design, then complete the selected artwork's production cleanup and sample evaluation.
 
-- Verify the provider mockup reference size and corresponding geometry; explicitly mark unknown until established.
-- Verify Gildan 64000 trial colors/variants in Printful when that blank is used.
-- Select the final CAR: WRONG footprint and one or two colorways after reviewing round 03; then complete production cleanup and a sample check.
-
-[CAR: WRONG round 03](applications/CAR-WRONG-03/README.md) applies the trial palette and independent artwork sizing. Its compact/medium measurements are application-specific. The provider mockup’s actual reference size remains unresolved; do not silently treat an order-size selection as mockup geometry verification.
+The current CAR: WRONG boards and assessment remain the review package. They used Printful for four footprint previews and eight color trials; those historical assets are retained. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
 
 ## Decision provenance
 
-This record captures the Founder's October 21 agreement to: default to 1717 and use 64000 for a meaningful design conflict; develop transparent artwork with a restricted palette of available garment colors; control dimensions and placement explicitly; and compare compact and medium placements. It also preserves the discussed refinements: evaluate garment/design fit rather than style labels, judge placement with color held constant, select only colorways that work, and verify the final result across relevant sizes.
+The Founder's October 21 agreements establish the garment defaults, four-color trial palettes, one or two proposed colorways, transparent artwork, measured placement, actual provider reference size when verified, and S/L/2XL checks. The subsequent efficiency discussion was explicitly approved as the six-step routine above, with the qualification that reusable garment geometry still needs calibration.
 
-Original [round 02 assessments](applications/CAR-WRONG-02/assessment.md) and generated mockups remain historical records. This workflow addresses their scale-control limitation; it does not retroactively claim that those mockups met the new process.
+The simplification moves exploratory footprint/color comparison into reusable local layouts and reserves routine Printful work for the shortlist. It retains design judgment, exact artwork dimensions, size checks, provider verification and production/sample responsibilities.
