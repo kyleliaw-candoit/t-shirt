@@ -1,0 +1,142 @@
+[
+  {
+    "design": "A",
+    "family": "DLF-003",
+    "artwork": "A-heritage-v3.png",
+    "variant": "compact",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.625,
+      "top": 1.5,
+      "width": 8.75,
+      "height": 8.3794
+    },
+    "position_reference": "12x16 print-canvas top-left, NOT neckline",
+    "native_visible_bbox": [
+      79,
+      52,
+      1236,
+      1160
+    ],
+    "native_effective_ppi": 132.2,
+    "layout_file": "A-compact-12x16.png",
+    "selected": true,
+    "selected_color": "Ivory",
+    "native_master_sha256": "6b291ecefdddc3b84528cb81b070a5ab665776a1509dae4679a0dfefec8c0813",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "round04 provisional transform; 17.8px/in; origin y=97, center x=303 on 602px blank",
+    "size_chart_width_percent": {
+      "S": 47.9,
+      "L": 39.8,
+      "2XL": 33.7
+    }
+  },
+  {
+    "design": "A",
+    "family": "DLF-003",
+    "artwork": "A-heritage-v3.png",
+    "variant": "medium",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 0.875,
+      "top": 1.5,
+      "width": 10.25,
+      "height": 9.8159
+    },
+    "position_reference": "12x16 print-canvas top-left, NOT neckline",
+    "native_visible_bbox": [
+      79,
+      52,
+      1236,
+      1160
+    ],
+    "native_effective_ppi": 112.9,
+    "layout_file": "A-medium-12x16.png",
+    "selected": false,
+    "selected_color": "Ivory",
+    "native_master_sha256": "6b291ecefdddc3b84528cb81b070a5ab665776a1509dae4679a0dfefec8c0813",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "round04 provisional transform; 17.8px/in; origin y=97, center x=303 on 602px blank",
+    "size_chart_width_percent": {
+      "S": 56.2,
+      "L": 46.6,
+      "2XL": 39.4
+    }
+  },
+  {
+    "design": "B",
+    "family": "DLF-006",
+    "artwork": "B-artifact-v1.png",
+    "variant": "compact",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.875,
+      "top": 1.5,
+      "width": 8.25,
+      "height": 10.401
+    },
+    "position_reference": "12x16 print-canvas top-left, NOT neckline",
+    "native_visible_bbox": [
+      129,
+      75,
+      1061,
+      1250
+    ],
+    "native_effective_ppi": 113.0,
+    "layout_file": "B-compact-12x16.png",
+    "selected": true,
+    "selected_color": "Pepper",
+    "native_master_sha256": "716fe687fb53928bdde48ddd07cc5f8b0f98724e86790972731cfd50579cb25c",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "round04 provisional transform; 17.8px/in; origin y=97, center x=303 on 602px blank",
+    "size_chart_width_percent": {
+      "S": 45.2,
+      "L": 37.5,
+      "2XL": 31.7
+    }
+  },
+  {
+    "design": "B",
+    "family": "DLF-006",
+    "artwork": "B-artifact-v1.png",
+    "variant": "medium",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.25,
+      "top": 1.5,
+      "width": 9.5,
+      "height": 11.9769
+    },
+    "position_reference": "12x16 print-canvas top-left, NOT neckline",
+    "native_visible_bbox": [
+      129,
+      75,
+      1061,
+      1250
+    ],
+    "native_effective_ppi": 98.1,
+    "layout_file": "B-medium-12x16.png",
+    "selected": false,
+    "selected_color": "Pepper",
+    "native_master_sha256": "716fe687fb53928bdde48ddd07cc5f8b0f98724e86790972731cfd50579cb25c",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "round04 provisional transform; 17.8px/in; origin y=97, center x=303 on 602px blank",
+    "size_chart_width_percent": {
+      "S": 52.1,
+      "L": 43.2,
+      "2XL": 36.5
+    }
+  }
+]

@@ -9,6 +9,25 @@ brand: Worth the Detour
 
 # R012 — Locked Design Registry
 
+## CAR: WRONG — Heritage round05 and retained Playful
+
+October 21, 2026 · **LOCKED — approved aesthetic execution; production cleanup/sample pending.**
+
+Founder approved the round05 revision and requested merge; PR137 merged at `3c5abcf24862440b2b0d1101d28e407b7923ed46`. The next session explicitly requested closeout of the approved CAR: WRONG revision. [Closeout and remaining production work](design-language/applications/CAR-WRONG-05/closeout.md).
+
+| Execution | Authoritative archived master | SHA-256 |
+|---|---|---|
+| Heritage, selected round05 v2 | [A-heritage-spacing-v2.png](design-language/applications/CAR-WRONG-05/assets/A-heritage-spacing-v2.png) | `71c412d79fb3ed36716d9a98b3531381eec877811d65f20d082c3b5badcce926` |
+| Playful, retained round04 | [B-playful-draft.png](design-language/applications/CAR-WRONG-04/assets/B-playful-draft.png) | `bdcb7c6e455d0961024014fd0f0be92484fed11d574a7a3eab280b2c94479604` |
+
+Preserve exact wording `WIDTH & HEIGHT: PERFECT. / CAR: WRONG.` Heritage: serif arch, moderate classic payoff, rose lettering, blue one-color objects, opened copy-to-illustration gaps, 1717 Ivory, visible 8.50 × 7.2113 inches at left 1.75 / top 1.50 from the 12 × 16-inch print-canvas origin. Playful: accepted rounded lettering/cartoon interlock and existing density, 1717 Pepper with Moss alternative; retained round04 layout specification governs its placement.
+
+Both masters were recovered from the merged repository, inspected visually and fingerprinted without alteration. Their Git blob identities match the merged parent tree. The [Heritage measured canvas](design-language/applications/CAR-WRONG-05/layouts/A-heritage-spaced-12x16.png) has SHA-256 `cc4de580d66ac74f7cf391b23f54db9d2e06e45460815149d02b63daf044ff76`.
+
+Lock protects the exact aesthetic reference. It does not certify native detail, transparency edges, physical collar geometry, sample fidelity, customer demand or release readiness. Any production derivative with visible changes is a new version for review. Frozen earlier assessments remain historical records.
+
+---
+
 ## Purpose
 
 This file is the canonical lock record for R012 designs that have received founder approval. It exists so approved creative decisions do not drift when work continues across chats or sessions.
