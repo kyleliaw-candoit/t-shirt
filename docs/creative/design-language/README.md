@@ -33,6 +33,10 @@ Preserve source provenance and the exact commercial signal (for example, seller-
 
 [Completed 28-design discovery batch](sourcing/discovery-28/README.md): four each from SimplyCuteTees, The Bee & The Fox, Sloth Hiking Club, Etsy, Life is Good, SnorgTees and HistoreeTees. Images, garment observations, source evidence and limitations are preserved. These are discovery sources, not validated recipes.
 
+## Garment, color and controlled placement
+
+The [October 21 agreed workflow](Garment-and-Placement-Workflow.md) governs execution from the recipe bank: choose the blank/reference size, develop transparent artwork against an approved garment palette, control complete design dimensions and position, compare placements, select one or two colorways, and verify size behavior and detail. The current R012 brand defaults to Comfort Colors 1717, switching to Gildan 64000 for a documented conflict. Actual palette colors and the reference-size convention are still undecided. Recipe cards inform composition; a generated whole-shirt image does not establish production scale.
+
 ## Application and calibration
 
 Select recipes according to the semantic work required by the material and concept, following the Playbook. Apply them to original content and inspect the actual shirt, including cut, fabric appearance, color, print scale and placement. Check whether a first-time viewer can understand the situation and identity connection without the research explanation.

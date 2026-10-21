@@ -2,8 +2,8 @@
 title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
-version: 0.3
-last_updated: 2026-10-19
+version: 0.4
+last_updated: 2026-10-21
 ---
 
 # Creative Director T-shirt Design Playbook
@@ -357,6 +357,10 @@ For controlled testing, some variables may be held constant deliberately. Later 
 
 ---
 
+### 10.1 Controlled garment, color and placement workflow
+
+Use the [canonical execution workflow](../creative/design-language/Garment-and-Placement-Workflow.md), agreed October 21, 2026. Generate separate artwork while developing garment and ink colors together. Place it on the selected blank/reference-size template at explicit width, height and position. Measure visible artwork rather than transparent padding; a maximum print area is not a target to fill. Compare compact/medium placements on the same color, then select the best one or two approved garment colorways. Neither comparison point is a mandatory winner. Preserve the final geometry and check detail and size behavior before treating the preview as production-realistic.
+
 ## 11. Common Failure Modes
 
 ### Poster Drift
@@ -431,6 +435,9 @@ Before founder review, answer:
 14. Is every essential visual cue prominent and specific enough for a first-time viewer without explanation?
 
 15. Is this visual treatment desirable for the specific target audience/subgroup, beyond making its identity recognizable? What supports that judgment?
+
+16. Are the selected blank, reference size, approved colorway and visible-artwork dimensions/position recorded and checked against the actual preview?
+17. Were placement and color comparisons controlled, with essential detail rechecked at the selected print size?
 
 Use judgment, not a numerical score.
 
