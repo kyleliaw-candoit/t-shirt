@@ -1,6 +1,6 @@
 # CAR: WRONG — round05: Heritage breathing room
 
-Creative Director · October 21, 2026 (America/Chicago) · Artwork revision for Founder review; not production-approved.
+Creative Director · October 21, 2026 (America/Chicago) · Founder-approved aesthetic revision; merged in PR137; not production-approved. [Closeout and exact-asset lock](closeout.md).
 
 ## What changed
 
@@ -48,9 +48,9 @@ The near-identical total height is deliberate: more internal air without enlargi
 
 Run `python build_review.py` from a complete checkout with Pillow and CairoSVG installed. It uses the retained round04 blank/masters and selected round05 v2 by default. The SVG layout preserves source artwork; it does not redraw the illustration or typography. Generated SVG intermediates are reproducible and are not duplicated in the repository.
 
-## What Founder should review
+## Original review question — resolved by approval
 
-Does the new separation feel composed while keeping the object group prominent and the whole emblem connected? The [assessment](assessment.md) records the Creative Director's answer before feedback. This package does not reopen Playful's accepted treatment or turn this spacing choice into a universal family rule.
+Does the new separation feel composed while keeping the object group prominent and the whole emblem connected? The [assessment](assessment.md) records the Creative Director's answer before feedback. Founder subsequently approved this revision and requested merge. The [closeout](closeout.md) records that decision separately. This package does not reopen Playful's accepted treatment or turn this spacing choice into a universal family rule.
 
 ## Limits
 

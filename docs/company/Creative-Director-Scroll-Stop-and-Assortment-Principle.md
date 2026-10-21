@@ -2,8 +2,8 @@
 title: Creative Director Scroll-Stop and Assortment Principle
 owner: Creative Director
 status: Living Working Guide
-version: 0.1
-last_updated: 2026-08-13
+version: 0.2
+last_updated: 2026-10-21
 ---
 
 # Creative Director — Scroll-Stop and Assortment Principle
@@ -151,6 +151,16 @@ A visually varied collection may increase the chance that different customers fi
 ---
 
 ## 7. Guardrails
+
+### One or two executions per creative concept
+
+Founder-approved working default, October 21, 2026: offer **one or two meaningfully different visual executions per creative concept**. This is a storefront assortment limit, not a requirement to generate or publish two versions of every idea. Each execution must clear the creative and production checks; do not add filler or retain an obvious defect merely to obtain data. The cap aims to keep choice useful and avoid clutter; its conversion effect is not yet measured.
+
+Creative concept and visual design are distinct hypotheses that can interact. Internal preference between two sound executions guides merchandising and prioritization, but does not establish which customers will buy. When two executions offer a meaningful aesthetic choice, let customer behavior inform retaining one, retaining both or revising them. Both may perform well; no winner is required. Interpret clicks as attention, purchases as buying behavior, and compare exposure, placement, offer and traffic before attributing differences to execution. Unequal sales counts under unequal exposure do not establish preference, and low/noisy traffic does not establish equality or failure.
+
+This supports the AI-native optimization model: use human/AI judgment to create credible candidates and customer evidence to improve the assortment. Hold the concept wording reasonably stable when learning about execution; do not infer a concept-level failure from one weak treatment. A future test must record what changed rather than automatically claim a causal effect of family alone.
+
+First application: [Saturday at Grandma's](../creative/design-language/applications/NOSTALGIA-ND-01/founder-feedback.md). Founder prefers B while finding no obvious issue with A; retain both as store candidates, subject to outstanding production checks. Do not expand this concept into further storefront design variations during this round.
 
 Scroll-stop strength should **not** become an excuse to:
 

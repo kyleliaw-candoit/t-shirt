@@ -129,7 +129,8 @@ Save useful decisions and evidence, not every navigation step or operational int
 
 - Calibrate the reusable garment geometry, including the provider mockup reference size and garment-relative placement.
 - Verify Gildan 64000 variants when used.
-- Review [CAR: WRONG round05](applications/CAR-WRONG-05/README.md), which applies the approved internal-spacing critique to the selected Heritage direction; then complete selected-artwork cleanup and sample evaluation.
+- [CAR: WRONG round05](applications/CAR-WRONG-05/README.md) is now Founder-approved and merged in PR137; its [closeout](applications/CAR-WRONG-05/closeout.md) preserves selected-artwork cleanup and sample evaluation as production work.
+- Review [NOSTALGIA-ND-01](applications/NOSTALGIA-ND-01/README.md). Its final provider preview check remains incomplete after browser timeouts; do not treat the confirmed upload as applied-layout verification.
 
 The round03 CAR: WRONG boards and assessment remain historical evidence. They used Printful for four footprint previews and eight color trials; those assets are retained alongside the round04 response. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
 
