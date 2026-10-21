@@ -65,3 +65,8 @@ Production cleanup remains necessary: simplify the remaining narrow hatch marks,
 - `evidence/`: provider verification screenshots and limits.
 
 The source style reference is [DLS-ETSY-022](../../sourcing/expanded-scan/records/DLS-ETSY-022.md). Its blue illustration/rose lettering informed palette and rendering; its distinctive raccoon and wording were not copied.
+
+
+## Subsequent Founder review — October 21
+
+Founder preferred this Heritage direction to the earlier colored illustration and retained Playful as a different aesthetic worth selling/testing. Founder subsequently found Heritage's copy-to-image gaps cramped; Playful was also dense but acceptable because of its playful character. The [paired feedback record](../../reviews/2026-10-21-CAR-WRONG-Spacing.md) and [round05](../CAR-WRONG-05/README.md) preserve the response. The images and initial assessment above remain unchanged historical evidence.

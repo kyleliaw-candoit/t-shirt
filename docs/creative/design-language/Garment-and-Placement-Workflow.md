@@ -90,6 +90,12 @@ For the shortlisted combinations, assess:
 
 Reuse established geometry for these design-specific checks instead of repeating the provider investigation. Keep artwork inches independent of garment size; do not proportionally enlarge/reduce the print merely because the shirt size changes unless the provider actually does so. Record any size-specific exception.
 
+Before Founder review, apply the [Playbook's short visual critique](../../company/Creative-Director-Tshirt-Design-Playbook.md#short-visual-critique-before-founder-review): recipe intent, relationships between elements, artwork and shirt viewing scales, and relevant reference comparison. Record the specific observation, its effect, the proposed correction and the tradeoff. Spacing is one relationship among typography, illustration, color, hierarchy and garment fit; passing a checklist does not establish a resolved design.
+
+Judge internal spacing separately from collar clearance. Deliberate dense interlocking may suit one execution while near-touching elements weaken another. The [Heritage/Playful feedback pair](reviews/2026-10-21-CAR-WRONG-Spacing.md) records why. Use optical judgment and actual rendered evidence rather than a universal minimum gap or “more whitespace” rule.
+
+For a targeted revision with an established footprint and color, reuse those decisions and the existing comparison evidence. Reopen footprint, color or size comparisons only if the edit creates a concrete risk to their conclusions. This revision shortcut does not remove the two-footprint comparison for new applications. A change to internal spacing still needs a shirt-scale review and updated geometry; changed final artwork must pass the shortlist provider check before claiming provider verification.
+
 Where geometry is still unverified, retain the dimensional checks and state which visual conclusions remain provisional. Selecting three sizes in the editor is not itself a visual fit test. No single check or composite score replaces design judgment.
 
 ## 5. Verify the shortlisted execution in Printful
@@ -114,7 +120,7 @@ Keep a concise, reproducible application record:
 | Artwork | Transparent master, colorway-specific ink changes and reproducible layout files |
 | Geometry | Visible width/height, units, print-area anchor, separately labeled collar clearance/landmark (measured or estimated), bottom edge and size-specific scaling |
 | Comparisons | Compact/medium board, selected footprint and reasons; S/L/2XL checks and evidence limits |
-| Judgment | Creative Director assessment before Founder feedback when calibrating; subsequent feedback and revisions separately |
+| Judgment | Concise pre-Founder visual critique (intent, relationships, two scales, references), specific tradeoffs; subsequent feedback separately; paired visual examples where they explain a reusable lesson |
 | Verification | Printful verification date, final settings and meaningful evidence screenshots; outstanding production/sample issues |
 
 Save useful decisions and evidence, not every navigation step or operational intermediate. Preserve rejected alternatives when they explain a meaningful tradeoff. Do not overwrite historical assessments or claim that older previews met this revised process.
@@ -123,7 +129,7 @@ Save useful decisions and evidence, not every navigation step or operational int
 
 - Calibrate the reusable garment geometry, including the provider mockup reference size and garment-relative placement.
 - Verify Gildan 64000 variants when used.
-- Review [CAR: WRONG round 04](applications/CAR-WRONG-04/README.md), which responds to Founder feedback on round03 placement and Heritage typography; then complete selected-artwork cleanup and sample evaluation.
+- Review [CAR: WRONG round05](applications/CAR-WRONG-05/README.md), which applies the approved internal-spacing critique to the selected Heritage direction; then complete selected-artwork cleanup and sample evaluation.
 
 The round03 CAR: WRONG boards and assessment remain historical evidence. They used Printful for four footprint previews and eight color trials; those assets are retained alongside the round04 response. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
 
@@ -134,3 +140,8 @@ The Founder's October 21 agreements establish the garment defaults, four-color t
 The simplification moves exploratory footprint/color comparison into reusable local layouts and reserves routine Printful work for the shortlist. It retains design judgment, exact artwork dimensions, size checks, provider verification and production/sample responsibilities.
 
 Founder subsequently identified insufficient collar clearance in both round03 designs. The explicit clearance/vertical-balance check above addresses that omission without claiming a universally correct distance. During round04, Founder preferred the arched Heritage setup over straight stacks; that application feedback is preserved separately from general placement guidance.
+
+
+### Internal relationships and taste calibration — October 21
+
+Founder selected the one-color-object Heritage direction and retained Playful as a different aesthetic worth testing. Founder then identified cramped copy-to-image gaps in Heritage while accepting Playful's dense treatment. Founder approved the family-sensitive critique, two-scale inspection, reference comparison and paired visual learning proposed in response, and requested documentation before the Heritage revision. This agreement governs the additions above. It does not establish a general preference for more whitespace or predict sales.

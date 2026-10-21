@@ -80,3 +80,8 @@ POD launches with front-only graphics. Require a visibly confirmed front treatme
 ## Collar clearance and Heritage feedback — October 21, 2026
 
 [CAR: WRONG round04](applications/CAR-WRONG-04/README.md) lowers the measured placement, revises Heritage with an arched serif setup and one-color object illustration, and preserves Playful artwork. The [focused nine-reference study](studies/Front-Placement-01/README.md) adds an explicit collar-clearance and vertical-balance check to the canonical workflow. Local geometry remains provisional. Founder’s preference for the arch calibrates this application; it does not make arches mandatory across heritage designs.
+
+
+## Internal spacing and taste calibration — October 21, 2026
+
+The [paired Heritage/Playful review](reviews/2026-10-21-CAR-WRONG-Spacing.md) preserves Founder selection and the distinction between cramped Heritage and acceptable dense Playful. The Playbook and execution workflow now require a concise visual critique of intent, element relationships, two viewing scales and relevant references. [Round05](applications/CAR-WRONG-05/README.md) applies the lesson to Heritage while retaining Playful. These are internal taste and execution learnings, not sales evidence or universal spacing thresholds.

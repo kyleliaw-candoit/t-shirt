@@ -2,7 +2,7 @@
 title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
-version: 0.4
+version: 0.5
 last_updated: 2026-10-21
 ---
 
@@ -338,6 +338,18 @@ Negative space can communicate:
 
 It is not synonymous with “minimalism.” It is an active compositional tool.
 
+### 9.1 Judge relationships against the intended visual language
+
+Good individual elements do not guarantee a resolved composition. Judge how spacing, alignment, type weight, illustration detail, palette, hierarchy and garment scale work together to deliver the intended character. A readable design can still feel cramped, disconnected, heavy or visually unresolved.
+
+Inspect the shapes of the empty spaces as well as the ink. Check copy-to-image gaps, line spacing, accidental near-touches and awkward alignments. Judge optical separation rather than demanding mathematically equal gaps. Keep internal composition spacing distinct from the surrounding garment space and collar clearance; fixing one does not fix the others.
+
+There is no universal “more whitespace is better” rule. In the CAR: WRONG application, Heritage needs enough separation for the arched setup, object group and serif payoff to feel composed. Playful can support a closely nested cartoon/lettering cluster. This is application feedback, not a rule that all heritage work must be airy or all playful work dense. Deliberate interlocking must still preserve comprehension, hierarchy and printable separation.
+
+When correcting spacing, consider reducing/repositioning the illustration within the existing footprint before making the whole print taller or smaller. Preserve essential identity cues and the cabinet/car size contrast. Reassess the complete composition after the change; a correction that creates weak illustration, excessive emptiness or poster proportions is not an improvement.
+
+See the [paired visual calibration record](../creative/design-language/reviews/2026-10-21-CAR-WRONG-Spacing.md).
+
 ---
 
 ## 10. The Garment Is Part of the Artwork
@@ -441,6 +453,19 @@ Before founder review, answer:
 16. Are the selected blank, reference size, approved colorway and visible-artwork dimensions/position recorded and checked against the actual preview?
 17. Were placement and color comparisons controlled, with essential detail rechecked at the selected print size?
 18. Does the complete design leave deliberate collar clearance and sit comfortably on the chest? Check the highest ink, optical center and bottom edge; distinguish print-area offsets from measured or estimated neckline offsets.
+
+### Short visual critique before Founder review
+
+Use four lenses without adding a separate approval gate:
+
+1. **Recipe intent:** state the qualities this application aims to convey, then judge whether the rendered shirt achieves them. A family name alone is not evidence.
+2. **Relationships:** inspect spacing, alignment, lettering weight, illustration detail, color and hierarchy together. Identify the specific interaction that feels unresolved and its consequence.
+3. **Two viewing scales:** inspect artwork close-up and at realistic shirt scale. Zoom can reveal a near-touch; the shirt view shows whether an intended gap, detail or semantic cue survives. Review known size/geometry limits separately.
+4. **Reference comparison:** compare relevant full references and details from the family, and useful prior applications. Identify what is less resolved without copying distinctive artwork or assuming source success proves causation. No new research quota is required.
+
+Record a concise observation → effect on the intended character/meaning → proposed correction → tradeoff. Example: “The cabinet crown nearly touches PERFECT; the intended composed emblem feels squeezed; open that gap and the payoff gap; check that the graphic remains prominent and the print does not become taller.” Correct material issues before presenting, then retain the assessment before new Founder feedback. Do not continue generating variants when no concrete unresolved problem remains.
+
+Preserve useful paired images with reasons: before/after changes and contrasting executions where the same apparent trait works differently. Retain original judgments and append feedback rather than retroactively improving the assessment. This provides retrievable taste calibration; it does not guarantee future judgment or establish customer preference.
 
 Use judgment, not a numerical score.
 
