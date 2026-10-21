@@ -3,7 +3,7 @@
 ===============================================================================
 Document    : Inspiration Inbox.md
 Owner       : Knowledge Librarian
-Version     : 0.7
+Version     : 0.8
 Status      : Living Document
 Created     : 2026-08-08
 
@@ -15,6 +15,9 @@ ideas, and case studies without interrupting the work currently in progress.
 ===============================================================================
 
 Change Log
+
+v0.8
+- Added deferred I008: verified Google AI Mode mockup discussion and product-fidelity-first recommendations for Printful/Shopify.
 
 v0.7
 - Clarified I007 as a deferred, optional workflow: the Research Analyst selects evidence sources and may use Flying Research only when it materially augments a relevant marketplace question; neither Flying Research nor Kittl is a current workflow priority.
@@ -647,6 +650,74 @@ Kittl is a separate optional execution surface. It may help the Creative Directo
 - Revisit Kittl only when an approved original Creative Director brief exposes a material execution gap or a deliberate design-tool comparison is authorized.
 - Strategy Advisor records the proceed / defer / reject decision after each gate.
 - Founder approval is required before any paid plan, physical sample, browser-extension installation with material permissions, or external commerce-account connection.
+
+---
+
+## I008 — Product Mockups: Verify the Product Before Adding Lifestyle Variety
+
+**Status:** Inbox — evidence review captured 2026-10-21; recommendations deferred for Founder discussion
+
+**Category:** Creative / Merchandising / Operations / AI Workflow
+
+**Source:** [Founder-shared Google AI Mode discussion](https://share.google/aimode/yUJpNnhXIQNRwDNbU), inspected in the browser on 2026-10-21. Three exchanges were visible: creating Shopify mockups, choosing the best tool, and using Printful with Shopify. This is a paraphrased assessment, not a copied transcript. The shared page is labeled Google AI Mode; its answers are claims to check, not evidence of tested performance.
+
+### Observation and verification
+
+The discussion recommends Printful for basic product/variant images, Placeit for hero/lifestyle images, and Shopify AI for background variations. That is a plausible option, but not an established best workflow for this business.
+
+| Discussion claim | Evidence-based assessment |
+|---|---|
+| Printful is a useful starting point for a Printful/Shopify store. | Supported as an operational fit. Printful documents choosing product mockups and updating selected variants through its Shopify integration [1, 2]. This supports starting there, not a universal quality ranking. |
+| Printful handles placement, variants, colors, and sizing perfectly. | Overstated. Mockups are references; the correct print file is still required [1]. Printful describes DTG underbase effects that can change colors and semi-transparent details [3]. A digital preview is not proof of delivered fit, color, or print dimensions. |
+| Automatic syncing means zero manual work. | Too broad. Native mockup updates follow a defined dashboard process; external mockups must be uploaded to the ecommerce platform and cannot currently be uploaded directly into Printful [2]. Check the selected variant's displayed image after any future update. |
+| Placeit should supply the primary hero image. | An untested recommendation, not a demonstrated conversion advantage. Official Placeit pages offer apparel and named-blank mockups [4]. Verify each template's garment, pose, color, and artwork scale; a catalog tag alone does not prove equivalence to our configured product. |
+| Printful offers only limited standard scenes, requiring an outside tool for variety. | Incomplete against current documentation. Printful now describes AI model and isolated-product mockups for select apparel during new-product creation, with 10 attempts daily [5]. Its Custom Mockup Maker is being phased out [6]. Availability for our exact product/account was not checked. |
+| Shopify can generate scenes and change backgrounds. | Supported. Its file editor supports AI image transformations, background changes, and saving a new version; documented plan requirements apply [7]. These capabilities do not establish exact preservation of text, artwork, garment, or fit. |
+| Premium lifestyle imagery makes a store more successful. | Not established by this discussion or the inspected documentation. Treat brand fit, credibility, and conversion improvement as hypotheses. No controlled performance evidence for our store was supplied. |
+
+**Link correction:** The final response labels a link “Placeit” but sends it to the different hostname `placeitgame.app`. Use the official [placeit.net](https://placeit.net/) destination instead. Its relationship to the other domain was not established; no allegation about that domain is made.
+
+The initial response also mentions Canva/Smartmockups, Dynamic Mockups, Mockupify, Mockey, and Modor. This bounded review does not verify every product in that list or recommend adopting them. The quoted Placeit monthly range mixes billing presentations: official indexed pricing shows a monthly plan and a lower monthly equivalent with annual billing. The pricing page could not be directly fetched, so no current checkout quote, entitlement, or purchase recommendation is recorded.
+
+### Why It Caught Our Attention
+
+The useful distinction is between **representing the product accurately** and **making its presentation appealing**. A more attractive scene cannot compensate for a changed slogan, an incorrect blank, or an unrealistic print footprint.
+
+Our [Garment Selection Playbook](Garment-Selection-Playbook.md) already prioritizes audience/brand/artwork fit, provider verification, and sample evidence; AI mockups are not the sole evidence of fit. The [Design / Execution Addendum](Creative-Director-Design-Execution-Addendum.md), which remains labeled Proposed, records the rationale for preserving approved visuals. These are relevant context, not new approvals created by this entry.
+
+Founder conversation context for the current “CAR: WRONG.” work also specifies matching the verified Printful reference/template size, recording artwork dimensions in inches independently of garment size, and checking S, L, and 2XL against actual scaling behavior. Those are carried-forward directions, not independently observed Printful behavior in this review. Do not replace them with an assumed L reference or a generic lifestyle template.
+
+### Evidence-based suggestions for later discussion
+
+1. **Start with the configured Printful product.** Preserve the approved artwork, exact blank/color, print method, physical artwork dimensions, and placement. Use a clear native mockup as the baseline; do not automatically demote it to a secondary image.
+2. **Ask AI to propose scenes around a fixed product.** Give it a bounded presentation brief and use the approved source asset. Where practical, preserve the garment/artwork through compositing or background-only edits. A prompt saying “keep unchanged” is an instruction, not a fidelity guarantee.
+3. **Inspect Printful's available options before adding a subscription.** If its standard or eligible AI mockups meet the actual need, another tool may add little. Inspect eligibility later within an authorized task; do not create or publish a duplicate product merely to unlock AI mockups.
+4. **Use Placeit conditionally.** Consider a template only when it represents the actual blank and placement credibly and solves a specific presentation gap. Use Shopify AI for optional scene variations with the same fidelity review. Save derivatives separately; retain the baseline.
+5. **Have AI compare every candidate to the source before Founder review.** Check exact wording and illustration, print scale/position, garment silhouette and color, obscured artwork, and readability at mobile listing size. Verify store variant associations separately. Visual AI review helps find errors but does not certify physical dimensions or manufacturing accuracy.
+6. **Choose the hero by evidence, not tool prestige.** A possible later comparison is one clean Printful image versus one faithful lifestyle candidate for the same product and offer. First compare fidelity, clarity, preparation time, and Founder effort. Only an explicitly authorized customer test can support a conversion claim; do not equate clicks with purchases. Sample photography can provide stronger product/fit evidence when sample spending is separately approved.
+
+### Potential Questions
+
+- Does the selected Printful product already offer enough suitable imagery?
+- Is the actual bottleneck product accuracy, lifestyle relevance, mobile readability, or production time?
+- Would one better hero image justify another tool and ongoing manual uploads?
+- What evidence would justify replacing the baseline, rather than simply adding an attractive secondary image?
+
+### Decision Status
+
+**Deferred.** This entry records evidence and recommendations for discussion only. No mockups were generated, tools purchased, apps installed, store media changed, samples ordered, experiments launched, or workflows amended. Creative would assess presentation, Operations would verify product/variant fidelity, and Founder would authorize material commitments if this idea is later activated. No account-specific feature availability or end-to-end tool benchmark is claimed.
+
+### Evidence Sources
+
+Official documentation inspected or retrieved on 2026-10-21; capabilities may change.
+
+1. [Printful — What are mockup images?](https://help.printful.com/hc/en-us/articles/50264186389393-What-are-mockup-images)
+2. [Printful — Add new mockups to an existing listing](https://help.printful.com/hc/en-us/articles/50264206166417-How-can-I-add-new-mockups-to-my-existing-product-listing)
+3. [Printful — Why does my design look different from what I intended?](https://help.printful.com/hc/en-us/articles/50264096966289-Why-does-my-design-look-different-from-what-I-intended)
+4. [Placeit — Mockups](https://placeit.net/mockups), [named-blank example](https://placeit.net/c/mockups/stages/bella-canvas-mockup-of-two-round-neck-t-shirts-lying-on-a-customizable-surface-m52177), and [pricing](https://placeit.net/pricing). Evidence here is official indexed page content; pricing direct fetch returned 403. No paid download or template fidelity test was performed.
+5. [Printful — AI mockups](https://help.printful.com/hc/en-us/articles/51625887847825-How-do-I-create-AI-mockups-in-Printful)
+6. [Printful — Custom Mockup Maker transition](https://help.printful.com/hc/en-us/articles/50266361810577-What-is-the-Custom-Mockup-Maker-and-how-to-use-it)
+7. [Shopify — Media generation in the file editor](https://help.shopify.com/en/manual/ai-powered-tools/media-generation)
 
 ---
 
