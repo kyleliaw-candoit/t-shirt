@@ -62,6 +62,14 @@ Preserve aspect ratio; recompose artwork that is too tall or wide instead of dis
 
 Inspect the whole shirt and a proportionally faithful worn view when available. Use the same artwork transform for subsequent comparisons. The 8.5-inch and 10-inch widths in CAR: WRONG round 03 are examples, not universal defaults.
 
+### Explicit collar-clearance and vertical-balance check
+
+Measure or estimate the gap from the **lowest outer edge of the front collar rib at center** to the **highest visible ink** in the complete composition. Include arched lettering, accents and separate stamps; exclude transparent file padding. Record this garment landmark separately from the print-canvas origin. An exact canvas offset does not establish an exact collar offset.
+
+Inspect whether the collar has breathing room, the design sits comfortably on the chest, and the bottom edge avoids drifting toward the abdomen. Judge optical weight as well as the bounding box. If placement looks too high or low, compare a vertical shift while holding artwork size, garment and presentation constant. A compact footprint can still be placed badly.
+
+The [focused nine-reference study](studies/Front-Placement-01/README.md) supports this check after Founder rejected round03's high placement. Its approximate image-space ratios are diagnostic references, not universal pass/fail thresholds or physical inches. The [round04 application](applications/CAR-WRONG-04/README.md) tests a one-inch downward shift in print-canvas coordinates. That value is application-specific. Physical neckline calibration remains open.
+
 ## 3. Compare the four approved colors locally and select one or two
 
 At the preferred footprint, compare all four approved colors using consistent local layouts or cached blank images. Preserve the same artwork and presentation so color differences can be judged clearly. If ink changes are needed, label and retain the resulting artwork/garment colorway.
@@ -76,7 +84,7 @@ For the shortlisted combinations, assess:
 
 - Whether a first-time viewer understands the material/concept and its connection to the target audience without the research explanation.
 - Whether visual hierarchy matches meaning and rhythm, with appropriate typography, illustration, contrast and negative space.
-- Whether the composition feels desirable to wear, with appropriate width, vertical length and surrounding cloth.
+- Whether the composition feels desirable to wear, with appropriate width, vertical length and surrounding cloth, including deliberate collar clearance and a balanced bottom edge.
 - Whether essential cues, small text, linework and gaps remain useful at the intended physical print size.
 - How the same placement relates to S, L and 2XL, applying the provider's established scaling behavior.
 
@@ -104,7 +112,7 @@ Keep a concise, reproducible application record:
 | Garment decision | Blank, reason for switching from 1717, reference size or explicit unknown, reusable setup version and calibration status |
 | Colors | Approved-palette version, four-color comparison, selected one or two provider color names and any substitutions |
 | Artwork | Transparent master, colorway-specific ink changes and reproducible layout files |
-| Geometry | Visible width/height, units, position, anchor/reference point and size-specific scaling |
+| Geometry | Visible width/height, units, print-area anchor, separately labeled collar clearance/landmark (measured or estimated), bottom edge and size-specific scaling |
 | Comparisons | Compact/medium board, selected footprint and reasons; S/L/2XL checks and evidence limits |
 | Judgment | Creative Director assessment before Founder feedback when calibrating; subsequent feedback and revisions separately |
 | Verification | Printful verification date, final settings and meaningful evidence screenshots; outstanding production/sample issues |
@@ -115,12 +123,14 @@ Save useful decisions and evidence, not every navigation step or operational int
 
 - Calibrate the reusable garment geometry, including the provider mockup reference size and garment-relative placement.
 - Verify Gildan 64000 variants when used.
-- Review [CAR: WRONG round 03](applications/CAR-WRONG-03/README.md), choose its footprint and one or two colorways per design, then complete the selected artwork's production cleanup and sample evaluation.
+- Review [CAR: WRONG round 04](applications/CAR-WRONG-04/README.md), which responds to Founder feedback on round03 placement and Heritage typography; then complete selected-artwork cleanup and sample evaluation.
 
-The current CAR: WRONG boards and assessment remain the review package. They used Printful for four footprint previews and eight color trials; those historical assets are retained. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
+The round03 CAR: WRONG boards and assessment remain historical evidence. They used Printful for four footprint previews and eight color trials; those assets are retained alongside the round04 response. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
 
 ## Decision provenance
 
 The Founder's October 21 agreements establish the garment defaults, four-color trial palettes, one or two proposed colorways, transparent artwork, measured placement, actual provider reference size when verified, and S/L/2XL checks. The subsequent efficiency discussion was explicitly approved as the six-step routine above, with the qualification that reusable garment geometry still needs calibration.
 
 The simplification moves exploratory footprint/color comparison into reusable local layouts and reserves routine Printful work for the shortlist. It retains design judgment, exact artwork dimensions, size checks, provider verification and production/sample responsibilities.
+
+Founder subsequently identified insufficient collar clearance in both round03 designs. The explicit clearance/vertical-balance check above addresses that omission without claiming a universally correct distance. During round04, Founder preferred the arched Heritage setup over straight stacks; that application feedback is preserved separately from general placement guidance.

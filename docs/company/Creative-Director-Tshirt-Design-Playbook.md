@@ -361,6 +361,8 @@ For controlled testing, some variables may be held constant deliberately. Later 
 
 Use the [canonical execution workflow](../creative/design-language/Garment-and-Placement-Workflow.md), agreed October 21, 2026. Generate separate artwork while developing garment and ink colors together. Place it on the selected blank/reference-size template at explicit width, height and position. Measure visible artwork rather than transparent padding; a maximum print area is not a target to fill. Compare compact/medium placements on the same color, then select the best one or two approved garment colorways. Neither comparison point is a mandatory winner. Preserve the final geometry and check detail and size behavior before treating the preview as production-realistic.
 
+Explicitly check collar clearance and vertical balance. Measure from the lowest outer front collar rib to the highest visible ink, including arches and accents, when the garment geometry supports it; otherwise label the relationship as an estimate. A compact print can still crowd the neck. Compare vertical position with scale held fixed when needed, and inspect the bottom edge as well. The [focused placement study](../creative/design-language/studies/Front-Placement-01/README.md) supports this review check without establishing universal inch or percentage thresholds.
+
 ## 11. Common Failure Modes
 
 ### Poster Drift
@@ -438,6 +440,7 @@ Before founder review, answer:
 
 16. Are the selected blank, reference size, approved colorway and visible-artwork dimensions/position recorded and checked against the actual preview?
 17. Were placement and color comparisons controlled, with essential detail rechecked at the selected print size?
+18. Does the complete design leave deliberate collar clearance and sit comfortably on the chest? Check the highest ink, optical center and bottom edge; distinguish print-area offsets from measured or estimated neckline offsets.
 
 Use judgment, not a numerical score.
 

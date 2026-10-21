@@ -76,3 +76,7 @@ POD launches with front-only graphics. Require a visibly confirmed front treatme
 ## Measured garment revision — October 21, 2026
 
 [CAR: WRONG round 03](applications/CAR-WRONG-03/README.md) separates transparent artwork from measured print placement, compares compact and medium footprints, records Printful preview evidence and distinguishes verified editor dimensions from unverified mockup reference size. Generated masters remain review drafts; a rendered canvas DPI label does not establish native production quality.
+
+## Collar clearance and Heritage feedback — October 21, 2026
+
+[CAR: WRONG round04](applications/CAR-WRONG-04/README.md) lowers the measured placement, revises Heritage with an arched serif setup and one-color object illustration, and preserves Playful artwork. The [focused nine-reference study](studies/Front-Placement-01/README.md) adds an explicit collar-clearance and vertical-balance check to the canonical workflow. Local geometry remains provisional. Founder’s preference for the arch calibrates this application; it does not make arches mandatory across heritage designs.

@@ -65,4 +65,4 @@ Before production: rebuild/clean the approved artwork at adequate native resolut
 - `generation-prompts.json`: generation instructions; family/reference provenance remains in round 02.
 - `assessment.md`: Creative Director's judgment, recorded before new Founder feedback.
 
-Founder feedback on this round is pending. Do not replace earlier reviews or promote these provisional recipe families to purchase-validated status.
+Founder feedback received October 21: both placements too close to the collar; Heritage payoff too fat for the desired classic character; try a monotone object illustration; Playful visual treatment looks right. [Round04](../CAR-WRONG-04/README.md) preserves the feedback, the later preference for an arched Heritage setup, revised placement and new assessment. This historical package and its initial assessment remain unchanged as evidence of the prior execution. No family is promoted to purchase-validated status.
