@@ -2,10 +2,10 @@
 
 Owner: Strategy Advisor  
 Date: 2026-10-22  
-Version: 1.0  
+Version: 1.1 — completed conditional material handoff  
 Status: Provisional individual assessment; mug-specific Founder Execution Advantage unconfirmed  
 Method: [Strategy Advisor v0.5](../company/Strategy-Advisor-Methodology.md), adapting its product/value questions to mugs while retaining the six dimensions.  
-Related work: [R043 research](../Researches/R043-Everyday-Language-Humor.md), [T-shirt assessment](R043-Everyday-Language-Humor-Commercial-Assessment.md), [material-depth audit](../Researches/R043-Material-Depth-Audit.md).
+Related work: [R043 research](../Researches/R043-Everyday-Language-Humor.md), [T-shirt assessment](R043-Everyday-Language-Humor-Commercial-Assessment.md), [material-depth audit](../Researches/R043-Material-Depth-Audit.md), [completed corporate-expression material search](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md).
 
 ## 1. Verdict and authorized next research
 
@@ -15,7 +15,7 @@ The Founder's intuition is credible enough for focused material research and, if
 
 Two independently sold corporate-email-humor mugs have item-level purchasing evidence; one purchaser reports recipients enjoyed their gifts [MG1–MG2]. This is stronger than supply alone. However, no inspected testimony establishes the exact chain **coworker habit recognition → gift purchase → recipient delight → visible desk use and enjoyable comments**. The distinctive proposition remains a hypothesis.
 
-**Conditional Research Analyst handoff: proceed with the requested descriptive search for corporate expression/idiom material pools.** Research should document expressions, usage, quirks, and boundaries, not approve designs or decide commercial priority. That research is warranted now; it need not wait for proof of profitable acquisition or a complete mug catalogue. Approval at this stage is for research and preparation, not launch, spending, outreach, production, or a change in approved sequencing.
+**Conditional Research Analyst handoff: completed after this provisional gate.** The [material search](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md) documents 60 distinct expression clusters across eight inventory source documents, with usage, quirks, context, and interpretation boundaries. This is an inspectable raw pool, not 60 viable products or 60 independent mechanisms. It supports a small varied exploration without establishing usable yield or buyer–recipient match density. The commercial disposition remains unchanged. Approval at this stage concerns research and preparation, not launch, spending, outreach, production, or a change in approved sequencing.
 
 The commercial thesis has two routes: a giver notices a colleague's familiar expression and gives a personally meaningful object; a worker buys a mug that reflects their own speech, humor, or experience. The recipient may additionally enjoy coworkers' smiles or comments. These routes can coexist; gifting does not need strong recipient self-purchase intent to be commercially valid.
 
@@ -53,7 +53,7 @@ These are provisional product-format judgments, not a full-portfolio calibration
 | Identity-to-Purchase Strength | 3/5 | Familiar speech and shared work experience can supply recognition; gift purchases and one reported recipient response create a bridge. Exact habit-matched coworker buying and recipient use remain unverified |
 | Market Evidence | 3/5 | Two inspected listings have item-level transactions/reviews, including a realized gift-response report. Small, self-selected evidence does not establish volume, current sales velocity, channel economics, or broad phrase demand |
 | Competitive Opportunity | 2/5 | Multiple suppliers already use obvious phrases, email translations, sarcasm, and coworker-gift positioning. Warm relationship-specific recognition is a testable angle, not established white space |
-| Creative / Product Depth | 3/5 | Several speech-related territories are plausible, but the requested corporate-specific material audit is not yet complete. The tee inventory's 60 seeds and 12/16/32 editorial breakdown do not establish a corporate mug range |
+| Creative / Product Depth | 3/5 | The completed corporate search documents 60 deduplicated expression clusters across eight inventory sources and several tensions. Usable yield, distinct mechanisms, readability and recipient matching remain unmeasured, so the score is unchanged. The separate tee inventory's 60 seeds and 12/16/32 breakdown cannot be added as independent mug opportunities |
 | Founder Execution Advantage | Unconfirmed for mugs | R043's confirmed **4/5** was supplied for the prior hypothesis. Do not infer mug/vendor expertise, sample quality judgment, or coworker-buyer recruiting access from it. Confirm scope-specific advantage before full portfolio comparison |
 | Testability / MVP Fit | 4/5 | A visible offer and no-minimum fulfillment make a bounded test plausible. Recipient appropriateness, print readability, packaging/damage, delivery timing, and landed price still need verification |
 
@@ -99,7 +99,7 @@ The following shows arithmetic sensitivity only. “Customer-paid revenue” inc
 
 This is **pre-fee, pre-acquisition headroom**, not net profit, a complete contribution margin, or an allowable CAC. Payment/marketplace/platform costs, tax treatment, replacements and damage, refunds, support, packaging extras if selected, and marketing can consume it. Charging shipping separately changes buyer presentation, not the underlying fulfillment expense. No profitable CAC, conversion rate, price premium, or revenue forecast is established.
 
-Competitor asking prices in MG1–MG3 are promotional/variant-dependent snapshots. Their international default shipping renderings cannot be compared as US delivered offers. Do not infer our economics from another seller's free-shipping label or their production partner.
+Competitor asking prices in MG1–MG3 are promotional/variant-dependent snapshots. Default shipping destinations vary and cannot be compared as standardized US delivered offers. Do not infer our economics from another seller's free-shipping label or their production partner.
 
 A mug needs its own sample and operational judgment: print legibility/orientation, hand feel and capacity, safe packaging, damage handling, and arrival before a gifting occasion. Existing tee operations do not establish mug readiness. Neither reviews nor a supplier product page replace checking the selected variant.
 
@@ -115,9 +115,11 @@ Other unknowns are reachability, differentiation beyond text choice, buyer frequ
 
 ## 8. Next research and test conditions
 
-### Research Analyst material handoff — provisionally approved
+### Research Analyst material handoff — completed
 
-Search **existing corporate/workplace expression pools**, not design concepts. Document:
+The provisional gate preceded the [completed descriptive report](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md). It supplies 60 inspectable clusters and separates a recipient's own habit, shared workplace experience/annoyance, and playful fluency. Several expressions share mechanisms; inventory source pools overlap. This satisfies the requested next research step without proving an entire collection or changing the disposition/scores.
+
+The commission searched **existing corporate/workplace expression pools**, not design concepts, using these requirements:
 
 1. Source and actual usage for expressions, distinguishing spoken meeting language, email formulas, management metaphors, and general conversational carryovers.
 2. What makes an expression recognizable or quirky: figurative wording, repeated habit, euphemism, hedging, contradiction, sound, misuse, or another evidenced feature. Several phrases may share one mechanism.
@@ -125,7 +127,7 @@ Search **existing corporate/workplace expression pools**, not design concepts. D
 4. Context required to understand it, regional/industry dependence, tone, and plausible affectionate versus derogatory reading. These are descriptive judgments, not legal clearance or guarantees of appropriateness.
 5. Raw pool depth, overlap between sources, distinct phrase clusters, and narrower near-scope material. Dictionary/listicle counts are not commercially usable designs; do not add overlapping lists together as a market-size estimate.
 
-This fulfills the user's conditional research sequence. It does not require a giant inventory or prove an entire collection before a low-cost test can be considered.
+The report fulfills the user's conditional research sequence. Further list expansion is unnecessary unless a specific gap changes the decision; proceed to a small varied proposition only if selected rather than requiring exhaustive material coverage.
 
 ### If the Founder subsequently selects a proposition test
 
@@ -154,13 +156,12 @@ All sources were retrieved on **2026-10-22**. Public search/open tools can retur
 
 | ID | Source URL and provenance | Evidence boundary |
 |---|---|---|
-| MG1 | [HustlerDesignz Corporate Email Lingo Mug, Etsy 1086732933](https://www.etsy.com/listing/1086732933/corporate-email-lingo-mug-funny-office). Retrieved rendering indexed about 3 days earlier. Four item reviews; gift observations dated Dec 10 and Nov 19, 2021; other item reviews Apr 11, 2023 and Feb 1, 2024. Displayed $14.21+ sale starting price | Seller/platform-hosted purchaser testimony; no original transaction exports or recipient verification; shipping rendering defaulted to Australia |
-| MG2 | [JensCharmingDesigns “Per My Last Email” Mug, Etsy 1843782125](https://www.etsy.com/listing/1843782125/funny-per-my-last-email-mug-sarcastic). Rendering indexed about 2 months earlier. Three item reviews: Jan 14, 2025; Dec 21, 2025; Aug 16, 2026. Displayed from $14.99 sale price | Recipient enjoyment reported by purchaser, not direct testimony. The displayed shop's 441 reviews and 2.5k sales are shopwide, not this mug. Shipping defaulted to Switzerland |
-| MG3 | [Chloescornershope “Let's Never Circle Back,” Etsy 1383750410](https://www.etsy.com/listing/1383750410/lets-never-circle-back-mug-funny-gift). Rendering indexed about 3 weeks earlier, $18.47, no item reviews | Shopwide 349 reviews/2.4k sales are excluded from mug demand. Shipping defaulted to Poland; another indexed snapshot showed US shipping, so no standardized landed comparison |
+| MG1 | [HustlerDesignz Corporate Email Lingo Mug, Etsy 1086732933](https://www.etsy.com/listing/1086732933/corporate-email-lingo-mug-funny-office). Retrieved rendering indexed about 3 days earlier. Four item reviews; gift observations dated Dec 10 and Nov 19, 2021; other item reviews Apr 11, 2023 and Feb 1, 2024. Displayed $14.21+ sale starting price | Seller/platform-hosted purchaser testimony; no original transaction exports or recipient verification; the inspected shipping rendering defaulted to Australia, while other retrievals vary |
+| MG2 | [JensCharmingDesigns “Per My Last Email” Mug, Etsy 1843782125](https://www.etsy.com/listing/1843782125/funny-per-my-last-email-mug-sarcastic). Rendering indexed about 2 months earlier. Three item reviews: Jan 14, 2025; Dec 21, 2025; Aug 16, 2026. Displayed from $14.99 sale price | Recipient enjoyment reported by purchaser, not direct testimony. Shopwide metrics are excluded from item demand. The inspected shipping rendering defaulted to Switzerland; other retrievals vary |
+| MG3 | [Chloescornershope “Let's Never Circle Back,” Etsy 1383750410](https://www.etsy.com/listing/1383750410/lets-never-circle-back-mug-funny-gift). Rendering indexed about 3 weeks earlier, $18.47, no item reviews | Shopwide metrics are excluded from mug demand. The inspected rendering defaulted to Poland; other retrievals show different destinations, so no standardized landed comparison |
 | MG4 | [Corporate Jargon / “This Could Have Been an Email,” Etsy 1332414512](https://www.etsy.com/listing/1332414512/corporate-jargon-mug-funny-sarcastic). Initial rendering indexed about 4 months earlier; a subsequent retrieval returned an index marked current on retrieval day, also with no item reviews | Supply-only example; not counted as item transactions |
 | MG5 | [Etsy Per My Last Email market page](https://www.etsy.com/market/per_my_last_email_mug) and [Let's Circle Back market page](https://www.etsy.com/market/lets_circle_back_mug). Index ages vary across searches | Supply/navigation and asking-price context only; mixed products, digital files, variants and ambiguous shop badges; no usable sales count |
 | MG6 | [Printful White Glossy Mug](https://www.printful.com/custom/mugs/personalized/white-glossy-mug). Official page indexed on retrieval day, with US delivery context | Vendor's price/specification claims, not independent audience-demand evidence. Base/starting shipping illustrative only |
-
 | MG7 | [YouGov: Do businesspeople like business jargon? Mostly, yes](https://yougov.com/en-gb/articles/49007-do-businesspeople-like-business-jargon-mostly-yes). Original online study Feb 26–Mar 4, 2024, 1,007 business decision makers aged 18+ in Great Britain; publisher describes its sample as nationally representative of that population | Attitudes toward phrases, not mug buyers, gift demand, or all employees |
 | MG8 | [SurveyMonkey: 2025 Workplace Culture and Trends](https://www.surveymonkey.com/curiosity/surveymonkey-research-workplace-culture-and-trends/), published Aug 20, 2025. US full-time workers, n=3,573, fieldwork Jul 25–Aug 3, 2025; non-probability panel weighted by age, race, sex, education, and geography | Question-specific worker attitudes, not purchase or recipient-use evidence; not directly comparable with MG7 |
 
