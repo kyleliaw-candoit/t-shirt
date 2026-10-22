@@ -2,6 +2,10 @@
 
 Creative Director · October 21, 2026 (America/Chicago) · New designs for Founder review; not production-approved. The prior approved package is published and merged in [PR139](https://github.com/kyleliaw-candoit/t-shirt/pull/139), merge `4d08a97fa6be895c270ce0dfc43d8f984c4246a7`.
 
+## Current review decisions
+
+[Founder feedback and follow-up](founder-feedback.md): **T-E Playful approved; T-B retired.** N-A received positive visual feedback; Founder clarified that thrift-shopping and sentimental collecting are welcome, provided the bowl reads as old. CD judges the current worn bowl sufficient and retains it. The [new T-E quiet typography execution](TE-quiet-02/README.md) is ready for review beside approved Playful. Historical selection and assessment below remain intact.
+
 ![Three selected local shirt treatments](assets/review-board.png)
 
 ## Selection and scope
@@ -81,4 +85,4 @@ Run `python build_review.py` with Pillow from a complete checkout. It performs m
 
 Judge the shirts before reading the assessment if you want a less anchored first impression. For each: does the wording/image make sense without the research, would you wear it, and is there a specific issue to correct? For N-A, check whether $8 reads as the bowl's mock valuation rather than the shirt's offer price. For T-B, check whether the quieter caption is readable enough. Consider whether both transport jokes add useful choices alongside CAR rather than merely repeating it.
 
-These new designs await Founder feedback. No new-design merge, store publication, ad spend, sample purchase or market test is included in their creation. Originality/phrase screening remains downstream before production as specified in the original concept record. Retain exact accepted visuals if advanced; do not regenerate merely to change garment footprint.
+This was the initial review package; the current decisions and second T-E execution are linked above. No new-design merge, store publication, ad spend, sample purchase or market test is included in their creation. Originality/phrase screening remains downstream before production as specified in the original concept record. Retain exact accepted visuals if advanced; do not regenerate merely to change garment footprint.

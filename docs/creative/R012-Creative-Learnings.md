@@ -211,3 +211,10 @@ and
 > **Desire:** the customer wants the actual shirt, not merely the idea written on it.
 
 When those conflict, redesign the execution before weakening the underlying identity hypothesis.
+
+
+## 7. Audience breadth and old-object recognition — October 21, 2026
+
+Founder clarified in the [N-A review](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md#follow-up-clarification--audience-breadth) that thrift-shopping and sentimental collecting belong within this brand. A design does not have to point exclusively to formal antiques. For an inexpensive object with personal value, make its old/previously-used character visible in the object itself through an appropriate combination of form, decoration and believable wear. A vintage font or frame alone does not make a generic new object old. Avoid automatically adding category labels when the object and copy already communicate the intended world.
+
+N-A's worn striped bowl is retained following this clarification. Assess old/found-object recognition; accept thrifting and sentimental-collecting interpretations as compatible. This is Founder scope guidance and a CD visual judgment, not completed customer research.

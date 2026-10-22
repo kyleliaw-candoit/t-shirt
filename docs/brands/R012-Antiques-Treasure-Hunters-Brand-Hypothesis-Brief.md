@@ -3,7 +3,7 @@ title: R012 Antiques Treasure Hunters — Brand Hypothesis Brief
 owner: Brand Manager
 status: Positioning and working customer-facing line approved; replacement naming reopened
 methodology: Brand Manager Methodology v0.1
-last_updated: 2026-10-03
+last_updated: 2026-10-21
 opportunity: R012 — Antiques Treasure Hunters
 ---
 
@@ -114,6 +114,12 @@ The boundary is behavioral rather than chronological.
 The brand may credibly speak to people hunting across traditional antiques, vintage furniture and décor, estate-sale finds, flea-market finds, architectural salvage, collectibles, old tools and utilitarian objects, advertising and commercial ephemera, records and media, art and studio craft, jewelry, textiles, toys, cultural objects, regional / historical material, unusual or emerging collectible categories, and objects valued for story, design, craftsmanship, rarity, usefulness, weirdness, or personal meaning.
 
 This list is illustrative, not exhaustive.
+
+### Founder clarification — thrift-shopping and sentimental collecting, October 21, 2026
+
+The brand should accommodate **thrift-shopping and sentimental collecting** alongside antique/vintage treasure hunting. A viewer does not need to label a design “antiques” for it to fit. In the N-A valuation-card review, Founder confirmed that the key visual requirement is for the illustrated bowl to read as an old object; broader secondhand and sentimental-collecting interpretations are welcome. See the [design review and clarification](../creative/design-language/applications/NEXT-03-2026-10-21/founder-feedback.md#follow-up-clarification--audience-breadth).
+
+Apply the existing discovery/personal-meaning boundary without requiring formal antique knowledge, a precise object age, or explicit antique-market labels.
 
 ### Do not prematurely exclude non-mainstream categories
 

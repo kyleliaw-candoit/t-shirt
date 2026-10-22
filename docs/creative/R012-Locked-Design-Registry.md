@@ -2,12 +2,22 @@
 title: R012 Locked Design Registry
 owner: Creative Director
 status: Working Draft — Founder Review
-last_updated: 2026-08-13
+last_updated: 2026-10-21
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
 ---
 
 # R012 — Locked Design Registry
+
+## T-E — Do you deliver? / I asked, after paying.
+
+October 21, 2026 · **LOCKED — approved Playful aesthetic; production cleanup/sample pending.** Founder explicitly approved this execution in the [first review](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md).
+
+Authoritative [transparent master](design-language/applications/NEXT-03-2026-10-21/assets/TE-playful-v1.png), SHA-256 `1756438fe491afe9ed0a7f91cbb33f12b231158215bd2239887e37c5a7034383`. Selected [12 × 16 canvas](design-language/applications/NEXT-03-2026-10-21/layouts/TE-compact-12x16.png), SHA-256 `63835874783e02ae52228d922e6ec18a07e88dc7e1c6dbf74577a8bb915e3803`.
+
+Preserve rounded cream lettering, orange tagged antique sideboard, teal open hatchback and the exact timing reveal. Comfort Colors 1717 / Pepper / DTG front; visible 8 × 7.8358 inches, left 2 / top 1.5 inches from the print-canvas origin. The [quiet second execution](design-language/applications/NEXT-03-2026-10-21/TE-quiet-02/README.md) is a separate proposal, not a replacement or an approved asset.
+
+The lock protects the aesthetic reference and does not establish production quality, physical fit or customer demand.
 
 ## CAR: WRONG — Heritage round05 and retained Playful
 
