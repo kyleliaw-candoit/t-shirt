@@ -2,7 +2,7 @@
 ## Identity and Market Evidence Report
 
 Research Analyst | 2026-10-21 (America/Chicago)
-Status: Research synthesis complete; Strategy review requested. Founder Advantage pending.
+Status: Research synthesis complete; Strategy assessment delivered. Founder Advantage confirmed: 5/5.
 Scope: US adult identity-apparel opportunity; international evidence explicitly labeled. Male focus means male **cat** owners, not a general dog/pet-owner study.
 Method: [Research Methodology v0.3](../company/Research-Methodology.md). Evidence collection is purposive desk research, not a representative survey. Sources accessed during this work session; publication/data years retained below.
 
@@ -109,7 +109,7 @@ Five equal 20-point components follow the established report convention; the met
 
 **Creative Leverage: 18/20.** Kinship, choice, hierarchy reversal, conversion stories, and everyday contradictions supply multiple recognition mechanisms. Male-specific apparel depth is less established than broad cat-owner material.
 
-**Founder Advantage (draft): unscored, pending Founder review.** No verified evidence of the Founder's cat ownership, fluency, contacts, or sustained interest. Unknown must not be scored as zero. This is a downstream Strategy input limitation, not a reason to stop evidence gathering.
+**Founder Advantage: 5/5 — Founder-confirmed.** The Founder supplied this score directly after reviewing the assessments. It supersedes the earlier unscored draft. No specific ownership history, contacts, or access arrangements are inferred from the score. Founder Advantage remains separate from Community Score and market-demand evidence.
 
 ## 11. Gaps, limitations, and unknowns
 
