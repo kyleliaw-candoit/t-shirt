@@ -100,6 +100,12 @@ Adjacent groups: teachers/editors, regional-pride consumers, wordplay enthusiast
 
 No competitor expression is supplied as an original concept. Mechanism interpretation is distinct from copying layout/artwork or assuming phrases are commercially cleared.
 
+## 7A. Material-depth criterion added by Founder
+
+The Founder explicitly requires a rough assessment of how many quirky expressions could supply shirt material. The [Material Depth Audit](R043-Material-Depth-Audit.md) documents **60 candidate seed units** after grouping close variants: 12 closest to the original premise, 16 context-dependent conversational extensions, and 32 adjacent units. This is a bounded inventory, not a count of approved designs. Publisher descriptions place the broader reference pool in the thousands; overlapping dictionary counts must not be summed or converted into product forecasts.
+
+The score for creative breadth reflects raw material availability, not how many units pass humor, recognition, wearability, originality, and buyer-response screens. Strategy must explicitly assess this depth criterion and the unknown usable yield.
+
 ## 8. Population and market-size evidence
 
 No defensible count of “people who would buy everyday-language-humor shirts” was found. English speakers, all users of “literally,” subreddit members, and everyone who laughs at a meme are invalid substitutes for buyers.
