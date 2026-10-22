@@ -5,7 +5,7 @@ Owner: Research Analyst
 Date: 2026-10-22 (America/Chicago)
 Status: Three research iterations synthesized; Strategy Advisor assessment delivered.
 Working scope: US English-language adult apparel, with explicitly labeled international linguistic/context evidence.
-Founder Advantage: Not yet supplied for R043. R041/R042 scores do not transfer.
+Founder Advantage: 4/5 — supplied directly by the Founder for R043 on 2026-10-22.
 
 ## 1. Executive summary
 
@@ -169,7 +169,7 @@ Five /20 dimensions preserve existing report convention. This is a **provisional
 
 **Creative Leverage: 18/20**, provisional. Several recognition mechanisms exist, but creative breadth is not proof that the same customer buys several products.
 
-**Founder Advantage (draft): pending Founder assessment.** The Founder articulated the phenomenon and fourth motive; that shows hypothesis fluency, not enough evidence to assign lived-experience/access scores. No score is borrowed from cats or tennis.
+**Founder Advantage: 4/5 — Founder-confirmed on 2026-10-22.** This replaces the earlier pending input and is specific to R043. It remains separate from the Community Score and market evidence. Specific lived experience, recruiting contacts, and audience access are not inferred from the score.
 
 ## 14. Limitations and decision-relevant unknowns
 
