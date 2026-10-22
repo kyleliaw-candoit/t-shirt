@@ -23,4 +23,8 @@ Giftability now expressly distinguishes buyer and recipient, recognizable habits
 
 Version 0.1 required incorporation into the main methodology at its next revision. That promotion is fulfilled in v0.5 on 2026-10-22. This file remains a compatibility pointer for existing links; it does not maintain a competing set of instructions.
 
-Historical assessments can retain their original version references. Current work should cite the main methodology and apply its required check.
+## Historical v0.1 archive
+
+The complete original [Value Stack Addendum v0.1 is preserved in this immutable repository snapshot](https://github.com/kyleliaw-candoit/t-shirt/blob/ec8cb4f8d50e300769794864b8be4fde989d63ae/docs/company/Strategy-Advisor-Methodology-Value-Stack-Addendum.md). Use that archived text when auditing assessments that cite v0.1, including R021–R027. Those assessments were governed by v0.1, not the newly mandatory giftability check in v0.5.
+
+Historical assessments can retain their original version references; this compatibility page routes readers to the original instructions. Current work should cite the main methodology and apply its required check.
