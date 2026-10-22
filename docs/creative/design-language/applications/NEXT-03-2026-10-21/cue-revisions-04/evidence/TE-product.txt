@@ -1,0 +1,167 @@
+
+  - generic: Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717
+  - button "Undo":
+    - generic: 󰕌
+  - button "Redo" [disabled]:
+    - generic: 󰑎
+  - button "Close": 󰅖
+  - paragraph: Left sidebar
+  - complementary "Design Maker sidebar":
+    - navigation:
+      - button "Product" [expanded]:
+        - generic: 󰔿
+        - generic: Product
+      - button "Layers":
+        - generic: 󰧾
+        - generic: Layers
+    - separator
+    - navigation "Layer picker":
+      - button "Uploads":
+        - generic: 󰕒
+        - generic: Uploads
+      - button "Text":
+        - generic: 󰊄
+        - generic: Text
+      - button "Clipart":
+        - generic: 󰇵
+        - generic: Clipart
+      - button "Quick Designs":
+        - generic: Quick Designs
+      - button "Premium":
+        - generic: 󰥷
+        - generic: Premium
+      - button "Fill":
+        - generic: 󰉦
+        - generic: Fill
+    - separator
+    - link "Hire designer Fiverr logo":
+      - /url: https://www.printful.com/fiverr
+      - generic: Hire designer
+      - img "Fiverr logo"
+    - navigation:
+      - button "Help":
+        - generic: 󰋗
+        - generic: Help
+  - heading "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717" [level=6]
+  - generic: 
+  - text: "4.5"
+  - link "724 Reviews":
+    - /url: "javascript:"
+  - button "󰋼 Pricing & file guidelines":
+    - generic: 󰋼
+    - generic: Pricing & file guidelines
+  - separator
+  - heading "Technique" [level=6]
+  - list "Technique":
+    - button "Printing"
+    - button "Embroidery"
+  - heading "Printing type" [level=5]
+  - list:
+    - button "DTG printing":
+      - radio "DTG printing" [checked]
+      - generic: DTG printing
+    - button "DTFlex icon New":
+      - radio "DTFlex icon New"
+      - img "DTFlex icon"
+      - generic: New
+  - img "DTFlex woman"
+  - heading "Not sure if DTFlex is right for your brand?" [level=4]
+  - link "Find out more.":
+    - /url: "javascript:"
+  - button "󰅖":
+    - generic: 󰅖
+  - heading "Color" [level=5]
+  - group "Color":
+    - 'button "Black #1b1b1c"'
+    - 'button "True Navy #1e2c4a"'
+    - 'button "Red #bb1035"'
+    - 'button "Graphite #3e3737"'
+    - 'button "Navy #424150"'
+    - 'button "Sage #49482e"'
+    - 'button "Midnight #3a4e63"'
+    - 'button "Hemp #4F5232"'
+    - 'button "Pepper #514f4c" [active] [pressed]'
+    - 'button "Grape #644E6D"'
+    - 'button "Brick #8d4b54"'
+    - 'button "Denim #565a67"'
+    - 'button "Blue Spruce #4c6151"'
+    - 'button "Emerald #306d6e"'
+    - 'button "Berry #8e5a7b"'
+    - 'button "Crimson #bb5151"'
+    - 'button "Mystic Blue #5068AB"'
+    - 'button "Espresso #87634a"'
+    - 'button "Moss #6b7053"'
+    - 'button "Paprika #fe4747"'
+    - 'button "Wine #816977"'
+    - 'button "Watermelon #d15c68"'
+    - 'button "Light Green #608267"'
+    - 'button "Yam #db642f"'
+    - 'button "Blue Jean #707e8d"'
+    - 'button "Neon Pink #ff5ea1"'
+    - 'button "Flo Blue #7888d2"'
+    - 'button "Sandstone #938a6f"'
+    - 'button "Ice Blue #7a9096"'
+    - 'button "Burnt orange #FF7842"'
+    - 'button "Grey #92928f"'
+    - 'button "Violet #9a8ad2"'
+    - 'button "Crunchberry #ff748e"'
+    - 'button "Seafoam #69a999"'
+    - 'button "Terracotta #ff9364"'
+    - 'button "Granite #a6abaa"'
+    - 'button "Khaki #b3ab8b"'
+    - 'button "Washed Denim #98aed1"'
+    - 'button "Bay #b8bfab"'
+    - 'button "Mustard #ffbc5a"'
+    - 'button "Lagoon Blue #92dedb"'
+    - 'button "Orchid #ead3f2"'
+    - 'button "Chalky Mint #a1f2dc"'
+    - 'button "Blossom #ffd6e1"'
+    - 'button "Butter #ffe09e"'
+    - 'button "Island Reef #b8ffca"'
+    - 'button "Chambray #d9f3ff"'
+    - 'button "Neon Lemon #efff99"'
+    - 'button "Ivory #fff4d9"'
+    - 'button "White #ffffff"'
+  - heading "Size" [level=5]
+  - link "Size guide":
+    - /url: "javascript:"
+  - group "Size":
+    - button "S"
+    - button "M"
+    - button "L"
+    - button "XL"
+    - button "2XL"
+    - button "3XL"
+    - button "4XL"
+  - button "Collapse Product" [expanded]:
+    - generic: Collapse Product
+    - generic: 󰅁
+  - navigation "Placements. Updates layer picker controls and design area.":
+    - button "Front":
+      - generic: Front
+    - button "Back":
+      - generic: Back
+    - button "Left sleeve":
+      - generic: Left sleeve
+    - button "Right sleeve":
+      - generic: Right sleeve
+    - button "Outside label":
+      - generic: Outside label
+    - text: 󰅁 󰅂
+  - button "Upload or drop your design here":
+    - generic: Upload or drop your design here
+  - img "Blank Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 mockup. Front placement."
+  - navigation "Variants. Updates design area.":
+    - button "Pepper"
+  - text: 󰅖
+  - button "$15.60":
+    - generic: 󰄐
+    - generic: $15.60
+    - generic: 󰋼
+  - button "Add to cart" [disabled]
+- generic: 󰅖
+- generic: 󰅖
+- generic: 󰅖
+- generic: 󰅖
+- 'tooltip "Pepper #514f4c"':
+  - generic: "Pepper #514f4c"

@@ -211,3 +211,28 @@ and
 > **Desire:** the customer wants the actual shirt, not merely the idea written on it.
 
 When those conflict, redesign the execution before weakening the underlying identity hypothesis.
+
+
+## 7. Audience breadth and old-object recognition — October 21, 2026
+
+Founder clarified in the [N-A review](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md#follow-up-clarification--audience-breadth) that thrift-shopping and sentimental collecting belong within this brand. A design does not have to point exclusively to formal antiques. For an inexpensive object with personal value, make its old/previously-used character visible in the object itself through an appropriate combination of form, decoration and believable wear. A vintage font or frame alone does not make a generic new object old. Avoid automatically adding category labels when the object and copy already communicate the intended world.
+
+N-A's worn striped bowl is retained following this clarification. Assess old/found-object recognition; accept thrifting and sentimental-collecting interpretations as compatible. This is Founder scope guidance and a CD visual judgment, not completed customer research.
+
+### Subsequent visual correction — age versus dirt
+
+The Founder subsequently identified an alternative reading of that same wear: a dirty bowl after a meal. The [paired cue revision](design-language/applications/NEXT-03-2026-10-21/cue-revisions-03/README.md) adds an attached $8 price tag to make the sale context concrete. Preserve the earlier judgment above for calibration. Old-object recognition should assess plausible competing interpretations, not just whether the intended reading is available. A context cue may resolve ambiguity more effectively than additional aging texture; tags are not a universal requirement.
+
+The same revision replaces T-E B's moderately sized cabinet with a three-seat vintage sofa. An object's familiar scale matters when a tiny supporting illustration must imply transport difficulty. Preserve the successful type hierarchy while improving the cue, and judge the new shape's proportions on the shirt. These are specific visual lessons awaiting Founder response to the revised images, not tested sales conclusions or new family rules.
+
+### Subsequent feedback — preserve informative style details
+
+Founder preferred the first sofa's ornate antique character over the simplified third version, which read too contemporary/transitional. Bulk recognition and antique recognition are separate jobs. Simplifying a supporting illustration can remove informative contours even when the object remains recognizable. The [next paired revision](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/README.md) restores the shaped back, crest and curved wooden apron while preserving type dominance.
+
+For N-A, Founder found the repeated $8 redundant and suggested SALE plus a $1/$2 main price. The current candidate selects $2. This strengthens the low-monetary/high-sentimental-value contrast; the price alone is not evidence of age or condition. Preserve that distinction when adapting prices or labels in future concepts. These are Founder calibration and CD judgments, with the new images still awaiting review.
+
+## 8. Final approval and reusable typography reference — October 21, 2026
+
+Founder subsequently approved **T-E A, T-E B and N-A** and requested merging PR140. The [locked registry](R012-Locked-Design-Registry.md) and [approval manifest](design-language/applications/NEXT-03-2026-10-21/approved-designs.json) preserve their exact masters/canvases. T-B remains retired; older judgments above remain historical calibration records.
+
+T-E B receives specific approval for font choice, font sizing and overall composition, with Founder endorsement to reuse it for future concepts as-is or with minor adjustments. Its [canonical DLF-002 application guidance](design-language/discovery-01/families/DLF-002.md#founder-approved-typography-led-application--october-21) pairs the actual approved shirt with the reusable relationships: prominent serif headline, smaller conversational payoff, subordinate object and open garment space. Reuse the visual relationships in new applications without changing locked art or assuming an unidentified generated font has a known font-file name. N-A is approved as well executed. These are aesthetic decisions, not sales or physical-sample results.

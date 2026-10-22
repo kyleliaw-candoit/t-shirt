@@ -2,7 +2,7 @@
 title: Creative Director T-shirt Design Playbook
 owner: Creative Director
 status: Living Working Guide
-version: 0.5
+version: 0.6
 last_updated: 2026-10-21
 ---
 
@@ -251,6 +251,10 @@ Typography may serve more than one role, but the hierarchy should remain clear.
 Ask whether size, weight, position, contrast and reading order match the meaning and rhythm of the concept. Parallel setup statements should normally receive equivalent visual weight; a payoff may deserve emphasis. Equal weight does not require identical placement or exact font size. Merge parallel clauses where doing so preserves meaning and improves reading. Do not let a recipe's layout impose unintended differences in importance.
 
 This is one judgment among many, not a universal equal-lines rule or a substitute for typography quality, composition, color, illustration, identity relevance and garment fit.
+
+### Approved typography-led reference
+
+The Founder-approved [T-E B application of DLF-002](../creative/design-language/discovery-01/families/DLF-002.md#founder-approved-typography-led-application--october-21) is a reusable reference for font character, relative sizing and overall composition: prominent serif headline, smaller conversational payoff and a subordinate context object in open cloth. Founder endorses reuse as-is or with minor adjustments for suitable future concepts. Consult the actual image and exact locked artwork; no named font identity has been verified. Adapt the hierarchy to the new wording and semantic job, then apply the normal garment checks. This approval supports a useful option, not a universal style mandate or purchase validation.
 
 ---
 

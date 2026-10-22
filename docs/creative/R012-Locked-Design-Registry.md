@@ -2,12 +2,40 @@
 title: R012 Locked Design Registry
 owner: Creative Director
 status: Working Draft — Founder Review
-last_updated: 2026-08-13
+last_updated: 2026-10-21
 opportunity: R012 — Antiques Treasure Hunters
 brand: Worth the Detour
 ---
 
 # R012 — Locked Design Registry
+
+## T-E — Do you deliver? / I asked, after paying.
+
+October 21, 2026 · **LOCKED — approved Playful aesthetic; production cleanup/sample pending.** Founder explicitly approved this execution in the [first review](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md).
+
+Authoritative [transparent master](design-language/applications/NEXT-03-2026-10-21/assets/TE-playful-v1.png), SHA-256 `1756438fe491afe9ed0a7f91cbb33f12b231158215bd2239887e37c5a7034383`. Selected [12 × 16 canvas](design-language/applications/NEXT-03-2026-10-21/layouts/TE-compact-12x16.png), SHA-256 `63835874783e02ae52228d922e6ec18a07e88dc7e1c6dbf74577a8bb915e3803`.
+
+This is **T-E A**. Preserve rounded cream lettering, orange tagged antique sideboard, teal open hatchback and the exact timing reveal. Comfort Colors 1717 / Pepper / DTG front; visible 8 × 7.8358 inches, left 2 / top 1.5 inches from the print-canvas origin. The final quiet execution, **T-E B**, is separately approved below; it does not replace A.
+
+The lock protects the aesthetic reference and does not establish production quality, physical fit or customer demand.
+
+### T-E B — approved typography-led ornate-sofa execution
+
+October 21, 2026 · **LOCKED — Founder-approved aesthetic; production preparation/sample pending.** Founder praised the font choice, font sizing and overall composition as a reusable reference for future concepts, as-is or with minor adjustments. [Approval record](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md#final-approval--three-designs).
+
+Authoritative [transparent master, ornate sofa v4](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/assets/TE-ornate-v4.png), SHA-256 `e742cceefb1109f9bc39a9e8010ad05cb6675cd50ddfd8a91ca4782d3073d622`. Selected [12 × 16 canvas](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/layouts/TE-cue04-12x16.png), SHA-256 `232637ab340186c1eb5c1fba3c52b64d51e42023a433e406d4eccce8d2e148b4`.
+
+Preserve warm ivory serif question, smaller sentence-case timing reveal, centered stack, open cloth and subordinate ornate three-seat sofa with crest, curved wooden frame and small blank dealer tag. Exact wording: `DO YOU DELIVER? / I asked, after paying.` Comfort Colors 1717 / Pepper / DTG front; visible 8.5 × 6.3447 inches, left 1.75 / top 1.5 from the print-canvas origin. Earlier cabinet/plain-sofa candidates are historical, not the final lock. See [approved reusable application guidance](design-language/discovery-01/families/DLF-002.md#founder-approved-typography-led-application--october-21).
+
+## N-A — Price / sentimental value
+
+October 21, 2026 · **LOCKED — Founder-approved aesthetic; production preparation/sample pending.** Founder approved the $2 / SALE revision as well executed and confirmed three approved designs: T-E A, T-E B and N-A. [Approval record](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md#final-approval--three-designs).
+
+Authoritative [transparent master, $2 / SALE v3](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/assets/NA-sale2-v3.png), SHA-256 `410ad68cf0636cfda2da686334bf688b8e2992c448cf5732b4b6ceafcfe4d77c`. Selected [12 × 16 canvas](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/layouts/NA-cue04-12x16.png), SHA-256 `f64e835a6adfee8f58767b876a4f9df46b512f01cd540bf179f800e276c81b8b`.
+
+Preserve framed valuation card, navy/rust/cream palette, worn striped bowl and attached SALE tag. Exact wording: `PRICE: $2 / SENTIMENTAL VALUE: / PLEASE DON'T / TELL THE SELLER.` The tag reads `SALE`, not a repeated price. Comfort Colors 1717 / Ivory / DTG front; visible 8 × 9.9783 inches, left 2 / top 1.5 from the print-canvas origin. Earlier $8/untagged candidates remain historical.
+
+Both new locks protect exact approved visuals. [Provider previews](design-language/applications/NEXT-03-2026-10-21/cue-revisions-04/evidence/verification.md) are verified; native-detail/opacity preparation, physical samples, size scaling and customer demand remain separate. Any visibly changed production derivative requires review. The [approval manifest](design-language/applications/NEXT-03-2026-10-21/approved-designs.json) fingerprints all three approved masters/canvases; frozen assessments remain unchanged. T-B is retired, not approved.
 
 ## CAR: WRONG — Heritage round05 and retained Playful
 
