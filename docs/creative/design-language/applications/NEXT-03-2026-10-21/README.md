@@ -1,10 +1,10 @@
 # Next three creative concepts — T-E, N-A and T-B
 
-Creative Director · October 21, 2026 (America/Chicago) · New designs for Founder review; not production-approved. The prior approved package is published and merged in [PR139](https://github.com/kyleliaw-candoit/t-shirt/pull/139), merge `4d08a97fa6be895c270ce0dfc43d8f984c4246a7`.
+Creative Director · October 21, 2026 (America/Chicago) · Three designs approved and locked: T-E A, T-E B and N-A; production preparation/sample pending. The prior approved package is published and merged in [PR139](https://github.com/kyleliaw-candoit/t-shirt/pull/139), merge `4d08a97fa6be895c270ce0dfc43d8f984c4246a7`.
 
 ## Current review decisions
 
-[Founder feedback and follow-up](founder-feedback.md): **T-E A Playful approved; T-E B quiet typography tentatively approved; T-B retired.** After the sofa/$8-tag review, Founder preferred the first sofa's ornate antique character and requested a nonredundant SALE tag plus a lower $1/$2 main price for N-A. The [current revisions](cue-revisions-04/README.md) restore the ornate sofa and select PRICE: $2 / SALE. Both changed images await review; their new CD assessment is frozen. Thrift-shopping and sentimental collecting remain compatible brand readings. Historical selection and assessments below remain intact.
+[Final Founder approval](founder-feedback.md#final-approval--three-designs): **T-E A Playful, T-E B typography-led ornate sofa and N-A PRICE: $2 / SALE are approved. T-B is retired.** Founder requests merging PR140 and endorses T-E B's font choice, sizing and composition as a reusable reference. See the [final revised images](cue-revisions-04/README.md), [approval manifest](approved-designs.json) and [locked registry](../../../R012-Locked-Design-Registry.md). Historical candidates and all four frozen assessments remain intact.
 
 ![Current ornate sofa and $2/SALE bowl revisions](cue-revisions-04/assets/review-board.png)
 

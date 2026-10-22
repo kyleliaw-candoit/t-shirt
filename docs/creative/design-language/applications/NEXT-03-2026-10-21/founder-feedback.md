@@ -55,3 +55,13 @@ October 21, 2026 (America/Chicago). Response to the frozen [cue-revisions-03 ass
 CD response: restore the first sofa's shaped wood frame, crest and curved apron at a supporting scale. Avoid claiming verified Victorian provenance. Select PRICE: $2 and SALE for N-A; $1 would not earn a separate variant. The lower price strengthens the monetary/emotional contrast, while bowl wear and sale context continue to establish the secondhand reading. My prior preference for repeating $8 and acceptance of the plainer sofa remain visible in the older assessment.
 
 See [cue-revisions-04](cue-revisions-04/README.md) for the current images, comparisons, prompts, geometry and provider checks. Its [new CD assessment](cue-revisions-04/assessment.md) was frozen before further Founder feedback. Both new images await review; T-E A remains approved/locked, and T-B remains retired. No merge or storefront action is requested in this feedback.
+
+## Final approval — three designs
+
+October 21, 2026 (America/Chicago). Founder approves both final cue-revisions-04 images and explicitly confirms three approved designs from this round: **T-E A, T-E B and N-A**. Founder requests merging PR140.
+
+For T-E B, Founder particularly praises font choice, font sizing and overall composition, judging it reusable for future creative concepts as-is or with minor adjustments. N-A is also judged well executed. This approves the ornate-sofa T-E B and PRICE: $2 / SALE N-A, not the superseded cabinet, plain sofa or $8 variants.
+
+The exact [approved masters/canvases](approved-designs.json) are fingerprinted in the [locked registry](../../../R012-Locked-Design-Registry.md). T-E A's original bytes are unchanged. T-B remains retired. All four earlier CD assessments remain byte-identical, including judgments changed following feedback.
+
+The reusable typography-led application is linked from [DLF-002](../../discovery-01/families/DLF-002.md#founder-approved-typography-led-application--october-21) and the design playbook. Preserve visual relationships without inventing a font identity or treating these dimensions as universal. Reuse/adapt in new sibling applications; do not alter locked artwork. Aesthetic approval and merge do not establish physical print fidelity, sales performance or live-store publication.

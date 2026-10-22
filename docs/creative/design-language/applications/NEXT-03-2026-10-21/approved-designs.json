@@ -1,0 +1,76 @@
+{
+  "approval_date": "2026-10-21",
+  "timezone": "America/Chicago",
+  "status": "LOCKED — Founder-approved aesthetic",
+  "approval_record": "founder-feedback.md#final-approval--three-designs",
+  "pull_request": 140,
+  "production_status": "Preparation and physical sample pending; not market-tested",
+  "designs": [
+    {
+      "id": "T-E-A",
+      "execution": "Playful",
+      "master": "assets/TE-playful-v1.png",
+      "master_sha256": "1756438fe491afe9ed0a7f91cbb33f12b231158215bd2239887e37c5a7034383",
+      "canvas": "layouts/TE-compact-12x16.png",
+      "canvas_sha256": "63835874783e02ae52228d922e6ec18a07e88dc7e1c6dbf74577a8bb915e3803",
+      "garment": "Comfort Colors 1717",
+      "method": "DTG front",
+      "color": "Pepper",
+      "canvas_inches": [
+        12,
+        16
+      ],
+      "visible_inches": {
+        "width": 8,
+        "height": 7.8358,
+        "left": 2,
+        "top": 1.5
+      },
+      "anchor": "print-canvas origin, not physical neckline"
+    },
+    {
+      "id": "T-E-B",
+      "execution": "Typography-led ornate sofa",
+      "master": "cue-revisions-04/assets/TE-ornate-v4.png",
+      "master_sha256": "e742cceefb1109f9bc39a9e8010ad05cb6675cd50ddfd8a91ca4782d3073d622",
+      "canvas": "cue-revisions-04/layouts/TE-cue04-12x16.png",
+      "canvas_sha256": "232637ab340186c1eb5c1fba3c52b64d51e42023a433e406d4eccce8d2e148b4",
+      "garment": "Comfort Colors 1717",
+      "method": "DTG front",
+      "color": "Pepper",
+      "canvas_inches": [
+        12,
+        16
+      ],
+      "visible_inches": {
+        "width": 8.5,
+        "height": 6.3447,
+        "left": 1.75,
+        "top": 1.5
+      },
+      "anchor": "print-canvas origin, not physical neckline"
+    },
+    {
+      "id": "N-A",
+      "execution": "Framed valuation artifact; $2 / SALE",
+      "master": "cue-revisions-04/assets/NA-sale2-v3.png",
+      "master_sha256": "410ad68cf0636cfda2da686334bf688b8e2992c448cf5732b4b6ceafcfe4d77c",
+      "canvas": "cue-revisions-04/layouts/NA-cue04-12x16.png",
+      "canvas_sha256": "f64e835a6adfee8f58767b876a4f9df46b512f01cd540bf179f800e276c81b8b",
+      "garment": "Comfort Colors 1717",
+      "method": "DTG front",
+      "color": "Ivory",
+      "canvas_inches": [
+        12,
+        16
+      ],
+      "visible_inches": {
+        "width": 8,
+        "height": 9.9783,
+        "left": 2,
+        "top": 1.5
+      },
+      "anchor": "print-canvas origin, not physical neckline"
+    }
+  ]
+}

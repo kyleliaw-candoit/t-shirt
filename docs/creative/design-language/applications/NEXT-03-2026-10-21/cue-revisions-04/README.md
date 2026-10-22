@@ -1,12 +1,12 @@
 # T-E B ornate sofa and N-A $2 / SALE revisions
 
-October 21, 2026 (America/Chicago) · Current proposed images in draft PR140; awaiting Founder review.
+October 21, 2026 (America/Chicago) · **Founder-approved and LOCKED:** T-E B ornate sofa and N-A $2 / SALE. Together with T-E A, these complete the round’s three approved designs. [Final feedback](../founder-feedback.md#final-approval--three-designs) authorizes merging PR140.
 
 Founder preferred the first sofa's older ornamental style over the simplified third sofa. This revision brings back its carved crest, shaped back and curved wooden apron while retaining the typography-led arrangement. N-A changes the main price from $8 to $2 and the attached tag from $8 to SALE, following the request to avoid duplicate prices and strengthen the contrast with sentimental value.
 
 ![Current revisions](assets/review-board.png)
 
-**CD recommendation:** advance both. Read the [frozen pre-feedback assessment](assessment.md) after viewing the [before/after shirts](assets/before-after.png). The sofa's antique character and bulky scale are separate jobs; the new image carries both. For N-A, $2 is the chosen low-price expression, not a researched market valuation. The worn bowl and attached sale tag still do the contextual work of suggesting a secondhand purchase.
+**CD recommendation, subsequently approved:** advance both. Founder specifically endorses T-E B’s font choice, font sizing and overall composition for reuse in future concepts, as-is or with minor adjustments. Read the [frozen pre-feedback assessment](assessment.md) after viewing the [before/after shirts](assets/before-after.png). The sofa's antique character and bulky scale are separate jobs; the new image carries both. For N-A, $2 is the chosen low-price expression, not a researched market valuation. The worn bowl and attached sale tag still do the contextual work of suggesting a secondhand purchase.
 
 | Revision | Color | Visible dimensions | Left / top on 12 × 16 canvas | Native effective ppi |
 |---|---|---|---|---:|
@@ -26,6 +26,6 @@ Both retain Comfort Colors 1717 / DTG front and their existing selected widths, 
 
 Run `python build_review.py` with Pillow and DejaVu Sans in a complete checkout. Image generation performed all artwork/text edits. The script only measures, crops transparent padding, resamples proportionally and composites; upload canvases are written atomically to avoid partial files. It also composes the retained provider screenshots when available.
 
-These remain review masters. T-E's fine ornament/opacity and N-A's native resolution/border need production preparation and sample inspection. The 150-DPI padded export does not upgrade N-A's native detail. Local 602px blank geometry, estimated 54px image-space collar clearance and photographed size remain provisional. Top 1.5 inches is from the print-canvas origin. Nominal S/L/2XL fixed-width ratios remain 46.6/38.6/32.7% for T-E and 43.8/36.4/30.8% for N-A; exact fulfillment scaling remains unresolved.
+These are the locked aesthetic masters. T-E's fine ornament/opacity and N-A's native resolution/border need production preparation and sample inspection. The 150-DPI padded export does not upgrade N-A's native detail. Local 602px blank geometry, estimated 54px image-space collar clearance and photographed size remain provisional. Top 1.5 inches is from the print-canvas origin. Nominal S/L/2XL fixed-width ratios remain 46.6/38.6/32.7% for T-E and 43.8/36.4/30.8% for N-A; exact fulfillment scaling remains unresolved.
 
-T-E A stays approved and locked; T-B stays retired. These revisions replace existing candidates without adding assortment slots. No production release, physical sample or customer-test result is claimed.
+T-E A, T-E B and N-A are approved and locked; T-B stays retired. See the [approval manifest](../approved-designs.json). These revisions replace existing candidates without adding assortment slots. No production release, physical sample or customer-test result is claimed.
