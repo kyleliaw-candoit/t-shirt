@@ -3,13 +3,44 @@ title: R012 Brand Renaming Shortlist
 brand: Worth the Detour (working / replacement under review)
 opportunity: R012 — Antiques Treasure Hunters
 owner: Brand Manager
-status: Still a Find is top candidate; Found & Forth set aside; Serendipity options rejected in preliminary screen
-last_updated: 2026-10-05
+status: Still a Find + new consumer-facing line are current branding champion; name remains provisional
+last_updated: 2026-10-22
 ---
 
 # R012 Brand Renaming Shortlist
 
-## October 5, 2026 — candidate decision and Serendipity screen (latest)
+## October 22, 2026 — current branding champion
+
+**Founder decision:** Keep the following pair as the **current branding champion**:
+
+> **Still a Find**  
+> For people who find stuff. And reasons to bring it home.
+
+The Founder likes the consumer-facing line **a lot**, but is **only about 80% sold on Still a Find**. That percentage expresses subjective enthusiasm for the name, not legal confidence or a research score. The name remains open to a stronger challenger; this decision does not declare naming complete.
+
+**This line supersedes “For people who find things. And reasons to keep them.” as the current working consumer-facing line.** Earlier dated sections below preserve historical decisions and screening evidence; their references to an approved/current line apply to those dates only.
+
+### Meaning and rationale
+
+- Celebrate discovering and acquiring overlooked treasures, beginning with antique/vintage treasure hunters.
+- The humor is affectionate rationalization: the finder wants the object before they need it, then finds reasons to justify bringing it home to themselves and possibly their spouse/partner.
+- “Stuff” supplies a casual, self-aware tone. To the finder it is a treasure; to someone watching another object arrive home, it may be more stuff.
+- “Bring it home” captures acquisition more directly than “keep them,” which emphasizes retaining possessions already owned.
+- The name supplies enduring value (“still a find” despite age or prior ownership); the line supplies the finder identity and the playful justification. Repeating “find” reinforces the central idea and is acceptable.
+- The spouse/partner interpretation is part of the joke's rationale, not a requirement to mention spouses in customer-facing copy or stereotype either gender.
+
+**Positioning remains:** Apparel for people who spot overlooked character and carry the story forward, beginning with antique and vintage treasure hunters.
+
+### Decision boundaries
+
+- Use this pair as the current reference for subsequent brand discussion and comparison.
+- Still a Find remains a provisional champion, not a finally adopted or legally cleared name. Prior screening limitations and unresolved Still Fine apparel leads remain in force; no fresh conflict check was performed for this documentation update.
+- Found & Forth remains set aside. The previous consumer-facing line and other alternatives are historical references, not co-equal approved lines.
+- This documentation decision does not authorize a live rename/copy rollout, domain or handle registration, filing, paid work, or changes to existing storefronts, accounts or garments.
+
+---
+
+## October 5, 2026 — candidate decision and Serendipity screen (historical checkpoint)
 
 **Founder decision:** Replace Found & Forth with **Still a Find as the top candidate**, given Found & Forth's apparent conflicts. Found & Forth is set aside. This is a shortlist decision, not final adoption or legal clearance. Worth the Detour remains the live brand pending a separate migration decision. Previously identified Still Fine apparel leads remain unresolved.
 
@@ -37,7 +68,7 @@ last_updated: 2026-10-05
 
 [USPTO likelihood-of-confusion guidance](https://www.uspto.gov/trademarks/search/likelihood-confusion) considers similar commercial impression and related goods, not just exact matches. Adding “A” or changing Find/Finds should not be treated as a clearance solution. The evidence is sufficient to reject these candidates economically without paying to resolve every legal question.
 
-## October 5, 2026 — signed-in Facebook and cross-platform follow-up (latest)
+## October 5, 2026 — signed-in Facebook and cross-platform follow-up (historical checkpoint)
 
 **Material update:** The Founder signed into Facebook through the secure browser handoff. Signed-in access was verified, and business-page searches were performed. This pass found meaningful close-name businesses missed by indexed web searches. This supersedes the earlier Facebook “login wall” status and qualifies earlier claims about a clean commercial field. No messages, follows, posts, reservations or purchases were made.
 
