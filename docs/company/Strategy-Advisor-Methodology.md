@@ -3,8 +3,8 @@ title: Strategy Advisor Methodology
 owner: Knowledge Librarian
 primary_user: Strategy Advisor
 status: Proposed
-version: 0.4
-last_updated: 2026-09-25
+version: 0.5
+last_updated: 2026-10-22
 reviewed_by: Founder
 ---
 
@@ -303,7 +303,7 @@ The six ratings create a comparison aid, not a mechanical winner-selection algor
 
 **Question:**
 
-> How plausible is the jump from “this is part of me” to “I would buy or wear something expressing it”?
+> How plausible is the jump from “this is part of me” to “I would buy or wear something expressing it,” or from “this is so them” to buying it for someone who would enjoy receiving and wearing it?
 
 Consider:
 
@@ -311,11 +311,13 @@ Consider:
 - public signaling comfort,
 - emotional resonance,
 - self-recognition,
-- gifting potential,
+- gifting potential, including buyer–recipient recognition, relationship value, and recipient willingness to wear,
 - existing independent identity merchandise,
 - evidence that merchandise expresses identity rather than merely decorating an activity.
 
 Relevant Community Research scores are inputs, not substitutes for strategic judgment.
+
+Evaluate self-purchase and gifting as potentially distinct commercial routes. A gift-led opportunity can be viable without strong recipient self-purchase intent. Apply the required qualitative giftability check in section 5.3; do not infer recipient wearability from the purchaser's enthusiasm.
 
 ---
 
@@ -419,6 +421,62 @@ This dimension matters because the company is choosing experiments, not acquirin
 
 ---
 
+## 5.3 Required T-Shirt Value Stack and Giftability Check
+
+This section incorporates the former [Value Stack Addendum](Strategy-Advisor-Methodology-Value-Stack-Addendum.md). It is part of Pass 1, not a seventh score or a separate framework.
+
+### Identity first; additional value amplifies it
+
+First ask whether the intended wearer could plausibly think “that's me,” “that's my thing,” “that reflects how I see myself or the world,” or “that represents something I genuinely care about.” A named community is not required. For gifts, a purchaser's “that's so them” is a route into the proposition; the recipient's own resonance and comfort still matter.
+
+Identity-signaling fit remains the gate for an identity-brand thesis. Additional product value should amplify plausible resonance rather than disguise its absence. Record observed purchases honestly if their motivation differs from the thesis; product-level demand and a durable identity-brand opportunity are different conclusions.
+
+### Value layers
+
+After establishing plausible resonance, consider:
+
+1. **Participation Utility / Apparel Fit:** Does a T-shirt naturally belong in participating, preparing, gathering, traveling, or otherwise engaging with the activity? This is stronger than merely being possible to wear. Natural participation apparel may add purchase justification, wear frequency, multiple-shirt ownership, replacement, peer visibility, and gift utility. These are hypotheses to verify, not automatic demand.
+2. **Aesthetic / Fashion Value:** Would the customer want to own and wear it for its typography, composition, visual taste, styling, and fit with their aesthetic world as well as its meaning?
+3. **Social / Conversational Value:** Does it help others recognize the wearer, create insider recognition, prompt conversation, or provide humor or a useful social signal? Enjoying other people's smiles, laughter, or comments can itself be an important purchase and wear motive. Distinguish expected response, actual response, and whether the wearer welcomes it.
+4. **Emotional / Experiential Value:** Does it evoke a meaningful feeling, memory, ritual, worldview, aspiration, nostalgia, pride, belonging, restoration, humor, remembrance, or a sense of being understood?
+5. **Giftability / Situational Value:** Can someone recognize “this is so them,” see value in giving it, and reasonably expect the recipient to enjoy receiving and wearing it? A formal holiday or commemorative occasion can help but is not required; affectionate recognition can itself supply the reason.
+
+Other evidence-supported layers may be recorded. Do not create permanent categories for one-off examples or use fashionable execution or practical apparel utility to rescue weak resonance.
+
+### Giftability: required qualitative evaluation
+
+Every Pass 1 assessment must explicitly state whether giftability is meaningful, plausible but unverified, or not material, with rationale. A brief “not material” is sufficient where justified. When meaningful or plausible, address:
+
+- **Buyer and recipient:** Who buys for whom? What observable habit, interest, role, phrase, ritual, or shared experience makes the recipient recognizable to that buyer? Distinguish the purchaser's intent from the recipient's preferences.
+- **Recognition and relationship value:** Why would giving this communicate affection, familiarity, appreciation, or an inside joke? Habitual speech can be a recognition cue even when the recipient has never sought merchandise for it. Consider whether the joke feels affectionate to the recipient or instead embarrassing, corrective, or insulting.
+- **Recipient experience and wearability:** Would the recipient value receiving it and choose to wear it, in which settings, with what public meaning? A giver's laugh, a grateful response, or enjoyment at home does not establish public or repeated wear. The recipient may also value the smiles and comments the shirt elicits.
+- **Buying context and reachability:** Is there an occasion or spontaneous gifting trigger, and can relevant buyers recognize a match and be reached? Separate established behavior from a plausible acquisition hypothesis.
+- **Evidence and implications:** Label actual gift purchases, recipient response, reviews, founder illustrations, and analyst inference separately. State how gifting changes the commercial thesis, test, risks, or breadth assessment; do not infer scale or price tolerance from one example.
+
+Gift purchases are a valid commercial route, not a fallback that must first prove recipient self-purchase. Gifting may widen the buying audience and create purchase occasions without widening the underlying wearer identity. Repeat business could mean one wearer buying several expressions, or one giver buying for different people or occasions; assess these separately rather than assuming either.
+
+### Required output and interpretation
+
+After the six-dimension assessment, include **T-Shirt Value Stack** with:
+
+- **Identity-signaling gate:** Strong / Plausible / Weak, with rationale.
+- **Participation Utility / Apparel Fit:** High / Medium / Low / Not material.
+- Other materially relevant aesthetic, social, emotional, or evidence-supported layers.
+- **Giftability:** the explicit qualitative check above, proportionate to its relevance.
+- **Commercial interpretation:** which layers strengthen the opportunity, whether self-purchase, gift purchase, or both are plausible, and what evidence would change that judgment.
+
+Keep these qualitative. They inform Identity-to-Purchase Strength, Market Evidence, Creative / Product Depth, test design, and disposition within the existing six dimensions. Do not automatically raise scores because an additional route has been articulated. Numerical formalization requires a later justified methodology decision, not a one-off promising example.
+
+### Research boundary and prioritization
+
+Research Analyst supplies descriptive evidence: what participants wear, where they gather, whether T-shirts naturally appear and are visible among peers, existing public apparel signaling, and recurring gifting, events, clubs, meetups, travel, or commemorative contexts. Strategy Advisor interprets commercial significance; do not outsource the commercial decision to Research.
+
+Lightweight pre-research screens remain identity plausibility, recognition density, participation apparel fit where relevant, fragmented-niche / AI+POD fit, and strategic learning value. These prioritize research rather than establish attractiveness.
+
+The earlier addendum's working hypothesis remains unvalidated: natural participation apparel may amplify identity-apparel value. The observed competitive activity examples do not prove causation. Observe whether value layers repeatedly correspond with customer behavior before adding weighted models or new scores.
+
+---
+
 # 6. Pass 1 Output Template
 
 For every identity, produce:
@@ -441,6 +499,10 @@ This may be narrower, broader, or differently framed than the original research 
 - Creative / Product Depth: 1–5
 - Founder Execution Advantage: 1–5
 - Testability / MVP Fit: 1–5
+
+## T-Shirt Value Stack
+
+Complete the qualitative check in section 5.3, including an explicit giftability judgment. Where relevant, distinguish gift buyer, recipient, relationship value, recipient willingness to wear, and observed evidence versus hypothesis. Explain whether self-purchase, gifting, or both inform the thesis and test.
 
 ## Competition Diagnosis
 
@@ -658,7 +720,7 @@ Can another person easily recognize:
 
 > **“This is so them.”**
 
-Giftability can broaden the commercial audience beyond direct identity holders.
+Giftability can broaden the buying audience beyond direct identity holders. Compare buyer–recipient recognition and relationship value across opportunities, while checking recipient willingness to wear. Use the mandatory Pass 1 evaluation in section 5.3; this cross-identity lens does not replace it.
 
 ### Identity Adjacency
 
