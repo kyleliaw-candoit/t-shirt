@@ -2,7 +2,7 @@
 
 Observed October 22, 2026. Status: research and private preparation only; implementation and launch gates remain open. Coordinator: dot / Business Partner. Mutable tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146).
 
-Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md).
+Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md), and an [exact proposed Gate 1 fallback with two-fixture review questions](Gate1-Proposal-20261022.md).
 
 ## Read first
 
@@ -58,7 +58,7 @@ The mailbox search is limited to the connected operations account. It is not an 
 ### Reviewable immediate options
 
 1. **Keep the original evaluation contract.** Kyle supplies a defensible active-minute estimate/range for comparable WTD Phase A and instrumented Preview work; Strategy evaluates its sufficiency; both approve baseline, thresholds, clock rules and exact cost terms before implementation. If a range is accepted, pre-register a conservative comparison rule, such as testing against its lower bound, rather than choosing a favorable midpoint after results exist.
-2. **If credible historical minutes cannot be recovered, explicitly amend the contract before starting.** A possible amendment would use prospective absolute ceilings already contemplated in #110 (60 active Founder minutes, about three hours to reviewable candidate and about twelve hours to acceptance), retain actual clocks and quality/measurement gates, and report historical comparison qualitatively. It must remove any unsupported percentage-saving claim. Strategy and Kyle must approve exact thresholds and amended disposition rules; this packet does not enact them.
+2. **If credible historical minutes cannot be recovered, explicitly amend the contract before starting.** The [exact fallback proposal](Gate1-Proposal-20261022.md) uses a new absolute 60-minute Founder cap through Gate 9, three gross hours to the first reviewable candidate and twelve gross hours to the Creative/Brand accepted candidate; net time is diagnostic only. It retains quality/measurement gates and reports historical comparison only as qualified context. It must remove any unsupported percentage-saving claim. Strategy and Kyle must approve exact thresholds and amended disposition rules; this packet does not enact them.
 
 The first option preserves the original experiment. The second is an explicit alternative for decision, not a quiet gate waiver or a retrospective Pass. Neither authorizes a store, subscription or access grant. Exact inequalities and rounding should be fixed in the approved version: 60% shorter than 7h24m is at most **2h57m36s**, not three hours.
 

@@ -1,7 +1,7 @@
 # Still a Find: bounded name and asset evidence refresh
 
 **Research Analyst evidence report for Issue #146**  
-**Observed:** October 22, 2026, approximately 17:00–17:06 UTC  
+**Observed:** October 22, 2026, approximately 17:00–17:16 UTC  
 **Decision owner:** Brand Manager / Strategy Advisor / Founder, not Research Analyst  
 **Status:** Partial, source-dated evidence refresh. Not legal clearance, adoption, spending approval, or a launch recommendation.
 
@@ -19,7 +19,7 @@ No purchases, registrations, account creation/renaming, contact, filing, legal d
 
 1. **A further close-name apparel seller is directly observable:** Still Fine Co on Redbubble, self-described as based in Sussex, UK. Its live public shop displayed nine designs with priced T-shirts, a hoodie, and other products. This is affirmative apparel-commerce evidence, not merely a missing-profile or search-snippet observation. Its ownership relationship to the previously known Still Fine Designs and Still Fine Company is unknown.
 2. **Still Fine Designs remains unresolved, not disproved.** The known shop target `stillfineapparel.com` did not render successfully. An indexed public LinkedIn profile lists a Still Fine Designs project beginning June 2019, but neither that listing nor a failed shop connection establishes current trading, product range, business location, territorial priority, or abandonment.
-3. **Exact-domain acquisition is offered, but the purchase proposal is not ready.** Namecheap's direct `stillafind.com` result displayed a checkmark and Add to cart. Its header/promotion showed USD while the actual domain price cards showed EUR. Public .com renewal pricing was found separately, but this mixed-currency page is not an exact, reconciled checkout quote.
+3. **Exact-domain acquisition is offered at two registrars.** Namecheap's initial result had conflicting EUR/USD pricing. A later Porkbun exact-domain result unambiguously offered USD $11.08 for one year, including ICANN/other registrar fees, with a current $11.08 renewal display. Approximately $11.81 is announced from November 1. Final tax/payable total and future renewal price remain unverified; no domain was reserved or bought. See the follow-up below.
 4. **No selected social handle is confirmed claimable.** TikTok, YouTube, X and Etsy returned missing-account/page states. Pinterest returned Access Denied. Meta was not retried. All handle claimability statuses are inconclusive.
 5. **Fresh direct federal and state-trademark coverage remains incomplete.** Indexed official-site queries did not identify a matching record, but this is not a completed register search. The independent Texas Comptroller public entity search displayed zero entries for both Still a Find and Still Fine; it is a taxable-entity database, not the SOS trademark or assumed-name register.
 
@@ -60,7 +60,7 @@ The canonical naming record reports direct USPTO observations on October 5, 2026
 - `CM:((still AND find*) OR "steel a find" OR "steal a find" OR "still fine" OR "still a") AND (IC:025 OR IC:035)` returned 20 results, with no displayed exact Still a Find / Still Fine mark. Cards included STILLA KILLA 99678177, STILL A MAN 98401222 and STILL A HOMO 98921147, then pending with apparel-related coverage.
 - Earlier selected variants returned other counts, including 7 and 19; these were not zero-result searches. Full prosecution/priority review was not done.
 
-These are **repository-reported October 5 observations**, not October 22 status verifications. Later October 5 browser attempts were prevented by credential-protection restrictions. This refresh did not reopen that protected browser route or bypass it. Fresh exact/phonetic database searches, live/dead status refresh, record-file review and priority analysis remain outstanding.
+These are **repository-reported October 5 observations**, not October 22 status verifications. The R012 October 5 candidate-decision / Serendipity checkpoint reports that direct USPTO browser observation was blocked by native credential-protection. It does not preserve the exact denied call, URL or code, or whether underlying navigation executed; these cannot be reconstructed. This is not a verified current sign-in requirement or an ordinary extraction failure. This refresh did not reopen that protected browser operation or bypass it. Fresh exact/phonetic database searches, live/dead status refresh, record-file review and priority analysis remain outstanding. Texas SOS stopped at unaccepted Rules of Use, not a sign-in screen. This bounded pass does not establish that every normal official avenue has been exhausted; other unrestricted official record services and wider jurisdictions were not assessed.
 
 The [USPTO's clearance guidance](https://www.uspto.gov/trademarks/search/comprehensive-clearance-search-similar-trademarks), accessed October 22, distinguishes federal, state and common-law research. Its [confusion guidance](https://www.uspto.gov/trademarks/search/likelihood-confusion) considers sound, appearance, meaning/commercial impression and related goods/services, with apparel and apparel retail as examples. These explain why neither empty exact searches nor a domain offer answers the legal question. No individualized legal opinion is provided.
 
@@ -71,6 +71,7 @@ Status vocabulary: **available-to-claim** means a current explicit provider offe
 | Asset | October 22 direct observation | Classification |
 |---|---|---|
 | [stillafind.com at Namecheap](https://www.namecheap.com/domains/registration/results/?domain=stillafind.com) | Search input and result both exact. Checkmark, ordinary-price card and Add to cart shown, rather than Taken/premium sale. No cart or checkout action. | **Available-to-claim as a registrar offer at observation**, not reserved and not owned. Quote not purchase-ready. |
+| [stillafind.com at Porkbun](https://porkbun.com/checkout/search/stillafind.com) | Exact-domain offer at USD $11.08/year, current renewal display $11.08, Add to cart untouched. | **Available-to-claim as a registrar offer at observation**, not reserved or owned. Final total unverified. |
 | [TikTok @stillafind](https://www.tiktok.com/@stillafind) | Couldn't find this account. | **Inconclusive** claimability; missing public account. |
 | [YouTube @stillafind](https://www.youtube.com/@stillafind) | This page isn't available. | **Inconclusive** claimability. |
 | [X @stillafind](https://x.com/stillafind) | Page does not exist; optional sign-in/registration links shown. No authentication performed. | **Inconclusive** claimability. |
@@ -86,6 +87,36 @@ No social-account creation/rename or account-level availability check was attemp
 - Separate official [Namecheap .com pricing page](https://www.namecheap.com/domains/registration/gtld/com/) retrieved October 22: **USD 11.28 first-year registration**, **USD 18.48 one-year renewal**, plus a stated **USD 0.20 ICANN fee** for affected registrations/renewals. These are public tariff evidence, not this domain's checkout total. Tax and final terms unverified.
 - USD 6.48 promotion is limited to eligible new customers and one first-year non-premium domain per user/household; eligibility is unknown. Do not build an approval request around that price.
 - Page flags a .com price rise **November 1**. Recheck pricing when an actual registration decision is made. No price lock, renewal commitment, ownership, payment method, privacy agreement acceptance or refund terms were established here.
+
+### October 22, 17:14–17:16 UTC follow-up: unambiguous public offer
+
+**Porkbun's public search offered `stillafind.com` at USD $11.08 for one year, with a displayed renewal price of USD $11.08.** This resolves the first-pass Namecheap currency ambiguity for a different registrar, not within Namecheap. It is a source-dated public search quote, **not a final payable checkout total, reservation, or guaranteed future renewal rate**.
+
+| Item | Observed evidence | Qualification |
+|---|---|---|
+| Exact domain and availability offer | [Porkbun exact-domain public search](https://porkbun.com/checkout/search/stillafind.com) displayed `stillafind.com`, an At Cost label, and an enabled Add stillafind.com to cart button. | Affirmative registrar acquisition offer at observation. Not merely a missing website. Registry success/continued availability is not guaranteed. The button was not clicked. |
+| First-year exact-domain price | Exact-name result displayed $11.08 / year. | Single-domain offer, not the optional .com + .net bundle. No coupon or account eligibility requirement was displayed beside this offer. |
+| Current exact-domain renewal quote | Same result displayed renews at $11.08. | Current quoted annual renewal rate only, not a commitment about the price at a later renewal. |
+| Currency and mandatory registrar fees | [Official domain pricing](https://porkbun.com/products/domains) explicitly identifies USD, single-year non-premium pricing, and inclusion of ICANN and other fees. Its .com registration/renewal/transfer row was $11.08/$11.08/$11.08. | No separate ICANN charge should be added to this displayed rate. No checkout-specific fee or tax calculation was examined. |
+| Imminent change | [Porkbun's .com price notice](https://kb.porkbun.com/article/201-why-did-com-prices-go-up-and-how-high-will-they-go), last updated May 27, 2026, announces approximately $11.81 from November 1, 2026, 04:00 UTC. | This is an announced approximate upcoming rate, not an exact quote for the eventual 2027 renewal. Refresh at any authorized purchase and renewal. |
+| Tax / final amount | No billing address, payment method, cart or checkout was entered. | Tax treatment and final payable total remain unverified; do not call $11.08 tax-inclusive or final. |
+| Privacy | [Official .com page](https://porkbun.com/tld/com) advertises free WHOIS privacy; [privacy product page](https://porkbun.com/products/whois_privacy) describes use of Private By Design details for supported domains. | Public WHOIS masking is not anonymity from the registrar or required disclosures. No optional paid privacy add-on was needed for the public quote. |
+
+### Reproducible observation
+
+Using the assistant's cloud browser, opened the official [.com page](https://porkbun.com/tld/com), entered `stillafind.com` in Domain Search, submitted, and waited for the exact result. Followed its additional-extensions search link to the exact-domain URL above; the same exact-domain price and renewal offer rendered there. Header cart remained $0.00 (0); sign-in was offered, not used. The second page also had an optional human-verification control for additional suggestions, but the requested exact-domain offer was already visible, so it was not needed or completed.
+
+No login, account creation, cart addition, purchase, registration, subscription, support contact or agreement acceptance was performed. No Cloudflare account access was attempted in this follow-up.
+
+### Renewal, refund and privacy terms for a later approval
+
+- **Auto-renew is enabled by default for new registrations.** [Porkbun's toggle guide](https://kb.porkbun.com/article/70-how-to-turn-off-auto-renew), updated August 19, 2026, explains how it can be disabled. No account setting was inspected or changed.
+- The [registration agreement](https://porkbun.com/legal/agreement/domain_name_registration_agreement), effective March 17, 2025, says renewal uses then-current rates, which may differ, and automatic renewal is attempted unless disabled. It characterizes fees and renewals as non-refundable. It also requires accurate registrant contact details and describes disclosure to ICANN, escrow, registry operators and other parties as required/permitted. These are observed terms, not a legal interpretation or acceptance.
+- A separate [refund help page](https://kb.porkbun.com/article/293-can-domain-names-be-changed-or-refunded) describes a 96-hour window for eligible registration/renewal cancellation, a 5% refund fee and irreversible deletion; it expressly does not guarantee refunds. The page did not establish exact-domain eligibility. **Do not promise a refund:** the help-page exception and the agreement's stricter language must be reconciled if refundability is material to a later purchase decision. No support inquiry was sent.
+- WHOIS privacy has [product terms](https://porkbun.com/legal/agreement/product_terms_of_service); privacy does not remove accurate-contact or required-disclosure obligations. Full account/checkout-specific acceptance and tax terms remain outside this research-only pass.
+
+**Remaining transaction step:** If Kyle later authorizes acquiring the domain, recheck exact availability, current USD rate, selected one-year term, privacy, auto-renew choice, applicable tax/fees, final total, and required agreement disclosures before seeking/using purchase authorization. The current evidence supports an approval proposal with qualifications, not an unqualified final-payable quotation. No acquisition recommendation or brand go/no-go is made here.
+
 
 ## 6. Reproducible public-search log
 

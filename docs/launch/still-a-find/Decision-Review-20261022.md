@@ -25,7 +25,7 @@ Use the existing close-name packet for a **bounded remaining-record/name-risk ch
 
 If the remaining similarity, territorial-use or ownership questions cannot be resolved through permitted factual research, present one narrow assessment option using eligible free assistance or an explicitly approved fixed scope/budget. No professional contact or engagement is authorized. If a substantial apparent overlapping conflict emerges, recommend stopping name-dependent commitment and returning the name choice to Kyle. Do not automatically promote an old rejected name or the unapproved challenger research.
 
-**Current checkpoint outcome:** keep the champion provisional; keep name-dependent commitments paused. Domain quote correction is separately required before any purchase proposal. No conclusion here requires stopping name-independent platform preparation.
+**Current checkpoint outcome:** keep the champion provisional; keep name-dependent commitments paused. A final exact transaction quote and terms verification remain required before any purchase, even after the supplementary Porkbun public offer resolves currency ambiguity. No conclusion here requires stopping name-independent platform preparation.
 
 ## 2. Strategy Advisor hat
 
