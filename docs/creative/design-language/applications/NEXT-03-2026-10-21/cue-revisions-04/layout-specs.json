@@ -1,0 +1,68 @@
+[
+  {
+    "concept": "TE",
+    "source": "TE-ornate-v4.png",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Pepper",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 8.5,
+      "height": 6.3447,
+      "left": 1.75,
+      "top": 1.5
+    },
+    "anchor": "print-canvas origin, not physical neckline",
+    "native_bbox_alpha16": [
+      0,
+      39,
+      1404,
+      1087
+    ],
+    "native_effective_ppi": 165.2,
+    "master_sha256": "e742cceefb1109f9bc39a9e8010ad05cb6675cd50ddfd8a91ca4782d3073d622",
+    "geometry": "provisional round04; 17.8px/in, center x303, print origin y97 on 602px blank",
+    "reference_size": "unknown",
+    "nominal_width_percent": {
+      "S": 46.6,
+      "L": 38.6,
+      "2XL": 32.7
+    }
+  },
+  {
+    "concept": "NA",
+    "source": "NA-sale2-v3.png",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 8.0,
+      "height": 9.9783,
+      "left": 2.0,
+      "top": 1.5
+    },
+    "anchor": "print-canvas origin, not physical neckline",
+    "native_bbox_alpha16": [
+      71,
+      60,
+      1086,
+      1326
+    ],
+    "native_effective_ppi": 126.9,
+    "master_sha256": "410ad68cf0636cfda2da686334bf688b8e2992c448cf5732b4b6ceafcfe4d77c",
+    "geometry": "provisional round04; 17.8px/in, center x303, print origin y97 on 602px blank",
+    "reference_size": "unknown",
+    "nominal_width_percent": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    }
+  }
+]

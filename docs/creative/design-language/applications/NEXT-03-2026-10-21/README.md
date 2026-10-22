@@ -4,9 +4,9 @@ Creative Director · October 21, 2026 (America/Chicago) · New designs for Found
 
 ## Current review decisions
 
-[Founder feedback and follow-up](founder-feedback.md): **T-E A Playful approved; T-E B quiet typography tentatively approved; T-B retired.** Founder praised B's typography/proportions/layout but requested a stronger bulky-object cue, and requested an attached price tag for N-A to reduce the dirty-bowl reading. The [current cue revisions](cue-revisions-03/README.md) replace B's cabinet with a vintage sofa and attach an $8 tag to N-A's bowl. Both changed images await review; the new CD assessment is frozen. Thrift-shopping and sentimental collecting remain compatible brand readings. Historical selection and assessments below remain intact.
+[Founder feedback and follow-up](founder-feedback.md): **T-E A Playful approved; T-E B quiet typography tentatively approved; T-B retired.** After the sofa/$8-tag review, Founder preferred the first sofa's ornate antique character and requested a nonredundant SALE tag plus a lower $1/$2 main price for N-A. The [current revisions](cue-revisions-04/README.md) restore the ornate sofa and select PRICE: $2 / SALE. Both changed images await review; their new CD assessment is frozen. Thrift-shopping and sentimental collecting remain compatible brand readings. Historical selection and assessments below remain intact.
 
-![Current sofa and tagged-bowl revisions](cue-revisions-03/assets/review-board.png)
+![Current ornate sofa and $2/SALE bowl revisions](cue-revisions-04/assets/review-board.png)
 
 ## Original review package — historical
 

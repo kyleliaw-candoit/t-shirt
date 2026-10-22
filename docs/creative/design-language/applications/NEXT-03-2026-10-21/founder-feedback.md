@@ -43,3 +43,15 @@ October 21, 2026 (America/Chicago). This response follows the frozen [T-E quiet 
 CD response: replace B's cabinet with a small three-seat vintage sofa; keep the type-led hierarchy and selected width/anchor. A sofa's familiar scale communicates the transport problem more reliably than an isolated modest cabinet. Add an attached $8 tag to N-A's bowl. My earlier assessment overstated how safely wear alone distinguished age from dirt; sale context is the useful missing cue. This is a specific correction to N-A, not a requirement to tag every old-object design.
 
 The [cue-revisions-03 package](cue-revisions-03/README.md) retains before/after shirts, selected transparent masters, rejected sofa iterations, exact prompts and new provider evidence. Its [new assessment](cue-revisions-03/assessment.md) is frozen before feedback on the changed images. CD recommends both revisions; Founder approval of those new images is pending. Neither revision adds an assortment slot. T-B stays retired. PR140 remains a draft; this feedback did not request a merge or storefront release.
+
+## Third visual feedback — antique character and price contrast
+
+October 21, 2026 (America/Chicago). Response to the frozen [cue-revisions-03 assessment](cue-revisions-03/assessment.md).
+
+**T-E B:** Founder prefers the first sofa's style, describing it as older, perhaps Victorian, and a stronger antique/vintage cue. The simplified third sofa reads too contemporary/transitional. This is a style correction; the earlier praise for the typography-led design, proportions and layout still stands.
+
+**N-A:** Founder finds $8 repeated on the tag redundant with PRICE: $8. Suggests SALE on the tag and a main price of $1 or $2 to make the object feel like a cheap used find and increase contrast with the undisclosed sentimental value.
+
+CD response: restore the first sofa's shaped wood frame, crest and curved apron at a supporting scale. Avoid claiming verified Victorian provenance. Select PRICE: $2 and SALE for N-A; $1 would not earn a separate variant. The lower price strengthens the monetary/emotional contrast, while bowl wear and sale context continue to establish the secondhand reading. My prior preference for repeating $8 and acceptance of the plainer sofa remain visible in the older assessment.
+
+See [cue-revisions-04](cue-revisions-04/README.md) for the current images, comparisons, prompts, geometry and provider checks. Its [new CD assessment](cue-revisions-04/assessment.md) was frozen before further Founder feedback. Both new images await review; T-E A remains approved/locked, and T-B remains retired. No merge or storefront action is requested in this feedback.

@@ -1,6 +1,6 @@
 # T-E B sofa and N-A attached-tag revisions
 
-October 21, 2026 (America/Chicago) · Proposed revisions in draft PR140; awaiting Founder review.
+October 21, 2026 (America/Chicago) · Historical review, superseded by [cue-revisions-04](../cue-revisions-04/README.md) after Founder feedback: restore the first sofa's ornate style, use SALE on the bowl tag and lower the main price. This package and its frozen assessment remain intact for comparison.
 
 T-E A is approved and unchanged. Founder tentatively approved B, praising typography, proportions and layout, and asked for a stronger bulky-object cue. Replace its moderately sized cabinet with a three-seat vintage sofa. For N-A, attach an $8 price tag to the old bowl to clarify that it is for sale rather than dirty after a meal. T-B remains retired.
 
