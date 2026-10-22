@@ -3,7 +3,7 @@
 
 Owner: Research Analyst
 Date: 2026-10-22 (America/Chicago)
-Status: Three research iterations synthesized; ready for Strategy Advisor.
+Status: Three research iterations synthesized; Strategy Advisor assessment delivered.
 Working scope: US English-language adult apparel, with explicitly labeled international linguistic/context evidence.
 Founder Advantage: Not yet supplied for R043. R041/R042 scores do not transfer.
 
@@ -193,7 +193,7 @@ However, its “identity first” gate should not become circular reasoning that
 Operational output: this report and a separate Strategy assessment.
 Knowledge output: track **buyer → wearer → observer**, separate expected versus realized reaction, and keep public wear distinct from private amusement. These are execution observations, not automatic methodology changes.
 
-See [Strategy handoff](R043-Strategy-Advisor-Handoff.md).
+See [Strategy handoff](R043-Strategy-Advisor-Handoff.md) and the [completed commercial assessment](../strategy/R043-Everyday-Language-Humor-Commercial-Assessment.md).
 
 ## 16. Source register / access notes
 
