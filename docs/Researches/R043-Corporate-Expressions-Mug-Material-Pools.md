@@ -34,7 +34,7 @@ Counting rules:
 - Overlapping source appearances add evidence, not seeds. Close the loop and loop someone in have distinct functions, but only the former is included here.
 - Related expressions can share one mechanism; 60 expressions do not imply 60 mechanisms or independent purchase reasons.
 - Inventory expressions are ordinary language labels; source definitions, example sentences, humorous translations, competitor layouts, and artwork are not reproduced.
-- “Table this” and “out of pocket” require context because meanings vary. Some technical language is useful and precise in context; “corporate nonsense” is a customer's possible attitude, not a linguistic verdict.
+- “Table this” and “out of pocket” require context because meanings vary [K]. Some technical language is useful and precise in context; “corporate nonsense” is a customer's possible attitude, not a linguistic verdict.
 - This list is separate from the earlier 60-unit conversational audit. Do not sum the two as 120 independent product opportunities without cross-audit deduplication and audience-fit review.
 
 ## 3. Source pools and what each establishes
@@ -206,7 +206,7 @@ These are research questions and product-fit unknowns, not a request for another
 
 ## 8. Source register and access provenance
 
-All pages below were inspected as extracted page text on 2026-10-22. Links are primary authored resources or first-party research reports. Source headings and short expression labels locate evidence; no source's examples or humorous translations are adopted as product copy.
+All primary pool and research pages below were inspected as extracted page text on 2026-10-22; supplementary dictionary access limits are labeled under K. Links are primary authored resources or first-party research reports. Source headings and short expression labels locate evidence; no source's examples or humorous translations are adopted as product copy.
 
 - **A:** [Atlassian — 31 corporate jargon phrases](https://www.atlassian.com/blog/teamwork/6-examples-of-business-jargon-you-should-stop-using-now). Dated December 12, 2023; numbered headings and relevant text inspected.
 - **D:** [Duolingo — 14 business English expressions](https://blog.duolingo.com/business-english-idioms/). All relevant headings and explanations inspected.
@@ -220,6 +220,8 @@ All pages below were inspected as extracted page text on 2026-10-22. Links are p
 - **S:** [SurveyMonkey — Workplace culture and trends](https://www.surveymonkey.com/curiosity/surveymonkey-research-workplace-culture-and-trends/). July–August 2025 US full-time-worker panel; n=3,573; non-probability, demographically weighted.
 - **P0:** [Preply — Worst business buzzwords](https://preply.com/en/blog/best-and-worst-corporate-jargon/). Page update March 2026; actual fieldwork November 12–16, 2021; n=1,551 US office/remote workers. Separate from P.
 - **L:** [LinkedIn — State of Workplace Jargon 2023](https://news.linkedin.com/2023/june/state-of-workplace-jargon-report-2023). Commissioned Censuswide research, April 2023; multiple countries and age18+. Do not treat pooled findings as a mug market estimate.
+
+- **K:** Cambridge Dictionary [table](https://dictionary.cambridge.org/dictionary/english/table) and [out-of-pocket](https://dictionary.cambridge.org/us/dictionary/english/out-of-pocket). Search-index dictionary extracts inspected; direct opens failed (internal error/403). Indexed entries support delaying discussion and financial/availability senses respectively; full-entry regional detail was not directly inspected. No additional seed count.
 
 ## 9. Methodology learning
 
