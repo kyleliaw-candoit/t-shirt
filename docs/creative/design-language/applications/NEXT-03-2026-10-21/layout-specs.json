@@ -1,0 +1,212 @@
+[
+  {
+    "id": "TE",
+    "concept": "T-E",
+    "family": "DLF-004",
+    "source": "TE-playful-v1.png",
+    "variant": "compact",
+    "selected": true,
+    "color": "Pepper",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 2.0,
+      "top": 1.5,
+      "width": 8.0,
+      "height": 7.8358
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      42,
+      16,
+      1260,
+      1209
+    ],
+    "native_effective_ppi": 152.2,
+    "master_sha256": "1756438fe491afe9ed0a7f91cbb33f12b231158215bd2239887e37c5a7034383",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    }
+  },
+  {
+    "id": "TE",
+    "concept": "T-E",
+    "family": "DLF-004",
+    "source": "TE-playful-v1.png",
+    "variant": "medium",
+    "selected": false,
+    "color": "Pepper",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.375,
+      "top": 1.5,
+      "width": 9.25,
+      "height": 9.0601
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      42,
+      16,
+      1260,
+      1209
+    ],
+    "native_effective_ppi": 131.7,
+    "master_sha256": "1756438fe491afe9ed0a7f91cbb33f12b231158215bd2239887e37c5a7034383",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 50.7,
+      "L": 42.0,
+      "2XL": 35.6
+    }
+  },
+  {
+    "id": "NA",
+    "concept": "N-A",
+    "family": "DLF-006",
+    "source": "NA-valuation-v1.png",
+    "variant": "compact",
+    "selected": false,
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 2.625,
+      "top": 1.5,
+      "width": 6.75,
+      "height": 8.4057
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      75,
+      68,
+      1082,
+      1322
+    ],
+    "native_effective_ppi": 149.2,
+    "master_sha256": "39c11c6a10e6e4c58f875a3b4b5b6d5887a6b0ef13094a27a9a64516e1ed4b3c",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 37.0,
+      "L": 30.7,
+      "2XL": 26.0
+    }
+  },
+  {
+    "id": "NA",
+    "concept": "N-A",
+    "family": "DLF-006",
+    "source": "NA-valuation-v1.png",
+    "variant": "medium",
+    "selected": true,
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 2.0,
+      "top": 1.5,
+      "width": 8.0,
+      "height": 9.9623
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      75,
+      68,
+      1082,
+      1322
+    ],
+    "native_effective_ppi": 125.9,
+    "master_sha256": "39c11c6a10e6e4c58f875a3b4b5b6d5887a6b0ef13094a27a9a64516e1ed4b3c",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    }
+  },
+  {
+    "id": "TB",
+    "concept": "T-B",
+    "family": "DLF-002",
+    "source": "TB-vignette-v2.png",
+    "variant": "compact",
+    "selected": false,
+    "color": "Blue Jean",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 2.0,
+      "top": 1.5,
+      "width": 8.0,
+      "height": 6.7887
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      173,
+      89,
+      1309,
+      1053
+    ],
+    "native_effective_ppi": 142.0,
+    "master_sha256": "315a45a2a3b7f29fc1f8f90aa5b01480356656246d91de596876fda1c86fcc33",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    }
+  },
+  {
+    "id": "TB",
+    "concept": "T-B",
+    "family": "DLF-002",
+    "source": "TB-vignette-v2.png",
+    "variant": "medium",
+    "selected": true,
+    "color": "Blue Jean",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_bounds_inches": {
+      "left": 1.375,
+      "top": 1.5,
+      "width": 9.25,
+      "height": 7.8495
+    },
+    "anchor": "12x16 print-canvas origin, NOT neckline",
+    "native_bbox_alpha16": [
+      173,
+      89,
+      1309,
+      1053
+    ],
+    "native_effective_ppi": 122.8,
+    "master_sha256": "315a45a2a3b7f29fc1f8f90aa5b01480356656246d91de596876fda1c86fcc33",
+    "mockup_reference_size": "unknown",
+    "local_geometry": "provisional round04: 17.8px/in, center x=303, print origin y=97 on a 602px blank",
+    "width_percent_nominal_flat": {
+      "S": 50.7,
+      "L": 42.0,
+      "2XL": 35.6
+    }
+  }
+]

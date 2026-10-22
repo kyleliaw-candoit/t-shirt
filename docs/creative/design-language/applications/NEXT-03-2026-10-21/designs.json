@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TE",
+    "concept": "T-E",
+    "title": "Do you deliver?",
+    "family": "DLF-004",
+    "source": "TE-playful-v1.png",
+    "widths": [
+      8.0,
+      9.25
+    ],
+    "selected_variant": "compact",
+    "color": "Pepper",
+    "top": 1.5
+  },
+  {
+    "id": "NA",
+    "concept": "N-A",
+    "title": "Sentimental value",
+    "family": "DLF-006",
+    "source": "NA-valuation-v1.png",
+    "widths": [
+      6.75,
+      8.0
+    ],
+    "selected_variant": "medium",
+    "color": "Ivory",
+    "top": 1.5
+  },
+  {
+    "id": "TB",
+    "concept": "T-B",
+    "title": "I'll take it",
+    "family": "DLF-002",
+    "source": "TB-vignette-v2.png",
+    "widths": [
+      8.0,
+      9.25
+    ],
+    "selected_variant": "medium",
+    "color": "Blue Jean",
+    "top": 1.5
+  }
+]
