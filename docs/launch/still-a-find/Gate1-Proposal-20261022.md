@@ -26,7 +26,7 @@ Gross is the decision clock because it captures actual delivery availability and
 
 ## Exact two-fixture Creative and Brand questions
 
-This is a review request, not a visual judgment or another ten-design review. [PR #142](https://github.com/kyleliaw-candoit/t-shirt/pull/142), commit `760c1e7832b7078f9f55d75178e4ff58868810ef`, remains draft; guest Printful previews do not prove authenticated integration or production approval. Resolve these questions for each fixture only:
+This is the scoped review brief, retained for traceability. The subsequent [bounded visual response](Two-Fixture-Review-20261022.md) records private-use findings for both fixtures only; it does not authorize production, a design-lock change or the later rendered Shopify experience. It is not another ten-design review. [PR #142](https://github.com/kyleliaw-candoit/t-shirt/pull/142), commit `760c1e7832b7078f9f55d75178e4ff58868810ef`, remains draft; guest Printful previews do not prove authenticated integration or production approval. Resolve these questions for each fixture only:
 
 1. **Exact version.** Creative: approve, revise or hold which master and padded layout? Reconcile the following recorded SHA-256 values with actual bytes; approval must name both files and commit, not merely the design ID. Any revised bytes require a new explicit version decision. Paths below are within `docs/creative/design-language/applications/MVV-PRINTFUL-01/`.
 

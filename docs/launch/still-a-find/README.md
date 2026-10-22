@@ -2,7 +2,7 @@
 
 Observed October 22, 2026. Status: research and private preparation only; implementation and launch gates remain open. Coordinator: dot / Business Partner. Mutable tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146).
 
-Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md), and an [exact proposed Gate 1 fallback with two-fixture review questions](Gate1-Proposal-20261022.md).
+Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md), an [exact proposed Gate 1 fallback with two-fixture review questions](Gate1-Proposal-20261022.md), and a [bounded two-fixture Creative / Brand visual review](Two-Fixture-Review-20261022.md).
 
 ## Read first
 
@@ -72,7 +72,7 @@ This section stages known inputs and missing owner decisions. **Gate 2 is not co
 |---|---|---|
 | Experiment | Existing #110 platform feasibility decision; two non-public fixtures | Gate 1 contract approval |
 | Canonical identities | `Type-Led-4`, `B2` | Preserve independently from provider product/variant IDs |
-| Artwork | Existing locked source history plus PR #142 unbranded derivatives | Creative review of exact derivatives, branding replacement and opacity/detail treatment; no inherited approval |
+| Artwork | Existing locked source history plus PR #142 unbranded derivatives; [bounded visual review](Two-Fixture-Review-20261022.md) accepts both exact fixtures for private feasibility | No production/design-lock or Founder approval inferred. Opacity/detail/sample holds and reviewed Store Build Packet remain; no actual Shopify rendered candidate exists yet. |
 | Garment | Comfort Colors 1717 is current design-stage default; PR #142 tests Ivory, front DTG | Confirm production recipe, current variants/costs and sample evidence; design preference is not purchase approval |
 | Proposed footprints | B2 6.25 × 8.41 inches; Type-Led-4 7.25 × 8.17 inches, from PR #142 | Not a new creative approval; verify exact file/hash and approved version before use |
 | Canvas evidence | PR #142 uses 12 × 16-inch, 1800 × 2400 sRGB transparent PNG, 150 DPI; Good badge recorded | Partial-alpha edges remain unresolved; badge is not physical print certification |
@@ -113,7 +113,7 @@ No total launch budget can honestly be finalized before account state, domain qu
 1. Complete bounded name/business evidence and independent Brand/Strategy interpretation. Continue name-independent preparation; no claim of clearance.
 2. Ask Kyle only for the immediate factual gaps: whether Shopify/Printful accounts already exist (store URL if applicable), whether EIN and dedicated business/payout readiness are complete, and whether a credible WTD active-minute baseline can be supplied. No secrets requested.
 3. Present #110's original contract or an explicitly proposed amendment for Strategy/Founder approval. Separately verify exact plan charge/renewal and access before requesting a consequential action.
-4. Have Creative/Brand resolve exact two-fixture asset and presentation inputs; Operations validates provider facts; Finance recalculates contribution from quotes, not historical $13/$5 assumptions.
+4. Use the bounded Creative/Brand private-use findings for the exact two fixtures, without inferring production or rendered-store approval. Finish remaining packet/presentation decisions; Operations validates provider facts; Finance recalculates contribution from quotes, not historical $13/$5 assumptions.
 5. Only after the required gates: implement privately, run non-charge proof with both fulfillment safeguards, obtain rendered/operational/independent technical reviews.
 6. Later and separately: secure approved name/domain/identity/filing actions, approved sample through delivery, launch packet and explicit public-launch approval. No new recurring reminders.
 
