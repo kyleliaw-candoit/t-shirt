@@ -133,15 +133,15 @@ Research supports proceeding to **commercial analysis**, not an automatic produc
 
 All sources retrieved in this session. Search-index excerpts are weaker than readable full pages; no membership totals or seller sales estimates are inferred.
 
-- **C1 — APPA**, September 14, 2026, 2025 survey findings, public release: https://americanpetproducts.org/news/gen-z-and-cat-dads-are-leading-cat-ownerships-cultural-boom . Full release read. Population/demographic evidence; paid underlying report not read.
-- **C2 — Cats Protection**, historical UK Cat Men Do survey, 2,000 male respondents: https://www.cats.org.uk/mediacentre/media-surveys/cat-calling-all-men-to-show-their-affinity-with-kitties . Full page read; dates/context cross-checked against 2019 release. Perceptions, not apparel purchasing.
-- **C3 — r/cats**, explicit proud-cat-dad post: https://www.reddit.com/r/cats/comments/goyj1n/these_are_my_sons_yes_i_am_a_proud_cat_dad/ . Full post/comments read; one self-selected identity example.
+- **C1 — APPA**, September 14, 2026, 2025 survey findings, public release: https://americanpetproducts.org/news/gen-z-and-cat-dads-are-leading-cat-ownerships-cultural-boom . Release retrieved; relevant text inspected. Population/demographic evidence; paid underlying report not read.
+- **C2 — Cats Protection**, historical UK Cat Men Do survey, 2,000 male respondents: https://www.cats.org.uk/mediacentre/media-surveys/cat-calling-all-men-to-show-their-affinity-with-kitties . Page retrieved; relevant excerpts inspected; dates/context cross-checked against 2019 release. Perceptions, not apparel purchasing.
+- **C3 — r/cats**, explicit proud-cat-dad post: https://www.reddit.com/r/cats/comments/goyj1n/these_are_my_sons_yes_i_am_a_proud_cat_dad/ . Post and relevant comments inspected; one self-selected identity example.
 - **C4 — r/cats**, reluctant father conversion: https://www.reddit.com/r/cats/comments/15brql1/ . Indexed post excerpt; anecdotal.
 - **C5a — r/cats**, expensive furniture/box: https://www.reddit.com/r/cats/comments/1ea311j/ . Indexed excerpts; full page unavailable.
 - **C5b — r/cats**, recurrence: https://www.reddit.com/r/cats/comments/16raet0/ . Indexed excerpts; distinct thread, same platform.
-- **C6 — Etsy**, personalized cat-dad listing: https://www.etsy.com/listing/1493816208/personalized-cat-dad-shirt-vintage-style . Full listing and item review section read. 23 item reviews, not units sold; gift anticipation not proof of actual recipient wear.
-- **C7 — Petco**, Zanden tee: https://www.petco.com/product/zanden-cat-dad-tee . Full page read; Small $15, 0 reviews in snapshot.
-- **C8 — r/cats**, creator-linked apparel complaint and replies: https://www.reddit.com/r/cats/comments/1tnoq40/my_husband_would_die_if_he_knew_i_posted_this/ . Full page read. Commercially interested original post, not independent unmet-demand evidence.
+- **C6 — Etsy**, personalized cat-dad listing: https://www.etsy.com/listing/1493816208/personalized-cat-dad-shirt-vintage-style . Listing and item review section inspected. 23 item reviews, not units sold; gift anticipation not proof of actual recipient wear.
+- **C7 — Petco**, Zanden tee: https://www.petco.com/product/zanden-cat-dad-tee . Page retrieved; relevant excerpts inspected; Small $15, 0 reviews in snapshot.
+- **C8 — r/cats**, creator-linked apparel complaint and replies: https://www.reddit.com/r/cats/comments/1tnoq40/my_husband_would_die_if_he_knew_i_posted_this/ . Page retrieved; relevant excerpts inspected. Commercially interested original post, not independent unmet-demand evidence.
 - **C9 — r/h3h3productions**, request for cat-dad shirt: https://www.reddit.com/r/h3h3productions/comments/1iitvii/ . Indexed post text; creator-fandom context, not representative male-owner demand.
 - **C10 — Cats Protection shop**, https://catsprotectionteemill.com/product/-catdad-t-shirt-60e2d49bcf1af/ and https://catsprotectionteemill.com/collection/fathers-day/ . Indexed product/review excerpts; direct page extraction limited. Collection review aggregates not assigned to the tee.
 - **C11 — RSPCA shop**, https://rspcaclothing.co.uk/product/cat-dad-t-shirt/ . Indexed product/review excerpt; direct extraction limited.
