@@ -1,6 +1,6 @@
 # Still a Find launch preparation
 
-Observed October 22, 2026. Status: research and private preparation only; implementation and launch gates remain open. Coordinator: dot / Business Partner. Mutable tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146).
+Initial audit October 22, 2026, about 17:00 UTC; dated Founder updates below. Status: research and private preparation only; implementation and launch gates remain open. Coordinator: dot / Business Partner. Mutable tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146).
 
 Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md), an [exact proposed Gate 1 fallback with two-fixture review questions](Gate1-Proposal-20261022.md), and a [bounded two-fixture Creative / Brand visual review](Two-Fixture-Review-20261022.md).
 
@@ -31,15 +31,17 @@ The [PR #142 provider record](https://github.com/kyleliaw-candoit/t-shirt/blob/7
 
 | Asset | Evidence and current limit | Recommended handling, not execution |
 |---|---|---|
-| Shopify | Official plugin catalog read October 22: available, not installed. #110 records planning only. Store/trial/plan/billing unknown. | Ask whether an owner-controlled store already exists and its store URL; inspect it before creating another or selecting a plan. Plugin absence does not establish account absence. |
-| Printful | Guest previews exist; authenticated account and integration unknown. | Reuse existing owner account if one exists; do not start Growth or duplicate accounts. |
+| Shopify | Initial audit: plugin available but not installed; runtime unknown. At 18:38 UTC, Founder confirms he has not created a Shopify store. This is user-confirmed, not independent account verification. | Prepare a new owner-controlled store after applicable #110 and account/terms/access/cost gates. No store, trial or paid plan created. |
+| Printful | Initial audit found guest previews, not an authenticated account. At 18:38 UTC, Founder confirms he has not created a Printful account. | Prepare a new owner-controlled account after applicable gates and exact terms decisions. No account or Growth subscription created. |
 | Business email | Connected operations Gmail profile successfully read. Bounded vendor/government searches returned no completion evidence in that mailbox. | Reuse mailbox for internal operations. Branded outbound email is a separate unconfigured decision, not implied by a forwarding alias. |
 | WTD domain / Cloudflare | Ledger records `worth-the-detour.com` purchased August 14 with annual renewal then enabled. Cloudflare connector returned reauthentication required on a read-only call October 22. | Preserve. Current ownership, expiry, renewal price, billing and deployment state not reverified. No need to reconnect merely to start independent documentation. |
 | Meta | Existing Taukay/WTD records in #56; current browser navigation stopped by security restriction. | Preserve existing objects. Do not retry or bypass restricted navigation. Reuse-versus-rename requires supported access and exact public-change approval. |
 | TikTok / other social accounts | No owner-account inventory verified. Public handle checks are in the name evidence report. | Ask existing-account status before creating. Missing public pages are not available handles. |
-| Taukay LLC / EIN / payout readiness / assumed name | Founder context and old company issue are not current private documentary verification. | Confirm completion status privately; use secure owner-controlled documents only when needed. Do not post identifiers, account numbers, addresses or documents to GitHub. |
+| Taukay LLC / EIN / payout readiness / assumed name | At 18:38 UTC, Founder says Taukay LLC still needs an EIN and already has a business checking account. No independent account/document verification. | Help resolve EIN without duplicate requests; checking-account existence is not payout validation. Owner/entity/assumed-name and actual payout readiness remain private checks. No identifiers or documents in GitHub. |
 
 The mailbox search is limited to the connected operations account. It is not an all-account audit, proof of nonexistence, or evidence that a paid service has no balance. Workspace marketing email is not evidence of a paid Workspace subscription.
+
+**Founder update, 18:38–18:42 UTC:** Kyle requests help creating Shopify/Printful accounts and obtaining the EIN. He reports IRS call attempts ended because of high call volume without reaching a representative. This establishes neither an issued EIN nor the absence of an earlier pending application. The next EIN preparation path is a reviewable [Form SS-4](https://www.irs.gov/instructions/iss4), contingent on checking prior pending/issued status and confirming the necessary owner/tax-election facts. No form has been submitted, no fax service selected and no EIN outcome is claimed. Kyle enters taxpayer identifiers directly in his private official process, reviews declarations and submits himself. No further phone loop or parallel application is proposed. Account creation and all existing consequential-action gates remain unchanged.
 
 ## 3. Resolve the existing Shopify dependency first
 
@@ -111,7 +113,7 @@ No total launch budget can honestly be finalized before account state, domain qu
 ## 6. Next action sequence and stopping point
 
 1. Complete bounded name/business evidence and independent Brand/Strategy interpretation. Continue name-independent preparation; no claim of clearance.
-2. Ask Kyle only for the immediate factual gaps: whether Shopify/Printful accounts already exist (store URL if applicable), whether EIN and dedicated business/payout readiness are complete, and whether a credible WTD active-minute baseline can be supplied. No secrets requested.
+2. Use the dated Founder account/bank facts above without repeating the answered questions. Continue EIN form preparation only with the necessary non-sensitive owner/tax-election and prior-application facts; no duplicate filing or identifier collection. A credible WTD active-minute baseline, or its unavailability, still needs resolution separately.
 3. Present #110's original contract or an explicitly proposed amendment for Strategy/Founder approval. Separately verify exact plan charge/renewal and access before requesting a consequential action.
 4. Use the bounded Creative/Brand private-use findings for the exact two fixtures, without inferring production or rendered-store approval. Finish remaining packet/presentation decisions; Operations validates provider facts; Finance recalculates contribution from quotes, not historical $13/$5 assumptions.
 5. Only after the required gates: implement privately, run non-charge proof with both fulfillment safeguards, obtain rendered/operational/independent technical reviews.
