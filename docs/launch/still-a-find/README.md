@@ -74,7 +74,7 @@ This section stages known inputs and missing owner decisions. **Gate 2 is not co
 | Canonical identities | `Type-Led-4`, `B2` | Preserve independently from provider product/variant IDs |
 | Artwork | Existing locked source history plus PR #142 unbranded derivatives; [bounded visual review](Two-Fixture-Review-20261022.md) accepts both exact fixtures for private feasibility | No production/design-lock or Founder approval inferred. Opacity/detail/sample holds and reviewed Store Build Packet remain; no actual Shopify rendered candidate exists yet. |
 | Garment | Comfort Colors 1717 is current design-stage default; PR #142 tests Ivory, front DTG | Confirm production recipe, current variants/costs and sample evidence; design preference is not purchase approval |
-| Proposed footprints | B2 6.25 × 8.41 inches; Type-Led-4 7.25 × 8.17 inches, from PR #142 | Not a new creative approval; verify exact file/hash and approved version before use |
+| Proposed footprints | B2 6.25 × 8.41 inches; Type-Led-4 7.25 × 8.17 inches, from PR #142 | Bounded specialist review accepts these exact private-input footprints; production and Founder approval remain open. Preserve reviewed files/hashes before use. |
 | Canvas evidence | PR #142 uses 12 × 16-inch, 1800 × 2400 sRGB transparent PNG, 150 DPI; Good badge recorded | Partial-alpha edges remain unresolved; badge is not physical print certification |
 | Price / sizes / shipping | No final commercial values approved in this packet | Strategy price/offer; Operations current quote; Finance contribution validation; Founder material decisions |
 | Product copy and policies | Current brand line retained; no invented guarantees | Brand/Creative copy review; real materials, sizing/care, delivery and legal/returns decisions |
