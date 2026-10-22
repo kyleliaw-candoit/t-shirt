@@ -520,3 +520,8 @@ The [CAR: WRONG pilot review](../creative/design-language/reviews/2026-10-19-CAR
 ### Front-only launch constraint — October 19 clarification
 
 POD launches with front-only graphics. Require a visibly confirmed front treatment for source admission; exclude back-print designs and do not treat a small front logo as evidence for the large back graphic. Unknown placement stays pending. Keep this launch constraint separate from general aesthetic-fit guidance. [Current slot counts and exclusions](../creative/design-language/sourcing/initial-eight/README.md).
+
+
+### No on-garment brand identifiers — October 21, 2026
+
+Founder decision: shirts in the current R012 antique/vintage business must not display the business brand name, logo or initials. This includes optional back-neck or sleeve branding. On existing designs, remove branding or replace it with concept-relevant content where removal weakens the composition. Preserve historical locked assets; record revised production derivatives separately. Brand identifiers on historical presentation boards are archival context, not print content.

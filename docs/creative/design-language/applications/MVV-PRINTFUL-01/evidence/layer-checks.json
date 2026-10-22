@@ -1,0 +1,42 @@
+[
+  {
+    "id": "B2",
+    "layer": "MVV-B2-12x16.png; Good / 150 DPI; 12.00 x 16.00 padded canvas"
+  },
+  {
+    "id": "A1",
+    "layer": "File MVV-A1-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "A3",
+    "layer": "File MVV-A3-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "YIF-M",
+    "layer": "File MVV-YIF-M-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "YIF-F",
+    "layer": "File MVV-YIF-F-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "C2",
+    "layer": "File MVV-C2-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "C3B",
+    "layer": "File MVV-C3B-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "Fashion-1D-F",
+    "layer": "File MVV-Fashion-1D-F-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "Type-Led-3",
+    "layer": "File MVV-Type-Led-3-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  },
+  {
+    "id": "Type-Led-4",
+    "layer": "File MVV-Type-Led-4-12x16.png\nPrint quality:\nGood / 150 DPI\nWidth: 12.00 units Height: 16.00 units "
+  }
+]

@@ -100,3 +100,8 @@ Founder approved CAR: WRONG round05; PR137 is merged. [Closeout](applications/CA
 Founder specifically endorses T-E B's font choice, font sizing and overall composition for reuse on future concepts, as-is or with minor adjustments. See the [approved DLF-002 application reference](discovery-01/families/DLF-002.md#founder-approved-typography-led-application--october-21) and the actual shirt/detail images. DLF-004 and DLF-006 also link their approved T-E A and N-A applications.
 
 The original three-concept review, cabinet variant, plain-sofa/$8-tag revision and final ornate-sofa/$2-SALE revision retain all four frozen pre-feedback assessments. The approval manifest identifies the authoritative versions; historical candidates are not additional approved designs. Thrift-shopping and sentimental collecting remain compatible brand readings. The round yields two executions of T-E and one of N-A, consistent with the one-or-two cap. Aesthetic approval is not customer purchase evidence.
+
+
+## MVV production adaptation — October 21, 2026
+
+[MVV-PRINTFUL-01](applications/MVV-PRINTFUL-01/README.md) revisits the ten executable Worth the Detour MVV designs: unbranded production derivatives, measured 1717/Ivory layouts, Printful checks and a frozen pre-Founder assessment. Original locked sources remain archived; proposed derivatives are not automatically approved.

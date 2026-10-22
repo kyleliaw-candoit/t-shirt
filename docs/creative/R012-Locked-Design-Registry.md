@@ -9,6 +9,10 @@ brand: Worth the Detour
 
 # R012 — Locked Design Registry
 
+## October 21, 2026 — MVV production adaptation in review
+
+Founder authorized revisiting the ten executable MVV designs for Printful garment/color/scale checks and removing all business names, logos and initials from the garments. See [MVV-PRINTFUL-01](design-language/applications/MVV-PRINTFUL-01/README.md) for the new production derivatives, measurements and provider evidence. Historical locked source bytes remain unchanged. These derivatives require visual review and do not inherit exact-artwork lock status automatically. The no-branding decision supersedes earlier permission for product wordmarks or optional neck marks.
+
 ## T-E — Do you deliver? / I asked, after paying.
 
 October 21, 2026 · **LOCKED — approved Playful aesthetic; production cleanup/sample pending.** Founder explicitly approved this execution in the [first review](design-language/applications/NEXT-03-2026-10-21/founder-feedback.md).

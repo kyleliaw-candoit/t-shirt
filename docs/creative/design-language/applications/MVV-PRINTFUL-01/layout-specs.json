@@ -1,0 +1,382 @@
+[
+  {
+    "design_id": "B2",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 6.25,
+      "height": 8.4149,
+      "left": 2.875,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      98,
+      36,
+      1068,
+      1342
+    ],
+    "master_size": [
+      1145,
+      1374
+    ],
+    "native_ppi": 155.2,
+    "alpha_nonzero_below240_percent": 12.19,
+    "master_sha256": "306d2d57fb897ca26d9b61d7127f8774ec43ea6715ebddb87d2b79a65b1ec212",
+    "canvas_sha256": "d81d39406e4f57f2455c8b50450d3b1040bf9a3bb62286fd143aa27390f1b047",
+    "width_percent_flat_garment": {
+      "S": 34.2,
+      "L": 28.4,
+      "2XL": 24.0
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "A1",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 5.5,
+      "height": 7.5403,
+      "left": 3.25,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      120,
+      67,
+      1050,
+      1342
+    ],
+    "master_size": [
+      1145,
+      1374
+    ],
+    "native_ppi": 169.09,
+    "alpha_nonzero_below240_percent": 24.63,
+    "master_sha256": "730fb0e948ba04f070b71d1cbeb8373c3c2bc56dcd330991a40d382e396682e7",
+    "canvas_sha256": "59a55d0c46743f21876aa16cbcb96db46d52121d5280918971cadfd2af47ecae",
+    "width_percent_flat_garment": {
+      "S": 30.1,
+      "L": 25.0,
+      "2XL": 21.2
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "A3",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 5.5,
+      "height": 7.6249,
+      "left": 3.25,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      76,
+      99,
+      1013,
+      1398
+    ],
+    "master_size": [
+      1086,
+      1448
+    ],
+    "native_ppi": 170.36,
+    "alpha_nonzero_below240_percent": 21.49,
+    "master_sha256": "a25b0bfe4c4dff679f67317d7a99c67e4ea456ed952dc718ec0d87d5857197c2",
+    "canvas_sha256": "e65ec04a087ebec75e3a1eba65de35f4f433bef9363aabed762f8433b6c916cc",
+    "width_percent_flat_garment": {
+      "S": 30.1,
+      "L": 25.0,
+      "2XL": 21.2
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "YIF-M",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 7,
+      "height": 5.8764,
+      "left": 2.5,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      106,
+      68,
+      1352,
+      1114
+    ],
+    "master_size": [
+      1374,
+      1145
+    ],
+    "native_ppi": 178.0,
+    "alpha_nonzero_below240_percent": 9.75,
+    "master_sha256": "2f2d70ec37e3868b26f55225b5d70e2ee2fa61d64a6f4967442c64d1a21a165f",
+    "canvas_sha256": "333c2e6c0fa025c087e300b699a3ee2fa5c3ebb513fdb5552c9658527a419b3f",
+    "width_percent_flat_garment": {
+      "S": 38.4,
+      "L": 31.8,
+      "2XL": 26.9
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "YIF-F",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 7.25,
+      "height": 6.6961,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      159,
+      30,
+      1337,
+      1118
+    ],
+    "master_size": [
+      1402,
+      1122
+    ],
+    "native_ppi": 162.48,
+    "alpha_nonzero_below240_percent": 14.88,
+    "master_sha256": "acf6d383a72385940fc48222825077a45ac694d967d10af02121ef4f9900d7cb",
+    "canvas_sha256": "5e8257a017cfba5e68e72f33bc24a149e0585374830b03af005d4f0655cbc7a2",
+    "width_percent_flat_garment": {
+      "S": 39.7,
+      "L": 33.0,
+      "2XL": 27.9
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "C2",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 6.5,
+      "height": 6.9524,
+      "left": 2.75,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      145,
+      23,
+      1237,
+      1191
+    ],
+    "master_size": [
+      1312,
+      1199
+    ],
+    "native_ppi": 168.0,
+    "alpha_nonzero_below240_percent": 3.65,
+    "master_sha256": "1d7e137646f541912ea718d996e5e234933a80a649a8ee6dacf22e8186e916af",
+    "canvas_sha256": "cdd27bc34559e0cadf398859e9ba34152fc238d64a3db9af0095199934fad35b",
+    "width_percent_flat_garment": {
+      "S": 35.6,
+      "L": 29.5,
+      "2XL": 25.0
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "C3B",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 10.5,
+      "height": 3.8127,
+      "left": 0.75,
+      "top": 2.25
+    },
+    "bbox_alpha16": [
+      87,
+      107,
+      1833,
+      741
+    ],
+    "master_size": [
+      1920,
+      819
+    ],
+    "native_ppi": 166.29,
+    "alpha_nonzero_below240_percent": 7.0,
+    "master_sha256": "e67ad65fe2222475f113eb43a80aba442de77eabe86e92b18f491a2e9d0dcd05",
+    "canvas_sha256": "f15da12a290656405275ff7cebb327ba0d76729f03212c7bfdeb0fb86fa09ad3",
+    "width_percent_flat_garment": {
+      "S": 57.5,
+      "L": 47.7,
+      "2XL": 40.4
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "Fashion-1D-F",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 7.25,
+      "height": 8.3391,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      12,
+      24,
+      1137,
+      1318
+    ],
+    "master_size": [
+      1145,
+      1374
+    ],
+    "native_ppi": 155.17,
+    "alpha_nonzero_below240_percent": 40.21,
+    "master_sha256": "084c87ec46e2b692461d3155a8494f92e8233327ce4324da826be8a25301487f",
+    "canvas_sha256": "d245c48956596cb7b87c7075b1cd7f3dcab33f7aa08429b120e748d76f054a31",
+    "width_percent_flat_garment": {
+      "S": 39.7,
+      "L": 33.0,
+      "2XL": 27.9
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "Type-Led-3",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 6,
+      "height": 6.7588,
+      "left": 3.0,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      63,
+      175,
+      1091,
+      1333
+    ],
+    "master_size": [
+      1145,
+      1374
+    ],
+    "native_ppi": 171.33,
+    "alpha_nonzero_below240_percent": 19.63,
+    "master_sha256": "684214b28079d65e8a49d71881a182db9b19a47647904b4b57922c4b53ea3361",
+    "canvas_sha256": "1614d95b78255d68b4c960fd4b006094e9cf88f8d344bec69f86b8c886ea59a1",
+    "width_percent_flat_garment": {
+      "S": 32.9,
+      "L": 27.3,
+      "2XL": 23.1
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  },
+  {
+    "design_id": "Type-Led-4",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 7.25,
+      "height": 8.1719,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "bbox_alpha16": [
+      62,
+      30,
+      1163,
+      1271
+    ],
+    "master_size": [
+      1213,
+      1297
+    ],
+    "native_ppi": 151.86,
+    "alpha_nonzero_below240_percent": 36.22,
+    "master_sha256": "83da9481188fd6829db2e8664fb777b0540f6f2a07c9e23c645210e3022c787f",
+    "canvas_sha256": "54f684eeddc43d26bdea031f2ee5714540bf5870e9d93635def747851f334957",
+    "width_percent_flat_garment": {
+      "S": 39.7,
+      "L": 33.0,
+      "2XL": 27.9
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "local_geometry": "Provisional round04, 17.8px/in, center303, origin97"
+  }
+]
