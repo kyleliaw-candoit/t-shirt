@@ -2,7 +2,7 @@
 ## Identity and Market Evidence Report
 
 Research Analyst | 2026-10-21 (America/Chicago)
-Status: Research synthesis complete; Strategy review requested. Founder Advantage pending.
+Status: Research synthesis complete; Strategy assessment delivered. Founder Advantage confirmed: 4/5.
 Scope: US adult recreational players, including informal hitting, social doubles, and local leagues. Excludes professional players and treats spectators and tennis-fashion consumers as adjacent, distinct audiences.
 Method: [Research Methodology v0.3](../company/Research-Methodology.md). Independent identity from R041 Cat Owners; no combined niche is proposed. Sources retrieved during this work session.
 
@@ -132,7 +132,7 @@ Five equal /20 components follow prior report convention; scores are analyst jud
 
 **Creative Leverage: 18/20.** Improvement, rating identity, partnerships, team organization, competition/fun tension, and everyday coordination provide material beyond pro-player fandom. Language must remain legible to informal players.
 
-**Founder Advantage (draft): unscored, pending Founder review.** No verified tennis-playing history, fluency, or community relationships. Unknown is not zero. Strategy can provide conditional analysis while reserving this input.
+**Founder Advantage: 4/5 — Founder-confirmed.** The Founder supplied this score directly after reviewing the assessments. It supersedes the earlier unscored draft. No specific playing history, contacts, or access arrangements are inferred from the score. Founder Advantage remains separate from Community Score and market-demand evidence.
 
 ## 12. Gaps, limitations, and unknowns
 
