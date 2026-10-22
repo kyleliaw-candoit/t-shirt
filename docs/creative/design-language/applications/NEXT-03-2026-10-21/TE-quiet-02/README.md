@@ -1,6 +1,6 @@
 # T-E — quiet typography, second execution
 
-October 21, 2026 (America/Chicago) · Awaiting Founder review. Built-in image generation; transparent artwork plus measured local layout. Original [Playful design](../assets/TE-shirt.png) is Founder-approved; this second treatment is proposed.
+October 21, 2026 (America/Chicago) · **Subsequently tentatively approved:** Founder praised typography, proportions and layout, but asked for a stronger bulky-object cue. The [current sofa revision](../cue-revisions-03/README.md) replaces this cabinet candidate and awaits review. Original [Playful design](../assets/TE-shirt.png) is Founder-approved. The following cabinet review and its frozen assessment remain historical evidence.
 
 ![Approved Playful and new quiet typography](assets/paired-review.png)
 

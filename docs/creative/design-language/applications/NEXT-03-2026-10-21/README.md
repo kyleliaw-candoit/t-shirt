@@ -4,7 +4,11 @@ Creative Director · October 21, 2026 (America/Chicago) · New designs for Found
 
 ## Current review decisions
 
-[Founder feedback and follow-up](founder-feedback.md): **T-E Playful approved; T-B retired.** N-A received positive visual feedback; Founder clarified that thrift-shopping and sentimental collecting are welcome, provided the bowl reads as old. CD judges the current worn bowl sufficient and retains it. The [new T-E quiet typography execution](TE-quiet-02/README.md) is ready for review beside approved Playful. Historical selection and assessment below remain intact.
+[Founder feedback and follow-up](founder-feedback.md): **T-E A Playful approved; T-E B quiet typography tentatively approved; T-B retired.** Founder praised B's typography/proportions/layout but requested a stronger bulky-object cue, and requested an attached price tag for N-A to reduce the dirty-bowl reading. The [current cue revisions](cue-revisions-03/README.md) replace B's cabinet with a vintage sofa and attach an $8 tag to N-A's bowl. Both changed images await review; the new CD assessment is frozen. Thrift-shopping and sentimental collecting remain compatible brand readings. Historical selection and assessments below remain intact.
+
+![Current sofa and tagged-bowl revisions](cue-revisions-03/assets/review-board.png)
+
+## Original review package — historical
 
 ![Three selected local shirt treatments](assets/review-board.png)
 

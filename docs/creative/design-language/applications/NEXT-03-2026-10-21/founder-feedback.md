@@ -31,3 +31,15 @@ Founder clarified during this work that thrift-shopping and sentimental collecti
 CD reinspection: the bowl's mottled, worn-looking surface, softened striped decoration, traditional profile and foot give it an old, previously used character. The aged quality is carried by the object as well as the surrounding card. It is sufficient to my eye for this review; no extra ANTIQUES or ESTATE SALE label is needed. Keep the current artwork. The Founder has not reviewed a changed N-A image because none was created.
 
 The earlier proposed recognition question should therefore check whether the object reads as old/found/previously used, not demand the answer “antiques.” Thrifting and sentimental-collecting responses count as compatible interpretations. This clarification is also recorded in the brand scope and R012 creative learnings.
+
+## Second visual feedback — object cues
+
+October 21, 2026 (America/Chicago). This response follows the frozen [T-E quiet assessment](TE-quiet-02/assessment.md).
+
+- **T-E A:** Founder explicitly reaffirms approval. The approved Playful master and layout remain unchanged.
+- **T-E B:** Tentatively approved. Founder says the typography-led design, proportions and layout are right, but questions whether a moderately sized cabinet suggests a large item that is difficult to fit in a car. Suggested objects include a vintage/antique sofa, table or garden bench.
+- **N-A:** Founder agrees the bowl looks old but identifies a possible dirty-after-a-meal reading. Requests an attached price tag to identify the old bowl as an item for sale.
+
+CD response: replace B's cabinet with a small three-seat vintage sofa; keep the type-led hierarchy and selected width/anchor. A sofa's familiar scale communicates the transport problem more reliably than an isolated modest cabinet. Add an attached $8 tag to N-A's bowl. My earlier assessment overstated how safely wear alone distinguished age from dirt; sale context is the useful missing cue. This is a specific correction to N-A, not a requirement to tag every old-object design.
+
+The [cue-revisions-03 package](cue-revisions-03/README.md) retains before/after shirts, selected transparent masters, rejected sofa iterations, exact prompts and new provider evidence. Its [new assessment](cue-revisions-03/assessment.md) is frozen before feedback on the changed images. CD recommends both revisions; Founder approval of those new images is pending. Neither revision adds an assortment slot. T-B stays retired. PR140 remains a draft; this feedback did not request a merge or storefront release.

@@ -1,0 +1,68 @@
+[
+  {
+    "concept": "TE",
+    "source": "TE-sofa-v3.png",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Pepper",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 8.5,
+      "height": 6.2358,
+      "left": 1.75,
+      "top": 1.5
+    },
+    "anchor": "print-canvas origin, not physical neckline",
+    "native_bbox_alpha16": [
+      0,
+      38,
+      1404,
+      1068
+    ],
+    "native_effective_ppi": 165.2,
+    "master_sha256": "99fdd4e08f7ad9979eda57a9caed1aaee26a91d88d7259812991703d4235071c",
+    "geometry": "provisional round04; 17.8px/in, center x303, print origin y97 on 602px blank",
+    "reference_size": "unknown",
+    "nominal_width_percent": {
+      "S": 46.6,
+      "L": 38.6,
+      "2XL": 32.7
+    }
+  },
+  {
+    "concept": "NA",
+    "source": "NA-tagged-v2.png",
+    "blank": "Comfort Colors 1717",
+    "method": "DTG front",
+    "color": "Ivory",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "visible_inches": {
+      "width": 8.0,
+      "height": 9.9703,
+      "left": 2.0,
+      "top": 1.5
+    },
+    "anchor": "print-canvas origin, not physical neckline",
+    "native_bbox_alpha16": [
+      73,
+      65,
+      1084,
+      1325
+    ],
+    "native_effective_ppi": 126.4,
+    "master_sha256": "f57c7721533bc1d89243be98e48c395db8406eba58f72d1e0c80d15a91772ce4",
+    "geometry": "provisional round04; 17.8px/in, center x303, print origin y97 on 602px blank",
+    "reference_size": "unknown",
+    "nominal_width_percent": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    }
+  }
+]
