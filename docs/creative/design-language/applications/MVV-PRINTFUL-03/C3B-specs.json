@@ -1,0 +1,52 @@
+[
+  {
+    "variant": "above",
+    "caption": "ANTIQUE MALL MOOD SWINGS",
+    "graphic_inches": {
+      "width": 10.5,
+      "height": 3.8127147766323026,
+      "left": 0.75,
+      "top": 4.064509803921569
+    },
+    "caption_inches": {
+      "width": 8.8,
+      "height": 0.9145098039215687,
+      "left": 1.5999999999999996,
+      "top": 2.75
+    },
+    "gap_inches": 0.4,
+    "overall_top": 2.75,
+    "overall_height": 5.127224580553872,
+    "overall_bottom": 7.877224580553872,
+    "native_ppi_graphic": 166.28571428571428,
+    "native_ppi_caption": 231.8181818181818,
+    "canvas_sha256": "86e5c6dc73485ff276ad902a3a99604a6f69b901266bff293fa1d19caf2c315c",
+    "anchor": "Print area origin, not neckline",
+    "mockup_geometry": "provisional"
+  },
+  {
+    "variant": "below",
+    "caption": "ANTIQUE MALL MOOD SWINGS",
+    "graphic_inches": {
+      "width": 10.5,
+      "height": 3.8127147766323026,
+      "left": 0.75,
+      "top": 2.75
+    },
+    "caption_inches": {
+      "width": 8.8,
+      "height": 0.9145098039215687,
+      "left": 1.5999999999999996,
+      "top": 6.962714776632303
+    },
+    "gap_inches": 0.4,
+    "overall_top": 2.75,
+    "overall_height": 5.127224580553872,
+    "overall_bottom": 7.877224580553872,
+    "native_ppi_graphic": 166.28571428571428,
+    "native_ppi_caption": 231.8181818181818,
+    "canvas_sha256": "c4c461889b9c0a7ab70854bfb27cbb88b92936ed78bfea471f86fc86166e4c72",
+    "anchor": "Print area origin, not neckline",
+    "mockup_geometry": "provisional"
+  }
+]

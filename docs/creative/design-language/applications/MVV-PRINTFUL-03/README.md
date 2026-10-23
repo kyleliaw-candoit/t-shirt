@@ -24,8 +24,16 @@ The graphic shows increasing delight at 10%, 25% and 50% off, followed by disapp
 | **Antique Mall Emotional Support** | Playful, but less accurately describes the sequence and could imply the mall provides comfort. |
 | **Just Another Day at the Antique Mall** | Conversational and relatable, but longer than needed. |
 
-No copy has been selected. No C3B typography, placement or artwork modification has been performed, per founder instruction to choose wording first.
+Founder subsequently delegated the choice between the top two captions and requested above/below trials. Selected **Antique Mall Mood Swings**, above the graphic. See [preserved independent assessment](C3B-assessment.md), [exact geometry](C3B-specs.json), and the comparison below.
 
-## Next action and authorization
+![Above versus below](assets/C3B-above-below.jpg)
 
-Obtain the founder's C3B copy choice, execute that design revision, then upload/check all ten. Use round02 files for the eight approved designs, this round's Type-Led-4 layout, and the forthcoming C3B revision. Printful upload-terms/IP-indemnity acceptance is already explicitly authorized; do not ask again for the same conditions. Prior browser calls timed out before acceptance/upload, so connectivity must be recovered. Neither round02 nor round03 has fresh applied-layout provider evidence yet.
+## Upload set and authorization
+
+Use round02 files for the eight approved designs, this round’s large Type-Led-4, and `layouts/MVV3-C3B-above-12x16.png`. Printful upload terms were accepted using the founder’s existing explicit authorization. Upload and applied-layout verification status is tracked separately; upload success is not production certification. No merge or storefront publication is authorized in this round.
+
+## Provider evidence — October 23
+
+All ten current files were uploaded and individually identified by filename and Printful file ID in [the upload inventory](evidence/uploaded-files.txt). This is the guest Design Maker file library, not saved account product templates or storefront publication. C3B’s selected above layout was applied at the full 12 × 16-inch canvas and rendered on Comfort Colors 1717 / Ivory / front DTG: [provider screenshot](evidence/C3B-provider.png), [layer dimensions](evidence/C3B-layer.txt). Its headline remains legible and subordinate to the colored emotion sequence, with breathing room below the collar. The other nine revised layouts still require fresh applied-provider previews; upload verification alone does not close that check.
+
+The 150 DPI provider badge measures the exported canvas. Nine enlarged source artworks retain roughly 105–138 native PPI; higher-detail masters, opacity checks and physical samples remain unresolved. Do not label the batch production-certified.
