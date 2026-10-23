@@ -17,3 +17,7 @@ Built-in imagegen, transparent background. First prompt: replace western slab se
 Local shirt comparison uses the existing provisional blank geometry, fixed 8.75-inch width and top 2 inches from print-canvas origin; height follows the trial's aspect ratio. No claim of calibrated collar distance, identical height or production readiness. Script strokes and native resolution need preflight before printing. Run build_review.py with Pillow to reproduce the comparison.
 
 Next: Founder preference on this lettering direction; then restore the approved illustration proportions and finish optical spacing before locking any replacement.
+
+## Subsequent feedback and revision
+
+Founder requested balanced spacing and authorized a large footprint. [Large round02](large-02/README.md) is the current review candidate: 10.5 inches wide, balanced optical gaps, same lowered top anchor. The original assessment above remains historical.
