@@ -1,0 +1,317 @@
+[
+  {
+    "design_id": "B2",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 114.12,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 8.5,
+      "height": 11.4443,
+      "left": 1.75,
+      "top": 2.0,
+      "bottom": 13.4443
+    },
+    "actual_ink_bounds_inches": [
+      1.76,
+      2.01,
+      10.2467,
+      13.4333
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.002,
+    "roundtrip_rgb_mae": 1.543,
+    "roundtrip_ssim": 0.98761,
+    "palette_ink_channel_mae": 1.134,
+    "palette_ink_channel_error_p99": 11.0,
+    "file_bytes": 2166099,
+    "sha256": "c9876be534fa81ce418711aca714b42db3709099f3ce4bad4d155fa45bba618f",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "A1",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 116.25,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 8,
+      "height": 10.9677,
+      "left": 2.0,
+      "top": 2.0,
+      "bottom": 12.9677
+    },
+    "actual_ink_bounds_inches": [
+      2.0,
+      2.01,
+      9.9933,
+      12.96
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.0,
+    "roundtrip_rgb_mae": 1.038,
+    "roundtrip_ssim": 0.99253,
+    "palette_ink_channel_mae": 1.274,
+    "palette_ink_channel_error_p99": 10.0,
+    "file_bytes": 1229606,
+    "sha256": "e37cdbdb37110b1f047cd702ab983fae76784208edd642982cc45e4b9edca7d0",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "A3",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 117.12,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 8,
+      "height": 11.0907,
+      "left": 2.0,
+      "top": 2.0,
+      "bottom": 13.0907
+    },
+    "actual_ink_bounds_inches": [
+      2.0067,
+      2.0067,
+      9.9933,
+      13.09
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.0,
+    "roundtrip_rgb_mae": 1.068,
+    "roundtrip_ssim": 0.99206,
+    "palette_ink_channel_mae": 1.402,
+    "palette_ink_channel_error_p99": 9.0,
+    "file_bytes": 1332209,
+    "sha256": "658be43e5756b06fd85ece185e60a9e4a2c0d9bf7638f07e5de5aa8969921c0e",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "YIF-M",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 138.44,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 9,
+      "height": 7.5554,
+      "left": 1.5,
+      "top": 2.0,
+      "bottom": 9.5554
+    },
+    "actual_ink_bounds_inches": [
+      1.5067,
+      2.01,
+      10.5,
+      9.5533
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.0,
+    "roundtrip_rgb_mae": 0.991,
+    "roundtrip_ssim": 0.99371,
+    "palette_ink_channel_mae": 1.111,
+    "palette_ink_channel_error_p99": 11.0,
+    "file_bytes": 1279646,
+    "sha256": "047df6fdf3527f1c5c26e468c8c1266332d2a1abdf1d1178a5c2b88bbfbbfdc6",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "YIF-F",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 112.19,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 10.5,
+      "height": 9.6978,
+      "left": 0.75,
+      "top": 2.0,
+      "bottom": 11.6978
+    },
+    "actual_ink_bounds_inches": [
+      0.76,
+      2.0067,
+      11.2433,
+      11.6867
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.194,
+    "roundtrip_rgb_mae": 1.05,
+    "roundtrip_ssim": 0.99431,
+    "palette_ink_channel_mae": 1.472,
+    "palette_ink_channel_error_p99": 12.0,
+    "file_bytes": 1758511,
+    "sha256": "8bdccd7ca5b33a3299393d68dbea34d2d94071c52aeafb0bc3afbb0c85dff77d",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "C2",
+    "method": "FSRCNN x4; 65% learned reconstruction + 35% bicubic; final-size reduction",
+    "source_native_ppi": 121.33,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 9,
+      "height": 9.6264,
+      "left": 1.5,
+      "top": 2.0,
+      "bottom": 11.6264
+    },
+    "actual_ink_bounds_inches": [
+      1.51,
+      2.0,
+      10.4933,
+      11.6267
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.0,
+    "roundtrip_rgb_mae": 1.246,
+    "roundtrip_ssim": 0.98735,
+    "palette_ink_channel_mae": 1.141,
+    "palette_ink_channel_error_p99": 11.0,
+    "file_bytes": 3597871,
+    "sha256": "7190463868c6e42c15146fa4907f3086e91d3722e209593989e66fb4b0ac83d9",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "Fashion-1D-F",
+    "method": "VTracer spline paths; 64-tone palette; unfiltered distress; compressed SVG, no embedded bitmap",
+    "source_native_ppi": 107.14,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 10.5,
+      "height": 12.0773,
+      "left": 0.75,
+      "top": 2.0,
+      "bottom": 14.0773
+    },
+    "actual_ink_bounds_inches": [
+      0.75,
+      2.0,
+      11.2433,
+      14.07
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.272,
+    "roundtrip_rgb_mae": 3.697,
+    "roundtrip_ssim": 0.93706,
+    "palette_ink_channel_mae": 0.021,
+    "palette_ink_channel_error_p99": 1.0,
+    "file_bytes": 853842,
+    "sha256": "cf8246c7c6347c29382b5975492fd704f6ba8489fa62d09c499eabb69f86dd0f",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "Type-Led-3",
+    "method": "VTracer spline paths; 64-tone palette; unfiltered distress; compressed SVG, no embedded bitmap",
+    "source_native_ppi": 120.94,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 8.5,
+      "height": 9.5749,
+      "left": 1.75,
+      "top": 2.0,
+      "bottom": 11.5749
+    },
+    "actual_ink_bounds_inches": [
+      1.76,
+      2.0033,
+      10.2433,
+      11.5667
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.002,
+    "roundtrip_rgb_mae": 3.29,
+    "roundtrip_ssim": 0.9228,
+    "palette_ink_channel_mae": 0.072,
+    "palette_ink_channel_error_p99": 2.0,
+    "file_bytes": 986057,
+    "sha256": "dfd50c16af40a4f03a8f68be11e6fa9a70855e91829ea62aa59c50ffc534821c",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  },
+  {
+    "design_id": "Type-Led-4",
+    "method": "VTracer spline paths; 64-tone palette; unfiltered distress; compressed SVG, no embedded bitmap",
+    "source_native_ppi": 104.86,
+    "export_ppi": 300,
+    "canvas_pixels": [
+      3600,
+      4800
+    ],
+    "approved_inches": {
+      "width": 10.5,
+      "height": 11.8351,
+      "left": 0.75,
+      "top": 2.0,
+      "bottom": 13.8351
+    },
+    "actual_ink_bounds_inches": [
+      0.75,
+      2.0,
+      11.24,
+      13.8267
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "source_interior_alpha_below200_percent": 0.425,
+    "roundtrip_rgb_mae": 2.597,
+    "roundtrip_ssim": 0.95376,
+    "palette_ink_channel_mae": 0.014,
+    "palette_ink_channel_error_p99": 0.0,
+    "file_bytes": 640558,
+    "sha256": "03e5ba4373277086cf969059006e1fc30c1b3c33af9676f97bfc6b012a3cf862",
+    "status": "candidate; visual review required; not proof of recovered native detail"
+  }
+]
