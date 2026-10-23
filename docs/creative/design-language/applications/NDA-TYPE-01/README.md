@@ -21,3 +21,7 @@ Next: Founder preference on this lettering direction; then restore the approved 
 ## Subsequent feedback and revision
 
 Founder requested balanced spacing and authorized a large footprint. [Large round02](large-02/README.md) is the current review candidate: 10.5 inches wide, balanced optical gaps, same lowered top anchor. The original assessment above remains historical.
+
+### Lighter lettering follow-up
+
+Founder accepted round02 spacing and footprint, then requested thinner lettering because enlargement made the serif/script too bold. [Light round03](light-03/README.md) is now the current review candidate. Earlier assessments remain preserved.
