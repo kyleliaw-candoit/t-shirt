@@ -41,3 +41,7 @@ Original T-E-A is approximately 152 native PPI, T-E-B 165, N-A 127, N-D-A 132 an
 The latest Founder selection from the ten MVV designs is **A3 and C3B only**. Type-Led-3 and Type-Led-4 are excluded. Founder intends to add a third design after this five-design review; its identity is not yet chosen. The prior live checkout contained different items and must be reconciled before any purchase. No checkout, purchase, publication or merge is performed by this placement revision.
 
 Next: choose the third sample, use this revision's upload path for its placement, complete its production preflight/provider preview, and obtain the current checkout quote. Do not assume the time-limited welcome discount is still active.
+
+## Subsequent Founder feedback — N-D-A internal spacing
+
+Founder approved the lowered placements but identified unbalanced illustration-to-copy spacing in N-D-A. The earlier assessment remains above as recorded. [N-D-A spacing revision](NDA-spacing-02/README.md) now supplies the current candidate and replaces only its lowered-only upload path; the other four remain unchanged.
