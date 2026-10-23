@@ -35,7 +35,7 @@ Top positions are from the **print-area origin**, not the neckline. Aspect ratio
 
 The [independent assessment](assessment.md) is frozen with [SHA-256](assessment.sha256). It records why the previous pass was too conservative and the tradeoffs in this revision. [Founder feedback](founder-feedback.md) remains separate. The existing [placement-reference study](../../studies/Front-Placement-01/README.md) and its actual images were reinspected.
 
-**Fresh Printful previews are pending:** the upload library presented a legal acceptance gate. The round01 provider screenshots verify round01 only. The new layouts have been checked locally for boundaries, aspect ratio, visible size and position, and nominal S/L/2XL width proportions. They have not yet been applied in Printful.
+**Fresh Printful previews are pending:** Founder approved the upload conditions on October 23. The subsequent browser connection and recovery calls both timed out before any terms acceptance or upload could be performed. Approval is recorded in founder-feedback.md; the remaining blocker is browser access. The round01 provider screenshots verify round01 only. The new layouts have been checked locally for boundaries, aspect ratio, visible size and position, and nominal S/L/2XL width proportions. They have not yet been applied in Printful.
 
 **Production resolution:** nine enlargements have about 107–138 native PPI. The canvas is exported at 150 PPI for the placement preview, but resampling adds no detail. Higher-detail masters are needed before a production-quality pass; C3B retains 166 native PPI. Existing alpha and sample-print issues also remain. Preserve the larger visual targets when preparing production masters.
 
