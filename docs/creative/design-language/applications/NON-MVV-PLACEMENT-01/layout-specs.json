@@ -1,0 +1,152 @@
+[
+  {
+    "id": "T-E-A",
+    "source": "../NEXT-03-2026-10-21/layouts/TE-compact-12x16.png",
+    "source_sha256": "63835874783e02ae52228d922e6ec18a07e88dc7e1c6dbf74577a8bb915e3803",
+    "layout": "layouts/T-E-A-lowered-12x16.png",
+    "sha256": "b42e7fc24c6c946b80ba0b58d04dd436091e20635ff016ee35b5cbd3d96419a4",
+    "garment": "Comfort Colors 1717",
+    "color": "Pepper",
+    "method": "DTG front",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "export_ppi": 150,
+    "translation_pixels": [
+      0,
+      75
+    ],
+    "old_top_inches": 1.5,
+    "visible_inches": {
+      "width": 8,
+      "height": 7.8358,
+      "left": 2.0,
+      "top": 2,
+      "bottom": 9.8358
+    },
+    "anchor": "Print-canvas origin, NOT neckline",
+    "pixel_preservation": "Exact RGBA translation verified; zero clipping",
+    "provider_status": "Revised placement not yet checked in Printful"
+  },
+  {
+    "id": "T-E-B",
+    "source": "../NEXT-03-2026-10-21/cue-revisions-04/layouts/TE-cue04-12x16.png",
+    "source_sha256": "232637ab340186c1eb5c1fba3c52b64d51e42023a433e406d4eccce8d2e148b4",
+    "layout": "layouts/T-E-B-lowered-12x16.png",
+    "sha256": "b71f7797e0b1bf3dc1d895fa3332715adf4d825184a0681d48de27c798096509",
+    "garment": "Comfort Colors 1717",
+    "color": "Pepper",
+    "method": "DTG front",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "export_ppi": 150,
+    "translation_pixels": [
+      0,
+      75
+    ],
+    "old_top_inches": 1.5,
+    "visible_inches": {
+      "width": 8.5,
+      "height": 6.3447,
+      "left": 1.75,
+      "top": 2,
+      "bottom": 8.3447
+    },
+    "anchor": "Print-canvas origin, NOT neckline",
+    "pixel_preservation": "Exact RGBA translation verified; zero clipping",
+    "provider_status": "Revised placement not yet checked in Printful"
+  },
+  {
+    "id": "N-A",
+    "source": "../NEXT-03-2026-10-21/cue-revisions-04/layouts/NA-cue04-12x16.png",
+    "source_sha256": "f64e835a6adfee8f58767b876a4f9df46b512f01cd540bf179f800e276c81b8b",
+    "layout": "layouts/N-A-lowered-12x16.png",
+    "sha256": "31ed8b1ae6166c7a8753fdecf79513ab4f13dc6086cc7fe48b95762984b3a24f",
+    "garment": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "export_ppi": 150,
+    "translation_pixels": [
+      0,
+      75
+    ],
+    "old_top_inches": 1.5,
+    "visible_inches": {
+      "width": 8,
+      "height": 9.9783,
+      "left": 2.0,
+      "top": 2,
+      "bottom": 11.9783
+    },
+    "anchor": "Print-canvas origin, NOT neckline",
+    "pixel_preservation": "Exact RGBA translation verified; zero clipping",
+    "provider_status": "Revised placement not yet checked in Printful"
+  },
+  {
+    "id": "N-D-A",
+    "source": "../NOSTALGIA-ND-01/layouts/A-compact-12x16.png",
+    "source_sha256": "ea787849b08d6be147bd368697793699b6c35f3af90d40ec6195b268f54f1885",
+    "layout": "layouts/N-D-A-lowered-12x16.png",
+    "sha256": "26d0ac10849cdb2530b9083cebbb3982d0fd3e45c579ea1250bb98c19da203bb",
+    "garment": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "export_ppi": 150,
+    "translation_pixels": [
+      0,
+      75
+    ],
+    "old_top_inches": 1.5,
+    "visible_inches": {
+      "width": 8.75,
+      "height": 8.3794,
+      "left": 1.625,
+      "top": 2,
+      "bottom": 10.3794
+    },
+    "anchor": "Print-canvas origin, NOT neckline",
+    "pixel_preservation": "Exact RGBA translation verified; zero clipping",
+    "provider_status": "Revised placement not yet checked in Printful"
+  },
+  {
+    "id": "N-D-B",
+    "source": "../NOSTALGIA-ND-01/layouts/B-compact-12x16.png",
+    "source_sha256": "aa3c1872226bde10c165a12bd24d412bf4e1a790ff97cfc4d293db08ad74b22c",
+    "layout": "layouts/N-D-B-lowered-12x16.png",
+    "sha256": "eaa0f510153950410fc7a76a884e0a0c6eac18d694134c530569a25a61d93ec5",
+    "garment": "Comfort Colors 1717",
+    "color": "Pepper",
+    "method": "DTG front",
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "export_ppi": 150,
+    "translation_pixels": [
+      0,
+      75
+    ],
+    "old_top_inches": 1.5,
+    "visible_inches": {
+      "width": 8.25,
+      "height": 10.401,
+      "left": 1.875,
+      "top": 2,
+      "bottom": 12.401
+    },
+    "anchor": "Print-canvas origin, NOT neckline",
+    "pixel_preservation": "Exact RGBA translation verified; zero clipping",
+    "provider_status": "Revised placement not yet checked in Printful"
+  }
+]
