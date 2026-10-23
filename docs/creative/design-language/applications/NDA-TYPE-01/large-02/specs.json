@@ -1,0 +1,28 @@
+{
+  "width_inches": 10.5,
+  "height_inches": 9.728571428571428,
+  "left_inches": 0.75,
+  "top_inches": 2,
+  "bottom_inches": 11.728571428571428,
+  "anchor": "Print-canvas origin, not neckline",
+  "native_effective_ppi": 116.66666666666667,
+  "canvas_inches": [
+    12,
+    16
+  ],
+  "export_ppi": 150,
+  "native_bbox": [
+    57,
+    34,
+    1282,
+    1169
+  ],
+  "master_sha256": "4d52c4bf2d8dfc05a81083831758e893c5180b8376603e9b19b271d57f3956b3",
+  "canvas_sha256": "0a78479b769307030eb25961ff687704930508ec4d3f56264a5c17e3d5a11459",
+  "width_percent_nominal_flat": {
+    "S": 57.5,
+    "L": 47.7,
+    "2XL": 40.4
+  },
+  "provider_status": "Revised design not yet verified in Printful"
+}
