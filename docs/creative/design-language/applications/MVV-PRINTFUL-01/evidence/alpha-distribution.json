@@ -1,0 +1,112 @@
+{
+  "B2": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 781848,
+    "percent_by_alpha": {
+      "1-15": 8.018,
+      "16-127": 1.857,
+      "128-239": 2.31,
+      "240-254": 87.552,
+      "255-255": 0.263
+    }
+  },
+  "A1": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 339317,
+    "percent_by_alpha": {
+      "1-15": 15.943,
+      "16-127": 3.684,
+      "128-239": 5.004,
+      "240-254": 74.541,
+      "255-255": 0.828
+    }
+  },
+  "A3": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 371473,
+    "percent_by_alpha": {
+      "1-15": 13.646,
+      "16-127": 3.257,
+      "128-239": 4.586,
+      "240-254": 77.996,
+      "255-255": 0.515
+    }
+  },
+  "YIF-M": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 705214,
+    "percent_by_alpha": {
+      "1-15": 6.571,
+      "16-127": 1.484,
+      "128-239": 1.69,
+      "240-254": 89.624,
+      "255-255": 0.63
+    }
+  },
+  "YIF-F": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 740468,
+    "percent_by_alpha": {
+      "1-15": 10.193,
+      "16-127": 2.349,
+      "128-239": 2.338,
+      "240-254": 84.57,
+      "255-255": 0.55
+    }
+  },
+  "C2": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 824060,
+    "percent_by_alpha": {
+      "1-15": 2.506,
+      "16-127": 0.52,
+      "128-239": 0.623,
+      "240-254": 96.297,
+      "255-255": 0.054
+    }
+  },
+  "C3B": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 542409,
+    "percent_by_alpha": {
+      "1-15": 4.161,
+      "16-127": 1.374,
+      "128-239": 1.467,
+      "240-254": 92.245,
+      "255-255": 0.752
+    }
+  },
+  "Fashion-1D-F": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 696625,
+    "percent_by_alpha": {
+      "1-15": 26.87,
+      "16-127": 4.758,
+      "128-239": 8.586,
+      "240-254": 58.504,
+      "255-255": 1.283
+    }
+  },
+  "Type-Led-3": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 957682,
+    "percent_by_alpha": {
+      "1-15": 14.824,
+      "16-127": 2.303,
+      "128-239": 2.507,
+      "240-254": 79.806,
+      "255-255": 0.56
+    }
+  },
+  "Type-Led-4": {
+    "denominator": "all nonzero-alpha pixels; includes faint background pixels",
+    "nonzero_pixels": 521564,
+    "percent_by_alpha": {
+      "1-15": 25.338,
+      "16-127": 4.209,
+      "128-239": 6.678,
+      "240-254": 62.272,
+      "255-255": 1.504
+    }
+  }
+}

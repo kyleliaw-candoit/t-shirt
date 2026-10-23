@@ -1,0 +1,22 @@
+{
+  "design_id": "Type-Led-4",
+  "footprint": "large",
+  "visible_inches": {
+    "width": 10.5,
+    "height": 11.8351,
+    "left": 0.75,
+    "top": 2.0,
+    "bottom": 13.8351
+  },
+  "blank": "Comfort Colors 1717",
+  "color": "Ivory",
+  "method": "DTG front",
+  "artwork_source": "../MVV-PRINTFUL-01/assets/Type-Led-4-v1.png",
+  "native_ppi": 104.86,
+  "export_ppi": 150,
+  "anchor": "Print area origin; not neckline",
+  "mockup_size": "Unknown",
+  "provider_check": "pending",
+  "production_resolution": "Higher-detail master required; preview resampling adds no detail",
+  "canvas_sha256": "04895795911a6f08418164894fdb652708f88a7f1a5cbcbe9b718ef8acb6a837"
+}

@@ -340,3 +340,8 @@ Operational details belong elsewhere.
 This document defines the enduring philosophy of the company.
 
 
+
+
+## Founder execution preference — October 21, 2026
+
+Across all AI roles, a request to “plan carefully before executing” means prepare a thoughtful plan and then proceed within the authorized scope. It does not create a separate plan-approval checkpoint. Ask only for a consequential missing decision or an action that genuinely needs authorization; preserve any explicit instruction to pause or wait.
