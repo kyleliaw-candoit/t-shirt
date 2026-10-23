@@ -105,3 +105,8 @@ The original three-concept review, cabinet variant, plain-sofa/$8-tag revision a
 ## MVV production adaptation — October 21, 2026
 
 [MVV-PRINTFUL-01](applications/MVV-PRINTFUL-01/README.md) revisits the ten executable Worth the Detour MVV designs: unbranded production derivatives, measured 1717/Ivory layouts, Printful checks and a frozen pre-Founder assessment. Original locked sources remain archived; proposed derivatives are not automatically approved.
+
+
+### MVV round02 — October 23, 2026
+
+[MVV-PRINTFUL-02](applications/MVV-PRINTFUL-02/README.md) implements Founder feedback on round01: medium standard footprints, large YIF-F/Fashion-1D-F, retained C3B width, and all lowered by half an inch. Fresh provider verification awaits the upload terms gate; larger production masters remain a separate requirement.

@@ -1,5 +1,7 @@
 # MVV-PRINTFUL-01 — unbranded production review
 
+**Superseded placement proposal:** Founder requested larger/lower layouts on October 23. Review [round02](../MVV-PRINTFUL-02/README.md); this round remains historical evidence.
+
 October 21, 2026 · Status: garment/color/layout review complete; derivative artwork review and production release pending.
 
 This is the exact ten-design MVV assortment from [MVV-001-LP-Assortment-Manifest](../../../../mvv/worth-the-detour/MVV-001-LP-Assortment-Manifest.md). Original locked images remain unchanged. The new transparent artwork is reconstructed from those flattened sources and must be reviewed as a derivative.

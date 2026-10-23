@@ -1,0 +1,372 @@
+[
+  {
+    "design_id": "B2",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/B2-v1.png",
+    "master_sha256": "306d2d57fb897ca26d9b61d7127f8774ec43ea6715ebddb87d2b79a65b1ec212",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 8.5,
+      "height": 11.4443,
+      "left": 1.75,
+      "top": 2.0,
+      "bottom": 13.4443
+    },
+    "previous_visible_inches": {
+      "width": 6.25,
+      "height": 8.4149,
+      "left": 2.875,
+      "top": 1.5
+    },
+    "native_ppi": 114.12,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "8eefdb72e2db3b5e2178e856cef041b80eec92397c2814621f76400bb6e983de",
+    "width_percent_flat_garment": {
+      "S": 46.6,
+      "L": 38.6,
+      "2XL": 32.7
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "A1",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/A1-v1.png",
+    "master_sha256": "730fb0e948ba04f070b71d1cbeb8373c3c2bc56dcd330991a40d382e396682e7",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 8,
+      "height": 10.9677,
+      "left": 2.0,
+      "top": 2.0,
+      "bottom": 12.9677
+    },
+    "previous_visible_inches": {
+      "width": 5.5,
+      "height": 7.5403,
+      "left": 3.25,
+      "top": 1.5
+    },
+    "native_ppi": 116.25,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "f83e77eb7f2589f5d7f03f5d45ea353e033cd5e7f3feedaae6f755274c039bc9",
+    "width_percent_flat_garment": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "A3",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/A3-v1.png",
+    "master_sha256": "a25b0bfe4c4dff679f67317d7a99c67e4ea456ed952dc718ec0d87d5857197c2",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 8,
+      "height": 11.0907,
+      "left": 2.0,
+      "top": 2.0,
+      "bottom": 13.0907
+    },
+    "previous_visible_inches": {
+      "width": 5.5,
+      "height": 7.6249,
+      "left": 3.25,
+      "top": 1.5
+    },
+    "native_ppi": 117.12,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "0bd677fc0e7dc49fcf8d44290b7daa03e750c19e81b8be767859a5bcd090870c",
+    "width_percent_flat_garment": {
+      "S": 43.8,
+      "L": 36.4,
+      "2XL": 30.8
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "YIF-M",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/YIF-M-v1.png",
+    "master_sha256": "2f2d70ec37e3868b26f55225b5d70e2ee2fa61d64a6f4967442c64d1a21a165f",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 9,
+      "height": 7.5554,
+      "left": 1.5,
+      "top": 2.0,
+      "bottom": 9.5554
+    },
+    "previous_visible_inches": {
+      "width": 7,
+      "height": 5.8764,
+      "left": 2.5,
+      "top": 1.5
+    },
+    "native_ppi": 138.44,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "e19ac851d50059a13cc29a3e36ebe67de2ec2159e38a1e20008b512310f2669b",
+    "width_percent_flat_garment": {
+      "S": 49.3,
+      "L": 40.9,
+      "2XL": 34.6
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "YIF-F",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/YIF-F-v1.png",
+    "master_sha256": "acf6d383a72385940fc48222825077a45ac694d967d10af02121ef4f9900d7cb",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "large",
+    "visible_inches": {
+      "width": 10.5,
+      "height": 9.6978,
+      "left": 0.75,
+      "top": 2.0,
+      "bottom": 11.6978
+    },
+    "previous_visible_inches": {
+      "width": 7.25,
+      "height": 6.6961,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "native_ppi": 112.19,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "4017266a1dab6d11e648f4a5897b8c8cfb20ad773f1a16488a38708829c81f14",
+    "width_percent_flat_garment": {
+      "S": 57.5,
+      "L": 47.7,
+      "2XL": 40.4
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "C2",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/C2-v1.png",
+    "master_sha256": "1d7e137646f541912ea718d996e5e234933a80a649a8ee6dacf22e8186e916af",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 9,
+      "height": 9.6264,
+      "left": 1.5,
+      "top": 2.0,
+      "bottom": 11.6264
+    },
+    "previous_visible_inches": {
+      "width": 6.5,
+      "height": 6.9524,
+      "left": 2.75,
+      "top": 1.5
+    },
+    "native_ppi": 121.33,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "f8a12aed2fe0621de9ff354f00d767f2a9b9c4df98e4a827af2a9aa130577027",
+    "width_percent_flat_garment": {
+      "S": 49.3,
+      "L": 40.9,
+      "2XL": 34.6
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "C3B",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/C3B-v1.png",
+    "master_sha256": "e67ad65fe2222475f113eb43a80aba442de77eabe86e92b18f491a2e9d0dcd05",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "retained wide strip",
+    "visible_inches": {
+      "width": 10.5,
+      "height": 3.8127,
+      "left": 0.75,
+      "top": 2.75,
+      "bottom": 6.5627
+    },
+    "previous_visible_inches": {
+      "width": 10.5,
+      "height": 3.8127,
+      "left": 0.75,
+      "top": 2.25
+    },
+    "native_ppi": 166.29,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "6d54537f5abe6450d006ce34bad667445de634f6b0190e6f9cbb36c90dc9669b",
+    "width_percent_flat_garment": {
+      "S": 57.5,
+      "L": 47.7,
+      "2XL": 40.4
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Native >=150"
+  },
+  {
+    "design_id": "Fashion-1D-F",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/Fashion-1D-F-v1.png",
+    "master_sha256": "084c87ec46e2b692461d3155a8494f92e8233327ce4324da826be8a25301487f",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "large",
+    "visible_inches": {
+      "width": 10.5,
+      "height": 12.0773,
+      "left": 0.75,
+      "top": 2.0,
+      "bottom": 14.0773
+    },
+    "previous_visible_inches": {
+      "width": 7.25,
+      "height": 8.3391,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "native_ppi": 107.14,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "f40c258931ad86a3c428da1bab6f658a85745fa18512e9673d4e8377ce072060",
+    "width_percent_flat_garment": {
+      "S": 57.5,
+      "L": 47.7,
+      "2XL": 40.4
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "Type-Led-3",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/Type-Led-3-v1.png",
+    "master_sha256": "684214b28079d65e8a49d71881a182db9b19a47647904b4b57922c4b53ea3361",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 8.5,
+      "height": 9.5749,
+      "left": 1.75,
+      "top": 2.0,
+      "bottom": 11.5749
+    },
+    "previous_visible_inches": {
+      "width": 6,
+      "height": 6.7588,
+      "left": 3.0,
+      "top": 1.5
+    },
+    "native_ppi": 120.94,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "22a50d8bcaf2f4cf6f87094985ad5916eddd1643d2af9acd95205e480410474b",
+    "width_percent_flat_garment": {
+      "S": 46.6,
+      "L": 38.6,
+      "2XL": 32.7
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  },
+  {
+    "design_id": "Type-Led-4",
+    "artwork_source": "../MVV-PRINTFUL-01/assets/Type-Led-4-v1.png",
+    "master_sha256": "83da9481188fd6829db2e8664fb777b0540f6f2a07c9e23c645210e3022c787f",
+    "blank": "Comfort Colors 1717",
+    "color": "Ivory",
+    "method": "DTG front",
+    "footprint": "medium",
+    "visible_inches": {
+      "width": 9,
+      "height": 10.1444,
+      "left": 1.5,
+      "top": 2.0,
+      "bottom": 12.1444
+    },
+    "previous_visible_inches": {
+      "width": 7.25,
+      "height": 8.1719,
+      "left": 2.375,
+      "top": 1.5
+    },
+    "native_ppi": 122.33,
+    "export_ppi": 150,
+    "canvas_inches": [
+      12,
+      16
+    ],
+    "canvas_sha256": "6d52a612453092b191280aff0ddb13d89bb24934295f7b48e56e8c6f8b583b24",
+    "width_percent_flat_garment": {
+      "S": 49.3,
+      "L": 40.9,
+      "2XL": 34.6
+    },
+    "anchor": "Print area origin; not neckline",
+    "mockup_size": "Unknown",
+    "production_resolution_status": "Higher-detail production master required; resampling is preview only"
+  }
+]
