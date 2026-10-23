@@ -1,6 +1,6 @@
 # MVV production-quality repair candidates
 
-October 23, 2026 · Nine repaired candidates complete; independent digital review passed for provider/sample evaluation. Not yet provider-verified or physically sample-approved.
+October 23, 2026 · Nine repaired candidates complete; independent digital review passed for provider/sample evaluation. Printful upload and all nine provider preview checks completed; physical sample approval pending.
 
 All ten creative designs remain Founder-approved. This round preserves their wording, composition, garment choice, colour and placement while creating separate repair candidates. C3B stays on its approved [round03 layout](../MVV-PRINTFUL-03/layouts/MVV3-C3B-above-12x16.png).
 
@@ -41,4 +41,4 @@ python repair.py --model models/FSRCNN_x4.pb
 
 Run from this directory. The script locates approved source files relative to itself. Versions are pinned; model provenance, license and digest are in `models/`. Outputs are native scalable paths for three designs and reconstructed raster exports for six; original source PPI remains recorded in [repair-results.json](repair-results.json). Rendering libraries may produce byte differences across platforms; the committed hashes identify the reviewed files.
 
-No new provider upload, sample purchase, storefront publication or merge is included in this checkpoint. Next: apply the selected repair files in Printful and inspect physical samples before production release.
+All nine repair files were uploaded and applied to Comfort Colors 1717 / Ivory / front DTG. Printful reports Good / 300 DPI at 12 × 16 inches for each padded canvas. All nine generated mockups were inspected. See [provider results and sample plan](provider-and-sample-plan.md). No sample purchase, storefront publication or merge has been performed.
