@@ -1,0 +1,132 @@
+[
+  {
+    "design_id": "B2",
+    "approved_width_inches": 8.5,
+    "source_pixels": [
+      1145,
+      1374
+    ],
+    "visible_source_width": 970,
+    "native_ppi": 114.12,
+    "nonzero_alpha_pixels": 781848,
+    "partial_alpha_percent": 17.91,
+    "target_visible_pixels_300ppi": 2550
+  },
+  {
+    "design_id": "A1",
+    "approved_width_inches": 8,
+    "source_pixels": [
+      1145,
+      1374
+    ],
+    "visible_source_width": 930,
+    "native_ppi": 116.25,
+    "nonzero_alpha_pixels": 339317,
+    "partial_alpha_percent": 41.48,
+    "target_visible_pixels_300ppi": 2400
+  },
+  {
+    "design_id": "A3",
+    "approved_width_inches": 8,
+    "source_pixels": [
+      1086,
+      1448
+    ],
+    "visible_source_width": 937,
+    "native_ppi": 117.12,
+    "nonzero_alpha_pixels": 371473,
+    "partial_alpha_percent": 40.98,
+    "target_visible_pixels_300ppi": 2400
+  },
+  {
+    "design_id": "YIF-M",
+    "approved_width_inches": 9,
+    "source_pixels": [
+      1374,
+      1145
+    ],
+    "visible_source_width": 1246,
+    "native_ppi": 138.44,
+    "nonzero_alpha_pixels": 705214,
+    "partial_alpha_percent": 12.34,
+    "target_visible_pixels_300ppi": 2700
+  },
+  {
+    "design_id": "YIF-F",
+    "approved_width_inches": 10.5,
+    "source_pixels": [
+      1402,
+      1122
+    ],
+    "visible_source_width": 1178,
+    "native_ppi": 112.19,
+    "nonzero_alpha_pixels": 740468,
+    "partial_alpha_percent": 18.44,
+    "target_visible_pixels_300ppi": 3150
+  },
+  {
+    "design_id": "C2",
+    "approved_width_inches": 9,
+    "source_pixels": [
+      1312,
+      1199
+    ],
+    "visible_source_width": 1092,
+    "native_ppi": 121.33,
+    "nonzero_alpha_pixels": 824060,
+    "partial_alpha_percent": 5.07,
+    "target_visible_pixels_300ppi": 2700
+  },
+  {
+    "design_id": "C3B",
+    "approved_width_inches": 10.5,
+    "source_pixels": [
+      1920,
+      819
+    ],
+    "visible_source_width": 1746,
+    "native_ppi": 166.29,
+    "nonzero_alpha_pixels": 542409,
+    "partial_alpha_percent": 9.02,
+    "target_visible_pixels_300ppi": 3150
+  },
+  {
+    "design_id": "Fashion-1D-F",
+    "approved_width_inches": 10.5,
+    "source_pixels": [
+      1145,
+      1374
+    ],
+    "visible_source_width": 1125,
+    "native_ppi": 107.14,
+    "nonzero_alpha_pixels": 696625,
+    "partial_alpha_percent": 63.62,
+    "target_visible_pixels_300ppi": 3150
+  },
+  {
+    "design_id": "Type-Led-3",
+    "approved_width_inches": 8.5,
+    "source_pixels": [
+      1145,
+      1374
+    ],
+    "visible_source_width": 1028,
+    "native_ppi": 120.94,
+    "nonzero_alpha_pixels": 957682,
+    "partial_alpha_percent": 27.21,
+    "target_visible_pixels_300ppi": 2550
+  },
+  {
+    "design_id": "Type-Led-4",
+    "approved_width_inches": 10.5,
+    "source_pixels": [
+      1213,
+      1297
+    ],
+    "visible_source_width": 1101,
+    "native_ppi": 104.86,
+    "nonzero_alpha_pixels": 521564,
+    "partial_alpha_percent": 50.14,
+    "target_visible_pixels_300ppi": 3150
+  }
+]

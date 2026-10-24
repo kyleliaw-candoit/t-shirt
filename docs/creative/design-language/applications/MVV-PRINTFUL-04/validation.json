@@ -1,0 +1,89 @@
+[
+  {
+    "design_id": "B2",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.011,
+    "clip": false
+  },
+  {
+    "design_id": "A1",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.01,
+    "clip": false
+  },
+  {
+    "design_id": "A3",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.0067,
+    "clip": false
+  },
+  {
+    "design_id": "YIF-M",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.01,
+    "clip": false
+  },
+  {
+    "design_id": "YIF-F",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.0111,
+    "clip": false
+  },
+  {
+    "design_id": "C2",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.01,
+    "clip": false
+  },
+  {
+    "design_id": "Fashion-1D-F",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.0073,
+    "clip": false,
+    "vector_paths": 91468,
+    "embedded_bitmap": false
+  },
+  {
+    "design_id": "Type-Led-3",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.01,
+    "clip": false,
+    "vector_paths": 118338,
+    "embedded_bitmap": false
+  },
+  {
+    "design_id": "Type-Led-4",
+    "canvas": "3600 x 4800 / 12 x 16 inches / 300 PPI",
+    "opaque_ink": true,
+    "transparent_exterior": true,
+    "profile": "sRGB",
+    "max_bound_delta_inches": 0.01,
+    "clip": false,
+    "vector_paths": 64498,
+    "embedded_bitmap": false
+  }
+]
