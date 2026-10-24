@@ -25,3 +25,8 @@ Founder requested balanced spacing and authorized a large footprint. [Large roun
 ### Lighter lettering follow-up
 
 Founder accepted round02 spacing and footprint, then requested thinner lettering because enlargement made the serif/script too bold. [Light round03](light-03/README.md) is now the current review candidate. Earlier assessments remain preserved.
+
+
+## Subsequent Founder approval — October 23
+
+Founder approved light-03 and instructed merging PR151; PR151 is merged. Light-03 is the current locked N-D-A aesthetic/layout, replacing earlier N-D-A versions without another assortment slot. The pre-feedback assessment above remains unchanged. Production-resolution/fine-stroke work and the latest Printful verification remain pending. N-D-A is not in the current sample order. See [current handoff](../../../R012-Creative-Session-Closeout-2026-10-24.md).

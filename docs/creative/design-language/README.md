@@ -86,7 +86,11 @@ POD launches with front-only graphics. Require a visibly confirmed front treatme
 
 The [paired Heritage/Playful review](reviews/2026-10-21-CAR-WRONG-Spacing.md) preserves Founder selection and the distinction between cramped Heritage and acceptable dense Playful. The Playbook and execution workflow now require a concise visual critique of intent, element relationships, two viewing scales and relevant references. [Round05](applications/CAR-WRONG-05/README.md) applies the lesson to Heritage while retaining Playful. These are internal taste and execution learnings, not sales evidence or universal spacing thresholds.
 
-## Current continuation — approved CAR revision and nostalgia application
+## Current continuation — October 24
+
+Read the [session closeout](../R012-Creative-Session-Closeout-2026-10-24.md) and [current approved-version registry](../R012-Locked-Design-Registry.md#current-approved-versions--october-24-2026) first. PR142, PR150 and PR151 are merged; PR149 and PR152 remain open. All five non-MVV designs are approved intended assortment. The first sample order (A3 / T-E-A / N-D-B) is Founder-reported placed; C3B remains pending separately. Physical approval and market evidence remain open. Earlier status sections below are chronological records, not instructions to repeat completed reviews.
+
+## October 21 continuation — approved CAR revision and nostalgia application
 
 Founder approved CAR: WRONG round05; PR137 is merged. [Closeout](applications/CAR-WRONG-05/closeout.md) records the selected Heritage and retained Playful masters with exact-asset fingerprints in the R012 registry. Aesthetic approval is separate from production cleanup, physical calibration and samples. Historical assessments stay frozen.
 

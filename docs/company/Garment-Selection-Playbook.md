@@ -298,3 +298,10 @@ Preserve:
 - financial assumptions separately from actuals;
 - sample observations separately from customer behavior;
 - decisions and switching triggers explicitly.
+
+
+### Sample evidence and order records — October 24 clarification
+
+Sample coverage follows production risk, not whether a design originated in MVV. Non-MVV designs also need their own digital preflight; representative samples can test shared blank/print characteristics but cannot certify every unprinted illustration, thin font, footprint, garment color or size. Expand physical coverage when a material uncertainty warrants it, rather than imposing a fixed sample quota.
+
+Before payment, reconcile selected designs and exact file versions with the cart; check the account's current sample item limit, offer eligibility/expiry and final shipping/tax. Do not assume every split order receives the same discount. Record order reference, design/file IDs, garment/color/size/quantity, quoted versus paid evidence, and eventual physical findings. Keep delivery addresses and payment/authentication data outside the repo. Founder report of purchase can be recorded as such; do not label it independently receipt-verified.
