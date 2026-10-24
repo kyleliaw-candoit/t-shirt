@@ -1,0 +1,34 @@
+{
+  "source": "NOSTALGIA-ND-01/assets/B-artifact-v1.png",
+  "source_native_ppi": 112.96969696969697,
+  "method": "FSRCNN x4, 65% learned restoration / 35% bicubic, final-size reduction; Pepper-specific near-opaque ink appearance; binary alpha",
+  "visible_inches": {
+    "width": 8.25,
+    "height": 10.40101931330472,
+    "left": 1.875,
+    "top": 2,
+    "bottom": 12.40101931330472
+  },
+  "actual_bounds_inches": [
+    1.8766666666666667,
+    2.01,
+    10.12,
+    12.393333333333333
+  ],
+  "export_ppi": 300,
+  "canvas_pixels": [
+    3600,
+    4800
+  ],
+  "alpha_values": [
+    0,
+    255
+  ],
+  "roundtrip_ssim": 0.9911148370098323,
+  "roundtrip_mae": 1.8276967095851215,
+  "sha256": "e6a0b919b52af7c32cd722adce8023e02f9c5a1ab889789ed2d326901deeb4f7",
+  "file_bytes": 9072380,
+  "status": "PASS for physical sample testing; native detail remains approximately 113 PPI; no physical print approval",
+  "printful_file_id": "1093232566",
+  "printful_quality": "Good / 300 DPI"
+}
