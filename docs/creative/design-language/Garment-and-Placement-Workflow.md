@@ -130,7 +130,7 @@ Save useful decisions and evidence, not every navigation step or operational int
 - Calibrate the reusable garment geometry, including the provider mockup reference size and garment-relative placement.
 - Verify Gildan 64000 variants when used.
 - [CAR: WRONG round05](applications/CAR-WRONG-05/README.md) is now Founder-approved and merged in PR137; its [closeout](applications/CAR-WRONG-05/closeout.md) preserves selected-artwork cleanup and sample evaluation as production work.
-- Review [NOSTALGIA-ND-01](applications/NOSTALGIA-ND-01/README.md). Its final provider preview check remains incomplete after browser timeouts; do not treat the confirmed upload as applied-layout verification.
+- N-D-A and N-D-B are aesthetically approved. Use the [October 24 handoff](../R012-Creative-Session-Closeout-2026-10-24.md) for their latest versions: N-D-A production preparation remains open; restored N-D-B passed digital/provider review and is in the Founder-reported first sample order.
 
 The round03 CAR: WRONG boards and assessment remain historical evidence. They used Printful for four footprint previews and eight color trials; those assets are retained alongside the round04 response. The revised routine reduces repeated exploratory provider work in future applications. Its time savings have not yet been measured.
 
@@ -146,3 +146,12 @@ Founder subsequently identified insufficient collar clearance in both round03 de
 ### Internal relationships and taste calibration — October 21
 
 Founder selected the one-color-object Heritage direction and retained Playful as a different aesthetic worth testing. Founder then identified cramped copy-to-image gaps in Heritage while accepting Playful's dense treatment. Founder approved the family-sensitive critique, two-scale inspection, reference comparison and paired visual learning proposed in response, and requested documentation before the Heritage revision. This agreement governs the additions above. It does not establish a general preference for more whitespace or predict sales.
+
+
+## Production-resolution repair and sample handoff
+
+At the approved visible footprint, calculate native source detail independently of export DPI and Printful's badge. Do not reduce intended garment presence to hide inadequate source resolution. Rebuild lettering/flat graphics as scalable vector paths when faithful reconstruction is practical; use dedicated restoration/upscaling for textured illustration, preserving composition, copy, faces and distinctive texture. These are repair routes, not guarantees. Inspect the saved export at artwork/detail and whole-shirt scales against the approved reference. Verify transparency, halos, clipping, color profile and physical dimensions; review any visible aesthetic change as a new version. A 300-PPI export or high similarity metric does not prove recovered native detail.
+
+After a footprint or font edit, recheck optical gaps and actual stroke weight at the new scale; retain the desired footprint while correcting thickness. See the [Playbook calibration](../../company/Creative-Director-Tshirt-Design-Playbook.md#october-23-calibration--footprint-spacing-and-type-weight).
+
+Complete digital preflight on the actual sample file before buying the sample. Apply the final file in Printful, confirm garment/color/size/technique and dimensions, and match the checkout to its exact filename/version or hash and provider file ID. Distinguish upload accepted, applied preview verified, ordered, physically passed and market tested. Record unresolved limits rather than treating one status as another. [Current order and version handoff](../R012-Creative-Session-Closeout-2026-10-24.md).

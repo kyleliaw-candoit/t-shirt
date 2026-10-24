@@ -525,3 +525,12 @@ POD launches with front-only graphics. Require a visibly confirmed front treatme
 ### No on-garment brand identifiers — October 21, 2026
 
 Founder decision: shirts in the current R012 antique/vintage business must not display the business brand name, logo or initials. This includes optional back-neck or sleeve branding. On existing designs, remove branding or replace it with concept-relevant content where removal weakens the composition. Preserve historical locked assets; record revised production derivatives separately. Brand identifiers on historical presentation boards are archival context, not print content.
+
+
+### October 23 calibration — footprint, spacing and type weight
+
+The MVV revisions showed that restraint can become under-scaling. Judge each complete shirt; do not give unrelated compositions the same apparent area or shrink an approved footprint merely to improve a resolution badge. Solve source quality separately. Medium/large are application-specific choices, not fixed dimensions or gender rules. YIF-F, Fashion-1D-F, Type-Led-4 and later N-D-A received large footprints in this round; C3B retained its established width.
+
+For an illustration between upper and lower copy, explicitly compare both optical gaps, including curved lines and visible ink. Correct obvious imbalance without demanding numerical equality or breaking intentional interlocking. Recheck after a typography change: new lettering can change scene prominence and spacing even when the prompt asks only for fonts.
+
+Judge stroke weight at the final print size. Enlarging the whole design can make initially soft lettering feel heavy; adjust weight/letterforms while preserving the approved footprint, then recheck fine-stroke printability and distant readability. N-D-A's approved thinner serif/script and balanced large layout are an application reference, not evidence that women universally prefer thin fonts. [Feedback and approved version](../creative/design-language/applications/NDA-TYPE-01/light-03/README.md).

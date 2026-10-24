@@ -9,7 +9,20 @@ brand: Worth the Detour
 
 # R012 — Locked Design Registry
 
-## October 21, 2026 — MVV production adaptation in review
+## Current approved versions — October 24, 2026
+
+This section supersedes historical placement/current-status prose below. Historical masters and fingerprints remain archival references. All five non-MVV designs are approved intended store assortment, not proof of live publication. [Session closeout, exact sample files and remaining work](R012-Creative-Session-Closeout-2026-10-24.md).
+
+| Design set | Current approved aesthetic/layout reference | Production/sample status |
+|---|---|---|
+| T-E-A, T-E-B, N-A | [Lowered layout manifest](design-language/applications/NON-MVV-PLACEMENT-01/layout-specs.json), top 2 inches from print origin; PR150 merged | T-E-A in first sample order; other two not sampled |
+| N-D-A | [Light-03 master, canvas and hashes](design-language/applications/NDA-TYPE-01/light-03/specs.json), 10.5-inch width, top 2 inches; PR151 merged | Approved thinner serif/script and balanced gaps; source-quality/provider checks pending |
+| N-D-B | [Lowered framed layout manifest](design-language/applications/NON-MVV-PLACEMENT-01/layout-specs.json), 8.25-inch width, top 2 inches | Restored derivative in open PR152, digital/provider pass and first sample order; physical pass pending |
+| Ten MVV conversions | [Round02](design-language/applications/MVV-PRINTFUL-02/README.md) for eight; [round03](design-language/applications/MVV-PRINTFUL-03/README.md) for large Type-Led-4 and C3B caption above; all approved, PR142 merged | Nine repairs in open draft PR149; A3 in first order; C3B second order pending |
+
+Aesthetic lock, merged file, provider preview, physical approval and market evidence are distinct states. Later approved derivatives replace the corresponding old upload version, not an extra assortment slot. No on-shirt business branding is permitted, including historical optional wordmarks/neck marks.
+
+## October 21, 2026 — MVV production adaptation in review (historical)
 
 Founder authorized revisiting the ten executable MVV designs for Printful garment/color/scale checks and removing all business names, logos and initials from the garments. See [MVV-PRINTFUL-01](design-language/applications/MVV-PRINTFUL-01/README.md) for the new production derivatives, measurements and provider evidence. Historical locked source bytes remain unchanged. These derivatives require visual review and do not inherit exact-artwork lock status automatically. The no-branding decision supersedes earlier permission for product wordmarks or optional neck marks.
 
@@ -305,7 +318,7 @@ During B1 development, the compact stacked `WORTH / THE / DETOUR` typography eme
 
 This is **not yet a locked logo decision** in this registry.
 
-Product designs do not have to feature the brand wordmark. The brand name may appear prominently only when it improves the shirt as a product.
+Historical permission, superseded October 21: current R012 shirts must not carry the business name, logo or initials. The wordmark discussion above is archival brand exploration, not garment permission.
 
 ---
 

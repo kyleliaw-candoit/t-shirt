@@ -45,3 +45,8 @@ Next: choose the third sample, use this revision's upload path for its placement
 ## Subsequent Founder feedback — N-D-A internal spacing
 
 Founder approved the lowered placements but identified unbalanced illustration-to-copy spacing in N-D-A. The earlier assessment remains above as recorded. [N-D-A spacing revision](NDA-spacing-02/README.md) now supplies the current candidate and replaces only its lowered-only upload path; the other four remain unchanged.
+
+
+## Current handoff — October 24
+
+Founder approved the lowered designs and subsequent N-D-A spacing revision; PR150 merged. N-D-A was subsequently replaced by approved light-03 typography/large-layout work in PR151. The old third-sample-selection instructions above are historical: first order is now A3, T-E-A and restored N-D-B, reported placed by Founder; C3B is separate and pending. [Current versions and order record](../../../R012-Creative-Session-Closeout-2026-10-24.md).

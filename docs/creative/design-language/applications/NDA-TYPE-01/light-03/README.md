@@ -20,3 +20,8 @@ Tradeoff: lower distant contrast and finer script strokes need particular attent
 - Reused local garment geometry remains provisional; photographed size unknown. Physical neckline distance is unverified. Native effective detail about 115.9 PPI at this size; the 150-PPI export does not increase source detail. Production restoration, fine-stroke/transparency inspection and Printful verification remain pending before printing.
 
 Prior masters and assessments remain unchanged. If approved, this supersedes round02 for N-D-A without adding an assortment slot. No merge, purchase or publication performed.
+
+
+## Subsequent Founder approval — October 23
+
+Founder approved light-03 and instructed merging PR151; PR151 is merged. Light-03 is the current locked N-D-A aesthetic/layout, replacing earlier N-D-A versions without another assortment slot. The pre-feedback assessment above remains unchanged. Production-resolution/fine-stroke work and the latest Printful verification remain pending. N-D-A is not in the current sample order. See [current handoff](../../../../R012-Creative-Session-Closeout-2026-10-24.md).
