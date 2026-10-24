@@ -2,7 +2,7 @@
 
 Owner: Research Analyst  
 Date: 2026-10-22 (America/Chicago)  
-Status: Targeted descriptive supplement after Strategy Advisor's provisional mug approval  
+Status: Pool discovery complete; phrase-level usage and attachment-route validation outstanding  
 Companions: [Mug commercial assessment](../strategy/R043-Mugs-Commercial-Assessment.md), [original audience report](R043-Everyday-Language-Humor.md), [original speech-material audit](R043-Material-Depth-Audit.md)
 
 ## 1. Decision question and result
@@ -193,7 +193,9 @@ Stop expanding the inventory when it adds synonyms or repeated mechanisms rather
 
 ## 7. Handoff to Strategy Advisor
 
-The commissioned material search is complete: 60 inspectable clusters, multiple source types, and explicit counterevidence to universal jargon dislike.
+The commissioned search for material pools is complete: 60 inspectable clusters, multiple source types, and counterevidence to universal jargon dislike. The broader Strategy handoff remains open: most rows lack observed usage evidence, and no row classifies usage channel or establishes the attachment route. The right-column tensions are analyst interpretations. Editorial/teaching examples establish documented language, not actual recipient behavior; the ZeroBounce subset adds corpus observations without recipient motives.
+
+Before choosing phrase–recipient matches, supplement a small selected subset with usage-channel classification (meeting speech, email, management metaphor, or general carryover), a supporting observed-use reference, intended/alternate reading, and habit-recognition versus shared-annoyance observations. Mark inferred motives as hypotheses when behavioral evidence is absent. This inventory alone does not establish those matches; a larger raw list would not close the gap.
 
 Questions for downstream interpretation:
 - Does a buyer recognize a specific recipient, or only an impersonal office stereotype?
