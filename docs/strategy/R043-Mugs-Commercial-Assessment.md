@@ -2,10 +2,10 @@
 
 Owner: Strategy Advisor  
 Date: 2026-10-22  
-Version: 1.1 — completed conditional material handoff  
+Version: 1.2 — distinguish pool discovery from outstanding usage validation  
 Status: Provisional individual assessment; mug-specific Founder Execution Advantage unconfirmed  
 Method: [Strategy Advisor v0.5](../company/Strategy-Advisor-Methodology.md), adapting its product/value questions to mugs while retaining the six dimensions.  
-Related work: [R043 research](../Researches/R043-Everyday-Language-Humor.md), [T-shirt assessment](R043-Everyday-Language-Humor-Commercial-Assessment.md), [material-depth audit](../Researches/R043-Material-Depth-Audit.md), [completed corporate-expression material search](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md).
+Related work: [R043 research](../Researches/R043-Everyday-Language-Humor.md), [T-shirt assessment](R043-Everyday-Language-Humor-Commercial-Assessment.md), [material-depth audit](../Researches/R043-Material-Depth-Audit.md), [corporate-expression pool inventory](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md).
 
 ## 1. Verdict and authorized next research
 
@@ -15,7 +15,7 @@ The Founder's intuition is credible enough for focused material research and, if
 
 Two independently sold corporate-email-humor mugs have item-level purchasing evidence; one purchaser reports recipients enjoyed their gifts [MG1–MG2]. This is stronger than supply alone. However, no inspected testimony establishes the exact chain **coworker habit recognition → gift purchase → recipient delight → visible desk use and enjoyable comments**. The distinctive proposition remains a hypothesis.
 
-**Conditional Research Analyst handoff: completed after this provisional gate.** The [material search](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md) documents 60 distinct expression clusters across eight inventory source documents, with usage, quirks, context, and interpretation boundaries. This is an inspectable raw pool, not 60 viable products or 60 independent mechanisms. It supports a small varied exploration without establishing usable yield or buyer–recipient match density. The commercial disposition remains unchanged. Approval at this stage concerns research and preparation, not launch, spending, outreach, production, or a change in approved sequencing.
+**Conditional Research Analyst handoff: pool discovery complete; usage validation remains open.** The [material inventory](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md) documents 60 distinct expression clusters across eight inventory source documents and analyst-inferred linguistic tensions. Most entries come from editorial lists, teaching guides, or attitude research; only the ZeroBounce subset has corpus-use observations. The inventory does not provide row-level usage-channel classifications or evidence distinguishing a recipient's habit from shared annoyance. It is raw material, not 60 viable products or 60 independent mechanisms. Before choosing phrase–recipient matches, complete those fields and supporting observations for the selected subset; the full handoff below remains incomplete. The provisional commercial disposition is unchanged. This stage concerns research and preparation, not launch, spending, outreach, production, or a change in approved sequencing.
 
 The commercial thesis has two routes: a giver notices a colleague's familiar expression and gives a personally meaningful object; a worker buys a mug that reflects their own speech, humor, or experience. The recipient may additionally enjoy coworkers' smiles or comments. These routes can coexist; gifting does not need strong recipient self-purchase intent to be commercially valid.
 
@@ -53,7 +53,7 @@ These are provisional product-format judgments, not a full-portfolio calibration
 | Identity-to-Purchase Strength | 3/5 | Familiar speech and shared work experience can supply recognition; gift purchases and one reported recipient response create a bridge. Exact habit-matched coworker buying and recipient use remain unverified |
 | Market Evidence | 3/5 | Two inspected listings have item-level transactions/reviews, including a realized gift-response report. Small, self-selected evidence does not establish volume, current sales velocity, channel economics, or broad phrase demand |
 | Competitive Opportunity | 2/5 | Multiple suppliers already use obvious phrases, email translations, sarcasm, and coworker-gift positioning. Warm relationship-specific recognition is a testable angle, not established white space |
-| Creative / Product Depth | 3/5 | The completed corporate search documents 60 deduplicated expression clusters across eight inventory sources and several tensions. Usable yield, distinct mechanisms, readability and recipient matching remain unmeasured, so the score is unchanged. The separate tee inventory's 60 seeds and 12/16/32 breakdown cannot be added as independent mug opportunities |
+| Creative / Product Depth | 3/5 | The bounded pool search documents 60 deduplicated expression clusters across eight inventory sources and several tensions. Usable yield, distinct mechanisms, readability and recipient matching remain unmeasured, so the score is unchanged. The separate tee inventory's 60 seeds and 12/16/32 breakdown cannot be added as independent mug opportunities |
 | Founder Execution Advantage | Unconfirmed for mugs | R043's confirmed **4/5** was supplied for the prior hypothesis. Do not infer mug/vendor expertise, sample quality judgment, or coworker-buyer recruiting access from it. Confirm scope-specific advantage before full portfolio comparison |
 | Testability / MVP Fit | 4/5 | A visible offer and no-minimum fulfillment make a bounded test plausible. Recipient appropriateness, print readability, packaging/damage, delivery timing, and landed price still need verification |
 
@@ -115,9 +115,9 @@ Other unknowns are reachability, differentiation beyond text choice, buyer frequ
 
 ## 8. Next research and test conditions
 
-### Research Analyst material handoff — completed
+### Research Analyst material handoff — pool discovery complete; validation outstanding
 
-The provisional gate preceded the [completed descriptive report](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md). It supplies 60 inspectable clusters and separates a recipient's own habit, shared workplace experience/annoyance, and playful fluency. Several expressions share mechanisms; inventory source pools overlap. This satisfies the requested next research step without proving an entire collection or changing the disposition/scores.
+The provisional gate preceded the [pool inventory](../Researches/R043-Corporate-Expressions-Mug-Material-Pools.md). It supplies 60 inspectable clusters and describes three possible attachment routes at an overall level. It does not classify those routes or usage channels for individual rows, nor establish actual usage for most expressions. Source pools overlap and several expressions share mechanisms. Pool discovery satisfies the requested search for material sources; the broader handoff requirements below remain open until supporting usage and context evidence is added for a small selected subset. Scores and disposition remain provisional.
 
 The commission searched **existing corporate/workplace expression pools**, not design concepts, using these requirements:
 
@@ -127,7 +127,7 @@ The commission searched **existing corporate/workplace expression pools**, not d
 4. Context required to understand it, regional/industry dependence, tone, and plausible affectionate versus derogatory reading. These are descriptive judgments, not legal clearance or guarantees of appropriateness.
 5. Raw pool depth, overlap between sources, distinct phrase clusters, and narrower near-scope material. Dictionary/listicle counts are not commercially usable designs; do not add overlapping lists together as a market-size estimate.
 
-The report fulfills the user's conditional research sequence. Further list expansion is unnecessary unless a specific gap changes the decision; proceed to a small varied proposition only if selected rather than requiring exhaustive material coverage.
+The report completes the pool-discovery stage of the user's conditional sequence. The next evidence task, if this opportunity is developed, is targeted usage/context validation for selected expressions, including usage channel and attachment-route observations. Do not substitute more list entries for those missing fields or treat phrase–recipient matching as established. Exhaustive validation of all 60 is unnecessary.
 
 ### If the Founder subsequently selects a proposition test
 
