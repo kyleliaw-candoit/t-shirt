@@ -48,7 +48,9 @@ Current trial palettes:
 | Blank | Four approved trial colors | Availability evidence |
 |---|---|---|
 | Comfort Colors 1717 | Pepper, Ivory, Blue Jean, Moss | Selectable/rendered in Printful during round 03; not an audit of every size/region |
-| Gildan 64000 Softstyle | Black, White, Navy, Sport Grey | Verify current Printful variants when this blank is used |
+| Gildan 64000 Softstyle | Charcoal, White, Navy, Sport Grey | Verify current Printful variants when this blank is used |
+
+**October 25, 2026 — Founder-approved palette update:** Charcoal replaces Black for Gildan 64000. The Founder's hypothesis is that Charcoal may appeal both to customers who like black and to those who prefer dark grey, giving it wider appeal. This is a rationale for the choice, not validated comparative demand or a claim that those preferences necessarily overlap. Confirm the selected Printful color/size variants and assess artwork contrast before offering each colorway. Existing historical previews and sample records retain their original color facts.
 
 These are internal trial palettes. Each design puts forward **one or two** colorways. Expansion to as many as six trial colors requires a reason. If an intended color is unavailable, select the closest suitable available option, record the substitution and update the palette explicitly.
 
