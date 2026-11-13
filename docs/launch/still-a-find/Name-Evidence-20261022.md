@@ -1,5 +1,7 @@
 # Still a Find: bounded name and asset evidence refresh
 
+> **November 13, 2026 status:** This is the dated October 22 record. Read [current name evidence](Name-Evidence-20261113.md) and the [registration action packet](Registration-Action-Packet-20261113.md) for current facts, prices and access observations. Printful exists and two sample orders were placed; SS-4 was faxed October 25, with issuance unconfirmed. Shopify/DBA/permit status remains unverified. Main now coordinates #146. Historical restrictions and account-creation/EIN instructions below are not current execution instructions. The separate #110 experiment is not a prerequisite to registration research.
+
 **Research Analyst evidence report for Issue #146**  
 **Observed:** October 22, 2026, approximately 17:00–17:16 UTC  
 **Decision owner:** Brand Manager / Strategy Advisor / Founder, not Research Analyst  

@@ -1,5 +1,33 @@
 # Still a Find launch preparation
 
+## Current checkpoint — November 13, 2026
+
+Coordinator: **Main**, under Kyle's registration/launch-support mandate. Shared tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146). Creative session paused; no duplicate Dot assignment or background task started.
+
+**Recommendation: Caution / incomplete; keep Still a Find selected, hold name-dependent commitments.** Direct USPTO searches now work; four bounded query sets returned no exact candidate/Still Fine match. Texas registered-mark/assumed-name coverage and nearby sellers' U.S. use/priority remain unresolved. This is not legal clearance.
+
+Read these current documents first:
+
+- [November 13 name and identity evidence](Name-Evidence-20261113.md): literal official-register queries, result counts, common-law leads, direct domain/handle observations and limitations.
+- [November 13 registration action packet](Registration-Action-Packet-20261113.md): two unsent official-record inquiries, current fees, proposed DBA/trademark fields, domain/email/security choices and ongoing obligations.
+
+| Reconciled item | Current position |
+|---|---|
+| Taukay LLC | Official Comptroller view shows active status and Texas formation August 31, 2026; no new entity needed |
+| Printful | Founder confirms existing account and two sample orders; do not create another account or repeat orders |
+| EIN | Founder confirms SS-4 faxed October 25; issuance unknown; retain existing Main mail follow-up, no duplicate request |
+| Shopify / assumed name / sales-tax permit | Unverified; exact legal-name public permit search returned no entries, which is not proof of no permit/application |
+| Domain / handles | Namecheap offered stillafind.com; Porkbun exact search blocked by human verification; no acquisition. Missing public social pages do not establish claimability |
+| Brand / artwork / WTD | Approved line retained; no brand/logo on artwork; preserve WTD assets until explicit migration approval |
+
+Next decision ready for Kyle: permission to send the two factual Texas record inquiries, with $0 authorized expenditure and no filing. Purchase/filing decisions follow the name evidence and private owner/use facts. No new spend, external messages, legal submissions, account changes, launch or merge occurred.
+
+The October 22 independent review applies to its reviewed commit only (`30786310342a8defb64556f2f63abef626e594fc`). It does not independently approve these November additions. Documentation verification is separate from storefront or production QA.
+
+## Historical October 22 preparation — retained for audit
+
+The material below records the October 22 audit, experiment proposals and fixture preparation. Its dates control: old no-Printful status, EIN preparation, prices, browser restrictions and next-step sequencing are superseded where contradicted above. #110's experiment gates still govern that experiment; they do not block registration research.
+
 Initial audit October 22, 2026, about 17:00 UTC; dated Founder updates below. Status: research and private preparation only; implementation and launch gates remain open. Coordinator: dot / Business Partner. Mutable tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146).
 
 Companion records: [name and availability evidence](Name-Evidence-20261022.md), [official business requirements](Business-Requirements-20261022.md), and [separate Brand / Strategy review](Decision-Review-20261022.md), an [exact proposed Gate 1 fallback with two-fixture review questions](Gate1-Proposal-20261022.md), and a [bounded two-fixture Creative / Brand visual review](Two-Fixture-Review-20261022.md).
