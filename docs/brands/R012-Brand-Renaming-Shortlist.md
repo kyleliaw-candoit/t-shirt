@@ -9,6 +9,12 @@ last_updated: 2026-10-22
 
 # R012 Brand Renaming Shortlist
 
+## October 22, 2026 — screened challengers for Founder comparison
+
+The Brand Manager completed multiple brainstorming/screening cycles using the approved new line. Ranked new candidates: **A Fine Excuse → Rummalark → Rummage Inclined**. Each has a preliminary green light for comparison under the bounded screen; none is legally cleared or adopted. Rummage Inclined has the most surrounding shared-word commercial crowding. Still a Find remains the current champion pending Founder discussion.
+
+Read the [candidate analysis, exclusions, direct USPTO query log and commercial evidence](R012-Naming-Challengers-20261022.md). Review the complete name-and-line pairs and whether any is emotionally stronger than Still a Find. No domains or handles are represented as available.
+
 ## October 22, 2026 — current branding champion
 
 **Founder decision:** Keep the following pair as the **current branding champion**:
