@@ -4,9 +4,11 @@
 
 Coordinator: **Main**, under Kyle's registration/launch-support mandate. Shared tracker: [Issue #146](https://github.com/kyleliaw-candoit/t-shirt/issues/146). Creative session paused; no duplicate Dot assignment or background task started.
 
-**Recommendation: Caution / incomplete; keep Still a Find selected, hold name-dependent commitments.** Direct USPTO searches now work; four bounded query sets returned no exact candidate/Still Fine match. Texas registered-mark/assumed-name coverage and nearby sellers' U.S. use/priority remain unresolved. This is not legal clearance.
+**Recommendation: Caution / incomplete; keep Still a Find selected, hold name-dependent commitments.** Direct USPTO searches now work; six bounded query sets returned no exact candidate/Still Fine match. Texas registered-mark/assumed-name coverage and nearby sellers' U.S. use/priority remain unresolved. This is not legal clearance.
 
 Read these current documents first:
+
+- [Name decision brief and bounded review scope](Name-Decision-Brief-20261113.md): consolidated recommendation, evidence-to-decision rules, conditional clinic costs, unsent inquiry and dependency owners.
 
 - [November 13 name and identity evidence](Name-Evidence-20261113.md): literal official-register queries, result counts, common-law leads, direct domain/handle observations and limitations.
 - [Independent launch preparation](Independent-Launch-Preparation-20261113.md): verified Printful/account/payment status, Founder-confirmed Shopify/permit status, permit application fields, resale sequence, garment-specific trademark use, email authentication and physical sample worksheet.

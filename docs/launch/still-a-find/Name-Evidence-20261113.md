@@ -114,6 +114,6 @@ Repeated general exact-name searches are now producing the same leads without re
 
 ### Queue and next concrete decisions
 
-Completed this pass: F5/F6, STEELFIN official detail, focused seller-history searches and documented limits. The Texas inquiries remain a separate dependency. Still available without those replies: prepare a bounded adviser question that includes these exact records and compile reachable archival/official-source evidence if it can resolve a specific missing fact. Reopening generic searches is not progress by itself.
+Completed this pass: F5/F6, STEELFIN official detail, focused seller-history searches and documented limits. The Texas inquiries remain a separate dependency. The [decision brief and bounded review scope](Name-Decision-Brief-20261113.md) now completes the adviser-question preparation. A subsequent indexed-archive/history search did not establish a reliable dated store or U.S. transaction; no absence-of-use conclusion follows. Pursue additional sources when they can resolve a specific missing fact. Reopening generic searches is not progress by itself.
 
 If public evidence cannot resolve the material U.S. priority question, present the narrow question and obtain permission for outreach or a paid assessment; do not claim the name is cleared merely because the Texas emails are negative. No outreach or professional engagement is authorized by this addendum.
