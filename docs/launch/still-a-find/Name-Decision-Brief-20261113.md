@@ -63,7 +63,7 @@ SMU is a **conditional option**, not an assumed eligibility finding or timely la
 
 Published trademark contact: **trademarkclinic@smu.edu**, listed by USPTO. Direct application is SMU's stated intake route; the following optional preliminary question is prepared only to clarify process/scope. It is not a substitute for intake or a statement that Kyle qualifies.
 
-### Optional clinic process inquiry — prepared, UNSENT
+### Clinic process inquiry — approved and SENT
 
 To: trademarkclinic@smu.edu  
 Subject: Limited trademark-review scope and intake question — Taukay LLC
@@ -80,7 +80,7 @@ Thank you,
 Kyle Liaw  
 Taukay LLC
 
-**Sending gate:** separate Founder permission for this recipient and exact purpose; maximum authorized expenditure remains $0. No message has been sent or Gmail draft created. Prefer waiting for the Texas evidence before commissioning substantive review; an intake-capacity question can be authorized independently if Kyle wants to explore that route now.
+**Execution update — November 13, 2026:** Kyle explicitly approved this exact inquiry and recipient. Sent from the founder-controlled Taukay operations mailbox at **20:05:26 Asia/Taipei (12:05:26 UTC)** and verified in Gmail Sent: recipient, subject and body match; no CC/BCC or attachments. Message reference `1a1d4cc635996d5c`. This supersedes the earlier UNSENT/approval-required status. Awaiting SMU's response; Sent is not delivery confirmation, acceptance or representation. Maximum authorized expenditure remains $0; no administrative fee, engagement, filing or paid work authorized.
 
 ### Paid-review quote request — scope template, no recipient selected
 
@@ -92,7 +92,7 @@ This table separates completed preparation from its next action; it does not dec
 
 | Work item | Preparation completed | Exact next dependency / owner |
 |---|---|---|
-| Name decision brief / professional scope | This brief and conditional clinic route | Main incorporates actual new evidence; outreach/engagement requires Kyle's specific authorization |
+| Name decision brief / professional scope | This brief and conditional clinic route; approved SMU process inquiry sent November 13 | Await clinic response; Main incorporates actual new evidence; engagement/fees and other outreach require separate authorization |
 | Texas records | Two approved messages sent; reply search checked this session | Agency replies; Main interprets their actual scope when available |
 | Tax permit | Entity/activity fields and private handoff prepared | Kyle's intended first taxable sale date, private facts and declaration in official browser |
 | EIN | Pending fax status preserved | Existing Main mail check with Kyle/wife; no duplicate request |
@@ -104,4 +104,4 @@ This table separates completed preparation from its next action; it does not dec
 | Bookkeeping | Two expenses supported, no duplicate; PR #154 remains open at db828db | Separate bookkeeping merge authorization; bank/card reconciliation requires private statement evidence |
 | Public launch | No launch proposed | Operational completion and explicit launch decision |
 
-The packet closes the unblocked consolidation/scope work identified in the prior status reply. Further generic searching is currently low yield; use specific new evidence or a defined review question instead of manufacturing more tasks. No automatic monitoring or background agent was created, no filing/purchase/account change occurred, and no quote was recorded as an expense.
+The packet closes the unblocked consolidation/scope work identified in the prior status reply. Further generic searching is currently low yield; use specific new evidence or a defined review question instead of manufacturing more tasks. No automatic monitoring or background agent was created, no filing/purchase/account change occurred, and no quote was recorded as an expense. The later explicitly authorized SMU process inquiry is the only additional outreach recorded here.
