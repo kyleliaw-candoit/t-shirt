@@ -80,3 +80,40 @@ Some SOS pages were available through fresh official-site indexed text while dir
 None of the handle states establishes claimability; reserved, disabled or restricted handles may be unavailable. Founder ownership is unverified. Optional channels were deferred. Existing WTD assets remain unchanged.
 
 All acquisition prices/terms and proposed decisions are in the [action packet](Registration-Action-Packet-20261113.md). No domain, account, legal filing, professional service, purchase or launch was executed. No background task or automation was started.
+
+## Additional unblocked research — November 13, 2026
+
+Main continued this work while Texas responses remained pending. This addendum records completed work, not a background job. Recommendation remains **Caution / incomplete**.
+
+### Additional direct federal queries
+
+Same official Trademark Search, Field tag and Search builder mode; no live/dead filter added; 50 results/page. All returned cards were inspected on a single page. This supplements F1–F4, not a new assertion of comprehensive clearance.
+
+| ID | Literal query | Completed result |
+|---|---|---|
+| F5 | `CM:((stil* OR steel OR steal) AND (fin* OR fynd*)) AND (IC:025 OR IC:035)` | 9 results, page 1 of 1; includes live STEELFIN; no exact STILL A FIND or STILL FINE card |
+| F6 | `CM:(stillaf* OR stilaf* OR "still find" OR "still fine" OR "stil fine" OR "steel find" OR "steal find" OR "still a fined" OR "still a fynd" OR "still a fynde")` | 2 results, all classes: STILLAFLORA (99386722, dead/cancelled, 021) and STILLAFOOL (87474112, dead/cancelled, 025) |
+
+One initial F6 entry accidentally appended to F5; that malformed interim query is excluded. The field was replaced, the standalone F6 query verified on screen, and its completed result count recorded above.
+
+F5 returned serials 85605308, 98148930, 85751426, 74174351, 88873898, 87228806, 76509563, 97788506 and 85677097. Most were long phrases or different complete words; no relevance is inferred solely from the wildcard match.
+
+**STEELFIN detail examined:** [official detail](https://tmsearch.uspto.gov/search/search-results/98148930) displayed serial 98148930, registration 7479839, LIVE/REGISTERED, standard characters, Steelfin LLC (New Jersey), filing August 24, 2023 and registration August 20, 2024. Expanded goods include T-shirts, other clothing and class 016 goods. Current basis 1(a); record claims first use anywhere/in commerce April 3, 2012. Those are recorded claims, not independent proof of sales or priority. No private contact/address information retained and no full prosecution-document review claimed.
+
+Preliminary triage: overlapping apparel makes this a relevant additional phonetic neighbor. The full wording, syllables and apparent meaning differ from STILL A FIND; that reduces textual similarity relative to an exact name but is not a legal confusion determination. Retain it in any later bounded professional assessment rather than dismissing it based on non-exact wording.
+
+### Common-law follow-up and diminishing returns
+
+Focused queries used both search engines: `"Still Fine Designs" apparel Axel Estrada`; `"stillfineapparel.com"`; `"StillFine-Co" Redbubble Sussex`; `"Still Fine" Toulouse marque vêtements`; `"Still Fine Designs" "2019"`; `"Still Fine Apparel" clothing`; `"Still Fine Co" -site:redbubble.com -site:redbubble.net`; `"Still Fine Designs" Chicago clothing`; `"stillfineapparel"`; `"Still Fine Co" Sussex clothing owner`.
+
+- [Still Fine Co's first-party Redbubble shop](https://www.redbubble.com/people/stillfine-co/shop) still presents nine designs and UK/Sussex location. The artist-profile link returned the same shop; displayed social-links section exposed no owner identity. Apparel offers were retrievable, but neither seller-level U.S. sales nor earliest use was established. Currency localization, platform shipping, follower counts and crawl dates do not resolve those questions.
+- [The indexed LinkedIn project](https://www.linkedin.com/in/axel-estrada-1b12b0138) states June 2019–Present for Still Fine Designs. This is a self-described project period, not a trademark first-use date, ownership determination or proof of continuous commerce. Website retrieval for stillfineapparel.com failed; current trading remains unresolved. Do not infer the venture's state or legal ownership from an associated person's employer/location.
+- [The Toulouse feature](https://www.toulousemagazine.com/still-fine/) is labeled advertorial and links the French store's own Instagram/Facebook identity, stillfine._. It does not establish U.S. commerce. Direct store retrieval failed and social-link retrieval was throttled. A French business-directory lead was not verified to an official record and is not treated as an established owner/closure fact.
+
+Repeated general exact-name searches are now producing the same leads without resolving U.S. priority. Do not inflate coverage by repeating them. The remaining evidence requires a more specific source: identifiable seller history/transactions, reliable archived commercial pages or relevant official records. No seller contact, purchase or paid database query was made.
+
+### Queue and next concrete decisions
+
+Completed this pass: F5/F6, STEELFIN official detail, focused seller-history searches and documented limits. The Texas inquiries remain a separate dependency. Still available without those replies: prepare a bounded adviser question that includes these exact records and compile reachable archival/official-source evidence if it can resolve a specific missing fact. Reopening generic searches is not progress by itself.
+
+If public evidence cannot resolve the material U.S. priority question, present the narrow question and obtain permission for outreach or a paid assessment; do not claim the name is cleared merely because the Texas emails are negative. No outreach or professional engagement is authorized by this addendum.
