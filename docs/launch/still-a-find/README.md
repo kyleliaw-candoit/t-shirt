@@ -8,11 +8,11 @@ Coordinator: **Main**, under Kyle's registration/launch-support mandate. Shared 
 
 Read these current documents first:
 
-- [Name decision brief and bounded review scope](Name-Decision-Brief-20261113.md): consolidated recommendation, evidence-to-decision rules, conditional clinic costs, unsent inquiry and dependency owners.
+- [Name decision brief and bounded review scope](Name-Decision-Brief-20261113.md): consolidated recommendation, evidence-to-decision rules, conditional clinic costs, approved inquiry sent November 13 and dependency owners.
 
 - [November 13 name and identity evidence](Name-Evidence-20261113.md): literal official-register queries, result counts, common-law leads, direct domain/handle observations and limitations.
 - [Independent launch preparation](Independent-Launch-Preparation-20261113.md): verified Printful/account/payment status, Founder-confirmed Shopify/permit status, permit application fields, resale sequence, garment-specific trademark use, email authentication and physical sample worksheet.
-- [November 13 registration action packet](Registration-Action-Packet-20261113.md): approved official-record inquiries (sent November 13), current fees, proposed DBA/trademark fields, domain/email/security choices and ongoing obligations.
+- [November 13 registration action packet](Registration-Action-Packet-20261113.md): approved official-record inquiries (sent November 13), current fees, proposed DBA/trademark fields, domain/email/security choices and the verified entity-compliance checklist (expected first annual deadline May 17, 2027; private account confirmation pending).
 
 | Reconciled item | Current position |
 |---|---|
@@ -24,7 +24,7 @@ Read these current documents first:
 | Domain / handles | Namecheap offered stillafind.com; Porkbun exact search blocked by human verification; no acquisition. Missing public social pages do not establish claimability |
 | Brand / artwork / WTD | Approved line retained; no brand/logo on artwork; preserve WTD assets until explicit migration approval |
 
-The two factual Texas record inquiries were explicitly approved, sent and verified in Gmail Sent on November 13 (02:23 UTC); await agency replies. Sent status is not delivery or a completed search. Independent preparation proceeded meanwhile. Next Founder inputs: intended first taxable sale date, private application/owner facts and sample observations. No new spend, legal submissions, account changes or launch occurred during preparation. Finance evidence updated in existing PR #154 without duplicating either expense.
+The two factual Texas record inquiries were explicitly approved, sent and verified in Gmail Sent on November 13 (02:23 UTC); await agency replies. Sent status is not delivery or a completed search. The approved SMU clinic process inquiry was also sent and verified on November 13 (12:05 UTC); eligibility, capacity and costs await its reply. Independent preparation proceeded meanwhile. Next Founder inputs: intended first taxable sale date, private application/owner facts and sample observations. No new spend, legal submissions, account changes or launch occurred during preparation. Finance evidence updated in existing PR #154 without duplicating either expense.
 
 The October 22 independent review applies to its reviewed commit only (`30786310342a8defb64556f2f63abef626e594fc`). It does not independently approve these November additions. Documentation verification is separate from storefront or production QA.
 
