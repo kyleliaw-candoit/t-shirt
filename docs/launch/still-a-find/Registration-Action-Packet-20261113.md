@@ -1,18 +1,18 @@
 # Still a Find — registration and launch-support action packet
 
-Prepared November 13, 2026 for Taukay LLC. Coordinator: Main; shared tracker [#146](https://github.com/kyleliaw-candoit/t-shirt/issues/146). **Prepared, not submitted or approved.** Read [current name evidence](Name-Evidence-20261113.md) first. Brand recommendation remains Caution / incomplete; hold name-dependent purchases, filings and public changes.
+Prepared November 13, 2026 for Taukay LLC. Coordinator: Main; shared tracker [#146](https://github.com/kyleliaw-candoit/t-shirt/issues/146). **Filings prepared, not submitted; two factual inquiries approved and sent.** Independent execution preparation and verified account findings: [November 13 follow-up](Independent-Launch-Preparation-20261113.md). Read [current name evidence](Name-Evidence-20261113.md) first. Brand recommendation remains Caution / incomplete; hold name-dependent purchases, filings and public changes.
 
 ## Reconciled facts and ownership
 
 | Item | Current evidence | Next owner/action |
 |---|---|---|
 | Legal entity | Official Comptroller view: TAUKAY LLC active; formed Texas August 31, 2026 | Main prepares filings under this entity; Kyle verifies exact owner/address/signatory facts privately |
-| Printful | Founder confirms account exists and two sample orders placed | Reuse existing account; no new account or orders; billing/quality verification separate |
+| Printful | Live Free plan; both orders Delivered; no connected stores or resale certificates; legal info Personal | Reuse; prepare Taukay LLC billing correction privately; physical quality review pending |
 | EIN | Founder confirms SS-4 faxed October 25; issuance unconfirmed | Retain existing Main follow-up with wife/mail; no duplicate application or reminder |
 | Banking/card | Founder confirms business checking and business credit card exist | Kyle handles secure payout verification; existence is not provider approval |
-| Shopify | Current account/store/paid-plan state unverified | Check existing owner account before creating or accepting terms |
+| Shopify | Founder confirms no account created November 13 | Wait for focused private build before starting trial; brand registration is not a technical signup requirement |
 | Texas assumed name | Filing status unknown | Obtain existing record before preparing any duplicate certificate |
-| Sales-tax permit | Exact legal-name public search returned no entries | Kyle confirms any application/permit; secure identifier-based check if necessary |
+| Sales-tax permit | Founder confirms not yet applied November 13; supersedes limited public lookup | First application packet prepared in follow-up; Kyle enters private facts/reviews declaration |
 | Domain/handles | Domain offered at Namecheap; no ownership proof; public social pages missing | Name decision, exact checkout, owner-account verification and action approval remain |
 | Email | Existing connected Gmail; bounded vendor/filing search returned no completion evidence | Reuse operations account; paid Workspace/custom-domain entitlement unverified |
 
@@ -22,16 +22,16 @@ Main owns coordination and consolidates decisions. The other Creative session is
 
 ## Sequence and decision checkpoints
 
-1. Complete the Texas official-record gap using the proposed inquiries below, if Kyle authorizes sending. If email cannot supply the records, prepare the exact paid search count and total before approval; do not quietly incur per-query charges.
+1. Complete the Texas official-record gap using the approved inquiries below, sent November 13; await responses. If email cannot supply the records, prepare the exact paid search count and total before approval; do not quietly incur per-query charges.
 2. Resolve nearby sellers' U.S. use/priority where public evidence permits. Reconcile findings into one proceed/caution/change recommendation. A bounded attorney question, if still material: **Does STILL A FIND for T-shirts present a material U.S. confusion/priority risk relative to the evidenced Still Fine Designs/Apparel and Still Fine Co uses?** Seek one fixed-scope quote or eligible clinic option only after authorization; no invented cost.
 3. After the name decision, refresh exact domain checkout, then obtain acquisition/renewal approval and create only approved social identities. Handle availability must be tested inside an authorized account flow.
 4. Verify existing DBA; complete owner facts; present Texas filing and optional federal filing decisions separately. Founder reviews truthful declarations and personally signs.
 5. Verify permit/EIN and existing store; advance dependent private setup under applicable access/cost gates. #110 experiment questions do not block registration research; that experiment's implementation gates remain applicable to work within its scope.
 6. Public launch, WTD migration and paid ads remain separate decisions.
 
-## Two official-record inquiries — complete drafts, UNSENT
+## Two official-record inquiries — approved texts, SENT
 
-These request factual public records only. No paid copies, filings or legal opinion; proposed maximum authorized expenditure **$0**. The [official SOS FAQ](https://www.sos.texas.gov/corp/tradefaqs.shtml) identifies these contact routes. Corporate email searches are listed as free; the trademark inquiry asks for any fee to be disclosed before proceeding.
+These request factual public records only. No paid copies, filings or legal opinion; maximum authorized expenditure **$0**. The [official SOS FAQ](https://www.sos.texas.gov/corp/tradefaqs.shtml) identifies these contact routes. Corporate email searches are listed as free; the trademark inquiry asks for any fee to be disclosed before proceeding.
 
 ### Inquiry A
 
@@ -67,7 +67,7 @@ Thank you,
 Kyle Liaw  
 Taukay LLC
 
-Before actual sending, verify recipients against the official source and choose the correct founder-controlled business sender. Kyle's authorization to send is outstanding. No Gmail draft or external message has been created.
+Kyle explicitly approved the pinned drafts at commit 69b3aaf854511b5f928c4cc3bf54cbaaec1b6e21. Both were sent November 13 from the connected founder-controlled Taukay operations mailbox, with recipients/subjects/bodies verified in Gmail Sent: Inquiry A 02:23:13 UTC; Inquiry B 02:23:23 UTC. No CC/BCC, attachments or paid services. Sent confirms transmission, not delivery, reply or completed official search. This supersedes the earlier UNSENT/approval-outstanding statements; approved message text is unchanged.
 
 ## Domain, identity and email package
 
@@ -88,7 +88,7 @@ Security proposal: unique credential, [app-based 2FA](https://kb.porkbun.com/art
 
 Identity content prepared for approval: display name **Still a Find**; approved bio line **For people who find stuff. And reasons to bring it home.** Category: apparel/clothing. Exact @stillafind first; untested fallback candidates @stillafind.co or @shopstillafind. Confirm platform-specific username syntax and availability before proposing a substitute. Do not rename WTD accounts or change existing Meta portfolio assets as part of reservation.
 
-Email setup proposal: hello@stillafind.com, with support@ as an alias to the same inbox. For receive-only preparation use forwarding; choose hosted sending before promising branded customer replies. Once approved, use provider-issued MX, a single SPF record incorporating authorized senders, DKIM signing and DMARC initially at p=none with founder-controlled reporting. Test alignment and delivery before enforcing rejection. Separately authenticate any Shopify transactional sender. Exact DNS records depend on the chosen provider and domain; none invented or installed. [Provider setup guidance](https://kb.porkbun.com/article/24-how-to-set-up-email-hosting-services)
+Email setup proposal: hello@stillafind.com, with support@ as an alias to the same inbox. For receive-only preparation use forwarding; choose hosted sending before promising branded customer replies. Once approved, use provider-issued MX, a single SPF record incorporating authorized senders, DKIM signing and DMARC initially at p=none with founder-controlled reporting. Test alignment and delivery before enforcing rejection. For Shopify, install its assigned sender-authentication CNAME records; do not add a generic Shopify SPF TXT. See the follow-up's DNS table and official Shopify instructions. Exact DNS records depend on the chosen provider and domain; none invented or installed. [Provider setup guidance](https://kb.porkbun.com/article/24-how-to-set-up-email-hosting-services)
 
 ## Texas assumed-name certificate preparation
 
@@ -133,7 +133,7 @@ Keep all approved shirt artwork free of brand/logo. Possible genuine source iden
 ## Supporting registrations and ongoing obligations
 
 - **EIN:** maintain October 25 pending request. Existing Main mail follow-up owns issuance verification. Store the IRS letter privately if received, log only non-sensitive status/date, then update authorized bank/store/provider records where needed.
-- **Texas sales tax:** verify an existing permit/application before starting another. The [Comptroller permit FAQ](https://comptroller.texas.gov/taxes/sales/faq/permit.php) says no permit fee, though a security bond may be required, and application is possible without an EIN. Pending EIN is therefore not a blanket research/preparation blocker. Confirm actual permit status, outlet/DBA and reporting frequency; file required returns, including zero-sales returns where applicable. Do not infer active permit from active LLC status.
+- **Texas sales tax:** Founder confirms no application yet; first-application fields and private handoff are prepared in the follow-up. The [Comptroller permit FAQ](https://comptroller.texas.gov/taxes/sales/faq/permit.php) says no permit fee, though a security bond may be required, and application is possible without an EIN. Pending EIN is therefore not a blanket research/preparation blocker. Confirm truthful outlet/DBA facts and assigned reporting frequency; file required returns, including zero-sales returns where applicable. Do not infer active permit from active LLC status.
 - **Entity maintenance:** continue registered-agent/address and tax compliance for Taukay LLC; a brand does not create a new company. Newly taxable entities ordinarily first report the following year, with May 15 as the annual franchise-report rule. First-cycle 2027 due date and account requirements should be checked in the official account/calendar before scheduling. For 2026–27 the no-tax-due threshold is $2.65m, but applicable information reporting remains. No tax-due amount or exemption claimed from the business's stage alone. [Report guidance](https://comptroller.texas.gov/taxes/franchise/faq/reports-payments.php), [2026 forms/information requirements](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php)
 - **BOI:** FinCEN's current page says U.S.-formed companies are exempt under its final rule effective August 14, 2026. No new BOI filing is proposed for this Texas LLC solely because of the brand. [FinCEN](https://www.fincen.gov/boi)
 - **Bookkeeping:** quotes above are not expenses. Actual charges require receipts and the existing finance-ledger workflow. Sample-order expenses belong to their existing records; do not duplicate them. New expense from this work: $0.
@@ -141,6 +141,6 @@ Keep all approved shirt artwork free of brand/logo. Possible genuine source iden
 
 ## Immediate Founder input
 
-Only the next consequential step is ready for a decision: authorization to send the two factual-record inquiries above, with no spending or filings. Separately, Founder can resolve whether a Texas assumed-name certificate or sales-tax permit/application already exists and whether Shopify was created since October; no sensitive numbers are needed in chat.
+The inquiry-send approval has been fulfilled. Founder has confirmed no Shopify account and no sales-tax permit application. The independent follow-up prepares the permit route; Kyle's next material input is intended first taxable sale timing, followed by private owner/location facts and personal declaration review in the official application. No sensitive numbers are needed in chat. Existing assumed-name records still await the agency response.
 
 The name disposition, domain purchase, trademark basis and signed filing decisions will follow their evidence/private-fact checks. This packet does not ask for blanket approval of all future actions.

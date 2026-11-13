@@ -9,18 +9,20 @@ Coordinator: **Main**, under Kyle's registration/launch-support mandate. Shared 
 Read these current documents first:
 
 - [November 13 name and identity evidence](Name-Evidence-20261113.md): literal official-register queries, result counts, common-law leads, direct domain/handle observations and limitations.
-- [November 13 registration action packet](Registration-Action-Packet-20261113.md): two unsent official-record inquiries, current fees, proposed DBA/trademark fields, domain/email/security choices and ongoing obligations.
+- [Independent launch preparation](Independent-Launch-Preparation-20261113.md): verified Printful/account/payment status, Founder-confirmed Shopify/permit status, permit application fields, resale sequence, garment-specific trademark use, email authentication and physical sample worksheet.
+- [November 13 registration action packet](Registration-Action-Packet-20261113.md): approved official-record inquiries (sent November 13), current fees, proposed DBA/trademark fields, domain/email/security choices and ongoing obligations.
 
 | Reconciled item | Current position |
 |---|---|
 | Taukay LLC | Official Comptroller view shows active status and Texas formation August 31, 2026; no new entity needed |
-| Printful | Founder confirms existing account and two sample orders; do not create another account or repeat orders |
+| Printful | Live verified: Free plan; both samples Delivered; no connected stores/resale certificates; personal legal-info classification needs private business correction. No duplicate account/order |
 | EIN | Founder confirms SS-4 faxed October 25; issuance unknown; retain existing Main mail follow-up, no duplicate request |
-| Shopify / assumed name / sales-tax permit | Unverified; exact legal-name public permit search returned no entries, which is not proof of no permit/application |
+| Shopify / sales-tax permit | Founder confirms neither Shopify account nor permit application exists; first permit packet prepared |
+| Texas assumed name | Awaiting approved SOS inquiry response; no existing filing established |
 | Domain / handles | Namecheap offered stillafind.com; Porkbun exact search blocked by human verification; no acquisition. Missing public social pages do not establish claimability |
 | Brand / artwork / WTD | Approved line retained; no brand/logo on artwork; preserve WTD assets until explicit migration approval |
 
-Next decision ready for Kyle: permission to send the two factual Texas record inquiries, with $0 authorized expenditure and no filing. Purchase/filing decisions follow the name evidence and private owner/use facts. No new spend, external messages, legal submissions, account changes, launch or merge occurred.
+The two factual Texas record inquiries were explicitly approved, sent and verified in Gmail Sent on November 13 (02:23 UTC); await agency replies. Sent status is not delivery or a completed search. Independent preparation proceeded meanwhile. Next Founder inputs: intended first taxable sale date, private application/owner facts and sample observations. No new spend, legal submissions, account changes, launch or merge occurred. Finance evidence updated in existing PR #154 without duplicating either expense.
 
 The October 22 independent review applies to its reviewed commit only (`30786310342a8defb64556f2f63abef626e594fc`). It does not independently approve these November additions. Documentation verification is separate from storefront or production QA.
 
