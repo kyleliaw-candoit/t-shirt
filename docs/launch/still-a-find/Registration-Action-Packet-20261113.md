@@ -134,10 +134,38 @@ Keep all approved shirt artwork free of brand/logo. Possible genuine source iden
 
 - **EIN:** maintain October 25 pending request. Existing Main mail follow-up owns issuance verification. Store the IRS letter privately if received, log only non-sensitive status/date, then update authorized bank/store/provider records where needed.
 - **Texas sales tax:** Founder confirms no application yet; first-application fields and private handoff are prepared in the follow-up. The [Comptroller permit FAQ](https://comptroller.texas.gov/taxes/sales/faq/permit.php) says no permit fee, though a security bond may be required, and application is possible without an EIN. Pending EIN is therefore not a blanket research/preparation blocker. Confirm truthful outlet/DBA facts and assigned reporting frequency; file required returns, including zero-sales returns where applicable. Do not infer active permit from active LLC status.
-- **Entity maintenance:** continue registered-agent/address and tax compliance for Taukay LLC; a brand does not create a new company. Newly taxable entities ordinarily first report the following year, with May 15 as the annual franchise-report rule. First-cycle 2027 due date and account requirements should be checked in the official account/calendar before scheduling. For 2026–27 the no-tax-due threshold is $2.65m, but applicable information reporting remains. No tax-due amount or exemption claimed from the business's stage alone. [Report guidance](https://comptroller.texas.gov/taxes/franchise/faq/reports-payments.php), [2026 forms/information requirements](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php)
+- **Entity maintenance:** first ordinary annual reporting cycle is 2027, based on the recorded August 31, 2026 formation. Expected ordinary deadline **May 17, 2027**, derived from the official May 15/weekend rule; account notices and any applicable relief still need verification. The LLC's Public Information Report remains required even when annualized revenue qualifies for no tax due. See the execution checklist below.
 - **BOI:** FinCEN's current page says U.S.-formed companies are exempt under its final rule effective August 14, 2026. No new BOI filing is proposed for this Texas LLC solely because of the brand. [FinCEN](https://www.fincen.gov/boi)
 - **Bookkeeping:** quotes above are not expenses. Actual charges require receipts and the existing finance-ledger workflow. Sample-order expenses belong to their existing records; do not duplicate them. New expense from this work: $0.
 - **Completion record:** after execution, record service/asset, legal owner, actual charge/currency, accepted filing or registration date, non-sensitive identifier, renewal/deadline, recovery owner and next obligation. Receipts/identity/tax/payment documents remain private. No scheduled task was created.
+
+## Entity compliance checklist — verified November 13, 2026
+
+This work does not depend on the Still a Find name decision or SOS name-search replies. Scope: Texas entity maintenance and related registration dependencies; not a complete federal income/payroll-tax assessment. Rules are checked below; Taukay's private Webfile account, notices, accounting year and final revenue remain unverified.
+
+| Obligation | Timing / applicability | Next action and owner |
+|---|---|---|
+| First Texas annual reporting cycle | **2027** for an entity first subject to tax in 2026. **Expected ordinary deadline: Monday, May 17, 2027** because May 15 is Saturday | Main prepares; Kyle verifies the existing Comptroller account, notices and any applicable relief before filing. Date is a calendar inference from official rules, not a read-back of Taukay's account |
+| Public Information Report (PIR), Form 05-102 | LLCs use PIR, not OIR. Required even if qualifying for no franchise tax due | Kyle confirms actual governance, addresses and registered-agent facts privately and reviews/signs. Main records acceptance only after actual submission |
+| Franchise tax calculation/report | 2027 no-tax-due threshold: **$2,650,000 annualized total revenue**. Qualifying entities do not file the discontinued No Tax Due Report; PIR remains | Main/Finance prepares calculation from complete records after year-end; do not assume zero tax from being pre-launch |
+| Sales-tax returns | Frequency and first covered period depend on the eventual permit/account notice | Kyle completes permit process; Main then records assigned periods. Monthly: following month's 20th; quarterly: Jan/Apr/Jul/Oct 20; annual if assigned: Jan 20. Weekend/holiday adjustment applies. Do not choose frequency based on expected volume |
+| Registered agent / office | Continuous Texas requirement | Kyle confirms existing arrangement, address and any provider renewal from private records; no new agent service or address filing authorized |
+| Federal BOI | FinCEN's current rule exempts U.S.-formed companies | No BOI filing proposed for this Texas LLC; this exemption does not remove Texas PIR |
+| EIN | Existing October 25 fax remains pending confirmation | Existing Main mail follow-up owns verification; no duplicate application |
+
+First-period preparation: if Taukay's federal accounting year ends December 31 and tax liability began at formation, the proposed first accounting period is **August 31–December 31, 2026 (123 days)**. Confirm those facts before using it. Short-period revenue must be annualized to evaluate the threshold; use actual entity-wide revenue, not only Still a Find sales. Source caution: the Comptroller FAQ's worked example still quotes the prior $2.47m threshold; use the explicit **2026/2027 rate table** for this report year.
+
+### Private handoff before filing
+
+- Locate Taukay's existing Comptroller correspondence and secure Webfile access; keep taxpayer/access numbers out of GitHub. Check any requested questionnaire and account-specific outstanding items rather than creating a duplicate entity account.
+- Confirm accounting year, actual start date for franchise-tax purposes, complete revenue records and whether combined-group treatment applies. Reconcile the existing ledger with bank/card records; quotes are not expenses.
+- Verify PIR owner/manager and address facts against actual governance and records; do not infer a manager title simply from sole ownership. Kyle personally reviews required certifications.
+- After submission, retain the receipt privately and record report year, accepted date, non-sensitive confirmation reference and next deadline in #146. Nothing in this checklist is filed or signed.
+- After sales-tax registration, capture the first required period even if no sales have occurred; follow the account's filing obligations. Permit preparation remains in the [independent packet](Independent-Launch-Preparation-20261113.md).
+
+**Source record (all checked November 13):** [first annual report, annualization and PIR entity rules](https://comptroller.texas.gov/taxes/franchise/faq/reports-payments.php); [annual period instructions](https://comptroller.texas.gov/help/franchise/information-report.php); [May 15/weekend rule and 2026–27 threshold](https://comptroller.texas.gov/taxes/franchise/); [current no-tax-due reporting requirements](https://comptroller.texas.gov/taxes/franchise/filing-requirements.php); [sales-tax frequency and due dates](https://comptroller.texas.gov/taxes/sales/); [SOS registered-agent FAQ](https://www.sos.state.tx.us/corp/registeredagentfaqs.shtml) (official indexed text); [FinCEN exemption](https://www.fincen.gov/boi).
+
+Research/checklist complete; private account verification and future filings remain pending. No new fee, filing, signed declaration, calendar event or reminder was created.
 
 ## Immediate Founder input
 
