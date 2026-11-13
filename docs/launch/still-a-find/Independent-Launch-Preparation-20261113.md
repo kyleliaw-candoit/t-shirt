@@ -105,6 +105,8 @@ Capture front/full-shirt and print-detail photos before washing; note fit, measu
 
 ## Completion and next inputs
 
-Completed: read-only account/payment/order audit, second confirmation recovery, first permit application packet, resale sequence, practical source-use options, email authentication plan and sample review worksheet. No new expense, legal submission, account change, trial, public launch, merge or automation.
+Completed: read-only account/payment/order audit, second confirmation recovery, first permit application packet, resale sequence, practical source-use options, email authentication plan and sample review worksheet. No new expense, legal submission, account change, trial, public launch or automation occurred during this preparation. Kyle subsequently authorized the documentation merge; see the README decision record.
 
 Next value-adding Founder input: intended first taxable sale timing, private owner/location facts in the official application, and physical sample observations. EIN issuance stays with the existing Main follow-up. State record replies and common-law priority gaps still govern the name decision. Main owns consolidation; no Dot task has been launched.
+
+Founder availability update, November 13: Kyle plans to return later today for the guided Texas sales-tax application in his own browser. **Waiting for Kyle; application not started or submitted.** This is not a scheduled appointment or reminder. Current status remains in Issue #146.

@@ -22,9 +22,15 @@ Read these current documents first:
 | Domain / handles | Namecheap offered stillafind.com; Porkbun exact search blocked by human verification; no acquisition. Missing public social pages do not establish claimability |
 | Brand / artwork / WTD | Approved line retained; no brand/logo on artwork; preserve WTD assets until explicit migration approval |
 
-The two factual Texas record inquiries were explicitly approved, sent and verified in Gmail Sent on November 13 (02:23 UTC); await agency replies. Sent status is not delivery or a completed search. Independent preparation proceeded meanwhile. Next Founder inputs: intended first taxable sale date, private application/owner facts and sample observations. No new spend, legal submissions, account changes, launch or merge occurred. Finance evidence updated in existing PR #154 without duplicating either expense.
+The two factual Texas record inquiries were explicitly approved, sent and verified in Gmail Sent on November 13 (02:23 UTC); await agency replies. Sent status is not delivery or a completed search. Independent preparation proceeded meanwhile. Next Founder inputs: intended first taxable sale date, private application/owner facts and sample observations. No new spend, legal submissions, account changes or launch occurred during preparation. Finance evidence updated in existing PR #154 without duplicating either expense.
 
 The October 22 independent review applies to its reviewed commit only (`30786310342a8defb64556f2f63abef626e594fc`). It does not independently approve these November additions. Documentation verification is separate from storefront or production QA.
+
+## Founder documentation decision — November 13, 2026
+
+Kyle authorized recording material decisions in the repository and merging PR #148 without another Founder review/approval pause. For this registration workstream, documentation that faithfully records established decisions can proceed through checks and merge under that instruction. It does not approve proposed experiment contracts or new business decisions, purchases, filings, signatures, public account changes or launch. Earlier documentation-only merge holds in the dated records are superseded by this authorization.
+
+The Texas sales-tax permit packet is prepared; Kyle plans to return later on November 13 for guided completion in his own browser. Status: **Waiting for Kyle; no application started or submitted.** Actual/anticipated first taxable sale timing and private application facts remain to confirm. Issue #146 owns the changing execution status; no appointment or reminder was created.
 
 ## Historical October 22 preparation — retained for audit
 

@@ -1,6 +1,6 @@
 # Still a Find: trademark and Texas business-requirement evidence
 
-> **November 13, 2026 status:** This is the dated October 22 record. Read [current name evidence](Name-Evidence-20261113.md) and the [registration action packet](Registration-Action-Packet-20261113.md) for current facts, prices and access observations. Printful exists and two sample orders were placed; SS-4 was faxed October 25, with issuance unconfirmed. Shopify/DBA/permit status remains unverified. Main now coordinates #146. Historical restrictions and account-creation/EIN instructions below are not current execution instructions. The separate #110 experiment is not a prerequisite to registration research.
+> **November 13, 2026 status:** This is the dated October 22 record. Read [current name evidence](Name-Evidence-20261113.md) and the [registration action packet](Registration-Action-Packet-20261113.md) for current facts, prices and access observations. Printful exists and two sample orders were placed; SS-4 was faxed October 25, with issuance unconfirmed. Founder now confirms no Shopify account and no sales-tax permit application; DBA records remain pending. See the [independent follow-up](Independent-Launch-Preparation-20261113.md). Main now coordinates #146. Historical restrictions and account-creation/EIN instructions below are not current execution instructions. The separate #110 experiment is not a prerequisite to registration research.
 
 Research date: October 22, 2026 (UTC). Status: reviewable research and action packages, not filed or approved.
 
