@@ -2,8 +2,8 @@
 title: Finance Ledger
 owner: Finance Analyst
 status: Active
-version: 0.3
-last_updated: 2026-09-03
+version: 0.6
+last_updated: 2026-11-13
 ---
 
 # Finance Ledger
@@ -24,20 +24,24 @@ Amounts should be recorded in the transaction currency. Do not infer taxes, fees
 |---|---|---:|---:|---|---|---|---|---|---|---|---|
 | FIN-0001 | 2026-08-14 | Expense | 10.46 | USD | Cloudflare Registrar | Domain | Worth the Detour | — | One-year registration of `worth-the-detour.com` | Yes — annual auto-renew currently enabled | Founder-provided Cloudflare purchase and domain-status screenshots; current renewal shown as $10.46/year |
 | FIN-0002 | 2026-08-31 | Expense | 300.00 | USD | Texas Secretary of State | Legal / Formation | Company-wide | — | Certificate of Formation for Taukay LLC | No | Founder-provided Texas Secretary of State receipt; $300.00 card payment accepted. Receipt notes that a separate 2.7% convenience fee may appear on the card statement; no such fee is recorded without confirmation. |
-| FIN-0003 | 2026-08-26 | Expense | 106.40 | USD | OpenAI | Software | Company-wide | — | ChatGPT Pro 5x subscription upgrade | Yes — monthly auto-renew | Founder-provided ChatGPT Billing screenshot showing paid transaction on 2026-08-26 for $106.40 and auto-renewal on 2026-09-26 |
+| FIN-0003 | 2026-08-26 | Expense | 106.40 | USD | OpenAI | Software | Company-wide | — | ChatGPT Pro 5x subscription upgrade | Yes — monthly auto-renew | Founder-provided ChatGPT Billing screenshot showing paid transaction on 2026-08-26 for $106.40 and auto-renewal on 2026-09-26 | 
+| FIN-0004 | 2026-10-23 | Expense | 46.01 | USD | Printful | Product samples | R012 — antiques / vintage (Still a Find; formerly Worth the Detour) | — (R012 production sample testing) | First sample order PF182528033: A3, T-E-A and N-D-B; three Comfort Colors 1717 shirts | No | Founder confirmed purchase; order confirmation verifies $46.01 and states Credit Card. November 13 provider audit shows a completed matching card-funded wallet deposit and order debit; count the purchase once. [Evidence and breakdown](evidence/2026-10-23-Printful-PF182528033.md). Date is America/Chicago; vendor displays Oct 24 UTC. Bank/card statement settlement not reconciled. |
+| FIN-0005 | 2026-10-25 | Expense | 16.21 | USD | Printful | Product samples | R012 — antiques / vintage (Still a Find; formerly Worth the Detour) | — (R012 garment comparison) | Second sample order PF182807793: T-E-A on Gildan 64000 Softstyle, Charcoal / M, front DTG, quantity 1 | No | Founder confirmed purchase; supplied checkout screenshot verifies $9.63 fulfillment + $4.95 shipping + $0.40 surcharge + $1.23 tax = $16.21. [Evidence and breakdown](evidence/2026-10-25-Printful-PF182807793.md). Screenshot alone is not a paid receipt; October 25 order confirmation now verifies Printful Wallet and $16.21. November 13 provider audit shows completed matching deposit/order debit. Bank/card statement settlement remains unreconciled. C3B removed and not purchased. |
 
 ---
 
 # Running Summary
 
-As of 2026-08-31:
+Transactions through 2026-10-25; evidence refreshed 2026-11-13 (recorded transactions only; not a complete bank reconciliation):
 
-- **Recorded expenses:** $416.86
+- **Recorded expenses:** $479.08
 - **Recorded revenue:** $0.00
-- **Net recorded cash flow:** -$416.86
+- **Net recorded cash flow:** -$479.08
 - **Known recurring commitments:**
   - $106.40/month for ChatGPT Pro 5x, subject to future plan/pricing changes
   - $10.46/year for `worth-the-detour.com`, subject to future registrar pricing / renewal decisions
+
+Matching Printful wallet funding and order debits are not separate sample expenses. No quotes, later renewals or refunds were added by the November 13 evidence refresh.
 
 ---
 
